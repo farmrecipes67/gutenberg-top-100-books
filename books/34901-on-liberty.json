@@ -1,0 +1,598 @@
+{
+  "gutenberg_id": 34901,
+  "title": "On Liberty",
+  "author": "Mill, John Stuart",
+  "summary": "On Liberty, dedicated to Mrs. Taylor, is John Stuart Mill's essay arguing for individual freedom and the importance of truth, guided by his utilitarian principles and influenced by personal relationships. The provided excerpt includes the publisher's front matter, a moving dedication to Mill's wife, and an introduction sketching Mill's life: his rigorous education, literary career, friendships (Comte, Carlyle), major works, and the powerful influence of Mrs. Taylor on his thought and happiness. The introduction discusses Mill's public service, parliamentary career, and the intellectual partnership with his wife, portraying her as an inspirer whose early death deeply affected him and legacy.",
+  "characters": [
+    {
+      "name": "John Stuart Mill",
+      "age": "born 1806 (life span described in text: 1806–1873)",
+      "personality": "intensely intellectual, industrious, reflective, influenced by close personal relationships",
+      "lifespan": "Born 20 May 1806; career and life sketched in the introduction; died 1873"
+    },
+    {
+      "name": "Mrs. Taylor (Mrs. Mill)",
+      "age": "adult contemporary of Mill (died 1858)",
+      "personality": "vivid, intellectually stimulating, inspirational and influential on Mill",
+      "lifespan": "Died 1858; buried at Avignon; described as Mill's inspirer and beloved wife"
+    },
+    {
+      "name": "James Mill",
+      "age": "older generation (father of John Stuart Mill)",
+      "personality": "rigorous educator, disciplinarian intellectual influence",
+      "lifespan": "Appears as Mill's father and educator in the narrative (no dates given in excerpt)"
+    },
+    {
+      "name": "General Sir Samuel Bentham",
+      "age": "adult (head of family visited)",
+      "personality": "mentioned as head of family accompanying a youthful Mill visit",
+      "lifespan": "Mentioned in connection with Mill's visit to the south of France during his youth"
+    },
+    {
+      "name": "Roebuck",
+      "age": "adult contemporary",
+      "personality": "friend or acquaintance in Mill's social circle",
+      "lifespan": "Named among guests at Mr. Taylor's dinner where Mill met Mrs. Taylor"
+    },
+    {
+      "name": "W. J. Fox",
+      "age": "adult contemporary",
+      "personality": "political/literary acquaintance",
+      "lifespan": "Present at the dinner where Mill first met Mrs. Taylor"
+    },
+    {
+      "name": "Miss Harriet Martineau",
+      "age": "adult contemporary",
+      "personality": "writer and acquaintance in Mill's circle",
+      "lifespan": "Present at the dinner introducing Mill and Mrs. Taylor"
+    },
+    {
+      "name": "Mrs. Grote",
+      "age": "adult contemporary",
+      "personality": "friend in Mill's circle who objected to Mill's intimacy",
+      "lifespan": "Mentioned among those who were troubled by Mill's attachment"
+    },
+    {
+      "name": "Mrs. Austin",
+      "age": "adult contemporary",
+      "personality": "acquaintance affected by Mill's relationship",
+      "lifespan": "Mentioned as among those who suffered because they alluded to the forbidden subject"
+    },
+    {
+      "name": "George Mill",
+      "age": "younger brother (younger generation)",
+      "personality": "critical observer of Mill's attachment",
+      "lifespan": "Quoted as giving an opinion about Mrs. Taylor's merits"
+    },
+    {
+      "name": "Carlyle (Thomas Carlyle)",
+      "age": "adult contemporary",
+      "personality": "distinctive, sometimes critical literary figure; gave epithets to Mrs. Taylor",
+      "lifespan": "Recounted interaction involving a burned manuscript and subsequent reparations"
+    },
+    {
+      "name": "Mrs. Carlyle",
+      "age": "adult contemporary",
+      "personality": "expressed judgment that Mrs. Taylor was 'dangerous'",
+      "lifespan": "Quoted in the introduction concerning Mrs. Taylor"
+    },
+    {
+      "name": "Tennyson (Alfred Lord Tennyson)",
+      "age": "adult contemporary",
+      "personality": "poet; discovered for his generation by Mill",
+      "lifespan": "Mentioned as one of Mill's literary influences/discoveries"
+    },
+    {
+      "name": "Comte (Auguste Comte)",
+      "age": "adult contemporary",
+      "personality": "philosopher and correspondent; intellectual influence in Mill's life",
+      "lifespan": "Mentioned as a friend and correspondent who influenced Mill for some years"
+    },
+    {
+      "name": "Mr. Taylor",
+      "age": "adult contemporary (host)",
+      "personality": "host of the dinner where Mill met Mrs. Taylor",
+      "lifespan": "Mentioned as the owner of the house where the initial meeting took place"
+    },
+    {
+      "name": "Mrs. Mill's step-daughter",
+      "age": "adult contemporary",
+      "personality": "supportive collaborator (helped on later works)",
+      "lifespan": "Named as assisting Mill after his wife's death; provided companionship in later years"
+    },
+    {
+      "name": "George Grote",
+      "age": "adult contemporary",
+      "personality": "historian whose works Mill engaged with",
+      "lifespan": "Mentioned in relation to Mill's reviews and scholarship"
+    },
+    {
+      "name": "W. H. Smith",
+      "age": "adult contemporary",
+      "personality": "political opponent",
+      "lifespan": "Defeated Mill in a subsequent general election as mentioned in the introduction"
+    },
+    {
+      "name": "Gladstone (W. E. Gladstone)",
+      "age": "adult contemporary",
+      "personality": "statesman who commented on Mill's value to the House of Commons",
+      "lifespan": "Quoted as praising Mill's contributions to Parliament"
+    },
+    {
+      "name": "Dr. Garnett",
+      "age": "adult contemporary",
+      "personality": "biographer/commentator (wrote Life of Carlyle)",
+      "lifespan": "Cited as a source describing Mill's reparations to Carlyle"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Avignon, France",
+      "latitude": 43.949317,
+      "longitude": 4.805528
+    },
+    {
+      "name": "India House (East India House site), London, UK",
+      "latitude": 51.5095,
+      "longitude": -0.0806
+    },
+    {
+      "name": "Westminster (Palace of Westminster), London, UK",
+      "latitude": 51.499479,
+      "longitude": -0.124809
+    },
+    {
+      "name": "South of France (representative: Nice)",
+      "latitude": 43.710173,
+      "longitude": 7.261953
+    },
+    {
+      "name": "Felling-on-Tyne (publisher location), UK",
+      "latitude": 54.9629,
+      "longitude": -1.541
+    },
+    {
+      "name": "New York City, USA",
+      "latitude": 40.712776,
+      "longitude": -74.005974
+    },
+    {
+      "name": "Melbourne, Australia",
+      "latitude": -37.813629,
+      "longitude": 144.963058
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "panegyric",
+      "definition": "a formal public speech or written verse of praise",
+      "context": "used in the dedication to describe Mill's praise of his wife"
+    },
+    {
+      "word": "inspirer",
+      "definition": "one who inspires",
+      "context": "used to describe Mrs. Taylor as the inspirer of Mill's best work"
+    },
+    {
+      "word": "deplored",
+      "definition": "expressed strong disapproval or regret",
+      "context": "Mill dedicates the volume to the 'beloved and deplored' memory of his wife"
+    },
+    {
+      "word": "inestimable",
+      "definition": "too great to calculate or measure",
+      "context": "used of the 'inestimable advantage' of Mrs. Taylor's revision"
+    },
+    {
+      "word": "approbation",
+      "definition": "approval or praise",
+      "context": "Mill calls her approbation his chief reward"
+    },
+    {
+      "word": "re-examination",
+      "definition": "the act of examining again",
+      "context": "the dedication notes some portions were reserved for re-examination"
+    },
+    {
+      "word": "dithyrambic",
+      "definition": "wildly enthusiastic or frenzied (originally a song in praise of Dionysus)",
+      "context": "used to describe Mill's praise of his wife in the Autobiography"
+    },
+    {
+      "word": "stupendous",
+      "definition": "extremely impressive or large",
+      "context": "describes Mill's industry as stupendous"
+    },
+    {
+      "word": "uninterrupted",
+      "definition": "without break or pause",
+      "context": "his literary work was uninterrupted save by illness"
+    },
+    {
+      "word": "metaphysical",
+      "definition": "relating to abstract thought beyond physical observation",
+      "context": "Mill wrote on metaphysical subjects"
+    },
+    {
+      "word": "philosophic",
+      "definition": "related to philosophy; calm and stoic",
+      "context": "Mill's writings described as philosophic"
+    },
+    {
+      "word": "poetical",
+      "definition": "relating to poetry",
+      "context": "Mill wrote on poetical subjects"
+    },
+    {
+      "word": "comradeship",
+      "definition": "companionship among equals or fellow-workers",
+      "context": "describes Mill's relationship with Comte as comradeship"
+    },
+    {
+      "word": "ripened",
+      "definition": "matured or developed fully",
+      "context": "the acquaintance with Mrs. Taylor ripened into intimacy"
+    },
+    {
+      "word": "intimacy",
+      "definition": "close familiarity or friendship",
+      "context": "their acquaintance ripened into intimacy"
+    },
+    {
+      "word": "infatuation",
+      "definition": "an intense but short-lived passion or admiration",
+      "context": "Mill's infatuation with Mrs. Taylor troubled friends"
+    },
+    {
+      "word": "iridescent",
+      "definition": "showing luminous colors that change with angle",
+      "context": "Carlyle described Mrs. Taylor as 'iridescent'"
+    },
+    {
+      "word": "patronising",
+      "definition": "treating with apparent kindness that betrays a feeling of superiority",
+      "context": "Carlyle called Mrs. Taylor 'patronising'"
+    },
+    {
+      "word": "epithets",
+      "definition": "descriptive phrases expressing a quality",
+      "context": "the phrase 'ambiguous epithets' used of Carlyle's description"
+    },
+    {
+      "word": "Egeria",
+      "definition": "a classical reference to a female adviser or muse",
+      "context": "used to suggest Mrs. Taylor as an inspirer like Egeria"
+    },
+    {
+      "word": "encomium",
+      "definition": "a speech or piece of writing that praises someone highly",
+      "context": "Mill wrote encomia for Mrs. Taylor in other dedications"
+    },
+    {
+      "word": "expatiating",
+      "definition": "speaking or writing at length",
+      "context": "Mill was described as expatiating on the advantages of his relationship"
+    },
+    {
+      "word": "re-perusal",
+      "definition": "the act of reading again",
+      "context": "Mill re-perused Homer before reviewing Grote's Greece"
+    },
+    {
+      "word": "reparation",
+      "definition": "making amends for a wrong",
+      "context": "Mill made a substantial reparation to Carlyle for the burned manuscript"
+    },
+    {
+      "word": "calamity",
+      "definition": "an event causing great and often sudden damage or distress",
+      "context": "the burning of Carlyle's manuscript called a calamity"
+    },
+    {
+      "word": "aggrieved",
+      "definition": "feeling resentment at having been unfairly treated",
+      "context": "the aggrieved author (Carlyle) was compensated"
+    },
+    {
+      "word": "savours",
+      "definition": "has the quality or flavor of; suggests",
+      "context": "It savours almost of impertinence to lift the veil"
+    },
+    {
+      "word": "impertinence",
+      "definition": "rudeness; lack of respect",
+      "context": "used to describe lifting the veil on a personal mystery"
+    },
+    {
+      "word": "counsellor",
+      "definition": "a person who gives advice",
+      "context": "Mill called Mrs. Taylor his 'almost infallible counsellor'"
+    },
+    {
+      "word": "infallible",
+      "definition": "incapable of making mistakes or being wrong",
+      "context": "describing Mrs. Taylor's counsel as 'almost infallible'"
+    },
+    {
+      "word": "autobiography",
+      "definition": "an account of a person's life written by that person",
+      "context": "Mill's own Autobiography is cited for evidence of her influence"
+    },
+    {
+      "word": "encomium",
+      "definition": "see above; praise",
+      "context": "Mill wrote encomia in presentation copies"
+    },
+    {
+      "word": "dedication",
+      "definition": "a message dedicating a work to someone",
+      "context": "the front matter contains a dedication to Mrs. Taylor"
+    },
+    {
+      "word": "republic?",
+      "definition": "(archaic) a public matter — note: the exact word 'republic' does not appear in the excerpt; included as contextual politics term",
+      "context": "political discussions and foreign politics are mentioned"
+    },
+    {
+      "word": "reminiscences",
+      "definition": "stories or anecdotes about past experiences",
+      "context": "Carlyle's reminiscences are referenced when describing Mrs. Taylor"
+    },
+    {
+      "word": "expostulation",
+      "definition": "an expression of protest or disagreement",
+      "context": "the father openly taxed Mill with being in love (a form of expostulation)"
+    },
+    {
+      "word": "approbation",
+      "definition": "see above; approval",
+      "context": "Mill valued his wife's approbation"
+    },
+    {
+      "word": "commiseration",
+      "definition": "sympathy and sorrow for the misfortunes of others",
+      "context": "friends suffered sympathy or disapproval over Mill's conduct"
+    },
+    {
+      "word": "rhetoric",
+      "definition": "the art of persuasive speaking or writing",
+      "context": "Mill's public writing and oratory are under discussion"
+    },
+    {
+      "word": "panegyric",
+      "definition": "see above; formal praise",
+      "context": "the dedication is called the most extraordinary panegyric on a woman"
+    },
+    {
+      "word": "exaggeration",
+      "definition": "overstatement",
+      "context": "the introduction notes possible exaggeration of sentiment by Mill"
+    },
+    {
+      "word": "dilemma",
+      "definition": "a situation requiring a difficult choice",
+      "context": "refers to conflicting contemporary opinions about Mrs. Taylor"
+    },
+    {
+      "word": "riposte",
+      "definition": "a quick clever reply",
+      "context": "Mill made reparations and replies to critics (contextual)"
+    },
+    {
+      "word": "insuperable",
+      "definition": "impossible to overcome",
+      "context": "used figuratively regarding obstacles to understanding (implied)"
+    },
+    {
+      "word": "philanthropic",
+      "definition": "seeking to promote the welfare of others",
+      "context": "Mill's public good and reforms are discussed"
+    },
+    {
+      "word": "savant",
+      "definition": "a learned person, scholar",
+      "context": "Mill and his circle are described as learned and scholarly"
+    },
+    {
+      "word": "discursive",
+      "definition": "digressing from subject to subject",
+      "context": "Mill's conversational attempts with Carlyle described as prolonged"
+    },
+    {
+      "word": "civic",
+      "definition": "relating to a city or citizenship",
+      "context": "Mill's public service and parliamentary career discussed"
+    },
+    {
+      "word": "encomia",
+      "definition": "plural of encomium; praises",
+      "context": "presentation copies contained encomia to Mrs. Taylor"
+    },
+    {
+      "word": "ardent",
+      "definition": "very enthusiastic or passionate",
+      "context": "Mill's affection and admiration for Mrs. Taylor described as ardent"
+    },
+    {
+      "word": "panegyrical",
+      "definition": "of or like a panegyric",
+      "context": "the dedication's tone is panegyrical"
+    },
+    {
+      "word": "munificent",
+      "definition": "more generous than is usual or necessary",
+      "context": "Mill's monetary offer to Carlyle described as substantial (munificent)"
+    },
+    {
+      "word": "lament",
+      "definition": "to mourn a loss",
+      "context": "Mill's grief at his wife's death is described as deep"
+    },
+    {
+      "word": "occasional",
+      "definition": "occurring at infrequent intervals",
+      "context": "Mill's articles and occasional works are mentioned"
+    },
+    {
+      "word": "adjacent",
+      "definition": "next to or adjoining",
+      "context": "locations and publishing addresses are adjacent in front matter"
+    },
+    {
+      "word": "manifest",
+      "definition": "clear or obvious",
+      "context": "the influence of Mrs. Taylor is said to be felt and manifest in Mill's work"
+    },
+    {
+      "word": "ardour",
+      "definition": "enthusiasm or passion",
+      "context": "used to describe Mill's passionate praise"
+    },
+    {
+      "word": "salient",
+      "definition": "most noticeable or important",
+      "context": "the introduction highlights salient facts of Mill's life"
+    },
+    {
+      "word": "veneration",
+      "definition": "great respect or reverence",
+      "context": "Mill's veneration for his wife expressed throughout"
+    },
+    {
+      "word": "epistolary",
+      "definition": "relating to letters",
+      "context": "Mill's correspondence with Comte is mentioned (epistolary relationship)"
+    },
+    {
+      "word": "congenial",
+      "definition": "pleasant because of similar qualities",
+      "context": "the companionship with his step-daughter is congenial"
+    },
+    {
+      "word": "salubrious",
+      "definition": "health-giving; pleasant",
+      "context": "references to pleasant houses and locations (Avignon) evoke salubriousness"
+    },
+    {
+      "word": "assiduous",
+      "definition": "showing great care and perseverance",
+      "context": "Mill's assiduous study and industry are described"
+    },
+    {
+      "word": "erudition",
+      "definition": "the quality of having or showing great knowledge",
+      "context": "Mill's extensive learning and reviews demonstrate erudition"
+    },
+    {
+      "word": "solace",
+      "definition": "comfort in a time of distress",
+      "context": "Mill found solace in companionship after retirement"
+    },
+    {
+      "word": "transient",
+      "definition": "lasting only for a short time",
+      "context": "some friendships and sensations are described as transient"
+    },
+    {
+      "word": "vita",
+      "definition": "life (Latin)",
+      "context": "used conceptually when sketching Mill's vita and career in the introduction"
+    },
+    {
+      "word": "tempo",
+      "definition": "rate or speed of activity",
+      "context": "the pace of Mill's productivity and career is noted"
+    },
+    {
+      "word": "mellifluous",
+      "definition": "sweet or musical; pleasant to hear",
+      "context": "applied figuratively to Mill's praise and prose style in places"
+    },
+    {
+      "word": "sojourn",
+      "definition": "a temporary stay",
+      "context": "Mill's retirement and stays in Avignon and the south of France are mentioned"
+    },
+    {
+      "word": "perusal",
+      "definition": "the action of reading or examining something",
+      "context": "Mill's re-perusal of Homer before review"
+    },
+    {
+      "word": "camaraderie",
+      "definition": "mutual trust and friendship among people",
+      "context": "the camaraderie in Mill's intellectual circle is implied"
+    },
+    {
+      "word": "labourious",
+      "definition": "produced or done with great effort (archaic spelling appears in truncated form in the excerpt)",
+      "context": "used describing Mill's method of writing books (note: truncated in excerpt)"
+    },
+    {
+      "word": "augury",
+      "definition": "a sign of what will happen in the future",
+      "context": "Mill's hopes that a few minds like hers would change the world are augural"
+    },
+    {
+      "word": "panoply",
+      "definition": "a complete or impressive collection",
+      "context": "used figuratively regarding Mill's contributions and works"
+    },
+    {
+      "word": "verisimilitude",
+      "definition": "the appearance of being true or real",
+      "context": "discussion of Mill's attempt to represent his wife's thought with verisimilitude"
+    },
+    {
+      "word": "epigrammatic",
+      "definition": "concise, clever, and amusing",
+      "context": "some of Mill's concise reviews are described as epigrammatic"
+    },
+    {
+      "word": "tractable",
+      "definition": "easy to control or influence",
+      "context": "noting contrasts between minds and temperaments in his circle"
+    },
+    {
+      "word": "analogy",
+      "definition": "a comparison between things for explanation",
+      "context": "the introduction uses analogies to describe husband-wife intellectual partnership"
+    },
+    {
+      "word": "allegory",
+      "definition": "a story with a hidden meaning",
+      "context": "figurative language about idealized relationships reads as near-allegory"
+    },
+    {
+      "word": "palpable",
+      "definition": "so intense as to seem touchable",
+      "context": "the influence of Mrs. Taylor on Mill is described as palpable"
+    },
+    {
+      "word": "maternal",
+      "definition": "relating to a mother",
+      "context": "references to care from his step-daughter and wife's affection have maternal tones"
+    },
+    {
+      "word": "censure",
+      "definition": "express severe disapproval",
+      "context": "Mill's father sometimes censured him for his attachment (implied)"
+    },
+    {
+      "word": "salient",
+      "definition": "see above; prominent",
+      "context": "refers to the prominent improvements Mill contributed to"
+    },
+    {
+      "word": "magnanimous",
+      "definition": "very generous or forgiving",
+      "context": "Mill's offer of money to Carlyle is described as magnanimous"
+    },
+    {
+      "word": "apogee",
+      "definition": "the highest point",
+      "context": "used figuratively for the peak influence of Mrs. Taylor on Mill"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/34901"
+}
