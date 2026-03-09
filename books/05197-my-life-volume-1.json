@@ -1,0 +1,643 @@
+{
+  "gutenberg_id": 5197,
+  "title": "My Life — Volume 1",
+  "author": "Wagner, Richard",
+  "summary": "Richard Wagner recounts his early life from his 1813 birth in Leipzig through childhood in Dresden. His father, Friedrich, a police clerk who admired theatre, died when Richard was an infant. The actor Ludwig Geyer became his stepfather, married his mother, and nurtured Wagner’s exposure to theatre and painting. Wagner describes school at Possendorf with the vicar Wetzel, his fascination with Mozart and Greek independence, childish theatrical roles including a tableau vivant, and the family’s poverty after his father’s death. Episodes include his fragile childhood health, his father’s dying blessing, time in Eisleben with a grandmother, and returning to Dresden.",
+  "characters": [
+    {
+      "name": "Richard Wagner",
+      "age": "born 1813; age covered in excerpt ~0–around childhood/early teens",
+      "personality": "curious, imaginative, attracted to theatre and music",
+      "lifespan": "Narrator of the memoir; born in Leipzig; grows up in Dresden under stepfather’s care"
+    },
+    {
+      "name": "Friedrich Wagner",
+      "age": "adult (father); died 1813",
+      "personality": "lover of poetry and drama, sociable",
+      "lifespan": "Richard’s biological father; police clerk; died in October 1813"
+    },
+    {
+      "name": "Ludwig Geyer",
+      "age": "adult (stepfather/actor/painter)",
+      "personality": "kind, artistic, supportive, theatrical",
+      "lifespan": "Actor and painter who married Wagner’s mother after Friedrich’s death; raised Richard and siblings; later exhausted by exertions"
+    },
+    {
+      "name": "Wagner's mother",
+      "age": "adult",
+      "personality": "practical, devoted, tender toward children",
+      "lifespan": "Widow of Friedrich; married Ludwig Geyer; cared for the family and children"
+    },
+    {
+      "name": "Cecilia",
+      "age": "child (younger half-sister)",
+      "personality": "not elaborated; a family child",
+      "lifespan": "Daughter born after the family moved to Dresden"
+    },
+    {
+      "name": "Julius",
+      "age": "elder brother; adolescent apprentice",
+      "personality": "practical; apprenticed into trade",
+      "lifespan": "Elder brother apprenticed to the uncle in Eisleben"
+    },
+    {
+      "name": "Uncle (Geyer’s brother)",
+      "age": "adult",
+      "personality": "responsible, supportive",
+      "lifespan": "Brother of Geyer who lived in Eisleben and promised material support after Friedrich’s death"
+    },
+    {
+      "name": "Grandmother",
+      "age": "elderly",
+      "personality": "gentle, delighted by small comforts (robins)",
+      "lifespan": "Lived in Eisleben; died shortly after Friedrich’s death"
+    },
+    {
+      "name": "Wetzel",
+      "age": "adult (vicar/schoolmaster)",
+      "personality": "instructive, encouraging, kindly",
+      "lifespan": "Vicar at Possendorf who gave Richard early schooling and read stories like Robinson Crusoe"
+    },
+    {
+      "name": "C. M. von Weber",
+      "age": "adult (conductor/composer)",
+      "personality": "musical professional (mentioned)",
+      "lifespan": "Composer/conductor referenced for music to a welcome piece for the King"
+    },
+    {
+      "name": "Madame Hartwig",
+      "age": "adult (actress)",
+      "personality": "famous actress; object of Friedrich’s gallant interest",
+      "lifespan": "Actress referred to in family anecdotes"
+    },
+    {
+      "name": "Kotzebue",
+      "age": "adult (playwright referenced)",
+      "personality": "dramatist (referenced)",
+      "lifespan": "Author of plays in which young Richard took parts (e.g., Menschenhass und Reue)"
+    },
+    {
+      "name": "Messenger",
+      "age": "adult (minor figure)",
+      "personality": "practical; performs duties",
+      "lifespan": "Brought word to the vicar to return Richard to the family when his father was dying"
+    },
+    {
+      "name": "Servant in Eisleben",
+      "age": "adult (minor figure)",
+      "personality": "discreet, attentive",
+      "lifespan": "Servant who removed and kept the mourning crape until grandmother’s death"
+    },
+    {
+      "name": "King Frederick Augustus",
+      "age": "adult (monarch)",
+      "personality": "royal patron (mentioned)",
+      "lifespan": "King of Saxony referenced in connection with a welcome piece"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Leipzig",
+      "latitude": 51.3396958,
+      "longitude": 12.3730747
+    },
+    {
+      "name": "Dresden",
+      "latitude": 51.0504088,
+      "longitude": 13.7372621
+    },
+    {
+      "name": "Possendorf (near Dresden)",
+      "latitude": 50.999,
+      "longitude": 13.723
+    },
+    {
+      "name": "Bad Lauchstädt (Lauchstadt)",
+      "latitude": 51.3605,
+      "longitude": 11.8706
+    },
+    {
+      "name": "Ranstädter Gate (Ranstädt Gate), Leipzig",
+      "latitude": 51.343,
+      "longitude": 12.361
+    },
+    {
+      "name": "Eisleben",
+      "latitude": 51.525,
+      "longitude": 11.549
+    },
+    {
+      "name": "St. Thomas's Church, Leipzig",
+      "latitude": 51.339,
+      "longitude": 12.381
+    },
+    {
+      "name": "Court Theatre (Dresden Court Theatre / historic Semperoper site)",
+      "latitude": 51.0536,
+      "longitude": 13.7383
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "dictation",
+      "definition": "spoken words recorded by another",
+      "context": "Wagner says the volumes were written down from his dictation"
+    },
+    {
+      "word": "unadorned",
+      "definition": "plain, without embellishment",
+      "context": "Describes the autobiography’s truthful, unadorned veracity"
+    },
+    {
+      "word": "veracity",
+      "definition": "truthfulness, accuracy",
+      "context": "Author emphasizes the work’s unadorned veracity"
+    },
+    {
+      "word": "manuscript",
+      "definition": "handwritten document",
+      "context": "They wished to safeguard against destruction of the one manuscript"
+    },
+    {
+      "word": "crape",
+      "definition": "Black mourning fabric worn as a sign of mourning",
+      "context": "The servant removed the crape from the narrator’s coat in Eisleben"
+    },
+    {
+      "word": "hydrothorax",
+      "definition": "accumulation of fluid in the chest cavity",
+      "context": "Father’s illness described as acute hydrothorax"
+    },
+    {
+      "word": "tableau",
+      "definition": "a staged scene or living picture",
+      "context": "Wagner appeared in a tableau vivant as an angel"
+    },
+    {
+      "word": "vivant",
+      "definition": "living (French); used in 'tableau vivant'",
+      "context": "Paired with tableau to describe the staged living picture"
+    },
+    {
+      "word": "Alexandrines",
+      "definition": "a poetic meter line of 12 syllables (classical French)",
+      "context": "A comedy was written in rhymed Alexandrines"
+    },
+    {
+      "word": "Misanthropy",
+      "definition": "hatred of humankind (title translation)",
+      "context": "Kotzebue’s play translated as 'Misanthropy and Remorse'"
+    },
+    {
+      "word": "galeerensklaven",
+      "definition": "German for 'galley-slaves' (title fragment)",
+      "context": "Wagner recalls seeing tragedies like 'Die beiden Galeerensklaven'"
+    },
+    {
+      "word": "stagebox",
+      "definition": "a box seat with access to the stage",
+      "context": "As a child he watched from the mysterious stagebox"
+    },
+    {
+      "word": "wardrobe",
+      "definition": "theatrical costume storage",
+      "context": "Visits to the wardrobe with costumes, wigs, and disguises"
+    },
+    {
+      "word": "wigs",
+      "definition": "artificial hairpieces used in theatre",
+      "context": "Mentioned among the theatrical wardrobe items"
+    },
+    {
+      "word": "disguises",
+      "definition": "costumes or coverings to conceal identity",
+      "context": "Wardrobe contained wigs and other disguises"
+    },
+    {
+      "word": "tights",
+      "definition": "close-fitting garment for the legs",
+      "context": "He was sewn up in tights with wings for the tableau"
+    },
+    {
+      "word": "conductor",
+      "definition": "leader of an orchestra or musical performance",
+      "context": "Piece had music by the conductor C. M. von Weber"
+    },
+    {
+      "word": "Possendorf",
+      "definition": "a village near Dresden (place name)",
+      "context": "Wagner was sent to a clergyman in the country at Possendorf"
+    },
+    {
+      "word": "vicar",
+      "definition": "a parish priest or clergyman",
+      "context": "The clergyman at Possendorf is described as the vicar"
+    },
+    {
+      "word": "Wetzel",
+      "definition": "proper name of the vicar/schoolmaster",
+      "context": "Schoolmaster and vicar who taught Wagner at Possendorf"
+    },
+    {
+      "word": "Robinson",
+      "definition": "reference to Robinson Crusoe",
+      "context": "The vicar told the story of Robinson Crusoe to the boys"
+    },
+    {
+      "word": "Crusoe",
+      "definition": "the castaway protagonist of Defoe’s novel",
+      "context": "Robinson Crusoe was read and discussed by the vicar"
+    },
+    {
+      "word": "Mozart",
+      "definition": "Wolfgang Amadeus Mozart, composer",
+      "context": "A biography of Mozart was read aloud to Wagner"
+    },
+    {
+      "word": "Hellas",
+      "definition": "ancient Greek name for Greece",
+      "context": "Wagner’s early love for Greece and ancient Hellas is described"
+    },
+    {
+      "word": "mythology",
+      "definition": "body of myths, especially of a people",
+      "context": "His interest in Greek mythology developed from early reading"
+    },
+    {
+      "word": "messenger",
+      "definition": "one sent to convey news",
+      "context": "A messenger came to fetch the vicar to take Wagner home"
+    },
+    {
+      "word": "christened",
+      "definition": "baptized and given a name",
+      "context": "Wagner was christened Wilhelm Richard two days after birth"
+    },
+    {
+      "word": "baptized",
+      "definition": "ritual of initiation into the church",
+      "context": "He was baptized at St. Thomas’s Church"
+    },
+    {
+      "word": "Ranstädt",
+      "definition": "place-name (Ranstädt Gate at Leipzig)",
+      "context": "Father held a small civil appointment as toll collector at the Ranstädt Gate"
+    },
+    {
+      "word": "toll",
+      "definition": "fee collected at a gate or bridge",
+      "context": "His grandfather had been a toll collector"
+    },
+    {
+      "word": "clerk",
+      "definition": "a low-level office worker",
+      "context": "Friedrich Wagner was a clerk in the police service"
+    },
+    {
+      "word": "constable",
+      "definition": "a police officer of some authority",
+      "context": "Friedrich hoped to get the post of Chief Constable"
+    },
+    {
+      "word": "funeral",
+      "definition": "ceremony for the dead",
+      "context": "Reference to attending his father’s funeral and later a parsonage visit"
+    },
+    {
+      "word": "parsonage",
+      "definition": "the house provided for a parish priest",
+      "context": "Wagner later visited the parsonage where Wetzel had lived"
+    },
+    {
+      "word": "robins",
+      "definition": "small red-breasted birds",
+      "context": "Grandmother liked watching robins flutter about her window"
+    },
+    {
+      "word": "boughs",
+      "definition": "large tree branches",
+      "context": "She kept fresh green boughs for the robins"
+    },
+    {
+      "word": "apprenticed",
+      "definition": "placed as a learner in a trade",
+      "context": "Julius had already been apprenticed to the uncle"
+    },
+    {
+      "word": "portrait",
+      "definition": "a likeness of a person in painting or drawing",
+      "context": "Geyer had aptitude for portrait painting and received commissions"
+    },
+    {
+      "word": "Munich",
+      "definition": "the Bavarian city (place name)",
+      "context": "Geyer was invited to Munich for a temporary engagement"
+    },
+    {
+      "word": "Bavarian",
+      "definition": "relating to Bavaria (region/royal court)",
+      "context": "Pressing commissions from the Bavarian Court are mentioned"
+    },
+    {
+      "word": "comedies",
+      "definition": "light dramatic works or plays",
+      "context": "Geyer wrote several comedies performed publicly"
+    },
+    {
+      "word": "Leipzig",
+      "definition": "city in Germany (place name)",
+      "context": "Wagner was born in Leipzig and later returned there"
+    },
+    {
+      "word": "Dresden",
+      "definition": "city in Germany (place name)",
+      "context": "Family moved to Dresden where Geyer gained a court engagement"
+    },
+    {
+      "word": "Court",
+      "definition": "royal court; here the theater attached to the court",
+      "context": "Geyer had a remunerative engagement at the new Court Theatre in Dresden"
+    },
+    {
+      "word": "King",
+      "definition": "a monarch",
+      "context": "Performance to welcome the King of Saxony is described"
+    },
+    {
+      "word": "Frederick",
+      "definition": "personal name (part of the King’s name)",
+      "context": "The portrait of King Frederick Augustus is mentioned"
+    },
+    {
+      "word": "Augustus",
+      "definition": "personal name (part of the King’s name)",
+      "context": "Portrait copy attempted by the young Wagner"
+    },
+    {
+      "word": "Geyer",
+      "definition": "proper name (Ludwig Geyer)",
+      "context": "Stepfather and actor who played an important role in Wagner’s upbringing"
+    },
+    {
+      "word": "Cecilia",
+      "definition": "proper name (young sister)",
+      "context": "A daughter born to Wagner’s mother after the move to Dresden"
+    },
+    {
+      "word": "Julius",
+      "definition": "proper name (brother)",
+      "context": "Elder brother apprenticed to the uncle in Eisleben"
+    },
+    {
+      "word": "Eisleben",
+      "definition": "town in Germany (place name)",
+      "context": "The uncle lived in Eisleben where the grandmother also lived"
+    },
+    {
+      "word": "grandmother",
+      "definition": "the mother of one’s parent",
+      "context": "Lived in a dark back room and enjoyed robins"
+    },
+    {
+      "word": "nursery",
+      "definition": "a room for young children",
+      "context": "He lay in the great night nursery when his father died"
+    },
+    {
+      "word": "bedside",
+      "definition": "the area by a bed",
+      "context": "He was taken to his father’s bedside during the father’s last hours"
+    },
+    {
+      "word": "exertions",
+      "definition": "strenuous efforts",
+      "context": "Geyer exhausted his strength by his twofold exertions as painter and actor"
+    },
+    {
+      "word": "destitute",
+      "definition": "extremely poor, without means",
+      "context": "Family became destitute after the father’s death"
+    },
+    {
+      "word": "kind-hearted",
+      "definition": "having a sympathetic and kindly disposition",
+      "context": "The clergyman and others described as kind-hearted in the narrative"
+    },
+    {
+      "word": "tenderness",
+      "definition": "gentle, affectionate feeling",
+      "context": "The narrator notes a tenderness in family reception after the funeral"
+    },
+    {
+      "word": "sympathetic",
+      "definition": "understanding or compassionate",
+      "context": "Geyer longed to feel at home in a sympathetic family circle"
+    },
+    {
+      "word": "theatre",
+      "definition": "place for dramatic performances",
+      "context": "Central to family life; father and Geyer were engaged with the theatre"
+    },
+    {
+      "word": "actor",
+      "definition": "performer on stage",
+      "context": "Geyer’s profession as a character actor at the Court Theatre"
+    },
+    {
+      "word": "artist",
+      "definition": "one practicing art, e.g., painting",
+      "context": "Geyer’s talent for painting supported the family"
+    },
+    {
+      "word": "painting",
+      "definition": "the art of applying pigment to create images",
+      "context": "Geyer was skilled in portrait painting"
+    },
+    {
+      "word": "poetry",
+      "definition": "literary form using verses",
+      "context": "Geyer had a turn for poetry and wrote comedies in verse"
+    },
+    {
+      "word": "Bethlehemitische",
+      "definition": "part of the German title of a comedy (Bethlehemitic)",
+      "context": "Title fragment 'Der Bethlehemitische Kindermord' appears among Geyer’s works"
+    },
+    {
+      "word": "Kindermord",
+      "definition": "German for 'child-murder' (title element)",
+      "context": "Part of the comedy title attributed to Geyer"
+    },
+    {
+      "word": "Waise",
+      "definition": "German for 'orphan' (word from a play title)",
+      "context": "Play 'Die Waise und der Mörder' is mentioned among tragedies"
+    },
+    {
+      "word": "Mörder",
+      "definition": "German for 'murderer' (word from a play title)",
+      "context": "Appears in the title of a tragedy Wagner recalls"
+    },
+    {
+      "word": "Menschenhass",
+      "definition": "German for 'misanthropy' (original play title)",
+      "context": "Kotzebue’s play 'Menschenhass und Reue' is referenced"
+    },
+    {
+      "word": "Reue",
+      "definition": "German for 'remorse' (from the play title)",
+      "context": "Paired with Menschenhass in Kotzebue’s play title"
+    },
+    {
+      "word": "Den",
+      "definition": "German definite article 'the' in accusative (word as printed)",
+      "context": "Appears in the child’s phonetic rendering 'Den Menschen ausser der Reihe'"
+    },
+    {
+      "word": "ausser",
+      "definition": "archaic/spelling variant of German 'außer' meaning 'outside' or 'out of'",
+      "context": "Used in the phonetic childlike title 'Den Menschen ausser der Reihe'"
+    },
+    {
+      "word": "Reihe",
+      "definition": "German for 'row' or 'rank'",
+      "context": "Appears in the corrupted play title the child recites"
+    },
+    {
+      "word": "phonetic",
+      "definition": "relating to speech sounds or how words are spoken",
+      "context": "Editor notes a 'simple phonetic corruption' of the title"
+    },
+    {
+      "word": "EDITOR",
+      "definition": "designation of the editorial note author",
+      "context": "The editorial comment explaining the phonetic corruption is signed 'EDITOR'"
+    },
+    {
+      "word": "promenade",
+      "definition": "a walk or public walkway",
+      "context": "Father pointed out Schiller and Goethe to his wife on the promenade"
+    },
+    {
+      "word": "iced",
+      "definition": "covered with a sweet sugar coating (cake)",
+      "context": "Wagner was given a big iced cake supposedly intended by the King"
+    },
+    {
+      "word": "cake",
+      "definition": "a baked sweet food",
+      "context": "The big iced cake given to the boy after his tableau performance"
+    },
+    {
+      "word": "frightened",
+      "definition": "feeling fear",
+      "context": "Wagner says he was too frightened and surprised to cry at his father’s bedside"
+    },
+    {
+      "word": "exhausted",
+      "definition": "extremely tired or depleted",
+      "context": "He walked three hours and arrived very exhausted"
+    },
+    {
+      "word": "sobs",
+      "definition": "crying sounds",
+      "context": "His mother told them with sobs that their father was dead"
+    },
+    {
+      "word": "talent",
+      "definition": "natural aptitude or skill",
+      "context": "Mother asked him to play to test musical talent; father wondered if he had talent"
+    },
+    {
+      "word": "musical",
+      "definition": "relating to music",
+      "context": "Reference to musical ability and playing on the piano"
+    },
+    {
+      "word": "courtyard",
+      "definition": "an open area enclosed by walls or buildings",
+      "context": "Grandmother’s back room looked out upon a narrow courtyard"
+    },
+    {
+      "word": "cat",
+      "definition": "a domestic feline",
+      "context": "Some robins were killed by the cat, prompting the boy to catch others"
+    },
+    {
+      "word": "tidy",
+      "definition": "neat, clean",
+      "context": "Grandmother kept the narrator tidy and clean"
+    },
+    {
+      "word": "catch",
+      "definition": "to capture or seize",
+      "context": "He managed to catch robins in the neighbourhood for his grandmother"
+    },
+    {
+      "word": "journey",
+      "definition": "travel from one place to another",
+      "context": "They did the three hours’ journey on foot to reach home"
+    },
+    {
+      "word": "foot",
+      "definition": "by walking; on foot",
+      "context": "They walked the whole way to Possendorf on foot"
+    },
+    {
+      "word": "night",
+      "definition": "the period of darkness in each day",
+      "context": "He lay in the great night nursery when his mother came to tell them"
+    },
+    {
+      "word": "country",
+      "definition": "rural area outside a town",
+      "context": "He was sent to a clergyman in the country at Possendorf"
+    },
+    {
+      "word": "home",
+      "definition": "the place where one lives",
+      "context": "Frequent references to family moving home to Dresden and returning to Leipzig"
+    },
+    {
+      "word": "blessing",
+      "definition": "a benediction or good wish",
+      "context": "His mother said his father gave each child a message with his blessing"
+    },
+    {
+      "word": "orphans",
+      "definition": "children without parents",
+      "context": "Geyer devoted effort to maintain and educate the orphans of the family"
+    },
+    {
+      "word": "pressing",
+      "definition": "urgent or demanding",
+      "context": "Geyer received pressing commissions from the Bavarian Court"
+    },
+    {
+      "word": "commission",
+      "definition": "a formal request to create a work (e.g., a portrait)",
+      "context": "Important portrait commissions from the Court helped Geyer"
+    },
+    {
+      "word": "temporary",
+      "definition": "lasting for a limited time",
+      "context": "Geyer was invited to Munich to fulfil a temporary engagement"
+    },
+    {
+      "word": "remunerative",
+      "definition": "financially rewarding",
+      "context": "Geyer obtained a remunerative engagement at the Court Theatre"
+    },
+    {
+      "word": "respectable",
+      "definition": "worthy of respect; decent",
+      "context": "His engagement at the theatre is described as respectable and permanent"
+    },
+    {
+      "word": "engagement",
+      "definition": "a job or commission for performance",
+      "context": "Permanent engagement as a character actor at the Court Theatre"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/5197"
+}
