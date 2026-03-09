@@ -1,0 +1,594 @@
+{
+  "gutenberg_id": 2600,
+  "title": "War and Peace",
+  "author": "Tolstoy, Leo, graf",
+  "summary": "July 1805 St. Petersburg: Anna Pávlovna Schérer, a forty-year-old maid of honor to the Dowager Empress Márya Fëdorovna, holds a fashionable reception and decries Napoleon as the Antichrist. She and Prince Vasíli Kurágin exchange polished courtly banter about politics, alliances, and diplomatic dispatches, debating Austria, Prussia, England, and the Emperor Alexander’s lofty vocation. Society intrudes—fêtes, invitations, émigrés, and appointments like the proposed Baron Funke’s secretaryship at Vienna. Guests expected include the Vicomte de Mortemart and the Abbé Morio. The chapter contrasts theatrical social ritual with weighty geopolitical anxieties, revealing characters’ vanities, ambitions, and the era’s tense, uncertain mood and intrigue.",
+  "characters": [
+    {
+      "name": "Anna Pávlovna Schérer",
+      "age": "about 40",
+      "personality": "animated, hospitable, socially enthusiastic and politically zealous",
+      "lifespan": "Fate not resolved in excerpt; appears as an influential society hostess who leads receptions and political conversation"
+    },
+    {
+      "name": "Prince Vasíli Kurágin",
+      "age": "middle-aged/older (grown old in society)",
+      "personality": "polished, languid, patronizing, socially skilled and self-interested",
+      "lifespan": "Fate not resolved in excerpt; depicted maneuvering for favor and appointments"
+    },
+    {
+      "name": "Empress Márya Fëdorovna (Dowager Empress)",
+      "age": "elderly (dowager)",
+      "personality": "authoritative, influential at court",
+      "lifespan": "Fate not resolved in excerpt; portrayed as an arbiter of appointments and favor"
+    },
+    {
+      "name": "Prince Vasíli's daughter (unnamed)",
+      "age": "young adult (comes to escort him to a fete)",
+      "personality": "briefly mentioned escort/companion",
+      "lifespan": "Fate not resolved in excerpt; acts as escort to her father"
+    },
+    {
+      "name": "le Vicomte de Mortemart",
+      "age": "not specified",
+      "personality": "presented as an interesting, genuine émigré",
+      "lifespan": "Fate not resolved in excerpt; expected guest at Anna Pávlovna’s reception"
+    },
+    {
+      "name": "Abbé Morio",
+      "age": "not specified",
+      "personality": "described as a profound thinker, received by the Emperor",
+      "lifespan": "Fate not resolved in excerpt; expected guest and intellectual presence"
+    },
+    {
+      "name": "Baron Funke",
+      "age": "not specified",
+      "personality": "described as a poor creature; candidate for a diplomatic post",
+      "lifespan": "Fate not resolved in excerpt; his appointment is being discussed and contested"
+    },
+    {
+      "name": "Novosíltsev",
+      "age": "not specified",
+      "personality": "diplomat, author of the dispatch referenced",
+      "lifespan": "Fate not resolved in excerpt; his dispatchs shape the political discussion"
+    },
+    {
+      "name": "Buonaparte (Napoleon, referenced)",
+      "age": "not specified in excerpt",
+      "personality": "depicted by characters (Anna) as villainous, the Antichrist, destructive",
+      "lifespan": "Fate not resolved in excerpt; discussed as the central foreign threat"
+    },
+    {
+      "name": "Hardenburg",
+      "age": "not specified",
+      "personality": "Prussian statesman referenced skeptically",
+      "lifespan": "Fate not resolved in excerpt; mentioned in diplomatic critique"
+    },
+    {
+      "name": "Haugwitz",
+      "age": "not specified",
+      "personality": "Prussian diplomat referenced critically",
+      "lifespan": "Fate not resolved in excerpt; mentioned in diplomatic critique"
+    },
+    {
+      "name": "The King of Prussia (unnamed)",
+      "age": "not specified",
+      "personality": "object of diplomatic maneuvering",
+      "lifespan": "Fate not resolved in excerpt; referenced in political discussion"
+    },
+    {
+      "name": "Wintzingerode",
+      "age": "not specified",
+      "personality": "friend/alternative envoy mentioned affectionately",
+      "lifespan": "Fate not resolved in excerpt; referenced as a possible envoy"
+    },
+    {
+      "name": "Montmorency family (Montmorencys)",
+      "age": "N/A (family)",
+      "personality": "notable French noble house used as connection for Mortemart",
+      "lifespan": "Mentioned as pedigree; no fate detailed in excerpt"
+    },
+    {
+      "name": "Rohan family (Rohans)",
+      "age": "N/A (family)",
+      "personality": "notable French noble house referenced",
+      "lifespan": "Mentioned as family connections; no fate detailed in excerpt"
+    },
+    {
+      "name": "scarlet-liveried footman",
+      "age": "not specified",
+      "personality": "servant delivering invitations, a minor presence",
+      "lifespan": "Fate not resolved in excerpt; performs the service of delivering invitations"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Genoa",
+      "latitude": 44.4056,
+      "longitude": 8.9463
+    },
+    {
+      "name": "Lucca",
+      "latitude": 43.8428,
+      "longitude": 10.5027
+    },
+    {
+      "name": "St. Petersburg",
+      "latitude": 59.9343,
+      "longitude": 30.3351
+    },
+    {
+      "name": "Vienna",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    {
+      "name": "Valletta, Malta",
+      "latitude": 35.8989,
+      "longitude": 14.5146
+    },
+    {
+      "name": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Berlin (representing Prussia)",
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Buonapartes",
+      "definition": "plural form referencing members of Napoleon's family",
+      "context": "Genoa and Lucca are now just family estates of the Buonapartes."
+    },
+    {
+      "word": "Antichrist",
+      "definition": "biblical figure of ultimate evil; used as strong denunciation",
+      "context": "If you still try to defend the infamies... I really believe he is Antichrist."
+    },
+    {
+      "word": "Genoa",
+      "definition": "historic Italian port city",
+      "context": "Genoa and Lucca are now just family estates of the Buonapartes."
+    },
+    {
+      "word": "Lucca",
+      "definition": "city in Tuscany, Italy",
+      "context": "Genoa and Lucca are now just family estates of the Buonapartes."
+    },
+    {
+      "word": "grippe",
+      "definition": "old-fashioned term for influenza",
+      "context": "she was, as she said, suffering from la grippe; grippe being then a new word"
+    },
+    {
+      "word": "la",
+      "definition": "French definite article; used here in 'la grippe'",
+      "context": "suffering from la grippe"
+    },
+    {
+      "word": "scarlet-liveried",
+      "definition": "wearing a bright red livery (servant uniform)",
+      "context": "delivered by a scarlet-liveried footman that morning"
+    },
+    {
+      "word": "footman",
+      "definition": "a male servant in livery",
+      "context": "delivered by a scarlet-liveried footman that morning"
+    },
+    {
+      "word": "Annette",
+      "definition": "given name; signature used by Anna Pávlovna",
+      "context": "—Annette Schérer."
+    },
+    {
+      "word": "Schérer",
+      "definition": "surname of Anna Pávlovna (French form)",
+      "context": "Anna Pávlovna Schérer, maid of honor and favorite of the Empress"
+    },
+    {
+      "word": "maid",
+      "definition": "title 'maid of honor' (court attendant)",
+      "context": "maid of honor and favorite of the Empress Márya Fëdorovna."
+    },
+    {
+      "word": "honor",
+      "definition": "court title; maid of honor",
+      "context": "maid of honor and favorite of the Empress"
+    },
+    {
+      "word": "favorite",
+      "definition": "a favored court attendant; intimate of a sovereign",
+      "context": "maid of honor and favorite of the Empress"
+    },
+    {
+      "word": "Empress",
+      "definition": "female sovereign; here the Dowager Empress",
+      "context": "favorite of the Empress Márya Fëdorovna."
+    },
+    {
+      "word": "Márya",
+      "definition": "personal name (with diacritic as in translation)",
+      "context": "the Empress Márya Fëdorovna."
+    },
+    {
+      "word": "Fëdorovna",
+      "definition": "patronymic/surname form (with diacritic)",
+      "context": "the Empress Márya Fëdorovna."
+    },
+    {
+      "word": "reception",
+      "definition": "formal social gathering",
+      "context": "who was the first to arrive at her reception."
+    },
+    {
+      "word": "embroidered",
+      "definition": "decorated with needlework",
+      "context": "wearing an embroidered court uniform"
+    },
+    {
+      "word": "court",
+      "definition": "royal court; the monarch's household and social circle",
+      "context": "embroidered court uniform"
+    },
+    {
+      "word": "uniform",
+      "definition": "official dress of rank",
+      "context": "wearing an embroidered court uniform"
+    },
+    {
+      "word": "breeches",
+      "definition": "knee-length trousers common in period dress",
+      "context": "wearing an embroidered court uniform, knee breeches, and shoes"
+    },
+    {
+      "word": "patronizing",
+      "definition": "condescendingly supportive or superior",
+      "context": "with the gentle, patronizing intonation natural to a man of importance"
+    },
+    {
+      "word": "serene",
+      "definition": "calm, composed",
+      "context": "and a serene expression on his flat face."
+    },
+    {
+      "word": "flat",
+      "definition": "lacking prominent features; here, facial description",
+      "context": "a serene expression on his flat face."
+    },
+    {
+      "word": "refined",
+      "definition": "cultivated, polished in manner",
+      "context": "He spoke in that refined French in which our grandfathers not only spoke but thought"
+    },
+    {
+      "word": "French",
+      "definition": "the French language used by the Russian aristocracy",
+      "context": "He spoke in that refined French"
+    },
+    {
+      "word": "intonation",
+      "definition": "the tone or pitch of voice",
+      "context": "and with the gentle, patronizing intonation natural to a man of importance"
+    },
+    {
+      "word": "scented",
+      "definition": "perfumed; emitting scent",
+      "context": "presenting to her his bald, scented, and shining head"
+    },
+    {
+      "word": "bald",
+      "definition": "lacking hair",
+      "context": "presenting to her his bald, scented, and shining head"
+    },
+    {
+      "word": "shining",
+      "definition": "glossy or bright in appearance",
+      "context": "presenting to her his bald, scented, and shining head"
+    },
+    {
+      "word": "complacently",
+      "definition": "with self-satisfaction",
+      "context": "and complacently seated himself on the sofa."
+    },
+    {
+      "word": "sofa",
+      "definition": "a long upholstered seat; couch",
+      "context": "and complacently seated himself on the sofa."
+    },
+    {
+      "word": "indifference",
+      "definition": "lack of interest or concern",
+      "context": "beneath the politeness and affected sympathy of which indifference and even irony could be discerned."
+    },
+    {
+      "word": "irony",
+      "definition": "expression of meaning opposite to literal sense",
+      "context": "beneath the politeness and affected sympathy of which indifference and even irony could be discerned."
+    },
+    {
+      "word": "languidly",
+      "definition": "in a slow, listless manner",
+      "context": "Prince Vasíli always spoke languidly"
+    },
+    {
+      "word": "stale",
+      "definition": "overused, unoriginal",
+      "context": "like an actor repeating a stale part."
+    },
+    {
+      "word": "habit",
+      "definition": "repeated behavior pattern",
+      "context": "by force of habit said things he did not even wish to be believed."
+    },
+    {
+      "word": "animation",
+      "definition": "liveliness of manner",
+      "context": "Anna Pávlovna on the contrary, despite her forty years, overflowed with animation"
+    },
+    {
+      "word": "impulsiveness",
+      "definition": "acting on sudden urges without forethought",
+      "context": "overflowed with animation and impulsiveness."
+    },
+    {
+      "word": "smile",
+      "definition": "expression of pleasure or amusement",
+      "context": "The subdued smile which...always played round her lips"
+    },
+    {
+      "word": "consciousness",
+      "definition": "awareness; sense of oneself",
+      "context": "a continual consciousness of her charming defect"
+    },
+    {
+      "word": "eloquent",
+      "definition": "fluent and effective in speaking",
+      "context": "You are so eloquent. Will you give me a cup of tea?"
+    },
+    {
+      "word": "Vicomte",
+      "definition": "French noble title (vice-count)",
+      "context": "le Vicomte de Mortemart"
+    },
+    {
+      "word": "Mortemart",
+      "definition": "family name of the Vicomte",
+      "context": "le Vicomte de Mortemart"
+    },
+    {
+      "word": "Montmorencys",
+      "definition": "name of a notable French noble family",
+      "context": "who is connected with the Montmorencys"
+    },
+    {
+      "word": "Rohans",
+      "definition": "name of a notable French noble family",
+      "context": "through the Rohans"
+    },
+    {
+      "word": "émigrés",
+      "definition": "French term for émigrés; political exiles from the Revolution",
+      "context": "He is one of the genuine émigrés"
+    },
+    {
+      "word": "Abbé",
+      "definition": "French title for an abbot or cleric",
+      "context": "And also the Abbé Morio."
+    },
+    {
+      "word": "Morio",
+      "definition": "surname of the Abbé",
+      "context": "And also the Abbé Morio."
+    },
+    {
+      "word": "Novosíltsev",
+      "definition": "name of a Russian diplomat referenced",
+      "context": "what has been decided about Novosíltsev’s dispatch?"
+    },
+    {
+      "word": "dispatch",
+      "definition": "official communication or diplomatic message",
+      "context": "what has been decided about Novosíltsev’s dispatch?"
+    },
+    {
+      "word": "Baron",
+      "definition": "a noble title",
+      "context": "wants Baron Funke to be appointed"
+    },
+    {
+      "word": "Funke",
+      "definition": "surname of the baron discussed",
+      "context": "Baron Funke to be appointed first secretary at Vienna?"
+    },
+    {
+      "word": "Dowager",
+      "definition": "a widow holding a title or property from her late husband; here used for the Empress",
+      "context": "the Dowager Empress wants Baron Funke to be appointed"
+    },
+    {
+      "word": "Wintzingerode",
+      "definition": "name of a person referenced as 'dear Wintzingerode'",
+      "context": "I think that if you had been sent instead of our dear Wintzingerode"
+    },
+    {
+      "word": "Buonaparte",
+      "definition": "alternative spelling of Bonaparte (Napoleon)",
+      "context": "What has been decided? They have decided that Buonaparte has burnt his boats"
+    },
+    {
+      "word": "boats",
+      "definition": "here metaphorically referring to burning one’s means of retreat",
+      "context": "They have decided that Buonaparte has burnt his boats"
+    },
+    {
+      "word": "hydra",
+      "definition": "multi-headed serpent from myth; used metaphorically for a persistent evil",
+      "context": "will fulfill his vocation and crush the hydra of revolution"
+    },
+    {
+      "word": "revolution",
+      "definition": "political upheaval; used here as the French Revolution and its legacy",
+      "context": "crush the hydra of revolution"
+    },
+    {
+      "word": "murderer",
+      "definition": "one who kills; used as fierce denunciation",
+      "context": "this murderer and villain!"
+    },
+    {
+      "word": "villain",
+      "definition": "a wicked or criminal person",
+      "context": "this murderer and villain!"
+    },
+    {
+      "word": "avenge",
+      "definition": "to take vengeance or exact retribution",
+      "context": "We alone must avenge the blood of the just one..."
+    },
+    {
+      "word": "evacuate",
+      "definition": "to withdraw or remove (troops or forces)",
+      "context": "She has refused to evacuate Malta."
+    },
+    {
+      "word": "Malta",
+      "definition": "island nation in the central Mediterranean",
+      "context": "She has refused to evacuate Malta."
+    },
+    {
+      "word": "England",
+      "definition": "country; referenced for political stance",
+      "context": "England with her commercial spirit will not and cannot understand"
+    },
+    {
+      "word": "commercial",
+      "definition": "related to commerce or trade",
+      "context": "England with her commercial spirit"
+    },
+    {
+      "word": "self-abnegation",
+      "definition": "self-denial; renunciation of one's own interests",
+      "context": "the self-abnegation of our Emperor who wants nothing for himself"
+    },
+    {
+      "word": "Prussia",
+      "definition": "historic German kingdom referenced in diplomacy",
+      "context": "This famous Prussian neutrality is just a trap."
+    },
+    {
+      "word": "neutrality",
+      "definition": "the state of not supporting either side in a conflict",
+      "context": "This famous Prussian neutrality is just a trap."
+    },
+    {
+      "word": "Prussian",
+      "definition": "relating to Prussia or its people",
+      "context": "This famous Prussian neutrality"
+    },
+    {
+      "word": "trap",
+      "definition": "a trick or stratagem to ensnare",
+      "context": "This famous Prussian neutrality is just a trap."
+    },
+    {
+      "word": "consent",
+      "definition": "permission or agreement",
+      "context": "have captured the King of Prussia’s consent by assault."
+    },
+    {
+      "word": "assault",
+      "definition": "a violent attack; used figuratively for forceful persuasion",
+      "context": "captured the King of Prussia’s consent by assault."
+    },
+    {
+      "word": "tea",
+      "definition": "a social beverage; also a social appointment",
+      "context": "Will you give me a cup of tea?"
+    },
+    {
+      "word": "fete",
+      "definition": "a public or private entertainment or festival",
+      "context": "And the fete at the English ambassador’s?"
+    },
+    {
+      "word": "Wednesday",
+      "definition": "midweek day; used to specify social calendar",
+      "context": "Today is Wednesday."
+    },
+    {
+      "word": "festivities",
+      "definition": "celebratory events or entertainments",
+      "context": "all these festivities and fireworks are becoming wearisome."
+    },
+    {
+      "word": "fireworks",
+      "definition": "pyrotechnic displays; used literally of entertainments",
+      "context": "all these festivities and fireworks are becoming wearisome."
+    },
+    {
+      "word": "put",
+      "definition": "to place or postpone (part of phrase 'put off')",
+      "context": "If they had known that you wished it, the entertainment would have been put off"
+    },
+    {
+      "word": "arrive",
+      "definition": "to come to a place",
+      "context": "who was the first to arrive at her reception."
+    },
+    {
+      "word": "mind",
+      "definition": "mental state or peace of mind",
+      "context": "Set your friend’s mind at rest"
+    },
+    {
+      "word": "rest",
+      "definition": "ease or relief from concern",
+      "context": "Set your friend's mind at rest"
+    },
+    {
+      "word": "decided",
+      "definition": "determined; resolved",
+      "context": "What has been decided? They have decided that Buonaparte has burnt his boats"
+    },
+    {
+      "word": "promised",
+      "definition": "assured or pledged",
+      "context": "What have they promised? Nothing!"
+    },
+    {
+      "word": "destiny",
+      "definition": "fate or predetermined course",
+      "context": "I have faith only in God and the lofty destiny of our adored monarch."
+    },
+    {
+      "word": "noble",
+      "definition": "having high moral qualities; also aristocratic",
+      "context": "He is so virtuous and noble that God will not forsake him."
+    },
+    {
+      "word": "himself",
+      "definition": "reflexive pronoun referring to the emperor",
+      "context": "who wants nothing for himself, but only desires the good of mankind"
+    },
+    {
+      "word": "perform",
+      "definition": "to carry out; to fulfill",
+      "context": "What little they have promised they will not perform!"
+    },
+    {
+      "word": "answer",
+      "definition": "a reply or response",
+      "context": "What answer did Novosíltsev get? None."
+    },
+    {
+      "word": "None",
+      "definition": "not any; no response",
+      "context": "What answer did Novosíltsev get? None."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2600"
+}
