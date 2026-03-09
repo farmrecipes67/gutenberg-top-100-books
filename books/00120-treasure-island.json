@@ -1,0 +1,528 @@
+{
+  "gutenberg_id": 120,
+  "title": "Treasure Island",
+  "author": "Stevenson, Robert Louis",
+  "summary": "Jim Hawkins recounts how an old sea‑dog named the captain took up lodging at his family’s Admiral Benbow inn, bringing a mysterious sea‑chest and frightening stories of pirates, the dead man’s chest, and a one‑legged seafaring man. Squire Trelawney and Dr. Livesey soon join Jim’s account as strange visitors and ominous signs accumulate: the black spot, sea songs, secret papers, and talk of treasure. Fear, loyalty, and appetite for adventure lead them toward a voyage and a treasure hunt. The narrative promises treachery, shipboard life, and contests between honest men and veteran buccaneers, and a race to recover buried gold.",
+  "characters": [
+    {
+      "name": "Jim Hawkins",
+      "age": "adolescent (estimated 14–17)",
+      "personality": "curious, observant, courageous narrator and innkeeper’s son",
+      "lifespan": "survives to tell the tale; becomes principal chronicler of the events"
+    },
+    {
+      "name": "Squire Trelawney",
+      "age": "middle‑aged gentleman (estimated 40s–50s)",
+      "personality": "wealthy, impulsive, enthusiastic about adventure and fitting out the voyage",
+      "lifespan": "organizes the expedition; remains alive after the events"
+    },
+    {
+      "name": "Dr. Livesey",
+      "age": "middle‑aged (estimated 30s–50s)",
+      "personality": "calm, rational, principled, medically skilled and courageous",
+      "lifespan": "survives and aids in narrative and leadership"
+    },
+    {
+      "name": "the captain (the old sea‑dog)",
+      "age": "elderly sailor (estimated 50s–60s)",
+      "personality": "secretive, terrifying storyteller, domineering when drunk",
+      "lifespan": "his presence catalyzes events at the Admiral Benbow; he is a central early figure (dies or is removed in the course of the story)"
+    },
+    {
+      "name": "Black Dog",
+      "age": "adult pirate",
+      "personality": "sly, menacing seafarer who confronts the captain",
+      "lifespan": "appears and vanishes in violent confrontation with the captain"
+    },
+    {
+      "name": "Blind man (the Blind Man / Blind Pew)",
+      "age": "old",
+      "personality": "sinister, threatening, connected with pirate bands",
+      "lifespan": "appears to deliver ominous signs such as the black spot; meets a violent fate in the narrative"
+    },
+    {
+      "name": "Captain Silver (Long John Silver)",
+      "age": "middle‑aged (estimated 40s)",
+      "personality": "charismatic, cunning, persuasive, double‑faced — companionable and treacherous",
+      "lifespan": "becomes the principal pirate antagonist; survives much of the action though ultimately defeated or set aside"
+    },
+    {
+      "name": "Israel Hands",
+      "age": "adult sailor",
+      "personality": "seasoned seaman, rough, competent; notable among the crew",
+      "lifespan": "active in shipboard conflicts; suffers violent consequences in the tale"
+    },
+    {
+      "name": "Ben Gunn (the man of the island)",
+      "age": "adult castaway",
+      "personality": "eccentric, resourceful, affected by long isolation",
+      "lifespan": "found on the island and plays a role in the treasure hunt; survives the core events"
+    },
+    {
+      "name": "Captain Smollett",
+      "age": "experienced naval officer (adult)",
+      "personality": "professional, strict, suspicious of improvised crews and quick to duty",
+      "lifespan": "commands the vessel during the voyage and survives the central action"
+    },
+    {
+      "name": "Mr. Hawkins (Jim’s father)",
+      "age": "adult",
+      "personality": "innkeeper, anxious, practical",
+      "lifespan": "falls into illness and dies during early events at the Admiral Benbow"
+    },
+    {
+      "name": "Mrs. Hawkins (Jim’s mother)",
+      "age": "adult",
+      "personality": "domestic, hospitable, runs the inn with her husband",
+      "lifespan": "survives the initial incidents and helps care for guests"
+    },
+    {
+      "name": "Old Taylor (Taylor, the gardener)",
+      "age": "older local",
+      "personality": "neighbour, pragmatic, local countryman",
+      "lifespan": "appears in early domestic scenes; survives early events"
+    },
+    {
+      "name": "the man who trundled the barrow",
+      "age": "adult labourer",
+      "personality": "minor, functional role delivering the captain’s chest",
+      "lifespan": "minor role; survives"
+    },
+    {
+      "name": "the hawker",
+      "age": "travelling seller",
+      "personality": "minor, provides goods (stockings) to the captain",
+      "lifespan": "minor"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Bristol, England",
+      "latitude": 51.4545,
+      "longitude": -2.5879
+    },
+    {
+      "name": "Dry Tortugas, Florida, USA",
+      "latitude": 24.628,
+      "longitude": -82.8731
+    },
+    {
+      "name": "Spanish Main (general Caribbean coast region, representative point Cartagena, Colombia)",
+      "latitude": 10.391,
+      "longitude": -75.4794
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "maroons",
+      "definition": "to abandon or strand (people) on an island; also the people so abandoned",
+      "context": "used in the poem listing romantic sea adventures: 'maroons'"
+    },
+    {
+      "word": "buccaneers",
+      "definition": "historical term for Caribbean pirates or privateers",
+      "context": "appears in the poem and chapter headings referring to pirate characters"
+    },
+    {
+      "word": "schooners",
+      "definition": "a type of sailing vessel with fore-and-aft sails on two or more masts",
+      "context": "mentioned among sailor tales in the prefatory poem and contents"
+    },
+    {
+      "word": "spy-glass",
+      "definition": "a handheld telescope used on ships",
+      "context": "chapter title: 'AT THE SIGN OF THE SPY-GLASS'"
+    },
+    {
+      "word": "jolly-boat",
+      "definition": "a small boat carried by a larger ship for general work",
+      "context": "chapter titles refer to the jolly-boat’s last trip"
+    },
+    {
+      "word": "Jolly Roger",
+      "definition": "the traditional flag flown to identify a pirate ship",
+      "context": "chapter: 'I STRIKE THE JOLLY ROGER'"
+    },
+    {
+      "word": "coracle",
+      "definition": "a small round boat",
+      "context": "chapter title: 'THE CRUISE OF THE CORACLE'"
+    },
+    {
+      "word": "parole",
+      "definition": "a promise of honorable conduct given by a prisoner in exchange for freedom",
+      "context": "chapter title: 'ON PAROLE'"
+    },
+    {
+      "word": "stockade",
+      "definition": "a defensive barrier of stakes or a fortification",
+      "context": "part title and chapters about defending a stockade"
+    },
+    {
+      "word": "garrison",
+      "definition": "troops stationed at a fort or town to defend it",
+      "context": "chapter: 'THE GARRISON IN THE STOCKADE'"
+    },
+    {
+      "word": "chieftain",
+      "definition": "leader of a band or group, here used for pirate leaders",
+      "context": "chapter: 'THE FALL OF A CHIEFTAIN'"
+    },
+    {
+      "word": "black spot",
+      "definition": "a pirate token of judgement or doom",
+      "context": "chapter titles: 'THE BLACK SPOT' and 'THE BLACK SPOT AGAIN'"
+    },
+    {
+      "word": "dead man's chest",
+      "definition": "a sailor’s phrase referring to a burial or hidden treasure; used as a song refrain",
+      "context": "the captain sings 'Fifteen men on the dead man’s chest'"
+    },
+    {
+      "word": "capstan bars",
+      "definition": "long poles used to wind a ship’s capstan",
+      "context": "the narrator describes a voice that 'seemed...tuned and broken at the capstan bars'"
+    },
+    {
+      "word": "sabre",
+      "definition": "a curved sword often used by sailors",
+      "context": "the captain has a sabre cut across his cheek"
+    },
+    {
+      "word": "handspike",
+      "definition": "a lever used to turn a capstan or windlass",
+      "context": "the captain rapped on the door with a bit of stick 'like a handspike'"
+    },
+    {
+      "word": "tarry",
+      "definition": "covered with tar; dark and sticky from tar (used about hair)",
+      "context": "describes the captain’s 'tarry pigtail'"
+    },
+    {
+      "word": "pigtail",
+      "definition": "a braided queue of hair worn by sailors",
+      "context": "the captain’s tarry pigtail is noted in description"
+    },
+    {
+      "word": "hand-barrow",
+      "definition": "a small wheeled cart pushed by hand",
+      "context": "the captain’s sea-chest is carried in a 'hand-barrow'"
+    },
+    {
+      "word": "sea-chest",
+      "definition": "a sailor’s trunk for storing clothes and valuables",
+      "context": "the captain’s great sea-chest is a notable object"
+    },
+    {
+      "word": "tottering",
+      "definition": "unsteady, trembling",
+      "context": "describes the captain’s 'tottering voice' in the poem"
+    },
+    {
+      "word": "grog-shop",
+      "definition": "an informal tavern where grog (rum diluted with water) is served",
+      "context": "the captain calls the inn 'a pleasant sittyated grog-shop'"
+    },
+    {
+      "word": "matey",
+      "definition": "colloquial term for a shipmate; used in seafaring speech",
+      "context": "the captain addresses a helper as 'matey'"
+    },
+    {
+      "word": "assizes",
+      "definition": "periodic criminal courts in England",
+      "context": "Dr. Livesey warns the captain 'you shall hang at the next assizes'"
+    },
+    {
+      "word": "Dry Tortugas",
+      "definition": "a group of small islands west of Key West, Florida, noted in naval history",
+      "context": "the captain tells tales of the Dry Tortugas"
+    },
+    {
+      "word": "Spanish Main",
+      "definition": "the Spanish-controlled mainland coasts of the Caribbean",
+      "context": "the captain tells stories of wild deeds on the Spanish Main"
+    },
+    {
+      "word": "pieces of eight",
+      "definition": "silver Spanish dollars often cut into eight pieces as currency",
+      "context": "chapter: '“PIECES OF EIGHT”'"
+    },
+    {
+      "word": "Yo-ho-ho",
+      "definition": "a nautical chant or chorus in sea-songs",
+      "context": "refrain in the captain’s sea-song: 'Yo-ho-ho, and a bottle of rum!'"
+    },
+    {
+      "word": "fourpenny",
+      "definition": "a coin or amount equivalent to four pennies",
+      "context": "the captain promises Jim a 'silver fourpenny' reward"
+    },
+    {
+      "word": "weather-eye",
+      "definition": "a sailor’s watchful look-out for weather or danger",
+      "context": "the captain tells Jim to 'keep my weather-eye open for a seafaring man with one leg'"
+    },
+    {
+      "word": "fog-horn",
+      "definition": "a horn used to warn ships in fog",
+      "context": "simile: the captain 'blew through his nose like a fog-horn'"
+    },
+    {
+      "word": "sittyated",
+      "definition": "dialectal spelling of 'situated' (archaic/dialect usage in the text)",
+      "context": "the captain calls the inn 'a pleasant sittyated grog-shop'"
+    },
+    {
+      "word": "nut-brown",
+      "definition": "a descriptive color term meaning dark brown",
+      "context": "the captain is described as a 'nut-brown man'"
+    },
+    {
+      "word": "bleared",
+      "definition": "having eyes blurred or dimmed, as with drink or age",
+      "context": "the captain is called 'bleared' in description"
+    },
+    {
+      "word": "capstan",
+      "definition": "the rotating device on a ship used for hauling lines or raising the anchor",
+      "context": "mentioned in the image of a voice 'tuned and broken at the capstan bars'"
+    },
+    {
+      "word": "coltish",
+      "definition": "playful or friskily childish (like a young colt)",
+      "context": "the doctor contrasted with 'the coltish country folk'"
+    },
+    {
+      "word": "rheumatics",
+      "definition": "inflammatory pains in muscles or joints (medical condition)",
+      "context": "the doctor speaks to Taylor 'on a new cure for the rheumatics'"
+    },
+    {
+      "word": "grog",
+      "definition": "a drink of rum diluted with water that sailors commonly drank",
+      "context": "the captain drinks 'rum and water' and the grog-shop reference"
+    },
+    {
+      "word": "rum",
+      "definition": "distilled alcoholic beverage made from sugarcane byproducts, common at sea",
+      "context": "refrain: 'and a bottle of rum'; the captain frequently drinks rum"
+    },
+    {
+      "word": "skipper",
+      "definition": "the master or captain of a small vessel",
+      "context": "the captain 'seemed like a mate or skipper accustomed to be obeyed'"
+    },
+    {
+      "word": "trundled",
+      "definition": "to push or roll along (a wheeled vehicle)",
+      "context": "the man 'who trundled the barrow' brings up the chest"
+    },
+    {
+      "word": "Admiral Benbow",
+      "definition": "the name of the inn central to the opening scenes",
+      "context": "the narrator’s father kept the Admiral Benbow inn"
+    },
+    {
+      "word": "Squire Trelawney",
+      "definition": "a landed gentleman and one of the principals who commission the voyage",
+      "context": "named at the beginning: 'Squire Trelawney... asked me to write down...'"
+    },
+    {
+      "word": "Dr. Livesey",
+      "definition": "medical doctor in the story, a voice of reason",
+      "context": "named early and appears in the parlour scene confronting the captain"
+    },
+    {
+      "word": "Jim Hawkins",
+      "definition": "the first‑person narrator and son of the innkeeper",
+      "context": "the narrator 'I' is later identified in contents as Jim Hawkins"
+    },
+    {
+      "word": "Israel Hands",
+      "definition": "a named crewman appearing in the contents and narrative",
+      "context": "listed in the contents: 'ISRAEL HANDS'"
+    },
+    {
+      "word": "Captain Silver",
+      "definition": "a named captain and major character (Long John Silver)",
+      "context": "part title: 'Captain Silver'"
+    },
+    {
+      "word": "Black Dog",
+      "definition": "a named pirate who appears in early chapters",
+      "context": "chapter II: 'BLACK DOG APPEARS AND DISAPPEARS'"
+    },
+    {
+      "word": "blind man",
+      "definition": "an unnamed blind figure who has a menacing role",
+      "context": "chapter V: 'THE LAST OF THE BLIND MAN'"
+    },
+    {
+      "word": "old sea-dog",
+      "definition": "colloquial term for an experienced sailor or pirate (here the captain)",
+      "context": "part title: 'The Old Buccaneer' and early description"
+    },
+    {
+      "word": "Cooper",
+      "definition": "reference to the novelist James Fenimore Cooper, used in the prefatory poem",
+      "context": "the poem references 'Cooper of the wood and wave'"
+    },
+    {
+      "word": "Ballantyne",
+      "definition": "reference to author R.M. Ballantyne in the prefatory poem",
+      "context": "prefatory poem mentions 'Ballantyne the brave'"
+    },
+    {
+      "word": "Kingston",
+      "definition": "placename or author reference in poem (contextual author/place reference)",
+      "context": "prefatory poem mentions 'Kingston'"
+    },
+    {
+      "word": "pirate",
+      "definition": "sea robber; central figures in the tale",
+      "context": "the captain and many characters are described as pirates or sea‑roving men"
+    },
+    {
+      "word": "plodding",
+      "definition": "walking heavily or slowly",
+      "context": "the captain is 'plodding to the inn door' with his chest"
+    },
+    {
+      "word": "threshold",
+      "definition": "the entrance of a doorway",
+      "context": "the captain throws down gold pieces 'on the threshold'"
+    },
+    {
+      "word": "scarred",
+      "definition": "marked by wounds or old injuries",
+      "context": "the captain’s hands are described as 'ragged and scarred'"
+    },
+    {
+      "word": "ragged",
+      "definition": "torn or worn out in appearance",
+      "context": "describes the captain’s hands and clothes"
+    },
+    {
+      "word": "soiled",
+      "definition": "dirty or stained",
+      "context": "describes the captain’s 'soiled blue coat'"
+    },
+    {
+      "word": "stabling",
+      "definition": "facilities for keeping horses (a stable)",
+      "context": "the narrator notes 'we had no stabling at the old Benbow'"
+    },
+    {
+      "word": "palm",
+      "definition": "the inner surface of the hand",
+      "context": "the captain balances his clasp‑knife 'on the palm of his hand'"
+    },
+    {
+      "word": "clasp-knife",
+      "definition": "a folding pocketknife",
+      "context": "the captain opens a 'sailor’s clasp‑knife' and threatens the doctor"
+    },
+    {
+      "word": "scoundrel",
+      "definition": "a despicable person",
+      "context": "Dr. Livesey calls the captain 'a very dirty scoundrel'"
+    },
+    {
+      "word": "tyrannized",
+      "definition": "to exercise power oppressively over others",
+      "context": "locals fear the captain 'would tyrannize' guests at the inn"
+    },
+    {
+      "word": "sea-song",
+      "definition": "a sailor’s ditty or shanty",
+      "context": "the captain sings his 'wicked, old, wild sea‑songs'"
+    },
+    {
+      "word": "flapped",
+      "definition": "to strike or slap with a flat motion",
+      "context": "the captain 'flapped his hand upon the table' to command silence"
+    },
+    {
+      "word": "Taylor",
+      "definition": "surname of the gardener (old Taylor) mentioned in parlour scene",
+      "context": "Dr. Livesey talks with 'old Taylor, the gardener'"
+    },
+    {
+      "word": "neighbours",
+      "definition": "local people living near the inn",
+      "context": "mentions 'the neighbours' and local reaction to the captain"
+    },
+    {
+      "word": "mail",
+      "definition": "the postal service or a stage delivering passengers/goods",
+      "context": "the man with the barrow tells how 'the mail had set him down' at the Royal George"
+    },
+    {
+      "word": "barrow",
+      "definition": "a wheelbarrow used for moving goods",
+      "context": "the sea‑chest is brought 'in a hand‑barrow'"
+    },
+    {
+      "word": "telescope",
+      "definition": "a device for seeing distant objects, here brass and used on cliffs",
+      "context": "the captain hangs about the cove 'with a brass telescope'"
+    },
+    {
+      "word": "connoisseur",
+      "definition": "one who judges taste or quality, especially of wines or food",
+      "context": "the captain drank 'slowly, like a connoisseur'"
+    },
+    {
+      "word": "seaman",
+      "definition": "a sailor; a person who works at sea",
+      "context": "the narrator and locals refer to 'seafaring men' and 'seamen'"
+    },
+    {
+      "word": "folk",
+      "definition": "people of a place; country folk",
+      "context": "contrasts the neat doctor with 'the coltish country folk'"
+    },
+    {
+      "word": "parlour",
+      "definition": "a sitting room in an inn or house",
+      "context": "many scenes occur in the inn parlour where the captain sits"
+    },
+    {
+      "word": "reeled",
+      "definition": "staggered as if dizzy or intoxicated",
+      "context": "the captain would 'reel off to bed' after drinking"
+    },
+    {
+      "word": "livid",
+      "definition": "discolored, pale or ashen (often from shock or injury)",
+      "context": "describes the captain’s 'dirty, livid white' cheek"
+    },
+    {
+      "word": "slap",
+      "definition": "a sharp blow or action with the hand",
+      "context": "the captain 'would slap his hand on the table for silence'"
+    },
+    {
+      "word": "voyage",
+      "definition": "a long journey by sea",
+      "context": "chapter titles and narrative revolve around a planned voyage to find treasure"
+    },
+    {
+      "word": "hamlet",
+      "definition": "a small village",
+      "context": "Dr. Livesey waits for his 'horse should come down from the hamlet'"
+    },
+    {
+      "word": "pocket",
+      "definition": "a small compartment in clothing; used when the doctor orders the knife into the captain’s pocket",
+      "context": "the doctor orders 'put that knife...in your pocket'"
+    },
+    {
+      "word": "oath",
+      "definition": "a profane or solemn utterance; a curse or sworn promise",
+      "context": "the captain breaks out with a 'villainous, low oath'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/120"
+}
