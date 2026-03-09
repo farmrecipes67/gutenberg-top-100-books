@@ -1,0 +1,738 @@
+{
+  "gutenberg_id": 6593,
+  "title": "History of Tom Jones, a Foundling",
+  "author": "Fielding, Henry",
+  "summary": "The History of Tom Jones, a Foundling follows the upbringing, misadventures, and romantic pursuits of Tom Jones, an amiable foundling raised by the hospitable Mr Allworthy. Surrounded by a comic ensemble — Bridget Allworthy, Mrs Deborah Wilkins, Partridge, Mr Square, Mr Thwackum, Sophia Western, Squire Western, Molly Seagrim and others — Tom’s life traces schooling, duels of honor, amorous entanglements, mistaken identities, flights to inns and cities (Gloucester, Upton), and courtly and domestic disputes. Fielding intersperses digressions on morality, satire of critics, legal and clerical customs, and reflections on love, conscience, and human folly in a sprawling comic social panorama.",
+  "characters": [
+    {
+      "name": "Tom Jones",
+      "age": "14–19 (as described in Book III)",
+      "personality": "good-natured, prone to youthful indiscretions and romantic impulse",
+      "lifespan": "protagonist throughout the narrative; survives through the events described (fate not specified in excerpt)"
+    },
+    {
+      "name": "Mr Allworthy (Squire Allworthy)",
+      "age": "middle-aged to elderly",
+      "personality": "hospitable, paternal, generous",
+      "lifespan": "guardian of Tom; presides over many family events (fate not specified in excerpt)"
+    },
+    {
+      "name": "Miss Bridget Allworthy",
+      "age": "young adult",
+      "personality": "kind, condescendingly gracious; central to domestic plots",
+      "lifespan": "marries Captain Blifil (Book II); further fate not specified in excerpt"
+    },
+    {
+      "name": "Mrs Deborah Wilkins",
+      "age": "middle-aged",
+      "personality": "decent, moralizing, outspoken on bastards",
+      "lifespan": "active in parish scenes (fate not specified in excerpt)"
+    },
+    {
+      "name": "Jenny Jones",
+      "age": "young woman (as introduced)",
+      "personality": "depicted with learning difficulties and discouragements",
+      "lifespan": "background character; fate not specified in excerpt"
+    },
+    {
+      "name": "Captain / Master Blifil",
+      "age": "young adult",
+      "personality": "antagonistic foil in domestic and educational scenes",
+      "lifespan": "marries Miss Bridget Allworthy (Book II); further fate not specified in excerpt"
+    },
+    {
+      "name": "Partridge (Mr Partridge)",
+      "age": "middle-aged",
+      "personality": "schoolmaster, awkward, comic; subject of a trial",
+      "lifespan": "tried for incontinency; outcome not detailed in excerpt"
+    },
+    {
+      "name": "Mrs Partridge",
+      "age": "middle-aged",
+      "personality": "wife who gives evidence at trial",
+      "lifespan": "appears as witness; fate not specified in excerpt"
+    },
+    {
+      "name": "Mr Square",
+      "age": "middle-aged",
+      "personality": "philosopher figure; rational and pedantic",
+      "lifespan": "offers educational opinions; fate not specified in excerpt"
+    },
+    {
+      "name": "Mr Thwackum",
+      "age": "middle-aged",
+      "personality": "divine/clerical, stern and doctrinal",
+      "lifespan": "opposes Mr Square in pedagogic debates; fate not specified in excerpt"
+    },
+    {
+      "name": "Miss Sophia Western",
+      "age": "young adult",
+      "personality": "beautiful, generous, romantic interest of Tom",
+      "lifespan": "suffers an accident; narrowly escapes other dangers; ultimate fate not specified in excerpt"
+    },
+    {
+      "name": "Squire Western",
+      "age": "middle-aged",
+      "personality": "paternal, sometimes mad with passion for his daughter",
+      "lifespan": "active as magistrate and father; fate not specified in excerpt"
+    },
+    {
+      "name": "Mrs Western",
+      "age": "middle-aged to older",
+      "personality": "worldly, learned, politically and socially savvy",
+      "lifespan": "advises and guides; fate not specified in excerpt"
+    },
+    {
+      "name": "Mrs Honour",
+      "age": "older relative (aunt)",
+      "personality": "scheming aunt who deploys stratagems",
+      "lifespan": "orchestrates plots involving Sophia; fate not specified in excerpt"
+    },
+    {
+      "name": "Molly Seagrim",
+      "age": "young woman",
+      "personality": "in perilous circumstances; vulnerable",
+      "lifespan": "has a narrow escape (Book IV); further fate not specified in excerpt"
+    },
+    {
+      "name": "Mr Supple",
+      "age": "adult curate",
+      "personality": "storyteller; offers narrative anecdotes",
+      "lifespan": "appears as narrator of a tale; fate not specified in excerpt"
+    },
+    {
+      "name": "Mrs Waters",
+      "age": "adult woman in distress",
+      "personality": "victim rescued by Jones",
+      "lifespan": "rescued from distress by Jones (Book IX); further fate not specified in excerpt"
+    },
+    {
+      "name": "Mr Benjamin",
+      "age": "adult",
+      "personality": "talented, comic figure associated with barber anecdotes",
+      "lifespan": "provides comic interludes; fate not specified in excerpt"
+    },
+    {
+      "name": "The Landlady",
+      "age": "middle-aged",
+      "personality": "shrewd innkeeper, capable of address and schemes",
+      "lifespan": "manages inn adventures; fate not specified in excerpt"
+    },
+    {
+      "name": "The Barber (barber of Bagdad reference)",
+      "age": "adult",
+      "personality": "pleasant, comic barber figure",
+      "lifespan": "introduced as a notable barber; fate not specified in excerpt"
+    },
+    {
+      "name": "Man of the Hill",
+      "age": "adult/old",
+      "personality": "mysterious storyteller who recounts his history",
+      "lifespan": "tells a long tale to Jones; fate not specified in excerpt"
+    },
+    {
+      "name": "Susan (chamber-maid)",
+      "age": "young adult servant",
+      "personality": "servile, participates in inn dialogues",
+      "lifespan": "appears in inn scenes; fate not specified in excerpt"
+    },
+    {
+      "name": "Mrs Fitzpatrick",
+      "age": "adult",
+      "personality": "figure with a detailed history later recounted",
+      "lifespan": "her history is related in Book XI; fate not specified in excerpt"
+    },
+    {
+      "name": "Fitzpatrick (Mr Fitzpatrick)",
+      "age": "adult officer/Irish gentleman context",
+      "personality": "associated with Irish adventures and folly",
+      "lifespan": "involved in inn and military scenes; fate not specified in excerpt"
+    },
+    {
+      "name": "Lieutenant (unnamed)",
+      "age": "adult officer",
+      "personality": "military figure involved in comic casuistry",
+      "lifespan": "appears in soldier/officer adventures; fate not specified in excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Gloucester",
+      "latitude": 51.8642,
+      "longitude": -2.2382
+    },
+    {
+      "name": "Upton (Upton-on-Severn, Worcestershire, commonly identified)",
+      "latitude": 52.1637,
+      "longitude": -2.1963
+    },
+    {
+      "name": "Bagdad (Baghdad, referenced in phrase 'barber of Bagdad')",
+      "latitude": 33.3152,
+      "longitude": 44.3661
+    },
+    {
+      "name": "Ireland (referenced by 'Irish gentleman')",
+      "latitude": 53.3498,
+      "longitude": -6.2603
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "foundling",
+      "definition": "an abandoned or orphaned infant",
+      "context": "Appears in the title as the central status of Tom."
+    },
+    {
+      "word": "dedication",
+      "definition": "introductory address to a work",
+      "context": "Listed at start of Contents."
+    },
+    {
+      "word": "bill",
+      "definition": "menu or list (here 'bill of fare')",
+      "context": "Used in 'bill of fare to the feast' in Book I heading."
+    },
+    {
+      "word": "fare",
+      "definition": "food served or a range of offerings",
+      "context": "Paired with 'bill' in the introductory heading."
+    },
+    {
+      "word": "feast",
+      "definition": "a large meal or metaphorical banquet",
+      "context": "Metaphor in 'bill of fare to the feast'."
+    },
+    {
+      "word": "animadversions",
+      "definition": "critical remarks or censures",
+      "context": "Used in Chapter iii heading criticizing bastards."
+    },
+    {
+      "word": "peradventure",
+      "definition": "perhaps; by chance",
+      "context": "Used in Chapter iv: 'unless peradventure he should laugh'."
+    },
+    {
+      "word": "condescension",
+      "definition": "an attitude of patronizing superiority or graciousness",
+      "context": "Mentioned in Chapter iv regarding Miss Bridget Allworthy."
+    },
+    {
+      "word": "felicity",
+      "definition": "great happiness or bliss",
+      "context": "Used in Book II title 'scenes of matrimonial felicity'."
+    },
+    {
+      "word": "matrimonial",
+      "definition": "relating to marriage",
+      "context": "Used describing marriage scenes in Book II."
+    },
+    {
+      "word": "prudential",
+      "definition": "relating to prudence or practical wisdom",
+      "context": "Appears in Chapter xi referring to inducements to matrimony."
+    },
+    {
+      "word": "ingratitude",
+      "definition": "failure to show gratitude",
+      "context": "Mentioned at end of Book I concerning an instance of ingratitude."
+    },
+    {
+      "word": "hospitality",
+      "definition": "friendly reception and treatment of guests",
+      "context": "Described in Book I chapter on Allworthy's hospitality."
+    },
+    {
+      "word": "duels",
+      "definition": "formal combats between two persons",
+      "context": "Book II mentions 'one of the most bloody battles, or rather duels' in domestic history."
+    },
+    {
+      "word": "judgment",
+      "definition": "faculty of assessing or a formal legal decision",
+      "context": "Used in Book II chapter v concerning exercising the judgment."
+    },
+    {
+      "word": "evidence",
+      "definition": "testimony or proof",
+      "context": "Appears in Partridge's trial chapter as 'the evidence of his wife'."
+    },
+    {
+      "word": "trial",
+      "definition": "a formal examination of evidence before a judge",
+      "context": "Partridge is 'tried' for incontinency in Book II."
+    },
+    {
+      "word": "incontinency",
+      "definition": "lack of self-restraint; sexual misconduct (archaic legal term)",
+      "context": "Charge at Partridge's trial in Book II."
+    },
+    {
+      "word": "receipt",
+      "definition": "a recipe or method (archaic sense: remedy)",
+      "context": "Book II gives a 'receipt to regain the lost affections of a wife'."
+    },
+    {
+      "word": "lamentations",
+      "definition": "expressions of great sorrow",
+      "context": "Used in Book II 'the lamentations of the widow'."
+    },
+    {
+      "word": "physicians",
+      "definition": "medical doctors",
+      "context": "Mentioned as part of funeral decorations and remedies in Book II."
+    },
+    {
+      "word": "epitaph",
+      "definition": "inscription or verse honoring the dead",
+      "context": "Book II includes 'an epitaph in the true stile'."
+    },
+    {
+      "word": "heroe",
+      "definition": "archaic spelling of 'hero'",
+      "context": "Used in Book III: 'The heroe of this great history'."
+    },
+    {
+      "word": "omens",
+      "definition": "signs or portents believed to foretell events",
+      "context": "Book III notes 'Tom Jones appears with very bad omens'."
+    },
+    {
+      "word": "gamekeeper",
+      "definition": "person responsible for preserving game on an estate",
+      "context": "Mentioned in Book III's tale about a gamekeeper."
+    },
+    {
+      "word": "schoolmaster",
+      "definition": "teacher running a school",
+      "context": "Mr Partridge is identified as a schoolmaster in Book III."
+    },
+    {
+      "word": "philosopher",
+      "definition": "a person engaged in philosophy or rational inquiry",
+      "context": "Mr Square is called 'the philosopher' in Book III."
+    },
+    {
+      "word": "divine",
+      "definition": "cleric or theologian (archaic noun)",
+      "context": "Mr Thwackum is introduced as 'the divine'."
+    },
+    {
+      "word": "apology",
+      "definition": "a formal defense or justification of a position",
+      "context": "Authorial apologies and digressions appear across books (e.g., Book III chapter iv)."
+    },
+    {
+      "word": "childish",
+      "definition": "immature or suitable to a child",
+      "context": "Several 'childish incidents' are noted in Book III."
+    },
+    {
+      "word": "sublime",
+      "definition": "lofty, grand, or elevated in style",
+      "context": "Book IV features 'what we can do in the sublime'."
+    },
+    {
+      "word": "Homerican",
+      "definition": "pertaining to or imitative of Homer (archaic form)",
+      "context": "Book IV chapter viii references a battle 'sung by the muse in the Homerican style'."
+    },
+    {
+      "word": "penetration",
+      "definition": "deep insight or understanding",
+      "context": "Used regarding 'The penetration of Squire Western' in Book IV."
+    },
+    {
+      "word": "surprize",
+      "definition": "archaic spelling of 'surprise'",
+      "context": "Appears in Book I chapter ix: 'matters which will surprize the reader'."
+    },
+    {
+      "word": "beauty",
+      "definition": "qualities that give pleasure to the senses or mind",
+      "context": "Discussed in Book I chapter xi on descriptions of beauty."
+    },
+    {
+      "word": "prudential",
+      "definition": "already listed; practical or prudent considerations",
+      "context": "Appears regarding inducements to matrimony (Book I)."
+    },
+    {
+      "word": "brothers",
+      "definition": "male siblings",
+      "context": "Book I mentions 'two brothers, a doctor and a captain' entertained by Allworthy."
+    },
+    {
+      "word": "doctor",
+      "definition": "physician or learned professional",
+      "context": "One of the two brothers in Allworthy's household is a doctor (Book I)."
+    },
+    {
+      "word": "captain",
+      "definition": "military officer or nautical rank",
+      "context": "One of the two brothers is a captain; also Captain Blifil is a character."
+    },
+    {
+      "word": "nostrums",
+      "definition": "quack remedies or ineffectual medicines",
+      "context": "Book X chapter iv lists 'infallible nostrums' for social disesteem."
+    },
+    {
+      "word": "casuistry",
+      "definition": "specious or subtle reasoning in moral questions (often derogatory)",
+      "context": "Book VII chapter xiii references 'solid skill in casuistry' of the lieutenant."
+    },
+    {
+      "word": "barber",
+      "definition": "a person who cuts hair and performs minor surgical tasks in period context",
+      "context": "Book VIII introduces 'one of the pleasantest barbers'."
+    },
+    {
+      "word": "Bagdad",
+      "definition": "variant spelling of Baghdad; used in literary reference",
+      "context": "Phrase 'barber of Bagdad' appears in Book VIII."
+    },
+    {
+      "word": "petty-fogger",
+      "definition": "a low or unscrupulous lawyer (pejorative)",
+      "context": "Book VIII chapter viii mentions a 'petty-fogger' met at the Bell."
+    },
+    {
+      "word": "Gloucester",
+      "definition": "city in England",
+      "context": "Jones arrives at Gloucester and goes to the Bell (Book VIII)."
+    },
+    {
+      "word": "Bell",
+      "definition": "proper name of an inn (common inn name)",
+      "context": "Jones goes to the Bell in Gloucester (Book VIII)."
+    },
+    {
+      "word": "Upton",
+      "definition": "place name used in the narrative (site of inn and battle)",
+      "context": "Multiple chapters refer to adventures at the inn at Upton (Books IX–X)."
+    },
+    {
+      "word": "inn",
+      "definition": "public house providing lodging and food",
+      "context": "Many episodes center on inns (Bell, inn at Upton)."
+    },
+    {
+      "word": "Irish",
+      "definition": "pertaining to Ireland or its people",
+      "context": "An Irish gentleman arrives with extraordinary adventures (Book X)."
+    },
+    {
+      "word": "Fitzpatrick",
+      "definition": "proper name (Irish family name) appearing in the story",
+      "context": "Mrs Fitzpatrick and Fitzpatrick have chapters dedicated to their histories (Book XI)."
+    },
+    {
+      "word": "landlady",
+      "definition": "female owner or manager of an inn or lodging house",
+      "context": "The landlady pays a visit and plays a role in inn episodes (Book VIII onward)."
+    },
+    {
+      "word": "chamber-maid",
+      "definition": "female servant attending chambers",
+      "context": "Chapter includes a dialogue between the landlady and Susan the chamber-maid (Book X)."
+    },
+    {
+      "word": "Susan",
+      "definition": "proper name of a chamber-maid",
+      "context": "Susan appears in a Book X dialogue at the inn."
+    },
+    {
+      "word": "Man",
+      "definition": "used in the title 'Man of the Hill'",
+      "context": "A figure called the 'Man of the Hill' tells his history (Book VIII–IX)."
+    },
+    {
+      "word": "Hill",
+      "definition": "part of the character title 'Man of the Hill'",
+      "context": "Used in the compound 'Man of the Hill' who narrates his history."
+    },
+    {
+      "word": "kitchen",
+      "definition": "room where food is prepared; site of social conversation",
+      "context": "Book IX chapter vi features 'a friendly conversation in the kitchen'."
+    },
+    {
+      "word": "surgeon",
+      "definition": "medical practitioner performing operations",
+      "context": "A surgeon arrives to operate on Sophia after an accident (Book IV)."
+    },
+    {
+      "word": "operations",
+      "definition": "surgical procedures",
+      "context": "Book IV mentions the surgeon's operations on Sophia."
+    },
+    {
+      "word": "maid",
+      "definition": "female servant",
+      "context": "Sophia's maid appears in dialogues after the surgeon's arrival."
+    },
+    {
+      "word": "confinement",
+      "definition": "state of being confined, often childbirth or imprisonment (here of Tom)",
+      "context": "Book V chapter ii shows visits Mr Jones receives 'during his confinement'."
+    },
+    {
+      "word": "stomach",
+      "definition": "appetite (figurative), bodily organ",
+      "context": "Book IX contains an 'apology for all heroes who have good stomachs'."
+    },
+    {
+      "word": "battle",
+      "definition": "combat or figurative struggle",
+      "context": "Multiple 'battles' described including amorous and comic fights (various chapters)."
+    },
+    {
+      "word": "amorous",
+      "definition": "relating to love or sexual desire",
+      "context": "Book IX chapter v describes 'a battle of the amorous kind'."
+    },
+    {
+      "word": "adventure",
+      "definition": "an event or incident involving risk or excitement",
+      "context": "Many 'adventures' occur at inns, roads, and in domestic scenes."
+    },
+    {
+      "word": "crust",
+      "definition": "hard outer covering or metaphorical 'hard bit' offered to critics",
+      "context": "Book XI chapter i titled 'A crust for the critics'."
+    },
+    {
+      "word": "critics",
+      "definition": "people who evaluate literary works",
+      "context": "Author addresses modern critics in Book X chapter i and Book XI chapter i."
+    },
+    {
+      "word": "serious",
+      "definition": "earnest or solemn in tone",
+      "context": "Book V opens 'Of the SERIOUS in writing' discussing purpose."
+    },
+    {
+      "word": "surprizing",
+      "definition": "archaic spelling of 'surprising'",
+      "context": "Book IX chapter ii mentions 'a very surprizing adventure'."
+    },
+    {
+      "word": "infallibility",
+      "definition": "the quality of being incapable of error",
+      "context": "Book II chapter ix claims 'a proof of the infallibility' of a receipt."
+    },
+    {
+      "word": "conscience",
+      "definition": "moral sense of right and wrong",
+      "context": "Book VI chapter xiii discusses 'a knotty point in the court of conscience'."
+    },
+    {
+      "word": "magistrate",
+      "definition": "a civil officer who administers the law",
+      "context": "Squire Western acts in the role of magistrate in Book VII."
+    },
+    {
+      "word": "clerk",
+      "definition": "an assistant who records proceedings",
+      "context": "A hint to justices concerning the necessary qualifications of a clerk appears in Book VII."
+    },
+    {
+      "word": "paternal",
+      "definition": "relating to a father",
+      "context": "Book VII references 'extraordinary instances of paternal madness'."
+    },
+    {
+      "word": "filial",
+      "definition": "relating to a son or daughter",
+      "context": "Paired with 'paternal' as 'filial affection' in Book VII."
+    },
+    {
+      "word": "altercation",
+      "definition": "a noisy argument or controversy",
+      "context": "Book VII notes scenes of altercation in family and public."
+    },
+    {
+      "word": "stratagem",
+      "definition": "a plan or scheme, especially to outwit",
+      "context": "Book VII chapter vii describes a 'stratagem of Mrs Honour'."
+    },
+    {
+      "word": "dialogue",
+      "definition": "a conversational exchange between characters",
+      "context": "Many chapters are framed as dialogues between characters."
+    },
+    {
+      "word": "digression",
+      "definition": "a temporary departure from the main subject",
+      "context": "Book IV chapter xiii and other places contain authorial digressions."
+    },
+    {
+      "word": "amorous",
+      "definition": "already listed; relating to love",
+      "context": "Repeated in several chapters discussing love scenes."
+    },
+    {
+      "word": "court",
+      "definition": "forum for legal or moral decision (here 'court of conscience')",
+      "context": "Book VI chapter xiii references the 'court of conscience'."
+    },
+    {
+      "word": "lieutenant",
+      "definition": "military rank",
+      "context": "Book VII chapter xiii mentions a 'worthy lieutenant' skilled in casuistry."
+    },
+    {
+      "word": "officers",
+      "definition": "commissioned members of the military",
+      "context": "Books VII and X recount adventures involving officers."
+    },
+    {
+      "word": "soldiers",
+      "definition": "members of the army",
+      "context": "Book VII chapters xi–xv discuss adventures of a company of soldiers."
+    },
+    {
+      "word": "marvellous",
+      "definition": "wonderful; extraordinary",
+      "context": "Book VIII chapter i is 'a wonderful long chapter concerning the marvellous'."
+    },
+    {
+      "word": "barber",
+      "definition": "already listed; haircutter and minor surgeon in period context",
+      "context": "Reappears as a comic trade figure in Book VIII."
+    },
+    {
+      "word": "Benjamin",
+      "definition": "proper name used for a character (Mr Benjamin)",
+      "context": "Book VIII refers to 'more of the talents of Mr Benjamin'."
+    },
+    {
+      "word": "lucky",
+      "definition": "fortunate",
+      "context": "Used in Book VIII regarding Partridge's 'lucky and narrow escape'."
+    },
+    {
+      "word": "narrow",
+      "definition": "limited or slight margin (as in narrow escape)",
+      "context": "Describes Partridge's escape from making a fatal discovery."
+    },
+    {
+      "word": "fatal",
+      "definition": "causing death or ruin",
+      "context": "Partridge nearly makes a 'fatal discovery' about his friend (Book VIII)."
+    },
+    {
+      "word": "anecdotes",
+      "definition": "short, amusing or interesting stories about real incidents or people",
+      "context": "Numerous chapters contain anecdotes (e.g., about the landlady and Mr Benjamin)."
+    },
+    {
+      "word": "motive",
+      "definition": "reason for action",
+      "context": "Author offers reasons for conduct of characters like Partridge (Book VIII)."
+    },
+    {
+      "word": "Europe",
+      "definition": "the continent referenced in a brief history",
+      "context": "Book VIII chapter xv includes 'a brief history of Europe.'"
+    },
+    {
+      "word": "angel",
+      "definition": "celestial being; used figuratively",
+      "context": "Book XI chapter iii mentions 'a sun, a moon, a star, and an angel' in a short chapter."
+    },
+    {
+      "word": "widow",
+      "definition": "a woman whose spouse has died",
+      "context": "Book II chapter ix includes the 'lamentations of the widow'."
+    },
+    {
+      "word": "surgeon",
+      "definition": "already listed; medical operator",
+      "context": "Reoccurs regarding Sophia's care (Book IV and VIII)."
+    },
+    {
+      "word": "operations",
+      "definition": "already listed; surgical procedures",
+      "context": "Again referenced in descriptions of medical treatment."
+    },
+    {
+      "word": "drunkenness",
+      "definition": "habitual intoxication",
+      "context": "Book V chapter ix discusses drunkenness showing the mind of a man 'as a mirrour reflects his person'."
+    },
+    {
+      "word": "mirrour",
+      "definition": "archaic spelling of 'mirror'",
+      "context": "Quoted simile about drunkenness in Book V chapter ix uses 'mirrour'."
+    },
+    {
+      "word": "Aeschines",
+      "definition": "ancient Greek orator referenced by the author",
+      "context": "Book V chapter xi cites Aeschines on drunkenness and human character."
+    },
+    {
+      "word": "Ovid",
+      "definition": "Roman poet referenced by the author",
+      "context": "Book V chapter x shows truth of observations of Ovid regarding wine and incontinency."
+    },
+    {
+      "word": "Pope",
+      "definition": "reference to Alexander Pope (poet), used for a simile",
+      "context": "Book V chapter xi mentions 'Mr Pope's period of a mile'."
+    },
+    {
+      "word": "mile",
+      "definition": "unit of distance used metaphorically",
+      "context": "Used in reference to Pope's simile in Book V."
+    },
+    {
+      "word": "infallible",
+      "definition": "incapable of being wrong",
+      "context": "Book II claims a receipt 'which hath never been known to fail' (infallible) in reconciliation."
+    },
+    {
+      "word": "proof",
+      "definition": "evidence establishing truth",
+      "context": "Book II chapter ix offers a 'proof' of the receipt's efficacy."
+    },
+    {
+      "word": "lamentation",
+      "definition": "singular of lamentations; expression of grief",
+      "context": "Used describing the widow's grief in Book II."
+    },
+    {
+      "word": "receipts",
+      "definition": "plural of receipt; here meaning remedies or recipes",
+      "context": "Multiple 'receipts' for regaining affection or other aims are discussed."
+    },
+    {
+      "word": "solace",
+      "definition": "comfort or consolation",
+      "context": "Chapters aim to 'relieve tender affections' and provide solace (Book VI)."
+    },
+    {
+      "word": "temper",
+      "definition": "state of mind in a moment; disposition",
+      "context": "Various scenes depict tempers in discord or reconciliation (multiple chapters)."
+    },
+    {
+      "word": "pomp",
+      "definition": "ceremony or splendor",
+      "context": "Occasional satirical references to courtly pomp and critics appear."
+    },
+    {
+      "word": "satire",
+      "definition": "literary genre using humor to criticize",
+      "context": "Author uses satire of critics, law, and social customs throughout the work."
+    },
+    {
+      "word": "pedantic",
+      "definition": "overly concerned with minor details or rules",
+      "context": "Implied in depictions of Mr Square and educational disputes."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/6593"
+}
