@@ -1,0 +1,611 @@
+{
+  "gutenberg_id": 165,
+  "title": "McTeague: A Story of San Francisco",
+  "author": "Norris, Frank",
+  "summary": "McTeague, a large, slow-witted young dentist in San Francisco, lives above his Polk Street “Dental Parlors,” spending Sundays eating, drinking steam beer, sleeping, smoking, and playing mournful airs on a concertina. Raised as a car-boy in a Placer County mine, he learned dentistry from a travelling charlatan after his hardworking mother’s ambition and small inheritance enabled him to set up shop. Physically powerful and simple-minded, he watches the daily parade of laborers, shopkeepers, and promenading ladies from his bay window, dreaming of a gilded molar sign. His one friend is Marcus Schouler; the street’s bustling life frames McTeague’s limited desires.",
+  "characters": [
+    {
+      "name": "McTeague",
+      "age": "approx. mid-20s to early 30s (young adult)",
+      "personality": "physically immense, slow-minded, docile, gourmand, simple and solitary",
+      "lifespan": "alive in the narrative excerpt; practicing dentist above Polk Street"
+    },
+    {
+      "name": "Marcus Schouler",
+      "age": "approx. similar to McTeague (young adult)",
+      "personality": "friendly, companionable, pal of McTeague; neighbor upstairs",
+      "lifespan": "alive and McTeague's one intimate friend in the excerpt"
+    },
+    {
+      "name": "Mrs. McTeague (mother)",
+      "age": "adult (middle-aged at death)",
+      "personality": "fiery, energetic, overworked, ambitious for her son",
+      "lifespan": "deceased; left McTeague a small inheritance that enabled his business"
+    },
+    {
+      "name": "McTeague's father",
+      "age": "adult (middle-aged at death)",
+      "personality": "hard-working shift-boss but given to alcohol and brutality",
+      "lifespan": "died, 'corroded with alcohol' and collapsed within hours"
+    },
+    {
+      "name": "Joe Frenna",
+      "age": "adult (saloon-keeper)",
+      "personality": "proprietor of a saloon; purveyor of steam beer",
+      "lifespan": "appears alive, sells McTeague beer in the scene"
+    },
+    {
+      "name": "Travelling dentist (the charlatan)",
+      "age": "adult",
+      "personality": "showy, opportunistic, more or less a charlatan who taught McTeague by example",
+      "lifespan": "visited the mine, taught McTeague, later left him to open his own practice"
+    },
+    {
+      "name": "Chinaman (cook at mine)",
+      "age": "adult",
+      "personality": "camp cook who assisted Mrs. McTeague in feeding miners",
+      "lifespan": "mentioned as helper in McTeague's youth"
+    },
+    {
+      "name": "Canary (bird)",
+      "age": "unknown (pet)",
+      "personality": "songster that wakes McTeague; a small household presence",
+      "lifespan": "alive and singing in McTeague's parlors"
+    },
+    {
+      "name": "Picnicking family (mother, father, young man, young girl, three children)",
+      "age": "adults and children (varied)",
+      "personality": "cheerful, typical Sunday picnickers passing on a cable car",
+      "lifespan": "briefly observed by McTeague during a Sunday scene"
+    },
+    {
+      "name": "Tamale men (vendors)",
+      "age": "adults (vendors)",
+      "personality": "street vendors who appear in evening crowds",
+      "lifespan": "appear in street tableau"
+    },
+    {
+      "name": "Salvationists (band)",
+      "age": "group of adults",
+      "personality": "religious singers who perform before a saloon",
+      "lifespan": "appear and sing in the street scene"
+    },
+    {
+      "name": "Newsboys",
+      "age": "children/young adolescents",
+      "personality": "lively, shouting evening papers",
+      "lifespan": "present as part of street life"
+    },
+    {
+      "name": "Butcher boys",
+      "age": "young workers",
+      "personality": "clientele of McTeague; part of neighborhood workforce",
+      "lifespan": "mentioned as regular customers"
+    },
+    {
+      "name": "Shop girls",
+      "age": "young women",
+      "personality": "employed in shops; part of Polk Street population",
+      "lifespan": "mentioned as part of his clientele"
+    },
+    {
+      "name": "Drug clerks",
+      "age": "young adults",
+      "personality": "clerical workers; neighborhood clientele",
+      "lifespan": "present in street scenes as part of population"
+    },
+    {
+      "name": "Car conductors / swing men (cable company)",
+      "age": "adults",
+      "personality": "workers who travel on cable cars, colleagues of McTeague's circle",
+      "lifespan": "appear throughout the street's daily life"
+    },
+    {
+      "name": "Plumbers' apprentices",
+      "age": "young adult laborers",
+      "personality": "straggling, physical laborers seen on the street",
+      "lifespan": "part of routine street panorama"
+    },
+    {
+      "name": "Chinese market gardeners",
+      "age": "adults",
+      "personality": "market workers bearing heavy baskets",
+      "lifespan": "observed by McTeague in the street crowd"
+    }
+  ],
+  "locations": [
+    {
+      "name": "San Francisco, California",
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    {
+      "name": "Polk Street, San Francisco (representative location near intersection with Union Street)",
+      "latitude": 37.8008,
+      "longitude": -122.4231
+    },
+    {
+      "name": "Placer County, California",
+      "latitude": 39.0916,
+      "longitude": -120.8039
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "lugubrious",
+      "definition": "mournfully dismal or gloomy",
+      "context": "the six lugubrious airs that he knew"
+    },
+    {
+      "word": "suet",
+      "definition": "raw beef or mutton fat used in cooking",
+      "context": "a sort of suet pudding, full of strong butter and sugar"
+    },
+    {
+      "word": "steam",
+      "definition": "here denotes a type of beer 'steam beer'",
+      "context": "a pitcher of steam beer"
+    },
+    {
+      "word": "porcelain",
+      "definition": "a ceramic material used here for a smoking pipe",
+      "context": "smoking his huge porcelain pipe"
+    },
+    {
+      "word": "concertina",
+      "definition": "a small accordion-like musical instrument",
+      "context": "taking down his concertina from the bookcase"
+    },
+    {
+      "word": "gorged",
+      "definition": "overfilled with food",
+      "context": "By and by, gorged with steam beer"
+    },
+    {
+      "word": "vises",
+      "definition": "mechanical tools used for gripping firmly",
+      "context": "strong as vises, the hands of the old-time car-boy"
+    },
+    {
+      "word": "carnivora",
+      "definition": "order of flesh-eating mammals; used figuratively",
+      "context": "the jaw salient, like that of the carnivora"
+    },
+    {
+      "word": "draught",
+      "definition": "draft; here 'draught horse' meaning draft/working horse",
+      "context": "Altogether he suggested the draught horse"
+    },
+    {
+      "word": "trundling",
+      "definition": "rolling or moving heavily",
+      "context": "trundling the heavy cars of ore"
+    },
+    {
+      "word": "bunk-house",
+      "definition": "housing for workers, a bunkhouse",
+      "context": "put up his tent near the bunk-house"
+    },
+    {
+      "word": "charlatan",
+      "definition": "a fraud or pretender, especially in medicine",
+      "context": "He was more or less of a charlatan"
+    },
+    {
+      "word": "drudge",
+      "definition": "a person who does tedious, menial work",
+      "context": "She was an overworked drudge"
+    },
+    {
+      "word": "corroded",
+      "definition": "worn away or destroyed, here by alcohol",
+      "context": "the father died, corroded with alcohol"
+    },
+    {
+      "word": "moulds",
+      "definition": "forms used to shape dental casts",
+      "context": "where he manufactured his moulds"
+    },
+    {
+      "word": "creosote",
+      "definition": "a chemical preservative with a strong odor",
+      "context": "the whole place exhaled a mingled odor of bedding, creosote, and ether"
+    },
+    {
+      "word": "ether",
+      "definition": "volatile anesthetic and solvent, here as smell",
+      "context": "odor of bedding, creosote, and ether"
+    },
+    {
+      "word": "pug",
+      "definition": "small dog breed; stone pug dog ornament",
+      "context": "a stone pug dog sitting before the little stove"
+    },
+    {
+      "word": "bed-lounge",
+      "definition": "a combined bed and lounge used as bedding furniture",
+      "context": "sleeping on the big bed-lounge against the wall"
+    },
+    {
+      "word": "washstand",
+      "definition": "a stand with basin for washing",
+      "context": "There was a washstand behind the screen"
+    },
+    {
+      "word": "engine",
+      "definition": "here dental engine, a mechanical dental tool",
+      "context": "his dental engine"
+    },
+    {
+      "word": "engraving",
+      "definition": "an image produced by engraving on metal or wood",
+      "context": "a steel engraving of the court of Lorenzo de' Medici"
+    },
+    {
+      "word": "Lorenzo de' Medici",
+      "definition": "historical Florentine ruler; used as subject of an engraving",
+      "context": "a steel engraving of the court of Lorenzo de' Medici"
+    },
+    {
+      "word": "marble-topped",
+      "definition": "having a top made of marble",
+      "context": "a small marble-topped centre table"
+    },
+    {
+      "word": "centre",
+      "definition": "British spelling of center; used in 'centre table'",
+      "context": "a small marble-topped centre table"
+    },
+    {
+      "word": "exhaled",
+      "definition": "gave off (a smell or vapor)",
+      "context": "The whole place exhaled a mingled odor"
+    },
+    {
+      "word": "gilded",
+      "definition": "covered with a thin layer of gold",
+      "context": "a huge gilded tooth"
+    },
+    {
+      "word": "molar",
+      "definition": "a large tooth at the back of the mouth",
+      "context": "a molar with enormous prongs"
+    },
+    {
+      "word": "prongs",
+      "definition": "projecting parts or tines",
+      "context": "a molar with enormous prongs"
+    },
+    {
+      "word": "Bull-like",
+      "definition": "resembling a bull in strength or movement",
+      "context": "Bull-like, he heaved himself laboriously up"
+    },
+    {
+      "word": "laboriously",
+      "definition": "with difficulty and effort",
+      "context": "he heaved himself laboriously up"
+    },
+    {
+      "word": "accommodation",
+      "definition": "here 'accommodation street' meaning a modest commercial/residential street",
+      "context": "Polk Street, an 'accommodation street' of small shops"
+    },
+    {
+      "word": "shock",
+      "definition": "a thick mass, here of hair",
+      "context": "carrying his huge shock of blond hair"
+    },
+    {
+      "word": "ponderously",
+      "definition": "in a heavy, slow manner",
+      "context": "moving his immense limbs... slowly, ponderously"
+    },
+    {
+      "word": "fell",
+      "definition": "archaic: a dense layer (here of hair)",
+      "context": "covered with a fell of stiff yellow hair"
+    },
+    {
+      "word": "mallets",
+      "definition": "heavy hammers",
+      "context": "hard as wooden mallets"
+    },
+    {
+      "word": "refractory",
+      "definition": "stubborn, resistant (a refractory tooth)",
+      "context": "extracted a refractory tooth with his thumb and finger"
+    },
+    {
+      "word": "salient",
+      "definition": "prominent or projecting",
+      "context": "the jaw salient, like that of the carnivora"
+    },
+    {
+      "word": "sluggish",
+      "definition": "slow-moving or inactive",
+      "context": "McTeague's mind was as his body, heavy, slow to act, sluggish"
+    },
+    {
+      "word": "docile",
+      "definition": "readily managed; submissive",
+      "context": "stupid, docile, obedient"
+    },
+    {
+      "word": "clientele",
+      "definition": "customers of a professional service",
+      "context": "collected a clientele of butcher boys, shop girls"
+    },
+    {
+      "word": "coffee-joint",
+      "definition": "informal place serving coffee and food",
+      "context": "the car conductors' coffee-joint on Polk Street"
+    },
+    {
+      "word": "saloon",
+      "definition": "a public house or bar",
+      "context": "stopped at Joe Frenna's saloon"
+    },
+    {
+      "word": "jostled",
+      "definition": "pushed or bumped against",
+      "context": "a strident whirring of jostled glass windows"
+    },
+    {
+      "word": "strident",
+      "definition": "loud, harsh, and grating",
+      "context": "a strident whirring"
+    },
+    {
+      "word": "acrid",
+      "definition": "having an irritatingly strong and unpleasant taste or smell",
+      "context": "An acrid odor of ink rose upward to him"
+    },
+    {
+      "word": "glittered",
+      "definition": "shone with a sparkling light",
+      "context": "the glass roof of some huge public baths glittered like crystal"
+    },
+    {
+      "word": "straggling",
+      "definition": "spread out in a scattered or untidy way",
+      "context": "the laborers went trudging past in a straggling file"
+    },
+    {
+      "word": "pasteboard",
+      "definition": "stiff paperboard; here used for lunch baskets",
+      "context": "little pasteboard lunch baskets painted to imitate leather"
+    },
+    {
+      "word": "overalls",
+      "definition": "protective garments worn by laborers",
+      "context": "their overalls soiled with yellow clay"
+    },
+    {
+      "word": "plasterers",
+      "definition": "workers who apply plaster to walls",
+      "context": "plasterers, spotted with lime from head to foot"
+    },
+    {
+      "word": "toilers",
+      "definition": "people who do hard work",
+      "context": "met and mingled with other toilers of a different description"
+    },
+    {
+      "word": "roundsmen",
+      "definition": "officers making rounds; police/official functionaries",
+      "context": "roundsmen returning to the precinct police station"
+    },
+    {
+      "word": "teetering",
+      "definition": "moving unsteadily",
+      "context": "Chinese market gardeners teetering past under their heavy baskets"
+    },
+    {
+      "word": "shutters",
+      "definition": "hinged coverings for windows or shop fronts",
+      "context": "taking down their shutters"
+    },
+    {
+      "word": "apprehensively",
+      "definition": "with anxiety or fear of something bad happening",
+      "context": "glancing apprehensively at the power-house clock"
+    },
+    {
+      "word": "whiskered",
+      "definition": "having facial whiskers or a mustache",
+      "context": "whiskered gentlemen with huge stomachs"
+    },
+    {
+      "word": "buttonholes",
+      "definition": "holes in clothing for buttons or places for flowers",
+      "context": "insurance clerks with flowers in their buttonholes"
+    },
+    {
+      "word": "clamor",
+      "definition": "a loud and confused noise",
+      "context": "filling the air with a clamor of shrill voices"
+    },
+    {
+      "word": "shrill",
+      "definition": "high-pitched and piercing",
+      "context": "a clamor of shrill voices"
+    },
+    {
+      "word": "idling",
+      "definition": "spending time doing nothing",
+      "context": "idling a moment in the doorways of the candy stores"
+    },
+    {
+      "word": "promenading",
+      "definition": "walking in a public place for pleasure",
+      "context": "the ladies... promenading the sidewalks leisurely"
+    },
+    {
+      "word": "daintily",
+      "definition": "in a delicate and careful manner",
+      "context": "gloved and veiled and daintily shod"
+    },
+    {
+      "word": "subservient",
+      "definition": "prepared to obey others unquestioningly",
+      "context": "the subservient provision men at their elbows"
+    },
+    {
+      "word": "scribbling",
+      "definition": "writing hastily or carelessly",
+      "context": "scribbling hastily in the order books"
+    },
+    {
+      "word": "impromptu",
+      "definition": "done without being planned",
+      "context": "little impromptu receptions were held"
+    },
+    {
+      "word": "mingled",
+      "definition": "mixed or combined",
+      "context": "a vast and prolonged murmur arose--the mingled shuffling of feet"
+    },
+    {
+      "word": "rattle",
+      "definition": "a rapid succession of short loud sounds",
+      "context": "the rattle of wheels"
+    },
+    {
+      "word": "murmur",
+      "definition": "a soft, indistinct sound made by a person or group",
+      "context": "a vast and prolonged murmur arose"
+    },
+    {
+      "word": "demoniac",
+      "definition": "possessed by or resembling a demon; fiendish",
+      "context": "the demoniac glare of the druggists' windows"
+    },
+    {
+      "word": "dazzling",
+      "definition": "extremely bright and impressive",
+      "context": "the dazzling blue whiteness of the electric globes"
+    },
+    {
+      "word": "furred",
+      "definition": "trimmed or lined with fur",
+      "context": "young girls in furred opera cloaks"
+    },
+    {
+      "word": "opera",
+      "definition": "here used adjectivally for 'opera cloaks' indicating theatrical dress",
+      "context": "furred opera cloaks"
+    },
+    {
+      "word": "harness-makers",
+      "definition": "craftsmen who make harnesses",
+      "context": "the dressmakers, the small doctors, the harness-makers"
+    },
+    {
+      "word": "tamale",
+      "definition": "a Mexican dish sold by street vendors",
+      "context": "The tamale men appeared"
+    },
+    {
+      "word": "Salvationists",
+      "definition": "members of the Salvation Army, religious street singers",
+      "context": "A band of Salvationists began to sing"
+    },
+    {
+      "word": "solitude",
+      "definition": "state of being alone",
+      "context": "Polk Street dropped back to solitude"
+    },
+    {
+      "word": "abrupt",
+      "definition": "sudden and unexpected",
+      "context": "leaving an abrupt silence in the air"
+    },
+    {
+      "word": "persistent",
+      "definition": "continuing firmly despite difficulty",
+      "context": "the persistent calling of ducks and geese"
+    },
+    {
+      "word": "footfalls",
+      "definition": "the sound of someone's footsteps",
+      "context": "the occasional footfalls of a policeman"
+    },
+    {
+      "word": "panorama",
+      "definition": "an extensive view in all directions",
+      "context": "Day after day, McTeague saw the same panorama unroll itself"
+    },
+    {
+      "word": "vantage",
+      "definition": "a position giving a strategic advantage or view",
+      "context": "The bay window... was for him a point of vantage"
+    },
+    {
+      "word": "finery",
+      "definition": "expensive or showy clothing",
+      "context": "dressed in cheap Sunday finery"
+    },
+    {
+      "word": "picnickers",
+      "definition": "people enjoying an outing and meal outdoors",
+      "context": "on the outside seats were a party of returning picnickers"
+    },
+    {
+      "word": "wilting",
+      "definition": "becoming limp from lack of moisture; drooping",
+      "context": "a huge bunch of wilting poppies"
+    },
+    {
+      "word": "poppies",
+      "definition": "bright red flowering plants",
+      "context": "the girl carried a huge bunch of wilting poppies and wild flowers"
+    },
+    {
+      "word": "platform",
+      "definition": "raised area for boarding or alighting a car",
+      "context": "the young man got up and swung himself off the platform"
+    },
+    {
+      "word": "recognized",
+      "definition": "identified someone seen before",
+      "context": "Suddenly McTeague recognized him"
+    },
+    {
+      "word": "mustache",
+      "definition": "facial hair grown on the upper lip",
+      "context": "wiped his lips and huge yellow mustache with the side of his hand"
+    },
+    {
+      "word": "muttered",
+      "definition": "spoke in a low or barely audible voice",
+      "context": "'There's Marcus Schouler,' he muttered behind his mustache"
+    },
+    {
+      "word": "underdone",
+      "definition": "not cooked thoroughly",
+      "context": "heavy, underdone meat"
+    },
+    {
+      "word": "coke",
+      "definition": "a fuel made from coal used for stoves",
+      "context": "having crammed his little stove full of coke"
+    },
+    {
+      "word": "crop-full",
+      "definition": "archaic/slang: full to the crop; overfilled",
+      "context": "crop-full, stupid, and warm"
+    },
+    {
+      "word": "mournful",
+      "definition": "feeling or expressing sorrow",
+      "context": "played upon it some half-dozen very mournful airs"
+    },
+    {
+      "word": "gilt",
+      "definition": "covered thinly with gold leaf or gold paint",
+      "context": "his canary bird, in its gilt cage"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/165"
+}
