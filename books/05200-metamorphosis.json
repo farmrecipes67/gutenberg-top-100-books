@@ -1,0 +1,446 @@
+{
+  "gutenberg_id": 5200,
+  "title": "Metamorphosis",
+  "author": "Kafka, Franz",
+  "summary": "Gregor Samsa wakes to find himself transformed into a large insect, lying on his armour-like back, unable to sleep on his right side or use human limbs. He panics, inspects his domed belly and many small legs, and worries about missing his train and angering his employer. His family knocks and calls but he cannot open the locked door; he hears the maid and the chief clerk arrive. He struggles to free himself from the bed, remembers occupational hardships, and fears the consequences of reporting sick, tracing embarrassment, isolation, and alienation finally.",
+  "characters": [
+    {
+      "name": "Gregor Samsa",
+      "age": "estimated late 20s–early 30s",
+      "personality": "dutiful, anxious, introspective; preoccupied with work and family obligations",
+      "lifespan": "In the excerpt he awakens transformed into a vermin and remains trapped and struggling; fate beyond this scene is not shown in the provided text."
+    },
+    {
+      "name": "his mother",
+      "age": "estimated 50s",
+      "personality": "gentle, concerned, anxious for Gregor",
+      "lifespan": "In the excerpt she calls to Gregor and retreats satisfied by his reply; no further fate shown in excerpt."
+    },
+    {
+      "name": "his father",
+      "age": "estimated 50s–60s",
+      "personality": "stern, authoritative, somewhat blustering",
+      "lifespan": "In the excerpt he knocks and in part returns to his breakfast; further outcome not shown."
+    },
+    {
+      "name": "his sister",
+      "age": "estimated late teens–early 20s",
+      "personality": "concerned, pleading, attentive to household matters",
+      "lifespan": "In the excerpt she begs Gregor to open the door and whispers to him; later fate not shown."
+    },
+    {
+      "name": "the maid",
+      "age": "adult (unspecified)",
+      "personality": "practical, accustomed to household routine",
+      "lifespan": "In the excerpt she opens the outer door for the visitor; no further fate shown."
+    },
+    {
+      "name": "the chief clerk",
+      "age": "adult (unspecified)",
+      "personality": "official, disapproving, inquisitive about Gregor’s absence",
+      "lifespan": "In the excerpt he visits the flat to check on Gregor; later outcome not shown."
+    },
+    {
+      "name": "the office assistant",
+      "age": "adult (unspecified)",
+      "personality": "described as spineless and unsympathetic",
+      "lifespan": "Mentioned as a likely reporter of Gregor's absence; no direct action in excerpt."
+    },
+    {
+      "name": "the boss",
+      "age": "adult (unspecified)",
+      "personality": "authoritative, difficult, hard of hearing (described by Gregor)",
+      "lifespan": "Referred to as employer whose anger Gregor fears; does not appear in excerpt."
+    },
+    {
+      "name": "the doctor from the medical insurance company",
+      "age": "adult (unspecified)",
+      "personality": "consultative, sceptical (as recounted by Gregor)",
+      "lifespan": "Mentioned hypothetically as likely to be brought by the boss; not present in the excerpt."
+    }
+  ],
+  "locations": [],
+  "unusual_words": [
+    {
+      "word": "vermin",
+      "definition": "a contemptible or loathsome creature; pest insect",
+      "context": "\"transformed in his bed into a horrible vermin.\""
+    },
+    {
+      "word": "armour-like",
+      "definition": "resembling armour; hard and protective in appearance",
+      "context": "\"He lay on his armour-like back\""
+    },
+    {
+      "word": "domed",
+      "definition": "shaped like a dome, rounded",
+      "context": "\"he could see his brown belly, slightly domed\""
+    },
+    {
+      "word": "arches",
+      "definition": "curved structures or segments",
+      "context": "\"divided by arches into stiff sections\""
+    },
+    {
+      "word": "pitifully",
+      "definition": "in a way that arouses pity; miserably",
+      "context": "\"His many legs, pitifully thin\""
+    },
+    {
+      "word": "floundering",
+      "definition": "struggling awkwardly to move or obtain footing",
+      "context": "\"as he looked... his legs... waved about helplessly\" (described as floundering legs)"
+    },
+    {
+      "word": "textile",
+      "definition": "a fabric or cloth material",
+      "context": "\"A collection of textile samples lay spread out on the table\""
+    },
+    {
+      "word": "samples",
+      "definition": "representative pieces used for display or testing",
+      "context": "\"textile samples\""
+    },
+    {
+      "word": "gilded",
+      "definition": "covered thinly with gold leaf or gold paint; ornamented",
+      "context": "\"a nice, gilded frame\""
+    },
+    {
+      "word": "muff",
+      "definition": "a fur hand-warmer; tubular winter accessory",
+      "context": "\"raising a heavy fur muff\""
+    },
+    {
+      "word": "pane",
+      "definition": "a single sheet of glass in a window",
+      "context": "\"Drops of rain could be heard hitting the pane\""
+    },
+    {
+      "word": "shudder",
+      "definition": "a convulsive trembling from fear or cold",
+      "context": "\"he was overcome by a cold shudder\""
+    },
+    {
+      "word": "itch",
+      "definition": "an uncomfortable sensation on the skin causing a desire to scratch",
+      "context": "\"He felt a slight itch up on his belly\""
+    },
+    {
+      "word": "squeaking",
+      "definition": "making a short, high-pitched sound",
+      "context": "\"there was a painful and uncontrollable squeaking mixed in with it\" (his voice)"
+    },
+    {
+      "word": "echo",
+      "definition": "a reflected sound that is heard again",
+      "context": "\"there was a sort of echo which made them unclear\""
+    },
+    {
+      "word": "enunciating",
+      "definition": "pronouncing words clearly",
+      "context": "\"enunciating very carefully\""
+    },
+    {
+      "word": "cautious",
+      "definition": "careful to avoid potential problems or danger",
+      "context": "\"there was a cautious knock at the door\""
+    },
+    {
+      "word": "shuffled",
+      "definition": "moved with dragging or sliding steps",
+      "context": "\"his mother... shuffled away\""
+    },
+    {
+      "word": "plaintively",
+      "definition": "in a sorrowful or mournful way",
+      "context": "\"his sister came plaintively\""
+    },
+    {
+      "word": "habit",
+      "definition": "a regular practice or routine",
+      "context": "\"his cautious habit, acquired from his travelling\""
+    },
+    {
+      "word": "headboard",
+      "definition": "the upright board at the head of a bed",
+      "context": "\"pushed himself slowly up on his back towards the headboard\""
+    },
+    {
+      "word": "swinging",
+      "definition": "moving back and forth or from side to side",
+      "context": "\"set himself to the task of swinging the entire length of his body out of the bed\""
+    },
+    {
+      "word": "swang",
+      "definition": "archaic or dialect past tense of swing; swung",
+      "context": "\"as he swang over onto the floor\""
+    },
+    {
+      "word": "carpet",
+      "definition": "a floor covering made from thick woven fabric",
+      "context": "\"nothing would happen to it falling onto the carpet\""
+    },
+    {
+      "word": "firm",
+      "definition": "strong or resolute; also a business concern",
+      "context": "\"the maid’s firm steps went to the door\""
+    },
+    {
+      "word": "chief",
+      "definition": "principal or most important",
+      "context": "\"the chief clerk himself\""
+    },
+    {
+      "word": "clerk",
+      "definition": "an office worker who handles records or routine correspondence",
+      "context": "\"the chief clerk himself\""
+    },
+    {
+      "word": "spineless",
+      "definition": "lacking courage, will, or backbone; cowardly",
+      "context": "\"The office assistant was the boss’s man, spineless\""
+    },
+    {
+      "word": "suspicious",
+      "definition": "inclined to suspect or distrust",
+      "context": "\"that would be extremely strained and suspicious\""
+    },
+    {
+      "word": "workshy",
+      "definition": "reluctant to work; lazy (often used in social judgments)",
+      "context": "\"the doctor believed that no-one was ever ill but that many were workshy\""
+    },
+    {
+      "word": "occupational",
+      "definition": "relating to a job or profession",
+      "context": "\"an occupational hazard for travelling salesmen\""
+    },
+    {
+      "word": "hazard",
+      "definition": "a danger or risk",
+      "context": "\"occupational hazard\""
+    },
+    {
+      "word": "guest",
+      "definition": "a person lodging at an inn or with hosts",
+      "context": "\"when I go back to the guest house during the morning\""
+    },
+    {
+      "word": "house",
+      "definition": "building for human habitation",
+      "context": "\"guest house\""
+    },
+    {
+      "word": "contract",
+      "definition": "a written agreement",
+      "context": "\"copy out the contract\""
+    },
+    {
+      "word": "luxury",
+      "definition": "the state of great comfort and extravagant living",
+      "context": "\"Other travelling salesmen live a life of luxury\""
+    },
+    {
+      "word": "connections",
+      "definition": "links or junctions, here referring to train connections",
+      "context": "``worries about making train connections''"
+    },
+    {
+      "word": "irregular",
+      "definition": "not regular or consistent",
+      "context": "\"bad and irregular food\""
+    },
+    {
+      "word": "contact",
+      "definition": "interaction or communication with others",
+      "context": "\"contact with different people all the time\""
+    },
+    {
+      "word": "pangs",
+      "definition": "sudden sharp feelings of pain or distress",
+      "context": "\"go so mad with pangs of conscience\""
+    },
+    {
+      "word": "conscience",
+      "definition": "a sense of moral right and wrong",
+      "context": "\"pangs of conscience\""
+    },
+    {
+      "word": "report",
+      "definition": "to give information about something to authority",
+      "context": "\"the office assistant would have put in his report about Gregor’s not being there\""
+    },
+    {
+      "word": "sick",
+      "definition": "ill or unwell",
+      "context": "\"What about if he reported sick?\""
+    },
+    {
+      "word": "insurance",
+      "definition": "a system of protection against financial loss",
+      "context": "\"doctor from the medical insurance company\""
+    },
+    {
+      "word": "medical",
+      "definition": "relating to medicine or the treatment of disease",
+      "context": "\"medical insurance company\""
+    },
+    {
+      "word": "alarm",
+      "definition": "a device that signals a time or warns",
+      "context": "\"alarm clock\""
+    },
+    {
+      "word": "clock",
+      "definition": "a timekeeping device",
+      "context": "\"the alarm clock, ticking on the chest of drawers\""
+    },
+    {
+      "word": "drawers",
+      "definition": "a piece of furniture with sliding compartments",
+      "context": "\"chest of drawers\""
+    },
+    {
+      "word": "quarter",
+      "definition": "a quarter of an hour; fifteen minutes",
+      "context": "\"the clock struck quarter to seven\""
+    },
+    {
+      "word": "knock",
+      "definition": "to strike a surface to attract attention",
+      "context": " \"There was a cautious knock at the door\""
+    },
+    {
+      "word": "voice",
+      "definition": "the sound produced by a person speaking",
+      "context": "\"Gregor was shocked when he heard his own voice answering\""
+    },
+    {
+      "word": "answering",
+      "definition": "responding to a question or call",
+      "context": "\"his own voice answering\""
+    },
+    {
+      "word": "recognised",
+      "definition": "identified something known previously",
+      "context": "\"it could hardly be recognised as the voice he had had before\""
+    },
+    {
+      "word": "deep",
+      "definition": "extending far down from the top or surface; used figuratively",
+      "context": "\"As if from deep inside him\""
+    },
+    {
+      "word": "contented",
+      "definition": "satisfied; pleased",
+      "context": "\"contented himself with saying\""
+    },
+    {
+      "word": "explanation",
+      "definition": "a statement that makes something clear",
+      "context": "\"the mother was satisfied with this explanation\""
+    },
+    {
+      "word": "shut",
+      "definition": "closed",
+      "context": "\"shut his eyes so that he wouldn’t have to look\""
+    },
+    {
+      "word": "flounder",
+      "definition": "to struggle clumsily or helplessly",
+      "context": "used describing his legs as floundering"
+    },
+    {
+      "word": "bent",
+      "definition": "curved or inclined",
+      "context": "\"If he wanted to bend one of them\" (a leg)"
+    },
+    {
+      "word": "sensitive",
+      "definition": "easily affected or responsive to stimuli",
+      "context": "\"the lower part of his body might well, at present, be the most sensitive\""
+    },
+    {
+      "word": "frenzy",
+      "definition": "a state of uncontrolled excitement or wild behavior",
+      "context": "\"almost in a frenzy, when he carelessly shoved himself forwards\""
+    },
+    {
+      "word": "injured",
+      "definition": "physically harmed",
+      "context": "\"it would be a miracle if his head were not injured\""
+    },
+    {
+      "word": "consciousness",
+      "definition": "the state of being awake and aware of one's surroundings",
+      "context": "\"And he could not knock himself out now at any price; better to stay in bed than lose consciousness\""
+    },
+    {
+      "word": "chaos",
+      "definition": "complete disorder and confusion",
+      "context": "\"no way of bringing peace and order to this chaos\""
+    },
+    {
+      "word": "calm",
+      "definition": "peaceful, without agitation",
+      "context": "\"calm consideration was much better than rushing\""
+    },
+    {
+      "word": "fog",
+      "definition": "thick cloud of condensed moisture reducing visibility",
+      "context": "\"the other side of the narrow street was enveloped in morning fog\""
+    },
+    {
+      "word": "narrow",
+      "definition": "of small width; confined",
+      "context": "\"other side of the narrow street\""
+    },
+    {
+      "word": "expectations",
+      "definition": "beliefs about what will happen",
+      "context": "\"against their expectations he was still at home\""
+    },
+    {
+      "word": "stagger",
+      "definition": "to move unsteadily",
+      "context": "implied by his difficulty getting out of bed"
+    },
+    {
+      "word": "risked",
+      "definition": "exposed to danger or harm",
+      "context": "\"The loud noise ... was something that had to be risked\""
+    },
+    {
+      "word": "final",
+      "definition": "coming at the end; last",
+      "context": "\"he would have to make a final decision very soon\""
+    },
+    {
+      "word": "visitor",
+      "definition": "someone who comes to see another",
+      "context": "\"That’ll be someone from work... he said to himself\""
+    },
+    {
+      "word": "open",
+      "definition": "allowing access; not closed",
+      "context": "\"they’re not opening the door\""
+    },
+    {
+      "word": "steps",
+      "definition": "foot movements; here meaning footsteps",
+      "context": "\"the maid’s firm steps went to the door\""
+    },
+    {
+      "word": "greetings",
+      "definition": "polite words of welcome",
+      "context": "\"Gregor only needed to hear the visitor’s first words of greeting\""
+    },
+    {
+      "word": "condemned",
+      "definition": "declared to be guilty or judged harshly",
+      "context": "\"Why did Gregor have to be the only one condemned to work for a company\""
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/5200"
+}
