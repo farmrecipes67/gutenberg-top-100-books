@@ -1,0 +1,714 @@
+{
+  "gutenberg_id": 8492,
+  "title": "The King in Yellow",
+  "author": "Chambers, Robert W. (Robert William)",
+  "summary": "Set in an altered near-future America, a narrator recovers from a fall and describes national reforms, the sinister spread of a banned play, The King in Yellow, and the opening of a government Lethal Chamber. Haunted by the play’s second act, the narrator recalls reading it and seeing Carcosa and the pallid mask. At Washington Square the narrator witnesses the Chamber’s inauguration amid military spectacle. He later visits Hawberk’s armourer shop, meeting Constance and her father, and mentions friends and officials. The narrative blends civic satire, eerie literature-induced obsession, and hints of personal and social decay, and mounting uncanny dread.",
+  "characters": [
+    {
+      "name": "Mr. Castaigne",
+      "age": "mid-20s to 30s (estimated)",
+      "personality": "former idle young man turned ambitious, literary, prone to obsession",
+      "lifespan": "alive in narrative; survives fall and reads the play; haunted by its images"
+    },
+    {
+      "name": "Dr. Archer",
+      "age": "50s (estimated)",
+      "personality": "practical physician, proprietor of a private asylum",
+      "lifespan": "alive; treated narrator and released him"
+    },
+    {
+      "name": "Louis Castaigne",
+      "age": "young adult (estimated)",
+      "personality": "romantic interest of Constance; cousin to narrator",
+      "lifespan": "alive; expected by Constance"
+    },
+    {
+      "name": "Constance (Hawberk's daughter)",
+      "age": "young woman (estimated early 20s)",
+      "personality": "pleasant, affectionate, shy; in love with Louis",
+      "lifespan": "alive; meets narrator in armourer shop"
+    },
+    {
+      "name": "Hawberk",
+      "age": "older artisan (estimated 50s-60s)",
+      "personality": "hearty, skilled armourer, fond of craft",
+      "lifespan": "alive; working in his shop repairing armour"
+    },
+    {
+      "name": "Governor (of New York)",
+      "age": "middle-aged to elderly (estimated)",
+      "personality": "ceremonial, authoritative; presides over Lethal Chamber opening",
+      "lifespan": "alive; gives public declaration at inauguration"
+    },
+    {
+      "name": "Mayor (of New York and Brooklyn)",
+      "age": "middle-aged (estimated)",
+      "personality": "municipal official present at ceremony",
+      "lifespan": "alive; present at inauguration"
+    },
+    {
+      "name": "Inspector-General of Police",
+      "age": "middle-aged (estimated)",
+      "personality": "senior police official",
+      "lifespan": "alive; present at inauguration"
+    },
+    {
+      "name": "Commandant of the state troops",
+      "age": "middle-aged (estimated)",
+      "personality": "military commander",
+      "lifespan": "alive; present at inauguration"
+    },
+    {
+      "name": "Colonel Livingston",
+      "age": "middle-aged (estimated)",
+      "personality": "military aide to the President",
+      "lifespan": "alive; mentioned among officials"
+    },
+    {
+      "name": "General Blount",
+      "age": "senior officer (estimated)",
+      "personality": "commander at Governor's Island",
+      "lifespan": "alive; present at inauguration"
+    },
+    {
+      "name": "Major-General Hamilton",
+      "age": "senior officer (estimated)",
+      "personality": "commander of the garrison of New York and Brooklyn",
+      "lifespan": "alive; present at inauguration"
+    },
+    {
+      "name": "Admiral Buffby",
+      "age": "senior naval officer (estimated)",
+      "personality": "naval commander",
+      "lifespan": "alive; present at inauguration"
+    },
+    {
+      "name": "Surgeon-General Lanceford",
+      "age": "senior medical official (estimated)",
+      "personality": "medical authority; gave introductory speech",
+      "lifespan": "alive; presides in health capacity"
+    },
+    {
+      "name": "Senator Wyse",
+      "age": "middle-aged to senior (estimated)",
+      "personality": "political figure",
+      "lifespan": "alive; present at inauguration"
+    },
+    {
+      "name": "Senator Franklin",
+      "age": "middle-aged to senior (estimated)",
+      "personality": "political figure",
+      "lifespan": "alive; present at inauguration"
+    },
+    {
+      "name": "Commissioner of Public Works",
+      "age": "middle-aged (estimated)",
+      "personality": "municipal administrator",
+      "lifespan": "alive; present at inauguration"
+    },
+    {
+      "name": "Boris Yvain",
+      "age": "deceased at 23 (given)",
+      "personality": "young American sculptor of promise",
+      "lifespan": "died in Paris at twenty-three; his work stands before the Chamber"
+    },
+    {
+      "name": "General Von Gartenlaube",
+      "age": "military (unspecified)",
+      "personality": "invasive German general mentioned in past conflict",
+      "lifespan": "alive in historical reference; led invading forces earlier"
+    },
+    {
+      "name": "President Winthrop",
+      "age": "in office (unspecified)",
+      "personality": "national leader in the narrative's near-future history",
+      "lifespan": "alive in narrative history; credited with earlier policies"
+    },
+    {
+      "name": "Author of The King in Yellow (unnamed)",
+      "age": "unspecified",
+      "personality": "creator of the dangerous play; described as having cursed the world",
+      "lifespan": "alive or recently active; unnamed in excerpt, blamed for spreading the play"
+    }
+  ],
+  "locations": [
+    {
+      "name": "United States",
+      "latitude": 39.8283,
+      "longitude": -98.5795
+    },
+    {
+      "name": "New York City",
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    {
+      "name": "Washington Square Park (Washington Square)",
+      "latitude": 40.730823,
+      "longitude": -73.997332
+    },
+    {
+      "name": "Madison Avenue (Manhattan, NYC)",
+      "latitude": 40.7648,
+      "longitude": -73.9731
+    },
+    {
+      "name": "Bleecker Street (Greenwich Village, NYC)",
+      "latitude": 40.725,
+      "longitude": -74
+    },
+    {
+      "name": "University Place (Greenwich Village, NYC)",
+      "latitude": 40.732,
+      "longitude": -73.998
+    },
+    {
+      "name": "Wooster Street (SoHo, NYC)",
+      "latitude": 40.723,
+      "longitude": -74
+    },
+    {
+      "name": "Governor's Island",
+      "latitude": 40.6895,
+      "longitude": -74.0168
+    },
+    {
+      "name": "North River (Hudson River, Manhattan frontage)",
+      "latitude": 40.7128,
+      "longitude": -74.0131
+    },
+    {
+      "name": "Chicago",
+      "latitude": 41.8781,
+      "longitude": -87.6298
+    },
+    {
+      "name": "Norfolk (Virginia)",
+      "latitude": 36.8508,
+      "longitude": -76.2859
+    },
+    {
+      "name": "Samoa (Pago Pago, American Samoa)",
+      "latitude": -14.2756,
+      "longitude": -170.702
+    },
+    {
+      "name": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "London",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "New Jersey (state centroid)",
+      "latitude": 40.0583,
+      "longitude": -74.4057
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Ne",
+      "definition": "French negation 'not'",
+      "context": "Opening of the French aphorism 'Ne raillons pas les fous...'"
+    },
+    {
+      "word": "raillons",
+      "definition": "French verb 'let us ridicule' (first person plural subjunctive)",
+      "context": "Part of French sentence 'Ne raillons pas les fous' quoted at start"
+    },
+    {
+      "word": "pas",
+      "definition": "French word 'not' or 'step' depending on context",
+      "context": "Appears in the quoted French phrase at the chapter opening"
+    },
+    {
+      "word": "les",
+      "definition": "French definite article 'the' (plural)",
+      "context": "Used in the French sentence 'les fous' in the epigraph"
+    },
+    {
+      "word": "fous",
+      "definition": "French for 'madmen' or 'the mad'",
+      "context": "Used in the French epigraph: 'les fous'"
+    },
+    {
+      "word": "programme",
+      "definition": "British spelling of 'program'; plan or policy",
+      "context": "Describes the Government's completed programme in 1920"
+    },
+    {
+      "word": "Winthrop",
+      "definition": "Proper name (fictional President in the narrative)",
+      "context": "Mentioned as President during whose administration measures were adopted"
+    },
+    {
+      "word": "Tariff",
+      "definition": "Tax or schedule of duties on imports/exports",
+      "context": "One of the major national questions settled in the narrative's history"
+    },
+    {
+      "word": "Labour",
+      "definition": "British spelling of 'Labor'; work or labor issues",
+      "context": "Listed among settled national questions in the text"
+    },
+    {
+      "word": "Samoan",
+      "definition": "Adjective relating to Samoa or its people",
+      "context": "Reference to Germany's seizure of the Samoan Islands"
+    },
+    {
+      "word": "Samoa",
+      "definition": "Group of islands in the central South Pacific",
+      "context": "Mentioned as territory acquired and used as a coaling station"
+    },
+    {
+      "word": "coaling",
+      "definition": "Supplying with coal; used for refueling steamships",
+      "context": "Describes Samoa's value 'as a coaling station'"
+    },
+    {
+      "word": "Prussian",
+      "definition": "Relating to Prussia or its military/organizational model",
+      "context": "The army was organized according to the Prussian system"
+    },
+    {
+      "word": "quays",
+      "definition": "Plural of quay, a platform lying alongside water for loading/unloading",
+      "context": "A long system of stone quays surrounded the island"
+    },
+    {
+      "word": "subsidizing",
+      "definition": "Providing financial support from public funds",
+      "context": "The subsidizing of the state theatre and state opera"
+    },
+    {
+      "word": "portfolio",
+      "definition": "A minister's department or range of responsibilities",
+      "context": "The Secretary of Fine Arts' portfolio is mentioned"
+    },
+    {
+      "word": "Forestry",
+      "definition": "Management and conservation of forests",
+      "context": "Part of the cabinet position 'Secretary of Forestry and Game Preservation'"
+    },
+    {
+      "word": "Preservation",
+      "definition": "Act of preserving; keeping something in its original state",
+      "context": "Used in the office title 'Game Preservation'"
+    },
+    {
+      "word": "Mounted",
+      "definition": "On horseback; applied to police or troops",
+      "context": "The new system of National Mounted Police"
+    },
+    {
+      "word": "Anarchy",
+      "definition": "State of disorder due to absence of government",
+      "context": "Used to describe political upheavals in several European countries"
+    },
+    {
+      "word": "Caucasus",
+      "definition": "Mountain region between the Black and Caspian Seas; used geographically",
+      "context": "Russia watching from the Caucasus is mentioned"
+    },
+    {
+      "word": "Carcosa",
+      "definition": "Fictional, eerie city invoked in the play within the book",
+      "context": "Repeated in poem and the narrator's haunting visions"
+    },
+    {
+      "word": "black",
+      "definition": "Dark in color; here used poetically",
+      "context": "In the poem: 'black stars hang in the heavens'"
+    },
+    {
+      "word": "Hyades",
+      "definition": "A star cluster in Taurus; used in the poem",
+      "context": "Mentioned in the poem's lines about songs the Hyades shall sing"
+    },
+    {
+      "word": "twin",
+      "definition": "One of two identical or paired things",
+      "context": "Refers to the 'twin suns' sinking behind the lake of Hali"
+    },
+    {
+      "word": "Hali",
+      "definition": "Fictional lake associated with Carcosa in the play",
+      "context": "The twin suns sink into the lake of Hali in the poem"
+    },
+    {
+      "word": "Cassilda",
+      "definition": "Proper name from the play; speaker of the quoted song",
+      "context": "Cassilda's Song heading the collection 'The King in Yellow'"
+    },
+    {
+      "word": "tatters",
+      "definition": "Shreds or torn pieces, often of cloth",
+      "context": "Poem imagery: 'Where flap the tatters of the King'"
+    },
+    {
+      "word": "Pallid",
+      "definition": "Pale, wan; used as epithet",
+      "context": "Narrator is haunted by the 'Pallid Mask'"
+    },
+    {
+      "word": "Mask",
+      "definition": "A covering for the face; here symbolic",
+      "context": "The 'Pallid Mask' is a memorable image from the play"
+    },
+    {
+      "word": "Dim",
+      "definition": "Faint or obscure; capitalized in 'Dim Carcosa'",
+      "context": "Poetic line ends 'Die thou, unsung, as tears unshed / Shall dry and die in / Lost Carcosa' and uses 'Dim Carcosa' in the poem header"
+    },
+    {
+      "word": "banality",
+      "definition": "The quality of being unoriginal or trivial",
+      "context": "The text calls the first act's banality part of the play's power"
+    },
+    {
+      "word": "innocence",
+      "definition": "Freedom from guilt or moral wrong; naïveté",
+      "context": "The play's innocence in the first act makes later effects more shocking"
+    },
+    {
+      "word": "confiscated",
+      "definition": "Seized by authority",
+      "context": "Translated copies were seized or confiscated in Paris"
+    },
+    {
+      "word": "censured",
+      "definition": "Expressed severe disapproval",
+      "context": "The play was 'censured even by the most advanced of literary anarchists'"
+    },
+    {
+      "word": "denounced",
+      "definition": "Formally declared unacceptable; publicly condemned",
+      "context": "Described as 'denounced by Press and pulpit'"
+    },
+    {
+      "word": "dismantling",
+      "definition": "Taking apart or removing structures",
+      "context": "The dismantling of the Elevated Railroads in New York"
+    },
+    {
+      "word": "Elevated",
+      "definition": "Raised above ground level; refers to elevated railroads",
+      "context": "The Elevated Railroads were dismantled"
+    },
+    {
+      "word": "paralyzed",
+      "definition": "Rendered immobile or inactive",
+      "context": "Chicago was 'for a moment paralyzed' after a great fire"
+    },
+    {
+      "word": "Dodge",
+      "definition": "Proper name associated with a statue mentioned in the text",
+      "context": "The Dodge Statue was removed in the year noted"
+    },
+    {
+      "word": "Statue",
+      "definition": "A carved or cast figure in stone or metal",
+      "context": "Mentioned as the Dodge Statue being removed"
+    },
+    {
+      "word": "repeal",
+      "definition": "To revoke or annul a law",
+      "context": "The repeal of laws prohibiting suicide is recounted"
+    },
+    {
+      "word": "suicide",
+      "definition": "The act of intentionally ending one's own life",
+      "context": "Laws prohibiting suicide were repealed and public Lethal Chambers established"
+    },
+    {
+      "word": "Lethal",
+      "definition": "Causing death",
+      "context": "Used in the institutional name 'Lethal Chamber'"
+    },
+    {
+      "word": "Chamber",
+      "definition": "A room or enclosed space; here institutional",
+      "context": "The Government Lethal Chamber inaugurated on Washington Square"
+    },
+    {
+      "word": "Washington",
+      "definition": "Proper name (Washington Square in NYC)",
+      "context": "The Lethal Chamber was on Washington Square"
+    },
+    {
+      "word": "Square",
+      "definition": "An open public space in a city",
+      "context": "Washington Square is the park where the Chamber stands"
+    },
+    {
+      "word": "gilded",
+      "definition": "Covered thinly with gold or given a golden appearance",
+      "context": "The block enclosing the garden had a gilded iron railing"
+    },
+    {
+      "word": "railing",
+      "definition": "A metal fence or barrier",
+      "context": "A gilded iron railing enclosed the garden"
+    },
+    {
+      "word": "Ionic",
+      "definition": "Relating to the Ionic order of classical architecture",
+      "context": "Six Ionic columns supported the Lethal Chamber's roof"
+    },
+    {
+      "word": "bronze",
+      "definition": "Alloy of copper and tin; used for durable objects",
+      "context": "The single door of the Chamber was of bronze"
+    },
+    {
+      "word": "marble",
+      "definition": "A metamorphic rock often used for sculpture",
+      "context": "A splendid marble group of the 'Fates' stood before the door"
+    },
+    {
+      "word": "Fates",
+      "definition": "Mythological figures controlling destiny",
+      "context": "The sculptural group before the Chamber is titled 'Fates'"
+    },
+    {
+      "word": "Boris",
+      "definition": "Given name; here of a sculptor",
+      "context": "The young American sculptor Boris Yvain created the Fates group"
+    },
+    {
+      "word": "Yvain",
+      "definition": "Surname of the sculptor mentioned",
+      "context": "Boris Yvain is credited with the work and noted as deceased"
+    },
+    {
+      "word": "hussars",
+      "definition": "Light cavalry troops historically of Hungarian origin",
+      "context": "A squadron of United States hussars surrounded the tribune"
+    },
+    {
+      "word": "lancers",
+      "definition": "Cavalry soldiers armed with lances",
+      "context": "A regiment of lancers was drawn up around the Lethal Chamber"
+    },
+    {
+      "word": "tribune",
+      "definition": "A raised platform for public speakers",
+      "context": "A raised tribune faced Washington Park during the inauguration"
+    },
+    {
+      "word": "Governor",
+      "definition": "The chief executive of a state",
+      "context": "The Governor of New York spoke at the ceremony"
+    },
+    {
+      "word": "Inspector-General",
+      "definition": "A senior official charged with inspection duties",
+      "context": "The Inspector-General of Police was listed among officials present"
+    },
+    {
+      "word": "Mayor",
+      "definition": "Elected chief of a city government",
+      "context": "The Mayor of New York and Brooklyn was present"
+    },
+    {
+      "word": "Commandant",
+      "definition": "Officer in charge of a body of troops",
+      "context": "The Commandant of the state troops attended the inauguration"
+    },
+    {
+      "word": "Colonel",
+      "definition": "Senior military rank",
+      "context": "Colonel Livingston is named as a military aide"
+    },
+    {
+      "word": "Blount",
+      "definition": "Proper name; surname of a general",
+      "context": "General Blount is identified as commanding at Governor's Island"
+    },
+    {
+      "word": "Hamilton",
+      "definition": "Surname of the Major-General mentioned",
+      "context": "Major-General Hamilton commanded the garrison of New York and Brooklyn"
+    },
+    {
+      "word": "Admiral",
+      "definition": "Senior naval officer rank",
+      "context": "Admiral Buffby of the fleet in the North River was present"
+    },
+    {
+      "word": "Buffby",
+      "definition": "Surname of the admiral",
+      "context": "Admiral Buffby commanded the fleet in the North River"
+    },
+    {
+      "word": "Surgeon-General",
+      "definition": "Chief medical officer of a state or service",
+      "context": "Surgeon-General Lanceford gave a speech at the inauguration"
+    },
+    {
+      "word": "Lanceford",
+      "definition": "Surname of the Surgeon-General",
+      "context": "Surgeon-General Lanceford is named in the list of officials"
+    },
+    {
+      "word": "Senator",
+      "definition": "Member of a legislative senate",
+      "context": "Senators Wyse and Franklin of New York attended the ceremony"
+    },
+    {
+      "word": "Wyse",
+      "definition": "Surname of a senator",
+      "context": "Senator Wyse is listed among officials present"
+    },
+    {
+      "word": "Franklin",
+      "definition": "Surname of a senator",
+      "context": "Senator Franklin is named among the attending senators"
+    },
+    {
+      "word": "Commissioner",
+      "definition": "Official charged with a specific administrative duty",
+      "context": "The Commissioner of Public Works was among the officials"
+    },
+    {
+      "word": "Public",
+      "definition": "Relating to the community or state",
+      "context": "Part of the office title 'Public Works'"
+    },
+    {
+      "word": "Works",
+      "definition": "Public infrastructure or services",
+      "context": "Used in the phrase 'Public Works' describing the commission"
+    },
+    {
+      "word": "squadron",
+      "definition": "A unit of cavalry or ships",
+      "context": "Six magnificent squadrons of cruisers and battle-ships are described earlier"
+    },
+    {
+      "word": "pavement",
+      "definition": "A paved surface for pedestrians or vehicles",
+      "context": "The narrator was picked up from the pavement where he lay unconscious"
+    },
+    {
+      "word": "Archer",
+      "definition": "Surname of the narrator's physician",
+      "context": "Dr. Archer treated the narrator after his fall"
+    },
+    {
+      "word": "convalescence",
+      "definition": "Recovery period after illness or injury",
+      "context": "The narrator reads The King in Yellow during his convalescence"
+    },
+    {
+      "word": "fall",
+      "definition": "A drop or tumble; here an accident from a horse",
+      "context": "The narrator's fall from his horse precipitated treatment"
+    },
+    {
+      "word": "horse",
+      "definition": "Large domesticated mammal used for riding",
+      "context": "The narrator fell from his horse; someone shot the animal"
+    },
+    {
+      "word": "unconscious",
+      "definition": "Not awake or aware",
+      "context": "The narrator was found unconscious on the pavement"
+    },
+    {
+      "word": "bullet",
+      "definition": "A projectile fired from a gun",
+      "context": "Someone sent a bullet through the narrator's horse's head"
+    },
+    {
+      "word": "asylum",
+      "definition": "Institution for the care of the mentally ill (private asylum here)",
+      "context": "Dr. Archer placed the narrator in his private asylum for treatment"
+    },
+    {
+      "word": "insanity",
+      "definition": "Severe mental illness",
+      "context": "The narrator endured treatment for insanity in the asylum"
+    },
+    {
+      "word": "tuition",
+      "definition": "Instruction or fee; here used jocularly for the narrator's payment",
+      "context": "The narrator paid his 'tuition' when freed from Dr. Archer's care"
+    },
+    {
+      "word": "wept",
+      "definition": "Cried; shed tears",
+      "context": "The narrator 'wept and laughed and trembled' reading the play"
+    },
+    {
+      "word": "trembled",
+      "definition": "Shook with emotion or fear",
+      "context": "The narrator trembled with horror while reading"
+    },
+    {
+      "word": "hearth",
+      "definition": "Stone or brick area in front of a fireplace",
+      "context": "The book fell open on the hearth in the firelight"
+    },
+    {
+      "word": "grate",
+      "definition": "Metal framework before a fireplace",
+      "context": "The volume struck the barred grate and fell open"
+    },
+    {
+      "word": "coals",
+      "definition": "Heated carbon remains used for heat in a fireplace",
+      "context": "The book fell among the coals but was rescued"
+    },
+    {
+      "word": "barred",
+      "definition": "Fitted with bars; secured",
+      "context": "The grate before the fireplace is described as 'barred'"
+    },
+    {
+      "word": "greaves",
+      "definition": "Armour pieces protecting the lower legs",
+      "context": "Hawberk was riveting the worn greaves in his shop"
+    },
+    {
+      "word": "riveting",
+      "definition": "Joining metal pieces with rivets; also captivating",
+      "context": "Old Hawberk sat riveting the worn greaves"
+    },
+    {
+      "word": "mail",
+      "definition": "Armour made of interlinked metal rings (chain mail)",
+      "context": "The soft clash of the mail sent a thrill through the narrator"
+    },
+    {
+      "word": "chain",
+      "definition": "Series of linked metal loops; here 'chain armour'",
+      "context": "Mentioned as 'chain armour' in Hawberk's shop"
+    },
+    {
+      "word": "mallet",
+      "definition": "A hammer with a large head for striking",
+      "context": "The mellow shock of the mallet on thigh pieces is described"
+    },
+    {
+      "word": "thigh",
+      "definition": "The part of the leg between hip and knee; here armour pieces",
+      "context": "Reference to 'thigh pieces' of an ancient suit of armour"
+    },
+    {
+      "word": "armourer",
+      "definition": "Person who makes or repairs armour",
+      "context": "The shop sign reads 'HAWBERK, ARMOURER.'"
+    },
+    {
+      "word": "Constance",
+      "definition": "Given name of Hawberk's daughter",
+      "context": "Constance rises to meet the narrator in the armourer shop"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/8492"
+}
