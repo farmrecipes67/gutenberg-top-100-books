@@ -1,0 +1,613 @@
+{
+  "gutenberg_id": 1719,
+  "title": "The Ballad of the White Horse",
+  "author": "Chesterton, G. K. (Gilbert Keith)",
+  "summary": "Chesterton's Ballad of the White Horse dramatizes the legendary struggle of King Alfred and his people against pagan Northmen. Through prophetic visions, rustic traditions, and symbolic figures—the White Horse, the Golden Dragon, and a wandering Lady—the poem sinks into mythic time. Alfred, broken, hides at Athelney, endures exile, and through faith, courage, and law restrengthens England to meet Guthrum and the Danes at Ethandune. The poem interweaves Roman, Celtic, and Saxon echoes, Christian sacrament and pagan dread, epic battle and domestic legend. It celebrates popular memory, blending history and folklore into a hymn to national and spiritual renewal, heroic rebirth.",
+  "characters": [
+    {
+      "name": "King Alfred",
+      "age": "middle-aged (est.)",
+      "personality": "resolute, pious, weary but hopeful leader",
+      "lifespan": "Broken and driven into hiding at Athelney, endures exile, regroups and leads the recovery culminating in victory at Ethandune"
+    },
+    {
+      "name": "Guthrum",
+      "age": "adult (est.)",
+      "personality": "pagan war-leader, formidable and awe-inspiring",
+      "lifespan": "Leader of the invading Danes/Northmen; depicted as ultimately faced with Christian signs and peace (seen in dedication reference)"
+    },
+    {
+      "name": "The White Horse",
+      "age": "ancient/eternal",
+      "personality": "watchful, symbolic guardian of the land",
+      "lifespan": "Everlasting geoglyph that 'looked on' through ages, symbolizing continuity"
+    },
+    {
+      "name": "His mother (Alfred's mother)",
+      "age": "elderly (visionary)",
+      "personality": "pious, reverent, keeper of tradition",
+      "lifespan": "Appears in Alfred's vision sitting in Egbert's hall showing a small book with 'a sapphire Mary'"
+    },
+    {
+      "name": "Egbert",
+      "age": "ancestor (deceased)",
+      "personality": "foundational kingly figure",
+      "lifespan": "Referenced historically/legendary as owner of a hall where Alfred's mother sits; symbolic ancestor"
+    },
+    {
+      "name": "The God of the Golden Dragon",
+      "age": "mythic/age-old",
+      "personality": "powerful pagan symbol made impotent in crisis",
+      "lifespan": "Described as 'dumb upon his throne' when national collapse occurs"
+    },
+    {
+      "name": "The Lord of the Golden Dragon",
+      "age": "adult (symbolic leader)",
+      "personality": "once-proud lord now diminished",
+      "lifespan": "Runs in the woods alone as his power wanes"
+    },
+    {
+      "name": "The Northmen / Danes",
+      "age": "varied adults",
+      "personality": "brutal, pagan, massive and elemental",
+      "lifespan": "Invade and devastate English lands; eventually opposed and met in battle"
+    },
+    {
+      "name": "A Lady (addressee of dedication)",
+      "age": "adult (est.)",
+      "personality": "inspirational, spiritual, guiding figure",
+      "lifespan": "Addressed as muse/companion in the dedication; symbolic supporter of the poet's vision"
+    },
+    {
+      "name": "The Emperor",
+      "age": "older/state leader",
+      "personality": "distant classical authority",
+      "lifespan": "Mentioned as subject to death and decline in the poem's vision"
+    },
+    {
+      "name": "The Pope",
+      "age": "senior cleric",
+      "personality": "spiritual head, overshadowed by events",
+      "lifespan": "Described as experiencing night upon him in the poem's cosmic vision"
+    },
+    {
+      "name": "A fictitious Roman",
+      "age": "symbolic",
+      "personality": "represents Roman contribution in Chesterton's triple symbol",
+      "lifespan": "Used as a symbolic voice in the poem's summary of the first crusade"
+    },
+    {
+      "name": "A fictitious Celt",
+      "age": "symbolic",
+      "personality": "represents Celtic contribution and sentiment",
+      "lifespan": "Used symbolically alongside Roman and Saxon to telescope history"
+    },
+    {
+      "name": "A fictitious Saxon",
+      "age": "symbolic",
+      "personality": "represents native Saxon spirit",
+      "lifespan": "Used as a symbolic actor in the poem's portrayal of Ethandune"
+    },
+    {
+      "name": "Thanes / Foemen (groups)",
+      "age": "adults",
+      "personality": "loyal retainers and combatants",
+      "lifespan": "Many are slain or scattered during the invasions; some fight with Alfred"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Uffington White Horse (Vale of the White Horse)",
+      "latitude": 51.5776,
+      "longitude": -1.481
+    },
+    {
+      "name": "Athelney (Somerset, England)",
+      "latitude": 51.0126,
+      "longitude": -2.884
+    },
+    {
+      "name": "Ethandune (commonly identified with Edington, Wiltshire)",
+      "latitude": 51.215,
+      "longitude": -2.187
+    },
+    {
+      "name": "Frome (Somerset, England)",
+      "latitude": 51.2295,
+      "longitude": -2.322
+    },
+    {
+      "name": "River Severn (mid-region, England)",
+      "latitude": 52.0886,
+      "longitude": -2.5147
+    },
+    {
+      "name": "Rome (mentioned in prophetic vision)",
+      "latitude": 41.9029,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Ind (Indus region, referenced poetically)",
+      "latitude": 30.3753,
+      "longitude": 69.3451
+    },
+    {
+      "name": "Bayeux (referenced in the dedication)",
+      "latitude": 49.2766,
+      "longitude": -0.7008
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "balladists",
+      "definition": "singers or composers of ballads; traditional popular poets",
+      "context": "\"as the old balladists did.\""
+    },
+    {
+      "word": "hearsay",
+      "definition": "rumored information received from others",
+      "context": "\"I only seek to write upon a hearsay\""
+    },
+    {
+      "word": "foreshortening",
+      "definition": "a pictorial effect that makes objects appear shorter; used metaphorically",
+      "context": "\"to mix up the centuries while preserving the sentiment; to see all ages in a sort of splendid foreshortening.\""
+    },
+    {
+      "word": "gonfalon",
+      "definition": "a banner or standard, especially one hung from a crosspiece",
+      "context": "\"Gored on the Norman gonfalon / The Golden Dragon died:\""
+    },
+    {
+      "word": "broidery",
+      "definition": "archaic form of 'embroidery', decorative needlework",
+      "context": "\"As the broidery of Bayeux\""
+    },
+    {
+      "word": "Bayeux",
+      "definition": "town in Normandy, famous for the Bayeux Tapestry",
+      "context": "\"broidery of Bayeux\" (refers to the tapestry)"
+    },
+    {
+      "word": "Lyonesse",
+      "definition": "legendary drowned land off Cornwall, used poetically",
+      "context": "\"With the lords that died in Lyonesse\""
+    },
+    {
+      "word": "opal",
+      "definition": "a gemstone or iridescent quality; used poetically",
+      "context": "\"And tracks of opal slime.\""
+    },
+    {
+      "word": "Ethandune",
+      "definition": "old name for the place of Alfred's victory (Ethandune/Edington)",
+      "context": "\"Black thorn on Ethandune\""
+    },
+    {
+      "word": "cresset",
+      "definition": "a metal basket or lamp for burning coal or oil; a beacon",
+      "context": "\"To torch and cresset gleam.\""
+    },
+    {
+      "word": "sea-folk",
+      "definition": "poetic term for people who come from the sea (seafarers/invaders)",
+      "context": "\"A sea-folk blinder than the sea\""
+    },
+    {
+      "word": "dyke",
+      "definition": "an earthwork or ditch; defensive embankment",
+      "context": "\"With desperate dyke and wall\""
+    },
+    {
+      "word": "Wessex",
+      "definition": "historic Anglo-Saxon kingdom in southwest England",
+      "context": "\"And the great kings of Wessex\""
+    },
+    {
+      "word": "Athelney",
+      "definition": "island/monastic site in Somerset associated with Alfred",
+      "context": "\"When Alfred came to Athelney / To hide him from their bows\""
+    },
+    {
+      "word": "hoary",
+      "definition": "very old or ancient; white or gray with age",
+      "context": "\"The White Horse of the White Horse Vale / Was hoary on the hill.\""
+    },
+    {
+      "word": "aeons",
+      "definition": "long epochs of time; ages",
+      "context": "\"Age beyond age on British land, / Aeons on aeons gone\""
+    },
+    {
+      "word": "sacrament",
+      "definition": "a Christian rite deemed to impart divine grace",
+      "context": "\"Vast as archangels, gather and drink / The sacrament of the sun.\""
+    },
+    {
+      "word": "Ind",
+      "definition": "poetic name for the Indus River/region (the East)",
+      "context": "\"Where Ind's enamelled peaks arise\""
+    },
+    {
+      "word": "enamelled",
+      "definition": "covered with a glossy decorative coating; richly colored",
+      "context": "\"Ind's enamelled peaks\""
+    },
+    {
+      "word": "archangels",
+      "definition": "high-ranking angels in Christian angelology",
+      "context": "\"Vast as archangels, gather and drink\""
+    },
+    {
+      "word": "moveth",
+      "definition": "archaic third-person singular of 'move'",
+      "context": "\"A Shape that moveth murkily\""
+    },
+    {
+      "word": "murkily",
+      "definition": "darkly, gloomily",
+      "context": "\"A Shape that moveth murkily / In mirrors of ice and night\""
+    },
+    {
+      "word": "blanched",
+      "definition": "made pale, whitened",
+      "context": "\"Hath blanched with fear all beasts and birds\""
+    },
+    {
+      "word": "staggered",
+      "definition": "stumbled or reeled under pressure",
+      "context": "\"Staggered, and strove to stand.\""
+    },
+    {
+      "word": "strove",
+      "definition": "made great effort (archaic past of strive)",
+      "context": "\"Staggered, and strove to stand.\""
+    },
+    {
+      "word": "foemen",
+      "definition": "enemies; archaic plural of foe",
+      "context": "\"With foemen leaning on his shield\""
+    },
+    {
+      "word": "Christless",
+      "definition": "without Christian belief; pagan",
+      "context": "\"A Christless chivalry:\""
+    },
+    {
+      "word": "chivalry",
+      "definition": "knightly culture or the quality of knighthood; used ironically here",
+      "context": "\"A Christless chivalry:\""
+    },
+    {
+      "word": "misshapen",
+      "definition": "deformed or irregular in shape",
+      "context": "\"Misshapen ships stood on the deep\""
+    },
+    {
+      "word": "sea-mire",
+      "definition": "marshy ground at the sea's edge; poetic compound",
+      "context": "\"Through the long, low sea-mire.\""
+    },
+    {
+      "word": "trod",
+      "definition": "walked or trod (archaic past)",
+      "context": "\"The world turned empty where they trod\""
+    },
+    {
+      "word": "witless",
+      "definition": "without sense or reason; foolish",
+      "context": "\"As witless and as tall\""
+    },
+    {
+      "word": "armour",
+      "definition": "protective military gear (British spelling)",
+      "context": "\"There was not English armour left\""
+    },
+    {
+      "word": "Uprent",
+      "definition": "archaic past participle meaning 'upreared' or 'raised up'",
+      "context": "\"For earthquake swallowing earthquake / Uprent the Wessex tree;\""
+    },
+    {
+      "word": "sires",
+      "definition": "ancestors or forefathers",
+      "context": "\"Had swirled his sires as sticks away\""
+    },
+    {
+      "word": "naught",
+      "definition": "nothing; nothingness (archaic)",
+      "context": "\"And naught was left King Alfred\""
+    },
+    {
+      "word": "writ",
+      "definition": "archaic past participle of 'write'; written",
+      "context": "\"And he read, writ with an iron pen,\""
+    },
+    {
+      "word": "fen",
+      "definition": "marshland; bog",
+      "context": "\"...given their country, field and fen\""
+    },
+    {
+      "word": "sapphire",
+      "definition": "a precious blue gemstone; used poetically",
+      "context": "\"Where a sapphire Mary sat in stall\""
+    },
+    {
+      "word": "stall",
+      "definition": "a niche or seat in a church; choir-stall",
+      "context": "\"a sapphire Mary sat in stall\""
+    },
+    {
+      "word": "Egbert",
+      "definition": "kingly ancestor referenced in the poem",
+      "context": "\"His mother sitting in Egbert's hall\""
+    },
+    {
+      "word": "Guthrum",
+      "definition": "leader of the Danish invaders (named historical figure in poem)",
+      "context": "\"that Guthrum saw / When he let break his ships of awe\""
+    },
+    {
+      "word": "Melchizedek",
+      "definition": "biblical priest-king used as a comparative symbol",
+      "context": "\"Where One more than Melchizedek / Is dead and never dies.\""
+    },
+    {
+      "word": "pearled",
+      "definition": "covered or decorated with pearls or beadlike drops; poetically 'beaded'",
+      "context": "\"Past purpled forest and pearled foam\""
+    },
+    {
+      "word": "pavilion",
+      "definition": "a tent or ornamental building; here used poetically",
+      "context": "\"God's winged pavilion free to roam\""
+    },
+    {
+      "word": "nihilism",
+      "definition": "the belief in nothingness or rejection of religious/moral principles",
+      "context": "\"fought for the Christian civilization against the heathen nihilism.\""
+    },
+    {
+      "word": "telescopes",
+      "definition": "brings distant things closer; used metaphorically",
+      "context": "\"That is the use of tradition: it telescopes history.\""
+    },
+    {
+      "word": "curt",
+      "definition": "short, concise, brusque",
+      "context": "\"I will give three curt cases of what I mean.\""
+    },
+    {
+      "word": "Leipsic",
+      "definition": "older English form of Leipzig (city in Germany)",
+      "context": "\"do the historians really think that Alfred after Wilton, or Napoleon after Leipsic, never walked about...\""
+    },
+    {
+      "word": "Pepys",
+      "definition": "reference to Samuel Pepys, used as historical analogy",
+      "context": "\"It has taken us nearly as long to learn the whole truth about Byron, and perhaps longer to learn the whole truth about Pepys\""
+    },
+    {
+      "word": "Byron",
+      "definition": "reference to Lord Byron, used as historical analogy",
+      "context": "same passage referencing historical figures"
+    },
+    {
+      "word": "quaintly",
+      "definition": "in an attractively unusual or old-fashioned way",
+      "context": "\"Stiff, strange, and quaintly coloured\""
+    },
+    {
+      "word": "smoke-hued",
+      "definition": "having a smoky tint or color; poetic compound",
+      "context": "\"We saw the smoke-hued hamlets, quaint\""
+    },
+    {
+      "word": "Westland",
+      "definition": "poetic term for the western land (England) used in the dedication",
+      "context": "\"With Westland king and Westland saint\""
+    },
+    {
+      "word": "purpled",
+      "definition": "tinged with purple; poetically colored",
+      "context": "\"Past purpled forest and pearled foam\""
+    },
+    {
+      "word": "inhuman",
+      "definition": "not human, uncaring or monstrous",
+      "context": "\"Up the inhuman steeps of space\""
+    },
+    {
+      "word": "steeps",
+      "definition": "very steep places or slopes; poetic plural",
+      "context": "\"Up the inhuman steeps of space\""
+    },
+    {
+      "word": "panting",
+      "definition": "breathing heavily; used figuratively with 'peace'",
+      "context": "\"And for one hour of panting peace\""
+    },
+    {
+      "word": "fleece",
+      "definition": "wool garment or symbolic golden fleece; here used as part of regalia",
+      "context": "\"With golden crown and girded fleece\""
+    },
+    {
+      "word": "oar",
+      "definition": "a tool for rowing a boat",
+      "context": "\"He saw the first oar break or bend\""
+    },
+    {
+      "word": "Titan",
+      "definition": "giant of mythology; used to describe very large natural forms",
+      "context": "\"Trees that are Titan flowers to see\""
+    },
+    {
+      "word": "arch",
+      "definition": "architectural term; used in phrase 'arch or pen' to indicate church and learning",
+      "context": "\"Who knew not of the arch or pen\""
+    },
+    {
+      "word": "Caesar",
+      "definition": "reference to the Roman emperor; used poetically",
+      "context": "\"When Caesar's sun fell out of the sky\""
+    },
+    {
+      "word": "plunging",
+      "definition": "falling abruptly; used of nations plunging in the night",
+      "context": "\"Could only hear the plunging / Of the nations in the night.\""
+    },
+    {
+      "word": "gored",
+      "definition": "pierced or stained with blood; used vividly about a banner",
+      "context": "\"Gored on the Norman gonfalon / The Golden Dragon died:\""
+    },
+    {
+      "word": "shroud",
+      "definition": "a cloth for burial or a concealing cover",
+      "context": "\"Why bend above a shapeless shroud\""
+    },
+    {
+      "word": "archaic",
+      "definition": "very old or old-fashioned",
+      "context": "\"Seeking in such archaic cloud\""
+    },
+    {
+      "word": "thanes",
+      "definition": "Anglo-Saxon noble retainers or warriors",
+      "context": "\"It has been disputed...that Alfred never really wandered all alone without any thanes or soldiers.\""
+    },
+    {
+      "word": "bent",
+      "definition": "forced or pressed; also inclined",
+      "context": "\"He bent them back with spear and spade\""
+    },
+    {
+      "word": "gripped",
+      "definition": "held fast; seized",
+      "context": "\"And gripped the ground and grasped the air\""
+    },
+    {
+      "word": "grasped",
+      "definition": "seized firmly; understood",
+      "context": "same line: \"gripped the ground and grasped the air\""
+    },
+    {
+      "word": "reeled",
+      "definition": "staggered or swayed, as from shock",
+      "context": "\"And roaring on him when he reeled;\""
+    },
+    {
+      "word": "girded",
+      "definition": "encircled or clothed with a belt; here applied to fleece",
+      "context": "\"With golden crown and girded fleece\""
+    },
+    {
+      "word": "Northmen",
+      "definition": "poetic term for Norse invaders (Danes/Vikings)",
+      "context": "\"The Northmen came about our land\""
+    },
+    {
+      "word": "hairy",
+      "definition": "covered with hair; used vividly to describe invaders",
+      "context": "\"And hairy men, as huge as sin\""
+    },
+    {
+      "word": "horned",
+      "definition": "having horns; used to suggest a barbaric appearance",
+      "context": "\"With horned heads, came wading in\""
+    },
+    {
+      "word": "wading",
+      "definition": "walking through water or mire",
+      "context": "\"came wading in / Through the long, low sea-mire.\""
+    },
+    {
+      "word": "scarlet",
+      "definition": "a bright red color, used to describe beards",
+      "context": "\"With scarlet beards like blood:\""
+    },
+    {
+      "word": "beards",
+      "definition": "facial hair, used as a vivid descriptor",
+      "context": "see scarlet beards line"
+    },
+    {
+      "word": "kindly",
+      "definition": "kind or benevolent",
+      "context": "\"They took the kindly cross of God\""
+    },
+    {
+      "word": "wandering",
+      "definition": "moving without fixed course; applied to will or star",
+      "context": "\"Gods of a wandering will\""
+    },
+    {
+      "word": "bred",
+      "definition": "produced or engendered",
+      "context": "\"They bred like birds in English woods\""
+    },
+    {
+      "word": "rooted",
+      "definition": "taken hold like roots; firmly established",
+      "context": "\"They rooted like the rose\""
+    },
+    {
+      "word": "English",
+      "definition": "relating to England or its people",
+      "context": "\"There was not English armour left\""
+    },
+    {
+      "word": "hide",
+      "definition": "to conceal oneself; also skin",
+      "context": "\"Alfred, hiding in deep grass\""
+    },
+    {
+      "word": "broken",
+      "definition": "fractured or defeated; used of sword and of Alfred",
+      "context": "\"He broke them with a broken sword\""
+    },
+    {
+      "word": "shield",
+      "definition": "defensive armour carried by warriors",
+      "context": "\"With foemen leaning on his shield\""
+    },
+    {
+      "word": "hour",
+      "definition": "unit of time; used poetically to denote a brief respite",
+      "context": "\"And for one hour of panting peace\""
+    },
+    {
+      "word": "gore",
+      "definition": "bloodshed or gruesome slaughter",
+      "context": "\"Wearied and sank in gore\""
+    },
+    {
+      "word": "ghosts",
+      "definition": "spirits of the dead",
+      "context": "\"And even their ghosts in that great stress\""
+    },
+    {
+      "word": "dumb",
+      "definition": "unable or unwilling to speak; here 'silent'",
+      "context": "\"The God of the Golden Dragon / Was dumb upon his throne,\""
+    },
+    {
+      "word": "throne",
+      "definition": "seat of rulership; used symbolically",
+      "context": "same line as 'dumb upon his throne'"
+    },
+    {
+      "word": "woods",
+      "definition": "forested areas",
+      "context": "\"Ran in the woods alone.\""
+    },
+    {
+      "word": "island",
+      "definition": "land surrounded by water; here 'island in the river' (Athelney)",
+      "context": "\"In the island in the river / He was broken to his knee:\""
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1719"
+}
