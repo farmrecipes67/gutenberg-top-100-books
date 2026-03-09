@@ -1,0 +1,571 @@
+{
+  "gutenberg_id": 26184,
+  "title": "Simple Sabotage Field Manual",
+  "author": "United States. Office of Strategic Services",
+  "summary": "This OSS field manual defines simple sabotage as low-technology, low-risk acts ordinary civilians can perform to hinder an enemy’s war effort. It categorizes destructive and non-destructive methods, emphasizes using common household or workplace items, suggests exploiting human factors such as stupidity, noncooperation, and faulty decisions, and advises how to motivate, protect, and instruct saboteurs. The manual outlines target priorities, timing before and during offensives, and practical tactics (slashing tires, draining fuel, abrading machine parts, contaminating supplies). It stresses anonymity, safety, morale-building, selective dissemination of techniques, and preserving operational security.",
+  "characters": [
+    {
+      "name": "William J. Donovan",
+      "age": "unknown (adult)",
+      "personality": "authoritative, organizational leader",
+      "lifespan": "appears as the official signatory/authorizer of the manual"
+    },
+    {
+      "name": "Commissioner X",
+      "age": "unspecified",
+      "personality": "symbolic authoritarian figure used as an example",
+      "lifespan": "hypothetical example referenced in motivational guidance"
+    },
+    {
+      "name": "Deputy Y",
+      "age": "unspecified",
+      "personality": "symbolic subordinate official",
+      "lifespan": "hypothetical example referenced alongside Commissioner X"
+    },
+    {
+      "name": "Deputy Z",
+      "age": "unspecified",
+      "personality": "symbolic subordinate official",
+      "lifespan": "hypothetical example referenced alongside Commissioner X"
+    },
+    {
+      "name": "citizen-saboteur",
+      "age": "adult (varied)",
+      "personality": "ordinary citizen, potentially conservative by habit but persuadable to sabotage",
+      "lifespan": "not a narrative character; persistent role described throughout the manual"
+    },
+    {
+      "name": "technician (lathe operator / mechanic)",
+      "age": "adult (working age)",
+      "personality": "skilled, capable of devising field-appropriate sabotage",
+      "lifespan": "role described as a potential saboteur, no narrative fate given"
+    },
+    {
+      "name": "agents",
+      "age": "adult (varied)",
+      "personality": "trained operatives intended to disseminate or instruct sabotage techniques",
+      "lifespan": "presented as trained personnel to be used if needed"
+    },
+    {
+      "name": "enemy administrators and police",
+      "age": "group (varied)",
+      "personality": "authority figures targeted for demoralization",
+      "lifespan": "referenced as adversaries affected by sabotage; not individually profiled"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Washington, D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369
+    },
+    {
+      "name": "Europe",
+      "latitude": 54.526,
+      "longitude": 15.2551
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Simple",
+      "definition": "plain, uncomplicated",
+      "context": "Title: Simple Sabotage Field Manual"
+    },
+    {
+      "word": "Sabotage",
+      "definition": "deliberate damage or obstruction",
+      "context": "Title and throughout manual: sabotage"
+    },
+    {
+      "word": "Field",
+      "definition": "relating to practical on-site operations",
+      "context": "Field Manual"
+    },
+    {
+      "word": "Manual",
+      "definition": "instructional handbook",
+      "context": "Field Manual"
+    },
+    {
+      "word": "Office",
+      "definition": "official administrative unit",
+      "context": "Office of Strategic Services"
+    },
+    {
+      "word": "Strategic",
+      "definition": "relating to large-scale planning",
+      "context": "Office of Strategic Services, Strategic Services Field Manual"
+    },
+    {
+      "word": "Services",
+      "definition": "governmental departments providing support",
+      "context": "Strategic Services"
+    },
+    {
+      "word": "Reproduction",
+      "definition": "copying or issuing duplicates",
+      "context": "OSS REPRODUCTION BRANCH"
+    },
+    {
+      "word": "Branch",
+      "definition": "a division of an organization",
+      "context": "REPRODUCTION BRANCH"
+    },
+    {
+      "word": "Provisional",
+      "definition": "temporary or interim",
+      "context": "Strategic Services (Provisional)"
+    },
+    {
+      "word": "Washington",
+      "definition": "U.S. capital city",
+      "context": "Office of Strategic Services, Washington, D. C."
+    },
+    {
+      "word": "Donovan",
+      "definition": "surname of OSS head",
+      "context": "William J. Donovan (signature)"
+    },
+    {
+      "word": "Introduction",
+      "definition": "opening section",
+      "context": "CONTENTS: INTRODUCTION"
+    },
+    {
+      "word": "Possible",
+      "definition": "potential or conceivable",
+      "context": "CONTENTS: POSSIBLE EFFECTS"
+    },
+    {
+      "word": "Effects",
+      "definition": "results or outcomes",
+      "context": "POSSIBLE EFFECTS"
+    },
+    {
+      "word": "Motivating",
+      "definition": "encouraging to act",
+      "context": "CONTENTS: MOTIVATING THE SABOTEUR"
+    },
+    {
+      "word": "Saboteur",
+      "definition": "one who commits sabotage",
+      "context": "citizen-saboteur references"
+    },
+    {
+      "word": "Tools",
+      "definition": "implements used to perform tasks",
+      "context": "CONTENTS: TOOLS, TARGETS, AND TIMING"
+    },
+    {
+      "word": "Targets",
+      "definition": "objects or goals for action",
+      "context": "TOOLS, TARGETS, AND TIMING"
+    },
+    {
+      "word": "Timing",
+      "definition": "scheduling or choosing time",
+      "context": "TOOLS, TARGETS, AND TIMING"
+    },
+    {
+      "word": "Specific",
+      "definition": "detailed or particular",
+      "context": "SPECIFIC SUGGESTIONS FOR SIMPLE SABOTAGE"
+    },
+    {
+      "word": "Suggestions",
+      "definition": "recommended actions",
+      "context": "SPECIFIC SUGGESTIONS FOR SIMPLE SABOTAGE"
+    },
+    {
+      "word": "characterize",
+      "definition": "to describe distinctive qualities",
+      "context": "The purpose of this paper is to characterize simple sabotage"
+    },
+    {
+      "word": "outline",
+      "definition": "to give a general description",
+      "context": "to outline its possible effects"
+    },
+    {
+      "word": "inciting",
+      "definition": "urging or provoking to action",
+      "context": "to incite the citizen to the active practice"
+    },
+    {
+      "word": "executing",
+      "definition": "carrying out or performing",
+      "context": "and to present suggestions for inciting and executing it"
+    },
+    {
+      "word": "coup",
+      "definition": "a striking action; here part of a phrase",
+      "context": "coup de main acts"
+    },
+    {
+      "word": "de",
+      "definition": "French preposition used in phrase",
+      "context": "coup de main"
+    },
+    {
+      "word": "main",
+      "definition": "French word for hand, in phrase meaning surprise attack",
+      "context": "coup de main"
+    },
+    {
+      "word": "innumerable",
+      "definition": "too many to count",
+      "context": "innumerable simple acts"
+    },
+    {
+      "word": "ordinary",
+      "definition": "common, usual",
+      "context": "ordinary individual citizen-saboteur"
+    },
+    {
+      "word": "citizen-saboteur",
+      "definition": "civilian who performs sabotage",
+      "context": "definition of saboteur in manual"
+    },
+    {
+      "word": "destructive",
+      "definition": "causing damage",
+      "context": "Acts of destruction do not bring him any personal gain"
+    },
+    {
+      "word": "arsenal",
+      "definition": "collection of weapons or resources",
+      "context": "His arsenal is the kitchen shelf"
+    },
+    {
+      "word": "kitchen",
+      "definition": "domestic food-preparation room",
+      "context": "kitchen shelf"
+    },
+    {
+      "word": "shelf",
+      "definition": "flat storage surface",
+      "context": "kitchen shelf"
+    },
+    {
+      "word": "trash",
+      "definition": "waste material",
+      "context": "trash pile"
+    },
+    {
+      "word": "pile",
+      "definition": "heap or stack",
+      "context": "trash pile"
+    },
+    {
+      "word": "emery",
+      "definition": "abrasive material used for sanding",
+      "context": "emery dust—a powerful weapon"
+    },
+    {
+      "word": "pulverize",
+      "definition": "to crush into powder",
+      "context": "pulverize an emery knife sharpener"
+    },
+    {
+      "word": "wheel",
+      "definition": "round device; emery wheel mentioned",
+      "context": "emery wheel"
+    },
+    {
+      "word": "dust",
+      "definition": "fine powder",
+      "context": "emery dust—a powerful weapon"
+    },
+    {
+      "word": "indirect",
+      "definition": "not direct or immediate",
+      "context": "produces physical damage... by highly indirect means"
+    },
+    {
+      "word": "non-cooperative",
+      "definition": "refusing to assist or comply",
+      "context": "adopt a non-cooperative attitude"
+    },
+    {
+      "word": "faulty",
+      "definition": "imperfect or mistaken",
+      "context": "Make faulty decisions"
+    },
+    {
+      "word": "decisions",
+      "definition": "choices or judgments",
+      "context": "Make faulty decisions"
+    },
+    {
+      "word": "margin",
+      "definition": "allowance for error",
+      "context": "enlarge that 'margin for error'"
+    },
+    {
+      "word": "human",
+      "definition": "relating to people",
+      "context": "the 'human element'"
+    },
+    {
+      "word": "element",
+      "definition": "component or factor",
+      "context": "the 'human element'"
+    },
+    {
+      "word": "accidents",
+      "definition": "unplanned harmful events",
+      "context": "frequently responsible for accidents, delays"
+    },
+    {
+      "word": "delays",
+      "definition": "postponements or slowdowns",
+      "context": "frequently responsible for accidents, delays, and general obstruction"
+    },
+    {
+      "word": "obstruction",
+      "definition": "something that blocks or impedes",
+      "context": "general obstruction"
+    },
+    {
+      "word": "stimulation",
+      "definition": "encouragement or arousal",
+      "context": "needs pressure, stimulation or assurance"
+    },
+    {
+      "word": "initiative",
+      "definition": "self-starting action",
+      "context": "performs according to his own initiative"
+    },
+    {
+      "word": "inclination",
+      "definition": "a tendency or preference",
+      "context": "according to his own initiative and inclination"
+    },
+    {
+      "word": "pressure",
+      "definition": "influence or coercion",
+      "context": "he frequently needs pressure"
+    },
+    {
+      "word": "assurance",
+      "definition": "confidence or certainty",
+      "context": "needs pressure, stimulation or assurance"
+    },
+    {
+      "word": "information",
+      "definition": "knowledge or instruction",
+      "context": "and information and suggestions regarding feasible methods"
+    },
+    {
+      "word": "feasible",
+      "definition": "practicable or possible",
+      "context": "feasible methods of simple sabotage"
+    },
+    {
+      "word": "motives",
+      "definition": "reasons for action",
+      "context": "Personal Motives"
+    },
+    {
+      "word": "anticipate",
+      "definition": "expect or foresee",
+      "context": "he must be made to anticipate indirect personal gain"
+    },
+    {
+      "word": "evacuation",
+      "definition": "removal or withdrawal from area",
+      "context": "such as might come with enemy evacuation"
+    },
+    {
+      "word": "decrees",
+      "definition": "official orders or proclamations",
+      "context": "when particularly obnoxious decrees and restrictions will be abolished"
+    },
+    {
+      "word": "abstract",
+      "definition": "theoretical rather than concrete",
+      "context": "Abstract verbalizations about personal liberty... will not be convincing"
+    },
+    {
+      "word": "verbalizations",
+      "definition": "expressions in words",
+      "context": "Abstract verbalizations about personal liberty"
+    },
+    {
+      "word": "comprehensible",
+      "definition": "able to be understood",
+      "context": "will not even be comprehensible"
+    },
+    {
+      "word": "proportion",
+      "definition": "a part or share relative to whole",
+      "context": "Estimates of the proportion of the population engaged"
+    },
+    {
+      "word": "disseminated",
+      "definition": "spread or distributed widely",
+      "context": "Estimates... can be disseminated"
+    },
+    {
+      "word": "white",
+      "definition": "here: 'white radio' meaning legitimate broadcast",
+      "context": "published by white radio, freedom stations"
+    },
+    {
+      "word": "radio",
+      "definition": "wireless broadcasting medium",
+      "context": "white radio"
+    },
+    {
+      "word": "freedom",
+      "definition": "liberty-related descriptor for stations",
+      "context": "freedom stations"
+    },
+    {
+      "word": "stations",
+      "definition": "broadcasting outlets",
+      "context": "freedom stations"
+    },
+    {
+      "word": "subversive",
+      "definition": "seeking to undermine authority",
+      "context": "the subversive press"
+    },
+    {
+      "word": "press",
+      "definition": "news media",
+      "context": "the subversive press"
+    },
+    {
+      "word": "estimates",
+      "definition": "approximate calculations",
+      "context": "Estimates of the proportion... can be disseminated"
+    },
+    {
+      "word": "praising",
+      "definition": "expressing approval",
+      "context": "Statements praising the effectiveness of simple sabotage"
+    },
+    {
+      "word": "technique",
+      "definition": "a method of performing a task",
+      "context": "a particular technique has been successful"
+    },
+    {
+      "word": "colleagues",
+      "definition": "co-workers or associates",
+      "context": "find colleagues who can assist him"
+    },
+    {
+      "word": "embolden",
+      "definition": "to give courage or confidence",
+      "context": "success may embolden the citizen-saboteur"
+    },
+    {
+      "word": "safety",
+      "definition": "condition of being protected from harm",
+      "context": "Safety Measures"
+    },
+    {
+      "word": "detection",
+      "definition": "the act of discovering something",
+      "context": "insure the saboteur against detection and retaliation"
+    },
+    {
+      "word": "retaliation",
+      "definition": "revenge or reprisal",
+      "context": "detection and retaliation"
+    },
+    {
+      "word": "reprisal",
+      "definition": "an act of retaliation",
+      "context": "detection and reprisal"
+    },
+    {
+      "word": "knife",
+      "definition": "cutting instrument",
+      "context": "A knife or a nail file can be carried normally"
+    },
+    {
+      "word": "nail",
+      "definition": "metal fastener; also nail file context",
+      "context": "nail file"
+    },
+    {
+      "word": "file",
+      "definition": "tool for smoothing or shaping",
+      "context": "nail file"
+    },
+    {
+      "word": "matches",
+      "definition": "small fire-starting sticks",
+      "context": "Matches, pebbles, hair, salt, nails"
+    },
+    {
+      "word": "pebbles",
+      "definition": "small stones",
+      "context": "Matches, pebbles, hair, salt, nails"
+    },
+    {
+      "word": "hair",
+      "definition": "strand from head; used as a contaminant example",
+      "context": "Matches, pebbles, hair, salt, nails"
+    },
+    {
+      "word": "salt",
+      "definition": "common crystalline seasoning used as an agent",
+      "context": "salt, nails, and dozens of other destructive agents"
+    },
+    {
+      "word": "nails",
+      "definition": "metal fasteners",
+      "context": "salt, nails, and dozens of other destructive agents"
+    },
+    {
+      "word": "wrenches",
+      "definition": "tools for gripping and turning",
+      "context": "you can easily carry and keep such things as wrenches"
+    },
+    {
+      "word": "hammers",
+      "definition": "striking tools",
+      "context": "wrenches, hammers, emery paper"
+    },
+    {
+      "word": "emery paper",
+      "definition": "abrasive paper used for sanding",
+      "context": "wrenches, hammers, emery paper"
+    },
+    {
+      "word": "supplies",
+      "definition": "materials and equipment",
+      "context": "usual kit of tools and supplies"
+    },
+    {
+      "word": "inconspicuous",
+      "definition": "not easily noticed",
+      "context": "targets to which he has normal and inconspicuous access"
+    },
+    {
+      "word": "loiterers",
+      "definition": "people hanging around idly",
+      "context": "Loiterers arouse suspicion"
+    },
+    {
+      "word": "profuse",
+      "definition": "excessively plentiful or abundant",
+      "context": "Always be profuse in your apologies"
+    },
+    {
+      "word": "apologies",
+      "definition": "expressions of regret",
+      "context": "Always be profuse in your apologies"
+    },
+    {
+      "word": "plausible",
+      "definition": "credible or believable",
+      "context": "as long as you have a plausible excuse"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/26184"
+}
