@@ -1,0 +1,992 @@
+{
+  "gutenberg_id": 52206,
+  "title": "隨園詩話",
+  "author": "Yuan, Mei",
+  "summary": "Yuan Mei's Suiyuan Shihua is a collected series of poetic critiques, anecdotes, and literary reflections mixing personal reminiscence with classical commentary. Across short entries he examines poetic taste, metrics, and authenticity, praises and criticizes past and contemporary poets, recounts examroom incidents, patronage, friendships, and provincial life. He contrasts true creative spirit with pedantry and factional literary schools, discusses musical and ritual texts, and preserves epigrams, couplets, and fragmentary verses. The work situates poems in social and geographical contexts—Nanjing, Suzhou, Yangzhou, Hangzhou—while recording lines, editorial disputes, and meditations on style and morality.",
+  "characters": [
+    {
+      "name": "袁枚",
+      "age": "various (21 at 乾隆丙辰 anecdote)",
+      "personality": "forthright critic, witty, affectionate patron of poets",
+      "lifespan": "rises to fame as poet and compiler; edits and publishes collected notes and poems"
+    },
+    {
+      "name": "金震方 (撫軍金震方先生)",
+      "age": "unknown (elder statesman)",
+      "personality": "discerning patron, generous in praise",
+      "lifespan": "praised Yuan, left several volumes of poetry that went uncompiled after death"
+    },
+    {
+      "name": "尹文端 (大司寇尹公)",
+      "age": "middle-aged during anecdotes",
+      "personality": "supportive official, fond of rhyming and social wit",
+      "lifespan": "served as senior official; influential in Yuan's early career"
+    },
+    {
+      "name": "趙仁叔",
+      "age": "unknown",
+      "personality": "concise, epigrammatic (famous for a memorable couplet)",
+      "lifespan": "locally remembered chiefly for one striking couplet"
+    },
+    {
+      "name": "張桐城相公",
+      "age": "advancing to elder statesman",
+      "personality": "consistent poetic style, steady official career",
+      "lifespan": "rose from Hanlin to prime minister; poems noted for steadiness"
+    },
+    {
+      "name": "楊誠齋",
+      "age": "unknown",
+      "personality": "acute critic who distinguishes '格調' and '風趣'",
+      "lifespan": "recognized as insightful literary commentator"
+    },
+    {
+      "name": "金聖嘆",
+      "age": "older critic",
+      "personality": "sharp, fond of annotating and criticizing novels",
+      "lifespan": "celebrated commentator and occasional disparaged figure; wrote praised verses"
+    },
+    {
+      "name": "孔東堂",
+      "age": "elder theatrical scholar",
+      "personality": "collector and adapter of dramatic works",
+      "lifespan": "involved in staging and editing '桃花扇' and related poetry"
+    },
+    {
+      "name": "蔣士銓 (苕生)",
+      "age": "young when writing wall-poems; later made 翰林",
+      "personality": "enigmatic wall-poet, later official",
+      "lifespan": "wrote anonymous inscriptions, later became a Hanlin and friend of Yuan"
+    },
+    {
+      "name": "陶元藻 (篁村)",
+      "age": "young scholar (會稽諸生)",
+      "personality": "wanderer-poet, self-deprecating and expressive",
+      "lifespan": "identified later as the anonymous wall-poet; continued writing and traveling"
+    },
+    {
+      "name": "王次回",
+      "age": "unknown",
+      "personality": "gifted poet with distinct voice ('疑雨集')",
+      "lifespan": "produced a unique poetic collection but underrepresented in official selections"
+    },
+    {
+      "name": "韓蘄王",
+      "age": "young in anecdote",
+      "personality": "hot-tempered, proud",
+      "lifespan": "later achieved rank; anecdote shows youthful impulsiveness"
+    },
+    {
+      "name": "光武 (Emperor Guangwu, anecdotal)",
+      "age": "young during episode",
+      "personality": "early poverty, shrewd in social senses",
+      "lifespan": "later became emperor; anecdote used to show modest origins"
+    },
+    {
+      "name": "張勇 (靖逆侯張勇)",
+      "age": "adult military leader",
+      "personality": "valiant, poetic",
+      "lifespan": "distinguished general; buried with rumored ancient stele found at tomb"
+    },
+    {
+      "name": "陸放翁 (陸游)",
+      "age": "elder poet referenced",
+      "personality": "direct, earthy",
+      "lifespan": "well-known southern Song poet quoted for diction"
+    },
+    {
+      "name": "杜少陵 (杜甫)",
+      "age": "classical poet referenced",
+      "personality": "moral, complex, technically inventive",
+      "lifespan": "major Tang poet frequently cited in discussion"
+    },
+    {
+      "name": "白居易",
+      "age": "classical Tang poet referenced",
+      "personality": "clear, social-minded",
+      "lifespan": "major cited poet with illustrative usages"
+    },
+    {
+      "name": "李商隱",
+      "age": "classical poet referenced",
+      "personality": "obscure, allusive",
+      "lifespan": "Tang poet cited for tone and difficulty"
+    },
+    {
+      "name": "韓愈",
+      "age": "classical Tang writer",
+      "personality": "argumentative, corrective",
+      "lifespan": "frequently cited commentator and poet"
+    },
+    {
+      "name": "錢香樹",
+      "age": "middle-aged official in anecdote",
+      "personality": "playful poetic rival to Yuan in rhyming matches",
+      "lifespan": "served as minister (尚書) and exchanged playful multi-verse rhymes with Yuan"
+    },
+    {
+      "name": "陳梅岑",
+      "age": "young poet (未弱冠 when composing)",
+      "personality": "quick-witted, skillful in rhymed exercises",
+      "lifespan": "produced notable rapid-rhyme pieces at social gatherings"
+    },
+    {
+      "name": "程魚門",
+      "age": "senior poet",
+      "personality": "sympathetic judge of failed examinees",
+      "lifespan": "respected poet noted for humane couplets about exam failure"
+    },
+    {
+      "name": "王菊莊",
+      "age": "poet referenced",
+      "personality": "sensitive commentator on failure and shame",
+      "lifespan": "author of notable lines about imperfect success"
+    },
+    {
+      "name": "家香亭",
+      "age": "poet referenced",
+      "personality": "concise, feeling for sentiment",
+      "lifespan": "composed notable exam-related verses"
+    },
+    {
+      "name": "姚武功",
+      "age": "poet referenced",
+      "personality": "earthy humor in verse",
+      "lifespan": "produced verses quoted for comic relief"
+    },
+    {
+      "name": "唐青臣",
+      "age": "poet referenced",
+      "personality": "earthy, human in depiction",
+      "lifespan": "source of humorous exam-failure images"
+    },
+    {
+      "name": "張文敏公",
+      "age": "collector and official",
+      "personality": "literary compiler of stage lines",
+      "lifespan": "collected theatrical couplets and preserved lines"
+    },
+    {
+      "name": "楊守知",
+      "age": "aged scholar (about seventy in anecdote)",
+      "personality": "elderly literatus, sentimental",
+      "lifespan": "an old scholar rewarded and comforted by patrons; lived to advanced age"
+    },
+    {
+      "name": "洪防思",
+      "age": "poet and dramatist",
+      "personality": "melodic, theatrical",
+      "lifespan": "author of dramatic lyrics and songs; produced works like '長生' and other notable pieces"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Guangxi (廣西 / Nanning)",
+      "latitude": 22.817,
+      "longitude": 108.366
+    },
+    {
+      "name": "Jinling / Nanjing (金陵 / 南京)",
+      "latitude": 32.0603,
+      "longitude": 118.7969
+    },
+    {
+      "name": "Suzhou (蘇州)",
+      "latitude": 31.2989,
+      "longitude": 120.5853
+    },
+    {
+      "name": "Yangzhou (揚州)",
+      "latitude": 32.3932,
+      "longitude": 119.4129
+    },
+    {
+      "name": "Huai'an (淮安)",
+      "latitude": 33.4996,
+      "longitude": 119.0194
+    },
+    {
+      "name": "Hangzhou / Qiantang (杭州 / 錢塘)",
+      "latitude": 30.2741,
+      "longitude": 120.1551
+    },
+    {
+      "name": "Yushan / 虞山 (near Changshu / Jiangsu)",
+      "latitude": 31.6375,
+      "longitude": 120.7419
+    },
+    {
+      "name": "Danyang (丹陽)",
+      "latitude": 32.0106,
+      "longitude": 119.5718
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "隨園",
+      "definition": "the garden-name/title Yuan Mei used",
+      "context": "title of the collection '隨園詩話' and self-reference"
+    },
+    {
+      "word": "詩話",
+      "definition": "short notes or talks on poetry",
+      "context": "the genre of the book"
+    },
+    {
+      "word": "古英雄",
+      "definition": "ancient heroes",
+      "context": "opening phrase discussing heroes before fame"
+    },
+    {
+      "word": "鄧禹",
+      "definition": "historical figures mentioned in analogy",
+      "context": "used in comparing ambitions"
+    },
+    {
+      "word": "督郵",
+      "definition": "postal supervisor (minor official)",
+      "context": "used to contrast ambition"
+    },
+    {
+      "word": "晉文公",
+      "definition": "Duke Wen of Jin (historical)",
+      "context": "anecdote about modesty before fame"
+    },
+    {
+      "word": "光武",
+      "definition": "Emperor Guangwu (historical)",
+      "context": "story of his poverty and dispute with Li Tong"
+    },
+    {
+      "word": "嚴尤",
+      "definition": "name of a person who noticed Guangwu",
+      "context": "recognized and regarded him in litigation anecdote"
+    },
+    {
+      "word": "韓蘄王",
+      "definition": "a noble who beat a seer in anecdote",
+      "context": "example of misunderstanding signs of future"
+    },
+    {
+      "word": "鄂西林相公",
+      "definition": "a named gentleman with poetic lines",
+      "context": "quoted couplets and their later significance"
+    },
+    {
+      "word": "辛丑元日",
+      "definition": "a specific date/year phrase",
+      "context": "title of a dated poem"
+    },
+    {
+      "word": "詠懷",
+      "definition": "poem title meaning 'expressing feelings'",
+      "context": "title of poems cited"
+    },
+    {
+      "word": "郎中",
+      "definition": "a low official rank",
+      "context": "refers to poets' rank when composing earlier lines"
+    },
+    {
+      "word": "七省經略",
+      "definition": "military-administrative title",
+      "context": "refers to later rank of a poet who wrote different lines"
+    },
+    {
+      "word": "在金中丞",
+      "definition": "an official seat title",
+      "context": "poem titled from the office seat"
+    },
+    {
+      "word": "登甲秀樓",
+      "definition": "a poem title referencing a pavilion",
+      "context": "quoted quatrain title"
+    },
+    {
+      "word": "武侯",
+      "definition": "title 'Marquis of Wu' (Zhuge Liang)",
+      "context": "poems referring to self as '武侯'"
+    },
+    {
+      "word": "張桐城相公",
+      "definition": "a named official-poet",
+      "context": "description of a poet's consistent style from Hanlin to chancellor"
+    },
+    {
+      "word": "翰林",
+      "definition": "Hanlin Academy official",
+      "context": "career stage of poets referenced"
+    },
+    {
+      "word": "扈蹕",
+      "definition": "to accompany the emperor's carriage; also a poem title",
+      "context": "title of a poem quoted"
+    },
+    {
+      "word": "和皇上 (風箏)",
+      "definition": "to compose a poem matching the emperor's rhyme (title '風箏')",
+      "context": "line cited with deep feeling"
+    },
+    {
+      "word": "格調",
+      "definition": "literary tone or manner",
+      "context": "debate about tone versus naturalness"
+    },
+    {
+      "word": "風趣",
+      "definition": "wit, grace, natural charm in verse",
+      "context": "contrasted with '格調' by Yang Chengzhai"
+    },
+    {
+      "word": "三百篇",
+      "definition": "The Classic of Poetry (Shijing) colloquial reference",
+      "context": "used to discuss genres and tone"
+    },
+    {
+      "word": "雅",
+      "definition": "the 'Ya' sections of Shijing (elegant)",
+      "context": "contrasted with other poetic categories"
+    },
+    {
+      "word": "頌",
+      "definition": "the 'Song' hymns of Shijing",
+      "context": "poetry category discussion"
+    },
+    {
+      "word": "吟詩",
+      "definition": "to chant or compose poetry",
+      "context": "discussion of poetic temperament"
+    },
+    {
+      "word": "成仙骨",
+      "definition": "to have an otherworldly poetic marrow",
+      "context": "quote about innate poetic quality"
+    },
+    {
+      "word": "忘足",
+      "definition": "forgetting the foot/measure (from Zhuangzi)",
+      "context": "applied to poetic freedom"
+    },
+    {
+      "word": "忘韻",
+      "definition": "forgetting rhyme (coined by Yuan here)",
+      "context": "Yuan's remark favoring freedom from strict rhyme"
+    },
+    {
+      "word": "趙仁叔",
+      "definition": "a local poet known for a couplet",
+      "context": "cited for a memorable two-line couplet"
+    },
+    {
+      "word": "擬古",
+      "definition": "poems 'in the style of the ancients'",
+      "context": "title of a short parody and its memorable lines"
+    },
+    {
+      "word": "江上舟",
+      "definition": "a motif of boats on rivers",
+      "context": "image used in a quoted '擬古' couplet"
+    },
+    {
+      "word": "金聖嘆",
+      "definition": "a famous Ming critic",
+      "context": "cited for his novel annotations and a praised quatrain"
+    },
+    {
+      "word": "宿野廟",
+      "definition": "title of Meng Shengtan's poem",
+      "context": "a quatrain of his is quoted as exquisite"
+    },
+    {
+      "word": "桃花扇",
+      "definition": "a famous play (The Peach Blossom Fan)",
+      "context": "Kong Dongtang's staging and verses"
+    },
+    {
+      "word": "活埋庵",
+      "definition": "a temple name used in a title, literally 'buried alive hermitage'",
+      "context": "title line about paradoxical name"
+    },
+    {
+      "word": "禪理",
+      "definition": "Chan/Zen doctrine",
+      "context": "two short poems noted for their Chan insight"
+    },
+    {
+      "word": "乾隆丙辰",
+      "definition": "a dated year in the Qianlong reign",
+      "context": "Yuan was twenty-one at this time and sent to Guangxi"
+    },
+    {
+      "word": "撫軍",
+      "definition": "military supervisory office",
+      "context": "title of Jin Zhenfang (撫軍金震方)"
+    },
+    {
+      "word": "國士",
+      "definition": "man of national worth",
+      "context": "epithet applied by Jin to Yuan"
+    },
+    {
+      "word": "館選",
+      "definition": "selection to the Hanlin Academy or equivalent",
+      "context": "Yuan's early appointment after advocacy"
+    },
+    {
+      "word": "七排",
+      "definition": "a seven-line rhyme or set",
+      "context": "Yuan submitted a '七排' poem to an official"
+    },
+    {
+      "word": "考題",
+      "definition": "an examination prompt/topic",
+      "context": "reference to an imperial exam theme '因風想玉珂'"
+    },
+    {
+      "word": "因風想玉珂",
+      "definition": "exam prompt phrase used in a composition",
+      "context": "the imperial exam topic Yuan addressed"
+    },
+    {
+      "word": "孫山",
+      "definition": "a judgement position or person (here a place of rejection)",
+      "context": "used to say a poem was to be set aside '置之孫山'"
+    },
+    {
+      "word": "琴爨",
+      "definition": "zither and cooking; indicates household musical life",
+      "context": "line in a poem Yuan wrote about domestic scene"
+    },
+    {
+      "word": "焦尾斷",
+      "definition": "burned tail cut off (poetic image)",
+      "context": "phrase in Yuan's submitted poem"
+    },
+    {
+      "word": "尹知",
+      "definition": "a form of address for the official who supported others",
+      "context": "used in anecdote about rewarding old scholar Yang Shouzhi"
+    },
+    {
+      "word": "夕陽無限好",
+      "definition": "famous couplet fragment meaning 'the setting sun is beautiful but near dusk'",
+      "context": "quoted in exchange between officials"
+    },
+    {
+      "word": "天意憐幽草",
+      "definition": "a line meaning 'heaven pities the lone grass'",
+      "context": "used to comfort an old scholar"
+    },
+    {
+      "word": "疊韻",
+      "definition": "stacked rhymes or repeated rhyme-syllables",
+      "context": "Yuan says he dislikes doubled rhymes"
+    },
+    {
+      "word": "和韻",
+      "definition": "to compose in the same rhyme as another",
+      "context": "Yuan objects to forced matching of earlier lines"
+    },
+    {
+      "word": "古人韻",
+      "definition": "ancient rhymes or patterns",
+      "context": "Yuan avoids imitating old rhyme rigidly"
+    },
+    {
+      "word": "莊子",
+      "definition": "Zhuangzi, Daoist classic",
+      "context": "quoted '忘足, 履之適也' in defence of poetic freedom"
+    },
+    {
+      "word": "蝴蝶",
+      "definition": "butterfly image used in verse",
+      "context": "quoted lines about flowers and butterflies prefiguring lovers"
+    },
+    {
+      "word": "扈蹕",
+      "definition": "accompanying imperial carriage (repeated concept)",
+      "context": "poem title referencing imperial service"
+    },
+    {
+      "word": "押韻",
+      "definition": "to rhyme; rhyme scheme",
+      "context": "discussion of rhyme usage and preferences"
+    },
+    {
+      "word": "官監",
+      "definition": "official bureau (as for '樂府')",
+      "context": "etymology and history of '樂府' discussed"
+    },
+    {
+      "word": "君馬黃",
+      "definition": "title of an old Yuefu piece (fragmentary)",
+      "context": "cited among lost or transformed Yuefu pieces"
+    },
+    {
+      "word": "臨高台",
+      "definition": "another old music/poem title",
+      "context": "one of the lost Yuefu references"
+    },
+    {
+      "word": "樂府",
+      "definition": "Music Bureau poems (ancient popular lyrical mode)",
+      "context": "discussion of preservation, corruption, and reinvention of Yuefu"
+    },
+    {
+      "word": "將進酒",
+      "definition": "a poem/song title associated with ancient music",
+      "context": "example of title changes through transmission"
+    },
+    {
+      "word": "平關中",
+      "definition": "alternate title for a transmitted musical piece",
+      "context": "example of how titles shifted"
+    },
+    {
+      "word": "文選",
+      "definition": "Wen Xuan, an early imperial anthology",
+      "context": "discussed for metrics and variable rhyme counts"
+    },
+    {
+      "word": "五韻",
+      "definition": "five-rhyme pattern",
+      "context": "used to describe classical verse forms observed in Wen Xuan"
+    },
+    {
+      "word": "七韻",
+      "definition": "seven-rhyme pattern",
+      "context": "as above, indicates irregular stanzaic practice"
+    },
+    {
+      "word": "陸放翁",
+      "definition": "honorific for Lu You",
+      "context": "quoted for surprising metrical choices"
+    },
+    {
+      "word": "蝗",
+      "definition": "locust",
+      "context": "used in Lu You's line '燒灰除菜蝗' to mark a rare pronunciation"
+    },
+    {
+      "word": "徐騎省",
+      "definition": "an official/poet referenced (Xu Qisheng)",
+      "context": "cited for a metrical reading decision"
+    },
+    {
+      "word": "李山甫",
+      "definition": "poet (Li Shanfu) referenced",
+      "context": "example of flexible tonal reading in classical verse"
+    },
+    {
+      "word": "王建",
+      "definition": "Tang poet Wang Jian referenced",
+      "context": "cited for metrical examples"
+    },
+    {
+      "word": "白居易",
+      "definition": "repeated reference to Bai Juyi",
+      "context": "examples of variable pronunciations in his poems"
+    },
+    {
+      "word": "李商隱",
+      "definition": "repeated reference to Li Shangyin",
+      "context": "examples of reader's notes on tone"
+    },
+    {
+      "word": "杜少陵",
+      "definition": "repeated reference to Du Fu",
+      "context": "examples of fluidity and flexibility in tone and diction"
+    },
+    {
+      "word": "相如",
+      "definition": "Sima Xiangru (classical poet) referenced",
+      "context": "quoted examples that do not match topography exactly"
+    },
+    {
+      "word": "上林賦",
+      "definition": "Sima Xiangru's rhapsody 'Shanglin Fu'",
+      "context": "citation in geographic exaggeration discussion"
+    },
+    {
+      "word": "八川",
+      "definition": "eight rivers mentioned in an ancient account",
+      "context": "used in commentary about Chang'an's waterways' historic change"
+    },
+    {
+      "word": "類書",
+      "definition": "encyclopedic class-books",
+      "context": "discussion of past labor-intensive compilations versus modern convenience"
+    },
+    {
+      "word": "字匯",
+      "definition": "character dictionaries or lexica",
+      "context": "contrast of past and present compilation effort"
+    },
+    {
+      "word": "將進酒",
+      "definition": "re-appearing Yuefu title (duplicate entry)",
+      "context": "example of mistransmission by later compilers"
+    },
+    {
+      "word": "崔豹",
+      "definition": "early commentator on Yuefu",
+      "context": "mentioned in discussion of Yuefu explanations"
+    },
+    {
+      "word": "吳兢",
+      "definition": "later commentator on Yuefu",
+      "context": "also cited in the chain of commentary confusion"
+    },
+    {
+      "word": "崔豹以義說名",
+      "definition": "phrase meaning 'Cui Bao gave moralized titles'",
+      "context": "critique of later interpretive practices"
+    },
+    {
+      "word": "左氏",
+      "definition": "Zuo Zhuan, ancient commentary",
+      "context": "used in interpreting early odes and their meanings"
+    },
+    {
+      "word": "鄭伯",
+      "definition": "a historical lord cited in Zuo Zhuan anecdote",
+      "context": "story about crude verses and propriety"
+    },
+    {
+      "word": "鶉奔",
+      "definition": "a titled poem 'The Partridge Flees'",
+      "context": "cited in discussion of impropriety of content"
+    },
+    {
+      "word": "庚 (古音同岡)",
+      "definition": "explanation of ancient phonology for the character 庚",
+      "context": "phonological note on historical readings"
+    },
+    {
+      "word": "羹 (古音同庚?)",
+      "definition": "archaic phonological claim relating characters",
+      "context": "phonetic-historical observation in textual notes"
+    },
+    {
+      "word": "文選 (五韻、七韻)",
+      "definition": "again referencing Wen Xuan's variety of rhyme lengths",
+      "context": "observation that classical poems stopped when 'intent' ended rather than rhyme count"
+    },
+    {
+      "word": "燒灰除菜蝗",
+      "definition": "a Lu You line used to discuss tone",
+      "context": "example of tonal reading for '蝗'"
+    },
+    {
+      "word": "簟冰",
+      "definition": "reed mat and ice image",
+      "context": "Li Shangyin line about mat-cold (annotated for tone)"
+    },
+    {
+      "word": "滾西",
+      "definition": "title/term in Liu Yuxi's poem '滾西'",
+      "context": "quoted and discussed for diction"
+    },
+    {
+      "word": "雪詩",
+      "definition": "poems about snow",
+      "context": "Song and later poets' innovations in snow imagery"
+    },
+    {
+      "word": "梅花",
+      "definition": "plum blossom poems",
+      "context": "examples of renewed images by Song and Ming poets"
+    },
+    {
+      "word": "三餘編",
+      "definition": "a compilation title about spare time composition",
+      "context": "quoted precept 'do not be too literal in poetic matters'"
+    },
+    {
+      "word": "長恨歌",
+      "definition": "famous long poem by Bai Juyi",
+      "context": "used as example of poetic place-names that don't strictly match geography"
+    },
+    {
+      "word": "澄江",
+      "definition": "clear river phrase",
+      "context": "Xie Xuancheng's line criticized for geographic mismatch"
+    },
+    {
+      "word": "八川",
+      "definition": "repeated note on 'eight rivers' in ancient Chang'an account",
+      "context": "used to dispute later commentators' objections"
+    },
+    {
+      "word": "大家",
+      "definition": "great master (of poetry)",
+      "context": "discursive distinction between 'majors' and 'name' poets"
+    },
+    {
+      "word": "名家",
+      "definition": "well-known stylistic school/author",
+      "context": "contrasted with '大家' in taste debate"
+    },
+    {
+      "word": "倉頡廟",
+      "definition": "temple to Cangjie (inventor of script)",
+      "context": "example of needing an apt inscription for temple plaques"
+    },
+    {
+      "word": "扁對",
+      "definition": "inscription for a memorial plaque or couplet",
+      "context": "difficulty of composing tasteful epigraphic lines"
+    },
+    {
+      "word": "戲台對聯",
+      "definition": "theater couplets",
+      "context": "examples of witty paired lines used in stagehouses"
+    },
+    {
+      "word": "張文敏公戲台集宋句",
+      "definition": "collection of theatrical couplets attributed to an official",
+      "context": "cited as clever compilation used in theater"
+    },
+    {
+      "word": "山谷 (黃山谷)",
+      "definition": "Huang Shan'gu, a poet with archaic style",
+      "context": "critique and commentary on his slender, peculiar style"
+    },
+    {
+      "word": "蝤蛑",
+      "definition": "a grub or larval insect (metaphor)",
+      "context": "Dongpo's metaphor for unpleasant taste of a poet's lines"
+    },
+    {
+      "word": "徐凝詠瀑布",
+      "definition": "reference to Xu Ning's waterfall poem",
+      "context": "quoted line '萬古常疑白練飛' and differing tastes"
+    },
+    {
+      "word": "海棠",
+      "definition": "crabapple/flower image used by Dongpo",
+      "context": "example of sensual description critiqued by Yuan"
+    },
+    {
+      "word": "孝廉",
+      "definition": "an official candidate rank",
+      "context": "a man with the title whose poem is discussed"
+    },
+    {
+      "word": "乾坤",
+      "definition": "heaven and earth; metaphor for cosmic pledge",
+      "context": "phrase in a poet's vow '立誓乾坤不受恩' discussed by Yuan"
+    },
+    {
+      "word": "陶靖節",
+      "definition": "literary name of Tao Qian (Tao Yuanming)",
+      "context": "example of a high-minded figure who nevertheless begged food"
+    },
+    {
+      "word": "杜少陵以稷、契自許",
+      "definition": "claim to legendary founders for moral stature",
+      "context": "example showing that even great men accepted gratitude"
+    },
+    {
+      "word": "篤 (as in 記名篤?)",
+      "definition": "sincere, steadfast (classical term)",
+      "context": "appears in classical usages and anecdotes about loyalty"
+    },
+    {
+      "word": "葡萄險韻 (詠葡萄)",
+      "definition": "challenge to compose in a difficult (rare) rhyme",
+      "context": "anecdote of composing long hundreds of lines on a given rhyme"
+    },
+    {
+      "word": "覃韻",
+      "definition": "a rare rhyme category '覃' (tham)', used as a challenge",
+      "context": "used when guests improvised in rare rhyme at a banquet"
+    },
+    {
+      "word": "橄欖",
+      "definition": "olive fruit used as prompt for composition",
+      "context": "Jin's seat directed a challenge to compose on olives"
+    },
+    {
+      "word": "錢",
+      "definition": "money/coin motif in a poetical experiment",
+      "context": "Yang Rongchang's imitation verses on coinage at a banquet"
+    },
+    {
+      "word": "藏 (in coin context '藏處')",
+      "definition": "store or hoard",
+      "context": "image used in a playful poem about coins' concealment"
+    },
+    {
+      "word": "八家文",
+      "definition": "the Eight Masters (eight-voice commentary), here as textual recension",
+      "context": "reference to Tang/Song era editorial changes"
+    },
+    {
+      "word": "刪改",
+      "definition": "emendation or censorship of texts",
+      "context": "debate over editorial revision of classical works"
+    },
+    {
+      "word": "宏濟寺",
+      "definition": "a temple name mentioned in Yangzhou travel anecdote",
+      "context": "wall-inscription observed by Yuan in Yangzhou"
+    },
+    {
+      "word": "題壁",
+      "definition": "inscription written on a wall",
+      "context": "anonymous verses found on a temple wall, later traced to authors"
+    },
+    {
+      "word": "苕生",
+      "definition": "pen-name used on the wall (蔣士銓)",
+      "context": "signature on anonymous wall-poems later identified"
+    },
+    {
+      "word": "篁村",
+      "definition": "another wall-poet's sign (later identified as 陶元藻)",
+      "context": "anonymous signature on inn verses that Yuan treasured"
+    },
+    {
+      "word": "梁瑤峰方伯",
+      "definition": "a local official's name in an anecdote",
+      "context": "host/official where poets met or were found"
+    },
+    {
+      "word": "疑雨集",
+      "definition": "title of Wang Cihui's poetic collection",
+      "context": "praised for unique voice yet neglected by compilers"
+    },
+    {
+      "word": "關雎",
+      "definition": "opening poem of the Shijing (The Odes)",
+      "context": "argument about selection for anthologies, showing tastes in curation"
+    },
+    {
+      "word": "元白",
+      "definition": "the two great Tang poets Yuan Zhen and Bai Juyi (mentioned collectively)",
+      "context": "referenced in a polemic by Li Fei in classical reception debate"
+    },
+    {
+      "word": "纖艷不逞",
+      "definition": "phrase criticizing excessive delicacy in verse",
+      "context": "Li Fei's alleged critique of Yuan and Bai's styles"
+    },
+    {
+      "word": "錢塘蘇小",
+      "definition": "a line used by Yuan for a private seal (苏小)",
+      "context": "Yuan carved an informal seal with the phrase and defended it playfully"
+    },
+    {
+      "word": "高文良公夫人",
+      "definition": "a named lady poet (夫人琬)",
+      "context": "poetry composed and corrected in social company; her refinement is praised"
+    },
+    {
+      "word": "白燕",
+      "definition": "title or motif in a poem by the lady '琬'",
+      "context": "quoted in anecdote revealing wit and taste"
+    },
+    {
+      "word": "九華峰寺",
+      "definition": "a temple site used in a poem",
+      "context": "poem by the lady reflecting family history and loss"
+    },
+    {
+      "word": "宋蓉塘詩話",
+      "definition": "a compiled set of poetic notes (book title)",
+      "context": "cited criticising certain predilections in poetic taste"
+    },
+    {
+      "word": "關雎為國風之首",
+      "definition": "assertion of the primacy of 'Guanju' in the Shijing",
+      "context": "used in argument about anthology selections"
+    },
+    {
+      "word": "贈妓",
+      "definition": "a poem type 'to a courtesan'",
+      "context": "comparison between subtle and clumsy versions of a farewell poem"
+    },
+    {
+      "word": "琵琶亭",
+      "definition": "a place (Pipa Pavilion) used in a poem",
+      "context": "title and scene in a cited melodramatic poem"
+    },
+    {
+      "word": "青衫",
+      "definition": "common motif 'green robe' signifying sorrow",
+      "context": "a line about '青衫淚濕' critiqued for melodrama"
+    },
+    {
+      "word": "題畫",
+      "definition": "inscription on paintings",
+      "context": "couplets about image and friend used as model epigraphs"
+    },
+    {
+      "word": "尚湖",
+      "definition": "name of a lake in local poetry '尚湖晚步'",
+      "context": "paired poetic images that mirror one another"
+    },
+    {
+      "word": "活人不及死人香",
+      "definition": "a bitter, ironic line carved by a captured woman",
+      "context": "grim anecdote from a siege about dignity and desperation"
+    },
+    {
+      "word": "萬柘坡光泰",
+      "definition": "a poet '萬柘坡' praised for five- and seven-character ancient forms",
+      "context": "cited for strong old-style poetic skill"
+    },
+    {
+      "word": "近體",
+      "definition": "recent-style regulated verse",
+      "context": "discussed in comparison with older forms and tastes"
+    },
+    {
+      "word": "金鑲曲",
+      "definition": "a dramatic lyric title composed by 洪防思",
+      "context": "a tragic tale set to song and quoted at length"
+    },
+    {
+      "word": "長生曲本",
+      "definition": "title of a theatrical/melodic piece associated with 洪防思",
+      "context": "referenced as widely known music-drama repertoire"
+    },
+    {
+      "word": "江南",
+      "definition": "the southern Yangtze region",
+      "context": "frequent geographic/cultural setting for poems and anecdotes"
+    },
+    {
+      "word": "翰林",
+      "definition": "repeatedly noted Hanlin Academy rank",
+      "context": "Yuan's appointments and many social contexts revolve around Hanlin scholars"
+    },
+    {
+      "word": "結子要風催",
+      "definition": "a wedding/household domestic image used in a line",
+      "context": "light, humorous line in Yuan's verse collection"
+    },
+    {
+      "word": "紫亭",
+      "definition": "a courtesy name used for a descendant (紫亭先生)",
+      "context": "a later generation poet with delicacy praised by Yuan"
+    },
+    {
+      "word": "來鶴堂詩",
+      "definition": "title of a poem/collection by a younger poet",
+      "context": "composition lines praised for subtlety and detachment"
+    },
+    {
+      "word": "催妝",
+      "definition": "poetic motif 'hasten makeup' in wedding scenes",
+      "context": "used in many sent poems to evoke bridal hurry"
+    },
+    {
+      "word": "博議",
+      "definition": "name of an office or project Yuan returned to, also used in send-off poems",
+      "context": "quoted in verses upon Yuan's departure to office"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/52206"
+}
