@@ -1,0 +1,699 @@
+{
+  "gutenberg_id": 1023,
+  "title": "Bleak House",
+  "author": "Dickens, Charles",
+  "summary": "Bleak House interweaves a vast cast around the interminable Chancery suit of Jarndyce and Jarndyce, exposing institutional rot, social inequality, and secrets. Amid London fog, Dickens contrasts the court’s paralysing delays with lives ruined by litigation, following Esther’s narrated experiences, the enigmatic Lady Dedlock, the obsessed lawyers and the stalwart guardianship of John Jarndyce. Scenes range from slums to country estates, from spontaneous-combustion morbidity to comic minor figures. The novel examines inheritance, illegitimacy, guardianship, and the law’s moral failures while tracing love, friendship, betrayal, and the slow unravelling of mysteries around a disputed legacy. It blends satire, pathos, and melodrama.",
+  "characters": [
+    {
+      "name": "Lord High Chancellor",
+      "age": "estimated 50s–70s",
+      "personality": "formal, contemplative, emblematic of a slow, ponderous legal system",
+      "lifespan": "Presides over Chancery in the book; specific fate not stated in provided text"
+    },
+    {
+      "name": "Advocate with great whiskers",
+      "age": "adult (30s–50s)",
+      "personality": "ardent, long-winded legal advocate; theatrical in court",
+      "lifespan": "Appears before the Chancellor; fate not specified in provided text"
+    },
+    {
+      "name": "Registrar",
+      "age": "adult",
+      "personality": "official, procedural, part of court machinery",
+      "lifespan": "Performs registry duties in Chancery; fate not specified in provided text"
+    },
+    {
+      "name": "Little mad old woman",
+      "age": "old",
+      "personality": "habitual court-attender, deludedly expectant of judgment in her favour",
+      "lifespan": "Always present in court; no further fate described in provided text"
+    },
+    {
+      "name": "Sallow prisoner",
+      "age": "adult",
+      "personality": "worn, captive, repeatedly brought to purge contempt",
+      "lifespan": "In custody and repeatedly brought before court; fate unspecified in provided text"
+    },
+    {
+      "name": "Ruined suitor (Shropshire man)",
+      "age": "older adult",
+      "personality": "desperate, persistent, publicly plaintive about his ruined affairs",
+      "lifespan": "Periodically appears in court; fate unspecified in provided text"
+    },
+    {
+      "name": "Short-hand writers / reporters",
+      "age": "adults",
+      "personality": "practical, ephemeral, leave when the cause is dry",
+      "lifespan": "Report court proceedings; no specific fates given"
+    },
+    {
+      "name": "Mr. Krook",
+      "age": "older man",
+      "personality": "eccentric, noted in preface for sudden death",
+      "lifespan": "Described as having died (spontaneous combustion) in the Preface narrative"
+    },
+    {
+      "name": "Mr. Lewes",
+      "age": "adult",
+      "personality": "friend of the author, engaged in debate about combustion",
+      "lifespan": "Mentioned as correspondent; no fate given in provided text"
+    },
+    {
+      "name": "Conversation Kenge",
+      "age": "adult",
+      "personality": "satirical figure referenced in Preface",
+      "lifespan": "Mentioned as an apter mouthpiece; no fate given in provided text"
+    },
+    {
+      "name": "Mr. Vholes",
+      "age": "adult",
+      "personality": "litigious lawyer name used in Preface example",
+      "lifespan": "Referenced in Preface; fate not given in provided text"
+    },
+    {
+      "name": "Giuseppe Bianchini",
+      "age": "historical adult",
+      "personality": "prebendary and investigator cited as authority",
+      "lifespan": "Cited for documenting a case in Verona; no life-fate given in provided text"
+    },
+    {
+      "name": "Countess Cornelia de Baudi Cesenate",
+      "age": "woman (historical case)",
+      "personality": "subject of famed spontaneous-combustion account",
+      "lifespan": "Described as dying in the historical case referenced in Preface"
+    },
+    {
+      "name": "Le Cat",
+      "age": "historical adult",
+      "personality": "surgeon/historian cited regarding a combustion case",
+      "lifespan": "Cited author of a case at Rheims; fate not given in provided text"
+    },
+    {
+      "name": "Esther",
+      "age": "young woman (narrator sections indicate youth)",
+      "personality": "narrative voice in parts, observant, moral, central to many chapters",
+      "lifespan": "Narrates sections; specific final fate not described in provided excerpt"
+    },
+    {
+      "name": "Lady Dedlock",
+      "age": "adult (mature woman)",
+      "personality": "enigmatic, aristocratic, secretive",
+      "lifespan": "Major figure named in table of contents; fate not revealed in provided text"
+    },
+    {
+      "name": "Mr. Tulkinghorn",
+      "age": "adult",
+      "personality": "ominous lawyer figure listed in contents",
+      "lifespan": "Appears in contents and chapter headings; fate not detailed in provided text"
+    },
+    {
+      "name": "Mr. Bucket",
+      "age": "adult",
+      "personality": "detective/inspector figure indicated by chapter title",
+      "lifespan": "Named in contents; fate not provided in excerpt"
+    },
+    {
+      "name": "Jo",
+      "age": "young man or boy",
+      "personality": "marginalized, street-poor figure referenced by chapter title (Jo’s Will)",
+      "lifespan": "Appears in chapters; fate not specified in provided text"
+    },
+    {
+      "name": "Mrs. Snagsby",
+      "age": "adult",
+      "personality": "domestic, observant, implicated in episodes (chapter title)",
+      "lifespan": "Named in contents; fate not given in provided text"
+    },
+    {
+      "name": "Smallweed (family)",
+      "age": "various ages",
+      "personality": "noted as a family of minor comic/repellent figures (chapter title)",
+      "lifespan": "Appear in contents; specific fates not provided in excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Lincoln's Inn (Lincoln's Inn Hall), London",
+      "latitude": 51.5147,
+      "longitude": -0.109
+    },
+    {
+      "name": "Temple Bar (London)",
+      "latitude": 51.5132,
+      "longitude": -0.1096
+    },
+    {
+      "name": "Holborn Hill (London)",
+      "latitude": 51.517,
+      "longitude": -0.1198
+    },
+    {
+      "name": "Greenwich (London)",
+      "latitude": 51.4826,
+      "longitude": -0.0077
+    },
+    {
+      "name": "Essex marshes (general area)",
+      "latitude": 51.7,
+      "longitude": 0.8
+    },
+    {
+      "name": "Kentish heights / North Downs (approx.)",
+      "latitude": 51.337,
+      "longitude": 0.51
+    },
+    {
+      "name": "River Thames (central London stretch)",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Verona (Italy)",
+      "latitude": 45.4384,
+      "longitude": 10.9916
+    },
+    {
+      "name": "Reims (Rheims, France)",
+      "latitude": 49.2628,
+      "longitude": 4.0347
+    },
+    {
+      "name": "Rome (Italy)",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Columbus (Ohio, USA) (as cited)",
+      "latitude": 39.9612,
+      "longitude": -82.9988
+    },
+    {
+      "name": "Lincolnshire (county, England)",
+      "latitude": 53.2307,
+      "longitude": -0.5406
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Chancery",
+      "definition": "a court of equity in England; legal institution",
+      "context": "Repeated central institution in the Preface and Chapter I (Jarndyce and Jarndyce is a Chancery suit)."
+    },
+    {
+      "word": "parsimonious",
+      "definition": "extremely stingy or frugal",
+      "context": "Used in the Preface to describe the public's parsimony blamed for not enlarging the number of Chancery judges."
+    },
+    {
+      "word": "Gridley",
+      "definition": "proper name referenced as an example of a case",
+      "context": "Mentioned in the Preface as an instance not essentially altered from an actual occurrence."
+    },
+    {
+      "word": "Jarndyce",
+      "definition": "proper name of the interminable Chancery cause",
+      "context": "The central suit repeatedly named 'Jarndyce and Jarndyce' in the Preface and Chapter I."
+    },
+    {
+      "word": "suit",
+      "definition": "a legal case or cause",
+      "context": "Used throughout the Preface and Chapter I to refer to legal actions such as Jarndyce and Jarndyce."
+    },
+    {
+      "word": "counsel",
+      "definition": "lawyers or advocates appearing in court",
+      "context": "Mentioned in the Preface and Chapter I describing the many counsel in long causes."
+    },
+    {
+      "word": "costs",
+      "definition": "legal expenses incurred in a suit",
+      "context": "Preface cites costs of seventy thousand pounds swallowed up in long suits."
+    },
+    {
+      "word": "friendly",
+      "definition": "in the phrase 'a friendly suit' — a suit between allies",
+      "context": "Preface mentions a 'friendly suit' that nonetheless consumed vast costs."
+    },
+    {
+      "word": "spontaneous",
+      "definition": "occurring without external cause; sudden",
+      "context": "Preface discusses 'spontaneous combustion' as a debated phenomenon."
+    },
+    {
+      "word": "combustion",
+      "definition": "the process of burning; here used in the spontaneous-combustion context",
+      "context": "Preface recounts cases believed to show spontaneous combustion, including Mr. Krook."
+    },
+    {
+      "word": "Krook",
+      "definition": "proper name of a character mentioned in the Preface",
+      "context": "Mr. Krook is referenced as having been chronicled for spontaneous combustion."
+    },
+    {
+      "word": "Lewes",
+      "definition": "proper name (friend referenced in Preface)",
+      "context": "Mr. Lewes is cited as a friend who debated the possibility of spontaneous combustion."
+    },
+    {
+      "word": "prebendary",
+      "definition": "a member of the clergy who receives a prebend, a stipend",
+      "context": "Preface cites a 'prebendary of Verona' (Giuseppe Bianchini) as an investigator of a combustion case."
+    },
+    {
+      "word": "Verona",
+      "definition": "city in Italy; location of a documented case",
+      "context": "Preface references Verona as the place where Giuseppe Bianchini published an account."
+    },
+    {
+      "word": "Bianchini",
+      "definition": "proper name (Giuseppe Bianchini, cited author)",
+      "context": "Preface names Bianchini as the investigator who described a famous case."
+    },
+    {
+      "word": "Rheims",
+      "definition": "city in France (also spelled Reims)",
+      "context": "Preface refers to a famous instance of combustion at Rheims described by Le Cat."
+    },
+    {
+      "word": "Le Cat",
+      "definition": "proper name of a French surgeon/historian cited",
+      "context": "Preface cites Le Cat as historian of a combustion case at Rheims."
+    },
+    {
+      "word": "Columbus",
+      "definition": "proper name of a town (in the United States) mentioned in Preface",
+      "context": "Preface notes another recent case described at Columbus, U.S.A."
+    },
+    {
+      "word": "liquor-shop",
+      "definition": "a shop selling alcoholic beverages",
+      "context": "Preface mentions a German who kept a liquor-shop, in relation to a combustion case."
+    },
+    {
+      "word": "inveterate",
+      "definition": "deeply established; habitual",
+      "context": "Preface describes the German as an 'inveterate drunkard'."
+    },
+    {
+      "word": "drunkard",
+      "definition": "a person who drinks alcohol excessively",
+      "context": "Used in the Preface describing the subject of a combustion report."
+    },
+    {
+      "word": "chronicled",
+      "definition": "recorded in a chronicle or narrative",
+      "context": "Preface states the event of Mr. Krook was chronicled."
+    },
+    {
+      "word": "authorities",
+      "definition": "experts or sources of established knowledge",
+      "context": "Preface refers to authorities who have debated spontaneous combustion."
+    },
+    {
+      "word": "testimony",
+      "definition": "evidence or accounts presented as fact",
+      "context": "Preface remarks on the testimony that supports accounts of combustion."
+    },
+    {
+      "word": "Michaelmas",
+      "definition": "the feast of St. Michael; used as a legal term for a term of court",
+      "context": "Chapter I opens 'Michaelmas term lately over' establishing the legal season."
+    },
+    {
+      "word": "term",
+      "definition": "a period when courts sit",
+      "context": "Chapter I mentions the Michaelmas term in relation to the Lord Chancellor sitting."
+    },
+    {
+      "word": "Lincoln's Inn",
+      "definition": "one of the four Inns of Court in London; location of Chancery sittings in text",
+      "context": "Chapter I situates the Lord Chancellor in Lincoln's Inn Hall."
+    },
+    {
+      "word": "Implacable",
+      "definition": "unable to be appeased or mitigated",
+      "context": "Adjective describing the November weather: 'Implacable November weather.'"
+    },
+    {
+      "word": "mud",
+      "definition": "soft, wet earth",
+      "context": "Chapter I opens with streets as muddy as if waters had retired from the earth."
+    },
+    {
+      "word": "Megalosaurus",
+      "definition": "name of a large extinct reptile (dinosaur)",
+      "context": "Wry simile: 'it would not be wonderful to meet a Megalosaurus... up Holborn Hill.'"
+    },
+    {
+      "word": "Holborn",
+      "definition": "district/street in London",
+      "context": "Holborn Hill appears in Chapter I as a setting for the muddy streets and similes."
+    },
+    {
+      "word": "chimney-pots",
+      "definition": "the pots or caps on chimneys",
+      "context": "Chapter I mentions smoke lowering down from chimney-pots like black drizzle."
+    },
+    {
+      "word": "snowflakes",
+      "definition": "flakes of snow; used figuratively",
+      "context": "Used to describe flakes of soot like snowflakes in the fog."
+    },
+    {
+      "word": "mourning",
+      "definition": "expressing sorrow for the dead; used metaphorically",
+      "context": "Fog is described as 'gone into mourning, one might imagine, for the death of the sun.'"
+    },
+    {
+      "word": "aits",
+      "definition": "small islands in a river (especially the Thames)",
+      "context": "Chapter I mentions fog 'up the river, where it flows among green aits and meadows.'"
+    },
+    {
+      "word": "cabooses",
+      "definition": "small ships' cabins; here British usage for stern cabins",
+      "context": "The fog is said to creep into the cabooses of collier-brigs."
+    },
+    {
+      "word": "collier-brigs",
+      "definition": "sailing vessels used to carry coal (colliers), brig is a two-masted ship type",
+      "context": "Fog lies on the yards and rigging of collier-brigs in Chapter I."
+    },
+    {
+      "word": "’prentice",
+      "definition": "colloquial contraction of 'apprentice'",
+      "context": "The 'prentice boy on deck is pinched by fog, in Chapter I (written with an apostrophe)."
+    },
+    {
+      "word": "gunwales",
+      "definition": "the upper edge of a boat's side",
+      "context": "Fog droops on the gunwales of barges and small boats."
+    },
+    {
+      "word": "barges",
+      "definition": "flat-bottomed boats for cargo on rivers/canals",
+      "context": "Barges are among vessels described as covered in fog and muddy water."
+    },
+    {
+      "word": "skipper",
+      "definition": "the captain or master of a ship",
+      "context": "Describes a wrathful skipper smoking in his close cabin."
+    },
+    {
+      "word": "pensioners",
+      "definition": "retired soldiers receiving a pension (Greenwich pensioners)",
+      "context": "Ancient Greenwich pensioners are mentioned wheezing by firesides in the fog."
+    },
+    {
+      "word": "ward",
+      "definition": "a district, or a ward in an institution; used as a local term",
+      "context": "Greenwich pensioners wheeze by the firesides of their wards (Chapter I)."
+    },
+    {
+      "word": "pipe",
+      "definition": "a smoking instrument (pipe)",
+      "context": "The skipper's afternoon pipe is described as fog pinches the apprentice's digits on deck."
+    },
+    {
+      "word": "bridges",
+      "definition": "structures spanning the river",
+      "context": "People on the bridges peer into a nether sky of fog."
+    },
+    {
+      "word": "parapets",
+      "definition": "protective low walls along the edge of bridges or roofs",
+      "context": "Chance people peep over the parapets into fog in Chapter I."
+    },
+    {
+      "word": "nether",
+      "definition": "lower; beneath",
+      "context": "People peer into a 'nether sky of fog', a phrase from Chapter I."
+    },
+    {
+      "word": "fog",
+      "definition": "thick cloud near the ground; pervasive in the book's opening",
+      "context": "Fog is a recurring motif in Chapter I, imagery for London and Chancery."
+    },
+    {
+      "word": "gas",
+      "definition": "town gas for lighting; appears as luminescent through fog",
+      "context": "Gas looming through the fog is compared to the sun loomed by a ploughboy."
+    },
+    {
+      "word": "spongey",
+      "definition": "spongy; soft and absorbent",
+      "context": "The gas seems to know, for it has a 'spongey' look (Chapter I)."
+    },
+    {
+      "word": "haggard",
+      "definition": "gaunt, exhausted; used figuratively",
+      "context": "The gas has a haggard and unwilling look in the foggy streets."
+    },
+    {
+      "word": "mire",
+      "definition": "deep mud; swampy ground",
+      "context": "Dogs and horses are indistinguishable in the mire of the streets."
+    },
+    {
+      "word": "Holborn Hill",
+      "definition": "specific street/hill in Holborn, London",
+      "context": "Megalosaurus might be imagined waddling up Holborn Hill in the mud simile."
+    },
+    {
+      "word": "Temple Bar",
+      "definition": "historic ceremonial gateway marking the boundary of the City of London",
+      "context": "Chapter I locates the leaden-headed old obstruction near Temple Bar."
+    },
+    {
+      "word": "leaden-headed",
+      "definition": "heavy and dull-headed, literally lead-like in head",
+      "context": "Describes the old obstruction and corporation as leaden-headed at Temple Bar."
+    },
+    {
+      "word": "corporation",
+      "definition": "a municipal or civic body; here used for civic authority",
+      "context": "Temple Bar is called an appropriate ornament for a leaden-headed old corporation."
+    },
+    {
+      "word": "groping",
+      "definition": "feeling about blindly or uncertainly",
+      "context": "Describes the 'groping and floundering condition' of the Court of Chancery."
+    },
+    {
+      "word": "floundering",
+      "definition": "struggling mentally or clumsily",
+      "context": "Paired with groping to depict the court's condition in Chapter I."
+    },
+    {
+      "word": "pestilent",
+      "definition": "harmful, destructive; morally or physically pestilential",
+      "context": "The Court of Chancery is called 'most pestilent of hoary sinners.'"
+    },
+    {
+      "word": "hoary",
+      "definition": "very old; ancient",
+      "context": "Used to modify 'sinners' when describing Chancery's age and decay."
+    },
+    {
+      "word": "dais",
+      "definition": "a raised platform for a throne or chair of authority",
+      "context": "The Lord High Chancellor sits on a padded dais looking into a lantern with no light."
+    },
+    {
+      "word": "advocate",
+      "definition": "a lawyer who pleads a case in court",
+      "context": "An advocate with great whiskers addresses the Chancellor in Chapter I."
+    },
+    {
+      "word": "whiskers",
+      "definition": "facial hair at the sides of the face; large sideburns",
+      "context": "The advocate is noted as having great whiskers in his description."
+    },
+    {
+      "word": "brief",
+      "definition": "a summary of facts/arguments in law; also an advocate's brief",
+      "context": "The advocate speaks with an interminable brief in the Chancellor's presence."
+    },
+    {
+      "word": "lantern",
+      "definition": "a glazed roof feature admitting light; used metaphorically as empty focus",
+      "context": "The Chancellor outwardly directs his contemplation to the lantern in the roof."
+    },
+    {
+      "word": "solicitors",
+      "definition": "legal practitioners who prepare and manage cases",
+      "context": "Solicitors in the cause are ranged in a long matted well before the court."
+    },
+    {
+      "word": "registrar",
+      "definition": "court officer who keeps records",
+      "context": "The registrar sits below the judge in wig and gown in Chapter I."
+    },
+    {
+      "word": "maces",
+      "definition": "ceremonial staff symbols of authority",
+      "context": "Two or three maces, or privy purses, are mentioned in legal court suits."
+    },
+    {
+      "word": "privy",
+      "definition": "private; here part of the phrase 'privy purses'",
+      "context": "Chapter I mentions 'privy purses' among court paraphernalia."
+    },
+    {
+      "word": "purses",
+      "definition": "bags for carrying money; here part of 'privy purses'",
+      "context": "Paired with 'privy' to describe items present in court."
+    },
+    {
+      "word": "well",
+      "definition": "the area in front of the bench in court",
+      "context": "Solicitors are ranged in a long matted well between the registrar and the silk gowns."
+    },
+    {
+      "word": "matted",
+      "definition": "covered with a mat or thick layer; here describing the well",
+      "context": "The long matted well is mentioned as the place for solicitors in Chapter I."
+    },
+    {
+      "word": "bills",
+      "definition": "legal pleadings filed in Chancery",
+      "context": "Bills, cross-bills, answers and rejoinders are listed among court papers."
+    },
+    {
+      "word": "cross-bills",
+      "definition": "a bill filed by a defendant against the plaintiff in chancery",
+      "context": "Cross-bills are listed as part of the mountain of costly legal papers."
+    },
+    {
+      "word": "answers",
+      "definition": "formal replies to allegations in a bill",
+      "context": "Included among the litany of legal documents in Chapter I."
+    },
+    {
+      "word": "rejoinders",
+      "definition": "responses to answers in legal pleadings",
+      "context": "Rejoinders are named alongside affidavits and injunctions among court materials."
+    },
+    {
+      "word": "injunctions",
+      "definition": "legal orders restraining actions",
+      "context": "Included in the listed legal instruments piled before solicitors."
+    },
+    {
+      "word": "affidavits",
+      "definition": "sworn written statements used as evidence",
+      "context": "Affidavits are among documents piled before the solicitors in Chancery."
+    },
+    {
+      "word": "issues",
+      "definition": "points in dispute or matters to be tried",
+      "context": "Issues are listed among the items that clog the court's process."
+    },
+    {
+      "word": "references",
+      "definition": "directions to refer matters to a master or committee",
+      "context": "References to masters are cited as part of procedural multiplication."
+    },
+    {
+      "word": "masters",
+      "definition": "court-appointed officers to whom matters are referred for detailed inquiry",
+      "context": "References to masters and masters' reports are mentioned in Chapter I."
+    },
+    {
+      "word": "reports",
+      "definition": "documents produced by masters or officials summarizing findings",
+      "context": "Masters' reports are listed among the mountains of costly nonsense."
+    },
+    {
+      "word": "nonsense",
+      "definition": "foolish or meaningless material; here used to denounce procedural waste",
+      "context": "Mountains of costly nonsense are piled before solicitors in Chancery."
+    },
+    {
+      "word": "candles",
+      "definition": "wax lights; appear as wasting sources of light in the court",
+      "context": "The court is dim, with wasting candles here and there (Chapter I)."
+    },
+    {
+      "word": "stained-glass",
+      "definition": "colored glass typically in windows",
+      "context": "Stained-glass windows lose their colour and admit no light into the place."
+    },
+    {
+      "word": "uninitiated",
+      "definition": "those not familiar with a specialized practice",
+      "context": "The uninitiated from the streets are deterred from entrance by the court's owlish aspect."
+    },
+    {
+      "word": "panes",
+      "definition": "sheets of glass in a window",
+      "context": "The uninitiated peep in through the glass panes in the door."
+    },
+    {
+      "word": "owlish",
+      "definition": "resembling an owl; suggestive of solemn, grave appearance",
+      "context": "The court's owlish aspect is described to deter entry."
+    },
+    {
+      "word": "drawl",
+      "definition": "a slow, drawn-out manner of speaking",
+      "context": "A drawl languidly echoes to the roof from the padded dais where the Chancellor sits."
+    },
+    {
+      "word": "padded",
+      "definition": "cushioned; covered in padding",
+      "context": "The padded dais is where the Lord High Chancellor looks into the lantern."
+    },
+    {
+      "word": "wigs",
+      "definition": "legal wigs worn by judges and barristers",
+      "context": "Attendant wigs are described as all stuck in a fog-bank."
+    },
+    {
+      "word": "fog-bank",
+      "definition": "a dense accumulation of fog",
+      "context": "Wigs are 'stuck in a fog-bank' to extend the fog metaphor in court."
+    },
+    {
+      "word": "scarecrow",
+      "definition": "a frightening or gaunt figure; used metaphorically",
+      "context": "The suit Jarndyce and Jarndyce is called a 'scarecrow of a suit' that drones on."
+    },
+    {
+      "word": "drones",
+      "definition": "to speak or continue monotonously; here the suit 'drones on'",
+      "context": "Jarndyce and Jarndyce 'drones on' as a metaphor for interminable procedure."
+    },
+    {
+      "word": "complicated",
+      "definition": "consisting of many interrelated parts; complex",
+      "context": "The suit has become so complicated that no man alive knows what it means."
+    },
+    {
+      "word": "innumerable",
+      "definition": "too many to be counted",
+      "context": "Innumerable children have been born into the cause; innumerable young people married into it."
+    },
+    {
+      "word": "premises",
+      "definition": "here: the assumptions or matters submitted in argument; also property",
+      "context": "No two Chancery lawyers can talk about Jarndyce and Jarndyce for five minutes without disagreement as to all the premises."
+    },
+    {
+      "word": "conglomeration",
+      "definition": "a collection of things gathered into a mass",
+      "context": "A solitary surviving executor had fallen into a state of conglomeration about accounts."
+    },
+    {
+      "word": "sallow",
+      "definition": "of a sickly, yellowish complexion",
+      "context": "A sallow prisoner has come up in custody for the half-dozenth time."
+    },
+    {
+      "word": "suitor",
+      "definition": "one who brings suit; a plaintiff",
+      "context": "The ruined suitor from Shropshire periodically appears to address the Chancellor."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1023"
+}
