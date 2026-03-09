@@ -1,0 +1,552 @@
+{
+  "gutenberg_id": 73887,
+  "title": "Modern ships of war",
+  "author": "Reed, Edward J. (Edward James), Sir",
+  "summary": "Modern Ships of War, by Sir Edward J. Reed and Rear-Admiral Edward Simpson with supplementary notes by J. D. J. Kelley, surveys late-nineteenth-century naval development. It traces the rapid evolution from wooden sail fleets to iron-clad and steel armored vessels, analyzes national navies (British, French, Italian, Russian, German, Austrian, Turkish, and American), and details design, armament, artillery, and torpedo and submarine warfare. Illustrated plans and ship sections accompany discussions of specific ships, gun types, and rapid-fire ordnance. Appendices address submarine and torpedo technology, reserve naval forces, forced draft, ship types, and gun ranges, forming a technical yet accessible reference guide.",
+  "characters": [
+    {
+      "name": "Sir Edward J. Reed",
+      "age": "unknown",
+      "personality": "authoritative, experienced naval constructor and analyst",
+      "lifespan": "Presented as the principal author and expert; survives as the book's guiding authority"
+    },
+    {
+      "name": "Edward Simpson",
+      "age": "unknown",
+      "personality": "practical, professional naval officer and analyst",
+      "lifespan": "Co-author and contributor from U.S. naval perspective; remains as a technical authority in the work"
+    },
+    {
+      "name": "J. D. Jerrold Kelley",
+      "age": "unknown",
+      "personality": "supplementary commentator, analytical and explanatory",
+      "lifespan": "Contributor of supplementary chapters and notes; appears as augmenting the main text"
+    },
+    {
+      "name": "J. O. Davidson",
+      "age": "unknown",
+      "personality": "artist",
+      "lifespan": "Credited for the drawing of the Battle of Trafalgar frontispiece; included as artist only"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Cape Trafalgar, Cádiz, Spain",
+      "latitude": 36.1296,
+      "longitude": -6.0153
+    },
+    {
+      "name": "Franklin Square, New York, USA (Harper & Brothers)",
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    {
+      "name": "The Admiralty / Whitehall, London, UK",
+      "latitude": 51.5079,
+      "longitude": -0.1276
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "homœopathy",
+      "definition": "alternative medical principle (old spelling)",
+      "context": "Used in the preface to criticize inadequate remedies for the Navy"
+    },
+    {
+      "word": "fetich",
+      "definition": "archaic variant of 'fetish'",
+      "context": "Used in the preface describing a phrase made into a national fetish"
+    },
+    {
+      "word": "fatuous",
+      "definition": "silly, pointless",
+      "context": "Describes the pride-driven, foolish optimism about national genius"
+    },
+    {
+      "word": "solicitude",
+      "definition": "concern or care",
+      "context": "Refers to the public's past lack of care for the Navy"
+    },
+    {
+      "word": "bolus",
+      "definition": "a large pill or dose; here metaphorical",
+      "context": "Used metaphorically for the small naval remedy prescribed by Congress"
+    },
+    {
+      "word": "convalescence",
+      "definition": "recovery after illness",
+      "context": "Describes the Navy's slow recovery after partial rearmament"
+    },
+    {
+      "word": "vociferous",
+      "definition": "loudly expressed",
+      "context": "Describes the insufficient public demand for naval reform"
+    },
+    {
+      "word": "languid",
+      "definition": "sluggish, lacking energy",
+      "context": "Describes the Navy's post-remedy state"
+    },
+    {
+      "word": "apathy",
+      "definition": "lack of interest or enthusiasm",
+      "context": "Applied to the public's earlier indifference to naval matters"
+    },
+    {
+      "word": "bestirred",
+      "definition": "roused to action",
+      "context": "Says Congress finally bestirred itself to act"
+    },
+    {
+      "word": "despatch-boat",
+      "definition": "small fast vessel for carrying messages",
+      "context": "The limited vessels Congress authorized included a despatch-boat"
+    },
+    {
+      "word": "non-technical",
+      "definition": "intended for general readers rather than experts",
+      "context": "Authors claim the text is non-technical and accessible"
+    },
+    {
+      "word": "luminous",
+      "definition": "clear, enlightening",
+      "context": "Used in praise of the authors' style"
+    },
+    {
+      "word": "mortifying",
+      "definition": "causing embarrassment or shame",
+      "context": "Refers to the mortifying realization of national naval inferiority"
+    },
+    {
+      "word": "epoch-making",
+      "definition": "marking an epoch or significant period",
+      "context": "Begins the introductory chapter describing the era of change"
+    },
+    {
+      "word": "degeneracy",
+      "definition": "decline or deterioration",
+      "context": "Describes the Navy's state after years of neglect"
+    },
+    {
+      "word": "marvellous",
+      "definition": "astonishing, wonderful (British spelling)",
+      "context": "Praising foreign designers' achievements"
+    },
+    {
+      "word": "evolution",
+      "definition": "gradual development or change",
+      "context": "Describes the development of battle-ship design"
+    },
+    {
+      "word": "armament",
+      "definition": "military weapons and equipment",
+      "context": "One of the subjects analyzed in the book"
+    },
+    {
+      "word": "armored",
+      "definition": "protected by iron or steel plating",
+      "context": "Used in descriptions and illustration captions for armored ships"
+    },
+    {
+      "word": "iron-clad",
+      "definition": "warship protected by iron or steel armor",
+      "context": "Term appears in the list of illustrations and descriptions"
+    },
+    {
+      "word": "torpedo",
+      "definition": "self-propelled underwater weapon or explosive device",
+      "context": "Discussed in appendices and illustrations"
+    },
+    {
+      "word": "submarine",
+      "definition": "underwater vessel or related warfare",
+      "context": "Appendix I topic: submarine warfare"
+    },
+    {
+      "word": "draught",
+      "definition": "depth of water a vessel draws (British spelling)",
+      "context": "Appears in illustration captions: 'Light Draught Coast-defence Vessel'"
+    },
+    {
+      "word": "carronade",
+      "definition": "short, large-caliber naval cannon",
+      "context": "Illustration captions include a carronade"
+    },
+    {
+      "word": "Dahlgren",
+      "definition": "name of a naval ordnance designer and gun type",
+      "context": "Illustration: U.S.N. 9-inch Dahlgren"
+    },
+    {
+      "word": "breech-loading",
+      "definition": "gun loaded from the rear (breech)",
+      "context": "Frequently referenced in artillery discussions and illustrations"
+    },
+    {
+      "word": "carriage",
+      "definition": "mounting for a cannon or gun",
+      "context": "Used in illustrations and artillery descriptions"
+    },
+    {
+      "word": "broadside",
+      "definition": "side of a ship or simultaneous firing of its side guns",
+      "context": "Appears in illustration captions (broadside carriage)"
+    },
+    {
+      "word": "poop",
+      "definition": "aft upper deck of a ship",
+      "context": "Appears in the plan captions: 'Poop, and Forecastle'"
+    },
+    {
+      "word": "forecastle",
+      "definition": "upper deck at the forward part of a ship",
+      "context": "Used in deck plan captions"
+    },
+    {
+      "word": "scout",
+      "definition": "small fast vessel for reconnaissance",
+      "context": "Illustration: 'New \"Scouts\"' transverse section"
+    },
+    {
+      "word": "monitor",
+      "definition": "type of iron-clad warship with a low profile and turret(s)",
+      "context": "Several U.S. monitors are illustrated (e.g., 'Passaic')"
+    },
+    {
+      "word": "sloop-of-war",
+      "definition": "a small warship with a single gun deck",
+      "context": "Many U.S. sloops-of-war appear in the illustrations list"
+    },
+    {
+      "word": "frigate",
+      "definition": "warship class, larger than sloop and smaller than ship-of-the-line",
+      "context": "U.S. frigates (e.g., 'Franklin') are illustrated"
+    },
+    {
+      "word": "Victory",
+      "definition": "HMS Victory, Nelson's flagship",
+      "context": "Illustration caption: 'The \"Victory\"'"
+    },
+    {
+      "word": "Glatton",
+      "definition": "name of a British ship",
+      "context": "Illustration caption lists 'The \"Glatton\"'"
+    },
+    {
+      "word": "Dreadnought",
+      "definition": "historical ship name; later becomes generic for powerful battleships",
+      "context": "Illustration caption: 'The \"Dreadnought\"'"
+    },
+    {
+      "word": "Inflexible",
+      "definition": "name of an ironclad warship",
+      "context": "Illustration: 'The \"Inflexible\"' and sections"
+    },
+    {
+      "word": "Amiral",
+      "definition": "French for 'Admiral', part of ship name",
+      "context": "Used in 'Amiral Duperré' illustration captions"
+    },
+    {
+      "word": "Duperré",
+      "definition": "name of a French admiral and ship",
+      "context": "Illustration: 'Amiral Duperré' with section"
+    },
+    {
+      "word": "Collingwood",
+      "definition": "name of a British admiral and ship",
+      "context": "Section of the 'Collingwood' appears in illustrations"
+    },
+    {
+      "word": "Devastation",
+      "definition": "ship name used for early turreted ironclad",
+      "context": "Illustration: 'The \"Devastation\"'"
+    },
+    {
+      "word": "Sultan",
+      "definition": "ship name (likely Ottoman or name of British ship)",
+      "context": "Illustration caption includes 'The \"Sultan\"'"
+    },
+    {
+      "word": "Alexandra",
+      "definition": "name of a British armored ship",
+      "context": "Section and plan of the 'Alexandra' in illustrations"
+    },
+    {
+      "word": "Téméraire",
+      "definition": "French ship name (accented)",
+      "context": "Section and plan of the 'Téméraire' are illustrated"
+    },
+    {
+      "word": "Nelson",
+      "definition": "name of the famed admiral and ship",
+      "context": "Section and plan of the 'Nelson' appear in illustrations"
+    },
+    {
+      "word": "Shannon",
+      "definition": "ship name",
+      "context": "Section and plan of the 'Shannon' appear among illustrations"
+    },
+    {
+      "word": "Hotspur",
+      "definition": "ship name",
+      "context": "Illustration: 'The \"Hotspur\"'"
+    },
+    {
+      "word": "Warspite",
+      "definition": "historic ship name",
+      "context": "Illustration: 'The \"Warspite\"'"
+    },
+    {
+      "word": "Mersey",
+      "definition": "ship name and British river name",
+      "context": "Transverse section of the 'Mersey' in illustrations"
+    },
+    {
+      "word": "Inconstant",
+      "definition": "ship name",
+      "context": "Illustration: 'The \"Inconstant\"'"
+    },
+    {
+      "word": "Colossus",
+      "definition": "ship name",
+      "context": "Illustration: 'The \"Colossus\"'"
+    },
+    {
+      "word": "Jumna",
+      "definition": "ship name (HMS Jumna)",
+      "context": "Illustration: 'The \"Jumna\"'"
+    },
+    {
+      "word": "Dévastation",
+      "definition": "French armored ship name (accented)",
+      "context": "Illustration: 'The \"Dévastation:\" French Armored Ship of the First Class'"
+    },
+    {
+      "word": "Courbet",
+      "definition": "French ship name",
+      "context": "Illustration: 'The \"Courbet\" (formerly the \"Foudroyant\")'"
+    },
+    {
+      "word": "Foudroyant",
+      "definition": "former ship name",
+      "context": "Mentioned as the former name of 'Courbet' in illustrations"
+    },
+    {
+      "word": "Richelieu",
+      "definition": "French ship name",
+      "context": "Illustration: 'The \"Richelieu\"'"
+    },
+    {
+      "word": "Vengeur",
+      "definition": "French ship name",
+      "context": "Illustration: 'The \"Vengeur:\" French Iron-clad Coast-guard Vessel'"
+    },
+    {
+      "word": "Grasshopper",
+      "definition": "name of a class of British torpedo gun-boats",
+      "context": "Illustration: 'British Torpedo Gun-boat of the \"Grasshopper\" Class'"
+    },
+    {
+      "word": "Duilio",
+      "definition": "Italian battleship name",
+      "context": "Illustration: 'The \"Duilio\"' in the Italy section"
+    },
+    {
+      "word": "Italia",
+      "definition": "Italian ship name",
+      "context": "Illustration: 'Section of the \"Italia\"' and deck plan"
+    },
+    {
+      "word": "Esmeralda",
+      "definition": "ship name (often South American)",
+      "context": "Illustration: 'The \"Esmeralda\"'"
+    },
+    {
+      "word": "Amerigo",
+      "definition": "proper name (part of ship name)",
+      "context": "Illustration: 'The \"Amerigo Vespucci\"'"
+    },
+    {
+      "word": "Vespucci",
+      "definition": "proper surname in ship name",
+      "context": "Used in the ship name 'Amerigo Vespucci' in illustrations"
+    },
+    {
+      "word": "Catherine",
+      "definition": "name (Catherine II.)",
+      "context": "Illustration: 'The \"Catherine II.\"'"
+    },
+    {
+      "word": "Sachsen",
+      "definition": "German ship name (Saxony)",
+      "context": "Illustration: 'The \"Sachsen\"'"
+    },
+    {
+      "word": "Kaiser",
+      "definition": "German imperial title used as ship name",
+      "context": "Illustration: 'Side Elevation of the \"Kaiser\"'"
+    },
+    {
+      "word": "Powhatan",
+      "definition": "U.S. side-wheel steamer name",
+      "context": "Illustration: 'U. S. Side-wheel Steamer \"Powhatan\"'"
+    },
+    {
+      "word": "Franklin",
+      "definition": "name of a U.S. frigate",
+      "context": "Illustration: 'U. S. Frigate \"Franklin,\" of the \"Merrimac\" Class'"
+    },
+    {
+      "word": "Merrimac",
+      "definition": "name of a U.S. ironclad or class name",
+      "context": "Mentioned in illustration captions"
+    },
+    {
+      "word": "Hartford",
+      "definition": "U.S. sloop-of-war name",
+      "context": "Illustration: 'U. S. Sloop-of-war \"Hartford\"'"
+    },
+    {
+      "word": "Brooklyn",
+      "definition": "U.S. sloop-of-war name",
+      "context": "Illustration: 'U. S. Sloop-of-war \"Brooklyn\"'"
+    },
+    {
+      "word": "Kearsarge",
+      "definition": "U.S. sloop-of-war name",
+      "context": "Illustration: 'U. S. Sloop-of-war \"Kearsarge\"'"
+    },
+    {
+      "word": "Neptuno",
+      "definition": "proper name from Spanish 'El Neptuno' (gun vessel name)",
+      "context": "Illustration: 'Bronze 12-pounder, \"El Neptuno,\" 1781'"
+    },
+    {
+      "word": "Cortez",
+      "definition": "historical name (Hernán Cortés)",
+      "context": "Illustration: 'Bronze Breech-loader used by Cortez in Mexico'"
+    },
+    {
+      "word": "New",
+      "definition": "used in ship names (e.g., New Ironsides)",
+      "context": "Part of the ship name 'New Ironsides' in illustrations"
+    },
+    {
+      "word": "Ironsides",
+      "definition": "ship name (famous ironclad)",
+      "context": "Illustration: 'U. S. Iron-clad \"New Ironsides\"'"
+    },
+    {
+      "word": "Passaic",
+      "definition": "U.S. monitor name",
+      "context": "Illustration: 'U. S. Monitor \"Passaic\"'"
+    },
+    {
+      "word": "Terror",
+      "definition": "ship name",
+      "context": "Illustration: 'U. S. Double-turreted Monitor \"Terror\"'"
+    },
+    {
+      "word": "Tennessee",
+      "definition": "ship name",
+      "context": "Illustration: 'U. S. Frigate \"Tennessee\"'"
+    },
+    {
+      "word": "Adams",
+      "definition": "ship name",
+      "context": "Illustration: 'U. S. Sloop-of-war \"Adams\"'"
+    },
+    {
+      "word": "Marion",
+      "definition": "ship name",
+      "context": "Illustration: 'U. S. Sloop-of-war \"Marion\"'"
+    },
+    {
+      "word": "Alert",
+      "definition": "ship name (iron)",
+      "context": "Illustration: 'U. S. Sloop-of-war \"Alert\" (Iron)'"
+    },
+    {
+      "word": "Trenton",
+      "definition": "ship name",
+      "context": "Illustration: 'U. S. Sloop-of-war \"Trenton\"'"
+    },
+    {
+      "word": "Chicago",
+      "definition": "steel frigate name",
+      "context": "Illustration: 'U. S. Frigate \"Chicago\" (Steel)'"
+    },
+    {
+      "word": "Atlanta",
+      "definition": "sloop-of-war name",
+      "context": "Illustration: 'U. S. Sloop-of-war \"Atlanta\" (Steel)'"
+    },
+    {
+      "word": "Dolphin",
+      "definition": "despatch-boat name",
+      "context": "Illustration: 'U. S. Despatch-boat \"Dolphin\"'"
+    },
+    {
+      "word": "Howell",
+      "definition": "inventor's name associated with a torpedo",
+      "context": "Illustration: 'The Howell Torpedo'"
+    },
+    {
+      "word": "Peacemaker",
+      "definition": "name of a submarine monitor design",
+      "context": "Appendix illustration: 'The Submarine Monitor \"Peacemaker\"'"
+    },
+    {
+      "word": "frontispiece",
+      "definition": "illustration facing a book's title page",
+      "context": "The Battle of Trafalgar drawing is the book's frontispiece"
+    },
+    {
+      "word": "transcriber",
+      "definition": "person who prepared the electronic text",
+      "context": "Header: 'TRANSCRIBER'S NOTE'"
+    },
+    {
+      "word": "underscores",
+      "definition": "characters used to denote italics in the transcription",
+      "context": "Transcriber's note explains italic text is shown by underscores"
+    },
+    {
+      "word": "superscript",
+      "definition": "text set above the normal line",
+      "context": "Transcriber's note mentions superscripts are denoted by ^"
+    },
+    {
+      "word": "monospace",
+      "definition": "font in which each character has the same width",
+      "context": "Transcriber's note advises using a monospace font for tables"
+    },
+    {
+      "word": "appendices",
+      "definition": "supplementary material at book end",
+      "context": "Contents list includes Appendix I, II, III"
+    },
+    {
+      "word": "tribulations",
+      "definition": "difficulties or trials",
+      "context": "Preface: 'historic tribulations' of the vessels"
+    },
+    {
+      "word": "Krupp",
+      "definition": "name of an industrial family and arms manufacturer",
+      "context": "Illustration captions reference Alfred Krupp and Krupp guns"
+    },
+    {
+      "word": "Millwall",
+      "definition": "place and shield name associated with ordnance",
+      "context": "Illustration: 'Horizontal Section of Millwall Shield'"
+    },
+    {
+      "word": "Nordenfeldt",
+      "definition": "name of a torpedo/boat designer",
+      "context": "Appendix illustration: 'Longitudinal Plans of Nordenfeldt Boat'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/73887"
+}
