@@ -1,0 +1,839 @@
+{
+  "gutenberg_id": 7290,
+  "title": "韓詩外傳, Complete",
+  "author": "Han, Ying, active 150 B.C.",
+  "summary": "Han Shi Wai Chuan assembles classical interpretations and moral narratives that explicate lines of the Shi Jing. Through dialogues among Confucius, his disciples, ministers, and rulers it offers exemplars of ritual, filial piety, loyalty, integrity, and restraint. Anecdotes—Zengzi’s humility, Zigong’s tests, Yuan Xian’s poverty, Bo Yi and Shu Qi’s steadfastness, Bao Jiao’s austerity, Yan Ying’s cunning, Li Li’s integrity—teach personal cultivation and public duty. Political parables contrast good governance, ritual order, and measured law with cruelty, excess, and collapse. Practical counsel links music, rites, and temperance to cosmic balance, showing how ethical conduct sustains families and states across Zhou eras.",
+  "characters": [
+    {
+      "name": "孔子 (Confucius)",
+      "age": "mid-to-late life (elder)",
+      "personality": "wise, didactic, moral teacher",
+      "lifespan": "survives as authoritative teacher in narratives"
+    },
+    {
+      "name": "子貢 (Zigong)",
+      "age": "adult",
+      "personality": "practical, eloquent, shrewd-disciple",
+      "lifespan": "active disciple, survives in anecdotes"
+    },
+    {
+      "name": "曾子 (Zengzi)",
+      "age": "adult",
+      "personality": "filial, conscientious, earnest",
+      "lifespan": "portrayed as exemplar, survives in text"
+    },
+    {
+      "name": "原憲 (Yuan Xian)",
+      "age": "old",
+      "personality": "austere, upright, indifferent to wealth",
+      "lifespan": "lives in poverty as moral exemplar"
+    },
+    {
+      "name": "王子比干 (Prince Bigan)",
+      "age": "adult",
+      "personality": "loyal, self-sacrificing",
+      "lifespan": "killed for loyalty (martyr)"
+    },
+    {
+      "name": "柳下惠 (Liu Xia Hui)",
+      "age": "adult",
+      "personality": "trustworthy, self-sacrificing",
+      "lifespan": "dies to demonstrate faith/trust"
+    },
+    {
+      "name": "伯夷 (Bo Yi)",
+      "age": "adult",
+      "personality": "abstemious, principled",
+      "lifespan": "dies (starvation/exile) as exemplar"
+    },
+    {
+      "name": "叔齊 (Shu Qi)",
+      "age": "adult",
+      "personality": "steadfast, principled",
+      "lifespan": "dies (starvation/exile) as exemplar"
+    },
+    {
+      "name": "鮑焦 (Bao Jiao)",
+      "age": "adult",
+      "personality": "honorable, austere",
+      "lifespan": "abandons worldly gain; fate left bleak in narrative"
+    },
+    {
+      "name": "袁旌目 (?)",
+      "age": "unknown",
+      "personality": "mentioned among exemplars",
+      "lifespan": "portrayed historically as exemplar (fate unspecified)"
+    },
+    {
+      "name": "申徒狄 (Shen Tu Di)",
+      "age": "adult",
+      "personality": "principled to extreme, despairing",
+      "lifespan": "commits suicide by drowning"
+    },
+    {
+      "name": "崔嘉 (Cui Jia)",
+      "age": "adult",
+      "personality": "compassionate, intervening",
+      "lifespan": "prevents others' rash acts and survives in anecdote"
+    },
+    {
+      "name": "邵伯 (Shao Bo)",
+      "age": "elder",
+      "personality": "modest, agrarian reformer",
+      "lifespan": "retires to rural life and prospers community"
+    },
+    {
+      "name": "趙宣子 (Zhao Xuanzi)",
+      "age": "adult",
+      "personality": "politically shrewd, moralistic",
+      "lifespan": "active minister who advises and succeeds politically"
+    },
+    {
+      "name": "楚庄王 (King Zhuang of Chu)",
+      "age": "ruler (adult)",
+      "personality": "ambitious but influenceable",
+      "lifespan": "rules; acts in stories (survives)"
+    },
+    {
+      "name": "子反 (Zifan)",
+      "age": "soldier/messenger",
+      "personality": "honest messenger",
+      "lifespan": "serves and reports; remains alive in tale"
+    },
+    {
+      "name": "華元 (Huayuan)",
+      "age": "soldier/messenger",
+      "personality": "compassionate toward enemies",
+      "lifespan": "helps save towns by honest warning"
+    },
+    {
+      "name": "樊姬 (Fan Ji)",
+      "age": "concubine/beauty",
+      "personality": "politically perceptive, influential",
+      "lifespan": "influences court decisions, survives in anecdotes"
+    },
+    {
+      "name": "沈令尹 (Shen, the minister)",
+      "age": "adult",
+      "personality": "long-serving minister, subject to critique",
+      "lifespan": "removed or replaced by king after criticism"
+    },
+    {
+      "name": "孫叔敖 (Sun Shuao)",
+      "age": "adult",
+      "personality": "able statesman",
+      "lifespan": "serves and leads Chu to strength"
+    },
+    {
+      "name": "閔子騫 (Min Ziqian)",
+      "age": "young then mature",
+      "personality": "dutiful, reflective student",
+      "lifespan": "matures as a disciple; survives"
+    },
+    {
+      "name": "孟子 (Mencius)",
+      "age": "adult philosopher",
+      "personality": "moral philosopher",
+      "lifespan": "quoted and referenced as authority"
+    },
+    {
+      "name": "嬰 (a woman of Lu)",
+      "age": "young woman",
+      "personality": "sensitive to political danger",
+      "lifespan": "expresses personal fears; remains in anecdote"
+    },
+    {
+      "name": "高子 (Gaozi)",
+      "age": "adult",
+      "personality": "questioning interlocutor",
+      "lifespan": "asks about poetic inclusion and survives"
+    },
+    {
+      "name": "石奢 (Shi She)",
+      "age": "adult",
+      "personality": "strict law enforcer, upright",
+      "lifespan": "commits self-sacrifice (death) rather than break law"
+    },
+    {
+      "name": "崔杼 (Cui Zhu)",
+      "age": "powerful minister",
+      "personality": "ruthless, ambitious",
+      "lifespan": "acts violently in court; political fate is negative"
+    },
+    {
+      "name": "晏子 (Yan Ying / Yan Zi)",
+      "age": "adult statesman",
+      "personality": "prudent, composed, loyal",
+      "lifespan": "escapes danger and lives as model minister"
+    },
+    {
+      "name": "楚昭王 (King Zhaowang of Chu)",
+      "age": "ruler",
+      "personality": "king who employs upright ministers",
+      "lifespan": "reigns and uses ministers' counsel"
+    },
+    {
+      "name": "李离 (Li Li)",
+      "age": "senior official",
+      "personality": "integralist, upright about law",
+      "lifespan": "commits suicide over legal responsibility"
+    },
+    {
+      "name": "李克 (Li Ke)",
+      "age": "adult advisor",
+      "personality": "astute judge of character",
+      "lifespan": "advises rulers, influential in decision"
+    },
+    {
+      "name": "翟黃 (Zhai Huang)",
+      "age": "official",
+      "personality": "resentful when passed over",
+      "lifespan": "reacts to political outcomes in narrative"
+    },
+    {
+      "name": "魏文侯 (Marquis Wen of Wei)",
+      "age": "ruler",
+      "personality": "seeking good ministers",
+      "lifespan": "rules and consults advisors"
+    },
+    {
+      "name": "商容 (Shang Rong)",
+      "age": "elder retainer",
+      "personality": "modest, self-aware",
+      "lifespan": "refuses high post citing inadequacy"
+    },
+    {
+      "name": "伊尹 (Yi Yin)",
+      "age": "elder minister",
+      "personality": "loyal strategist, political savior",
+      "lifespan": "succeeds and becomes grand minister"
+    },
+    {
+      "name": "湯 (King Tang of Shang)",
+      "age": "founder ruler",
+      "personality": "reforming, responsive to signs",
+      "lifespan": "establishes new dynasty with advisers"
+    },
+    {
+      "name": "文王 (King Wen of Zhou)",
+      "age": "ruler",
+      "personality": "pious, reforming",
+      "lifespan": "dies after long reign; reforms noted"
+    },
+    {
+      "name": "接輿 (Jieyu)",
+      "age": "adult",
+      "personality": "independent, morally steadfast",
+      "lifespan": "refuses riches and leaves to simple life"
+    },
+    {
+      "name": "田饒 (Tian Rao)",
+      "age": "official",
+      "personality": "perceptive about rulers",
+      "lifespan": "leaves and flourishes elsewhere"
+    },
+    {
+      "name": "介之推 (Jie Zhitui)",
+      "age": "retainer",
+      "personality": "loyal and retiring",
+      "lifespan": "retires to mountains (legendary fate)"
+    },
+    {
+      "name": "巫馬期 (Wuma Qi)",
+      "age": "soldier/official",
+      "personality": "hardworking, dutiful",
+      "lifespan": "active in service; survives in anecdotes"
+    },
+    {
+      "name": "子賤 (Zi Jian)",
+      "age": "administrator",
+      "personality": "efficient, delegation-minded",
+      "lifespan": "manages by delegation successfully"
+    }
+  ],
+  "locations": [
+    {
+      "name": "莒 (Ju, Ju County, Shandong)",
+      "latitude": 35.5528,
+      "longitude": 119.256
+    },
+    {
+      "name": "魯 (State of Lu, Qufu area, Shandong)",
+      "latitude": 35.5961,
+      "longitude": 116.9929
+    },
+    {
+      "name": "宋 (State of Song, Shangqiu area, Henan)",
+      "latitude": 34.425,
+      "longitude": 115.656
+    },
+    {
+      "name": "楚 (State of Chu, approximate center near Wuhan, Hubei)",
+      "latitude": 30.5928,
+      "longitude": 114.3055
+    },
+    {
+      "name": "洛水 (Luo River, near Luoyang, Henan)",
+      "latitude": 34.667,
+      "longitude": 112.433
+    },
+    {
+      "name": "太行 (Taihang Mountains, Hebei/Shanxi range)",
+      "latitude": 37,
+      "longitude": 113.5
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "仕于",
+      "definition": "to serve/govern in (a place)",
+      "context": "appears in '曾子仕于莒' (Zengzi served at Ju)"
+    },
+    {
+      "word": "莒",
+      "definition": "ancient state/place Ju",
+      "context": "place where Zengzi served"
+    },
+    {
+      "word": "粟",
+      "definition": "millet/grain",
+      "context": "in '得粟三秉' (obtained three measures of grain)"
+    },
+    {
+      "word": "秉",
+      "definition": "bundle; measure-handle",
+      "context": "measure word in '三秉'"
+    },
+    {
+      "word": "祿",
+      "definition": "salary, stipend",
+      "context": "‘重其祿’ (valuing stipend)"
+    },
+    {
+      "word": "令尹",
+      "definition": "high Chu official title",
+      "context": "楚迎以令尹 (offer as Lingyin)"
+    },
+    {
+      "word": "上卿",
+      "definition": "senior minister rank",
+      "context": "晉迎以上卿 (promoted to Shangqing)"
+    },
+    {
+      "word": "懷其寶",
+      "definition": "to cherish one’s treasure",
+      "context": "phrase about misplacing values"
+    },
+    {
+      "word": "守節",
+      "definition": "to keep integrity/fidelity",
+      "context": "used describing a woman's chastity"
+    },
+    {
+      "word": "貞理",
+      "definition": "chaste principle",
+      "context": "context of female virtue"
+    },
+    {
+      "word": "觴",
+      "definition": "ceremonial cup for drinking",
+      "context": "孔子抽觴以授子貢 (offers cup to Zigong)"
+    },
+    {
+      "word": "浣",
+      "definition": "to wash (clothes)",
+      "context": "describing the maiden washing at a stream"
+    },
+    {
+      "word": "佩",
+      "definition": "ornamental pendant",
+      "context": "處子佩而浣者 (a maiden wearing a pendant)"
+    },
+    {
+      "word": "琴",
+      "definition": "zither (musical instrument)",
+      "context": "孔子抽琴 (Confucius removed a zither)"
+    },
+    {
+      "word": "軫",
+      "definition": "bridge (of a zither) or yoke; here zither part",
+      "context": "孔子抽琴去其軫 (removed the bridge)"
+    },
+    {
+      "word": "五兩",
+      "definition": "five taels (of silver)",
+      "context": "孔子抽五兩以授子貢 (gave five taels)"
+    },
+    {
+      "word": "北鄙",
+      "definition": "northern frontier/village",
+      "context": "子貢自稱北鄙之人 (from the north border)"
+    },
+    {
+      "word": "巳",
+      "definition": "classical third-person pronoun/time term",
+      "context": "frequent in classical phrasing"
+    },
+    {
+      "word": "詩曰",
+      "definition": "the poem says (quotation marker)",
+      "context": "used repeatedly to cite Shi Jing lines"
+    },
+    {
+      "word": "傳曰",
+      "definition": "the commentary says (narrative marker)",
+      "context": "introduces explanatory remarks"
+    },
+    {
+      "word": "彭祖",
+      "definition": "legendary long-lived elder",
+      "context": "used as idiom '身后彭祖' (long life after death)"
+    },
+    {
+      "word": "匡坐",
+      "definition": "sit upright on a stool",
+      "context": "describing original poor dwelling posture"
+    },
+    {
+      "word": "蓬戶瓮牖",
+      "definition": "thatched door and jar-window (humble housing)",
+      "context": "describes Yuan Xian’s poor home"
+    },
+    {
+      "word": "桷桑",
+      "definition": "beam and mulberry (rudimentary home parts)",
+      "context": "describing poor house without hinges)"
+    },
+    {
+      "word": "棄之野鄙",
+      "definition": "abandon to wilderness/village",
+      "context": "about discarding gifts in poor places"
+    },
+    {
+      "word": "守死不往",
+      "definition": "keeping death rather than leaving (chastity)",
+      "context": "woman refusing to go even unto death"
+    },
+    {
+      "word": "夙夜",
+      "definition": "from morning to night; day and night",
+      "context": "quoted poem '夙夜在公'"
+    },
+    {
+      "word": "實命不同",
+      "definition": "different true fates/destinies",
+      "context": "poem line explaining unequal fates"
+    },
+    {
+      "word": "婦道",
+      "definition": "womanly duty/way",
+      "context": "used when discussing feminine virtue"
+    },
+    {
+      "word": "濁",
+      "definition": "turbid/murky",
+      "context": "describing a stream '載清載濁'"
+    },
+    {
+      "word": "泛",
+      "definition": "float/flow",
+      "context": "describing water that floats then goes to sea"
+    },
+    {
+      "word": "奐然",
+      "definition": "abundantly; resplendent",
+      "context": "describing spilling or lavish action"
+    },
+    {
+      "word": "溢",
+      "definition": "to overflow",
+      "context": "woman pours then discards cup '溢之'"
+    },
+    {
+      "word": "殷",
+      "definition": "Shang dynasty (Yin)",
+      "context": "historical references to Shang/Yin period"
+    },
+    {
+      "word": "湯",
+      "definition": "King Tang, founder of Shang",
+      "context": "story of Yi Yin and Tang"
+    },
+    {
+      "word": "伊尹",
+      "definition": "Yi Yin, minister of Tang",
+      "context": "advisor to King Tang"
+    },
+    {
+      "word": "文王",
+      "definition": "King Wen of Zhou",
+      "context": "stories of ritual and omens under King Wen"
+    },
+    {
+      "word": "地動",
+      "definition": "earthquake/earth moving",
+      "context": "omen accompanying a ruler's illness"
+    },
+    {
+      "word": "妖",
+      "definition": "ominous anomaly/monster omen",
+      "context": "used as '妖者、禍之先' (omens precede disaster)"
+    },
+    {
+      "word": "齊給",
+      "definition": "provide evenly",
+      "context": "in counsel for governance (even provisioning)"
+    },
+    {
+      "word": "樂",
+      "definition": "music/ritual music",
+      "context": "frequent linking of rites and music '鐘鼓樂之'"
+    },
+    {
+      "word": "鐘鼓",
+      "definition": "bells and drums (ceremonial)",
+      "context": "in ritual music description"
+    },
+    {
+      "word": "中律",
+      "definition": "standard pitch/middle tone",
+      "context": "used describing musical accord"
+    },
+    {
+      "word": "蕤賓",
+      "definition": "a type of chime or musical instrument",
+      "context": "used in ritual music sequence"
+    },
+    {
+      "word": "介之虫",
+      "definition": "beetle (poetic reference)",
+      "context": "poetic line referencing attentiveness to sound"
+    },
+    {
+      "word": "勃",
+      "definition": "sudden, in bursts (classical usage)",
+      "context": "classical phrasing in narrative"
+    },
+    {
+      "word": "桀",
+      "definition": "legendary tyrant Jie of Xia",
+      "context": "used as archetype of wicked ruler"
+    },
+    {
+      "word": "紂",
+      "definition": "legendary tyrant Zhou of Shang",
+      "context": "archetypal wicked king reference"
+    },
+    {
+      "word": "酒池",
+      "definition": "wine pool (decadent luxury)",
+      "context": "used in tale of Jie lavishness"
+    },
+    {
+      "word": "糟堤",
+      "definition": "dregs-embankment (decadence imagery)",
+      "context": "paired with wine pool for decadent scenes"
+    },
+    {
+      "word": "舜",
+      "definition": "legendary sage-ruler Shun",
+      "context": "exemplary ruler contrasted to tyrants"
+    },
+    {
+      "word": "造父",
+      "definition": "driver/royal charioteer in legend",
+      "context": "example of good management of people/animals"
+    },
+    {
+      "word": "執轡",
+      "definition": "hold reins",
+      "context": "metaphor for governance '執轡如組'"
+    },
+    {
+      "word": "兩驂",
+      "definition": "pair of chariot horses",
+      "context": "describing synchronized control '兩驂如舞'"
+    },
+    {
+      "word": "鬱",
+      "definition": "melancholy/overgrown (classical)",
+      "context": "poetic descriptive vocabulary"
+    },
+    {
+      "word": "愾悌",
+      "definition": "respectful and harmonious (classical compound)",
+      "context": "in praise of gentlemanly demeanor"
+    },
+    {
+      "word": "惻隱",
+      "definition": "compassion; sympathetic sorrow",
+      "context": "moral emotions prompting action"
+    },
+    {
+      "word": "箝馬",
+      "definition": "to restrain horses harshly",
+      "context": "metaphor for cruel governance '箝馬而抹之'"
+    },
+    {
+      "word": "抹",
+      "definition": "to rub out/abuse",
+      "context": "with '箝馬而抹之' describing mistreatment"
+    },
+    {
+      "word": "易子而食",
+      "definition": "exchange children to feed (cannibal imagery)",
+      "context": "used in siege description of Song's hardship"
+    },
+    {
+      "word": "骸而爨",
+      "definition": "to roast bones (cannibal imagery)",
+      "context": "grim description of famine in siege story"
+    },
+    {
+      "word": "箴",
+      "definition": "admonition/inscription (classical)",
+      "context": "in moral admonitions"
+    },
+    {
+      "word": "匪風",
+      "definition": "not a good wind (poetic negation)",
+      "context": "poem lines describing the state's condition"
+    },
+    {
+      "word": "顏淪",
+      "definition": "name/phrase used in anecdote of horse and master",
+      "context": "refers to a charioteer or famed example"
+    },
+    {
+      "word": "奉杯血",
+      "definition": "serve a cup of blood (oath/ceremony)",
+      "context": "used in alliance-ritual story '奉杯血'"
+    },
+    {
+      "word": "拱則抱鼓",
+      "definition": "bow and hold drum (ritual gesture)",
+      "context": "part of ceremonial protocol description"
+    },
+    {
+      "word": "鵠震",
+      "definition": "swan-like tremor (poetic)",
+      "context": "used in music and ritual description"
+    },
+    {
+      "word": "淑人",
+      "definition": "a good/modest person (lady or gentleman)",
+      "context": "poetic praise '淑人君子'"
+    },
+    {
+      "word": "匪車偈",
+      "definition": "not the rattling of carts (poetic)",
+      "context": "in poem praising peaceful rule"
+    },
+    {
+      "word": "殷勤",
+      "definition": "earnest and attentive",
+      "context": "used to describe people’s care or counsel"
+    },
+    {
+      "word": "掇其泣",
+      "definition": "collect their tears (poetic)",
+      "context": "poem line lamenting belated action"
+    },
+    {
+      "word": "不恤元元",
+      "definition": "not caring for the common people",
+      "context": "critique of rulers' neglect"
+    },
+    {
+      "word": "蒼天",
+      "definition": "blue sky/heavens (classical)",
+      "context": "poetic cry '悠悠蒼天'"
+    },
+    {
+      "word": "鴇羽",
+      "definition": "a kind of bird feather in poetry",
+      "context": "poem describing birds assembling '鴇羽'"
+    },
+    {
+      "word": "苞栩",
+      "definition": "classical botanical term in poems",
+      "context": "poetic imagery '集于苞栩'"
+    },
+    {
+      "word": "肅肅",
+      "definition": "solemnly or respectfully",
+      "context": "poetic description of demeanor"
+    },
+    {
+      "word": "蓬戶",
+      "definition": "thatched dwelling (humble home)",
+      "context": "describing humble living '蓬戶瓮牖'"
+    },
+    {
+      "word": "瓮牖",
+      "definition": "earthen-jar window (primitive window)",
+      "context": "paired with '蓬戶' to show poverty"
+    },
+    {
+      "word": "張琴",
+      "definition": "to stretch strings of a zither",
+      "context": "metaphor for governance like tuning a zither"
+    },
+    {
+      "word": "濡",
+      "definition": "moist, wet",
+      "context": "poetic expression '羔裘如濡'"
+    },
+    {
+      "word": "恂直",
+      "definition": "modest and upright",
+      "context": "praise of a gentleman's demeanor"
+    },
+    {
+      "word": "邦之司直",
+      "definition": "the state's upright official",
+      "context": "applied to Shi She as a model"
+    },
+    {
+      "word": "彌",
+      "definition": "to fill up, spread over (classical)",
+      "context": "poetic or descriptive usage"
+    },
+    {
+      "word": "匪其人",
+      "definition": "not that person (classical negation)",
+      "context": "classical phrasing in commentary"
+    },
+    {
+      "word": "蓋",
+      "definition": "cover; also 'tilt/overturn' in classical usage",
+      "context": "printed in anecdotes like '傾蓋而語'"
+    },
+    {
+      "word": "傾蓋",
+      "definition": "to open travel cover and speak (meet casually)",
+      "context": "孔子遭齊程本子傾蓋而語 (meet casually and talk)"
+    },
+    {
+      "word": "蔓草",
+      "definition": "creeping grass (poetic image)",
+      "context": "poem line used in anecdote about meeting)"
+    },
+    {
+      "word": "零露",
+      "definition": "dewdrops (poetic)",
+      "context": "quoted poem imagery about meeting)"
+    },
+    {
+      "word": "摯",
+      "definition": "sincere, earnest (classical)",
+      "context": "used describing genuine moral feeling"
+    },
+    {
+      "word": "闔",
+      "definition": "to close/shut (classical)",
+      "context": "used in ritual or household descriptions"
+    },
+    {
+      "word": "謂之何哉",
+      "definition": "how can one call it (classical rhetorical)",
+      "context": "appears in commentary poetic closure"
+    },
+    {
+      "word": "殞",
+      "definition": "to perish (classical)",
+      "context": "used in descriptions of death of moral exemplars"
+    },
+    {
+      "word": "筵",
+      "definition": "mat; ceremonial seating (classical)",
+      "context": "used in ritual and feast depictions"
+    },
+    {
+      "word": "梟",
+      "definition": "to behead/punish (classical)",
+      "context": "used in law/punishment contexts"
+    },
+    {
+      "word": "鵠",
+      "definition": "swan or large bird (poetic)",
+      "context": "used in imagery involving birds and omens"
+    },
+    {
+      "word": "溯",
+      "definition": "to go upstream; to trace back (classical)",
+      "context": "used in story of seeking causes"
+    },
+    {
+      "word": "郎",
+      "definition": "court official (classical)",
+      "context": "titles and references to officials"
+    },
+    {
+      "word": "雜",
+      "definition": "mixed; irregular (classical)",
+      "context": "describing disorder in state or music"
+    },
+    {
+      "word": "塗炭",
+      "definition": "in misery and calamity (classical idiom)",
+      "context": "describing people's suffering under bad rule"
+    },
+    {
+      "word": "宜于時",
+      "definition": "appropriate to the time",
+      "context": "counsel on acting in season/time"
+    },
+    {
+      "word": "先王",
+      "definition": "former kings (sage ancestors)",
+      "context": "invoked as moral standard throughout text"
+    },
+    {
+      "word": "系",
+      "definition": "to bind/attach; in classical use often linking nouns",
+      "context": "various classical phrases in narratives"
+    },
+    {
+      "word": "終日",
+      "definition": "throughout the day",
+      "context": "often used to describe long dialogues or actions"
+    },
+    {
+      "word": "箴言",
+      "definition": "admonitory words/aphorism",
+      "context": "moral counsel and sayings introduced"
+    },
+    {
+      "word": "綏",
+      "definition": "to pacify, console (classical)",
+      "context": "used when Yan Zi departs calmly"
+    },
+    {
+      "word": "骸",
+      "definition": "bones/remains (classical)",
+      "context": "in grim famine descriptions '骸而爨'"
+    },
+    {
+      "word": "僭",
+      "definition": "usurp (classical)",
+      "context": "used discussing improper seizure of power"
+    },
+    {
+      "word": "顧瞻",
+      "definition": "to look around attentively",
+      "context": "used in poem praising Zhou governance '顧瞻周道'"
+    },
+    {
+      "word": "怛兮",
+      "definition": "Alarming/solemn (classical poetic particle)",
+      "context": "poetic lament in praise/concern lines"
+    },
+    {
+      "word": "淵",
+      "definition": "deep pool; also Yan Yuan's name element",
+      "context": "used as name and poetic imagery"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/7290"
+}
