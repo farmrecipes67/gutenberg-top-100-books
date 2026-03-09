@@ -1,0 +1,490 @@
+{
+  "gutenberg_id": 1952,
+  "title": "The Yellow Wallpaper",
+  "author": "Gilman, Charlotte Perkins",
+  "summary": "The narrator, recovering from 'nervous depression,' stays with her husband John at an inherited mansion. Confined to a top-floor nursery, she is forbidden work and discouraged from writing, though she secretly records her thoughts. The nursery’s ghastly yellow wallpaper captivates and irritates her; she studies its sprawling, contradictory patterns obsessively. John, a practical physician, along with the narrator’s brother, dismisses her illness as hysteria and prescribes rest, tonics, and avoidance of stimulating company. Jennie, John’s sister, manages the household. The narrator’s isolation, thwarted desire to write, and fixation on the wallpaper deepen her distress and wavering grip on self-control daily.",
+  "characters": [
+    {
+      "name": "Narrator",
+      "age": "adult (estimated 20s–40s)",
+      "personality": "reflective, imaginative, increasingly anxious and obsessive",
+      "lifespan": "Remains confined in the house; becomes more obsessed with the wallpaper and distressed during the narrative excerpt"
+    },
+    {
+      "name": "John",
+      "age": "adult (estimated 30s–50s)",
+      "personality": "practical, paternalistic, rational, a physician who dismisses emotional complaints",
+      "lifespan": "Acts as primary caregiver and medical authority; keeps narrator confined and prescribes rest"
+    },
+    {
+      "name": "Narrator's brother",
+      "age": "adult (estimated 30s–50s)",
+      "personality": "medical, authoritative, agrees with John’s diagnosis",
+      "lifespan": "Supports the diagnosis of nervous depression / hysteria and endorses rest and tonics"
+    },
+    {
+      "name": "Jennie",
+      "age": "young adult (estimated 20s–30s)",
+      "personality": "efficient, careful housekeeper, practical",
+      "lifespan": "Manages household tasks and cares for domestic needs; present in the house"
+    },
+    {
+      "name": "Mary",
+      "age": "adult (estimated 20s–40s)",
+      "personality": "competent caregiver",
+      "lifespan": "Looks after the baby and helps with childcare"
+    },
+    {
+      "name": "The baby",
+      "age": "infant",
+      "personality": "described affectionately by narrator",
+      "lifespan": "Present in household; cared for by Mary and Jennie"
+    },
+    {
+      "name": "Mother",
+      "age": "adult (older)",
+      "personality": "visitor/relative",
+      "lifespan": "Visits with family during the Fourth of July stay"
+    },
+    {
+      "name": "Nellie",
+      "age": "child/adolescent (context unclear)",
+      "personality": "visitor or relative",
+      "lifespan": "Visits with mother and children for a week"
+    },
+    {
+      "name": "Children (visitors)",
+      "age": "children",
+      "personality": "playful, described as tiring to narrator",
+      "lifespan": "Visit briefly and leave"
+    },
+    {
+      "name": "Cousin Henry",
+      "age": "adult",
+      "personality": "stimulating acquaintance mentioned as potential visitor",
+      "lifespan": "Mentioned as possible future visitor; does not appear in the excerpt"
+    },
+    {
+      "name": "Cousin Julia",
+      "age": "adult",
+      "personality": "stimulating acquaintance mentioned as potential visitor",
+      "lifespan": "Mentioned as possible future visitor; does not appear in the excerpt"
+    },
+    {
+      "name": "Weir Mitchell",
+      "age": "adult (physician, mentioned)",
+      "personality": "referred-to medical authority",
+      "lifespan": "Mentioned as a physician to whom John might send the narrator; does not appear in the excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "England (referred to as \"English places\")",
+      "latitude": 52.3555,
+      "longitude": -1.1743
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "ancestral",
+      "definition": "relating to ancestors",
+      "context": "\"ancestral halls\""
+    },
+    {
+      "word": "hereditary",
+      "definition": "passing down through inheritance",
+      "context": "\"A colonial mansion, a hereditary estate\""
+    },
+    {
+      "word": "haunted",
+      "definition": "visited by ghosts or evoking eerie feelings",
+      "context": "\"I would say a haunted house\""
+    },
+    {
+      "word": "felicity",
+      "definition": "great happiness or bliss",
+      "context": "\"reach the height of romantic felicity\""
+    },
+    {
+      "word": "queer",
+      "definition": "strange or odd",
+      "context": "\"there is something queer about it\""
+    },
+    {
+      "word": "untenanted",
+      "definition": "not occupied; vacant",
+      "context": "\"why have stood so long untenanted?\""
+    },
+    {
+      "word": "draught",
+      "definition": "a current of cool air (archaic spelling of 'draft')",
+      "context": "\"what I felt was a draught\""
+    },
+    {
+      "word": "superstition",
+      "definition": "belief in supernatural causation or irrational fear",
+      "context": "\"an intense horror of superstition\""
+    },
+    {
+      "word": "scoffs",
+      "definition": "speaks to someone in a scornfully derisive way",
+      "context": "\"he scoffs openly\""
+    },
+    {
+      "word": "physician",
+      "definition": "medical doctor",
+      "context": "\"John is a physician\""
+    },
+    {
+      "word": "phosphates",
+      "definition": "salts or esters of phosphoric acid (medicinal reference)",
+      "context": "\"I do take phosphates\""
+    },
+    {
+      "word": "phosphites",
+      "definition": "chemically related compounds sometimes used in medicine (alternative spelling/form)",
+      "context": "\"or phosphites—whichever it is\""
+    },
+    {
+      "word": "tonics",
+      "definition": "medicinal substances believed to restore or strengthen",
+      "context": "\"take phosphates... and tonics\""
+    },
+    {
+      "word": "congenial",
+      "definition": "pleasant in a way that suits someone; agreeable",
+      "context": "\"congenial work\""
+    },
+    {
+      "word": "sly",
+      "definition": "clever in a secretive or deceitful way",
+      "context": "\"having to be so sly about it\""
+    },
+    {
+      "word": "chintz",
+      "definition": "printed cotton fabric with a glazed finish, used for curtains/coverings",
+      "context": "\"old-fashioned chintz hangings\""
+    },
+    {
+      "word": "piazza",
+      "definition": "porch or veranda (regional/older usage)",
+      "context": "\"one downstairs that opened on the piazza\""
+    },
+    {
+      "word": "nursery",
+      "definition": "a room for children; here a top-floor room",
+      "context": "\"So we took the nursery, at the top of the house.\""
+    },
+    {
+      "word": "barred",
+      "definition": "fitted with bars; constrained",
+      "context": "\"for the windows are barred for little children\""
+    },
+    {
+      "word": "gymnasium",
+      "definition": "room or building equipped for physical exercise",
+      "context": "\"playground and gymnasium\""
+    },
+    {
+      "word": "paint",
+      "definition": "coating applied to surfaces",
+      "context": "\"The paint and paper look as if a boys’ school had used it.\""
+    },
+    {
+      "word": "paper",
+      "definition": "wallpaper; decorative covering for walls",
+      "context": "\"I never saw a worse paper in my life.\""
+    },
+    {
+      "word": "stripped",
+      "definition": "parts removed or torn off",
+      "context": "\"It is stripped off—the paper—in great patches\""
+    },
+    {
+      "word": "breadths",
+      "definition": "widths; strips (of wallpaper)",
+      "context": "\"It is repeated, of course, by the breadths\""
+    },
+    {
+      "word": "bulbous",
+      "definition": "bulging or swollen in shape",
+      "context": "\"two bulbous eyes stare at you upside-down\""
+    },
+    {
+      "word": "smouldering",
+      "definition": "burning slowly without flame; metaphorically faded or sullied",
+      "context": "\"a smouldering, unclean yellow\""
+    },
+    {
+      "word": "unclean",
+      "definition": "not clean; impure or sordid",
+      "context": "\"a smouldering, unclean yellow\""
+    },
+    {
+      "word": "lurid",
+      "definition": "very vivid in a shocking or unpleasant way",
+      "context": "\"a dull yet lurid orange\""
+    },
+    {
+      "word": "orange",
+      "definition": "color in this descriptive usage",
+      "context": "\"a dull yet lurid orange in some places\""
+    },
+    {
+      "word": "sulphur",
+      "definition": "element; used here to describe a color (British spelling)",
+      "context": "\"a sickly sulphur tint\""
+    },
+    {
+      "word": "sickly",
+      "definition": "unhealthy looking",
+      "context": "\"a sickly sulphur tint\""
+    },
+    {
+      "word": "tint",
+      "definition": "a shade or variety of color",
+      "context": "\"a sickly sulphur tint in others\""
+    },
+    {
+      "word": "gnarly",
+      "definition": "knotted, rugged, and twisted (often of trees)",
+      "context": "\"gnarly trees\""
+    },
+    {
+      "word": "greenhouses",
+      "definition": "structures for growing plants under controlled conditions",
+      "context": "\"There were greenhouses, too\""
+    },
+    {
+      "word": "co-heirs",
+      "definition": "people who inherit jointly",
+      "context": "\"something about the heirs and co-heirs\""
+    },
+    {
+      "word": "ghostliness",
+      "definition": "a quality reminiscent of ghosts; eerie atmosphere",
+      "context": "\"That spoils my ghostliness\""
+    },
+    {
+      "word": "impertinence",
+      "definition": "rudeness or bold disrespect",
+      "context": "\"I get positively angry with the impertinence of it\""
+    },
+    {
+      "word": "everlastingness",
+      "definition": "the quality of lasting forever",
+      "context": "\"the everlastiness\""
+    },
+    {
+      "word": "unblinking",
+      "definition": "not blinking; fixed and staring",
+      "context": "\"those absurd, unblinking eyes\""
+    },
+    {
+      "word": "inanimate",
+      "definition": "not alive; without life or spirit",
+      "context": "\"I never saw so much expression in an inanimate thing before\""
+    },
+    {
+      "word": "bureau",
+      "definition": "a chest of drawers; piece of furniture",
+      "context": "\"the knobs of our big old bureau\""
+    },
+    {
+      "word": "ravages",
+      "definition": "severe damage or destruction",
+      "context": "\"I never saw such ravages as the children have made\""
+    },
+    {
+      "word": "sticketh",
+      "definition": "archaic form of 'sticks' (here 'sticks closer')",
+      "context": "\"the wallpaper... sticketh closer than a brother\""
+    },
+    {
+      "word": "perseverance",
+      "definition": "steadfastness in doing something despite difficulty",
+      "context": "\"must have had perseverance as well as hatred\""
+    },
+    {
+      "word": "gouged",
+      "definition": "cut or scooped out roughly",
+      "context": "\"the plaster itself is dug out here and there\""
+    },
+    {
+      "word": "splintered",
+      "definition": "broken into sharp fragments",
+      "context": "\"the floor is scratched and gouged and splintered\""
+    },
+    {
+      "word": "immovable",
+      "definition": "unable to be moved",
+      "context": "\"I lie here on this great immovable bed\""
+    },
+    {
+      "word": "nailed",
+      "definition": "fastened with nails",
+      "context": "\"it is nailed down, I believe\""
+    },
+    {
+      "word": "enthusiastic",
+      "definition": "showing intense interest or eagerness",
+      "context": "\"She is a perfect, and enthusiastic housekeeper\""
+    },
+    {
+      "word": "housekeeper",
+      "definition": "person who manages the household",
+      "context": "\"She is a perfect, and enthusiastic housekeeper\""
+    },
+    {
+      "word": "verily",
+      "definition": "truly; certainly (archaic flavor)",
+      "context": "\"I verily believe she thinks it is the writing which made me sick!\""
+    },
+    {
+      "word": "dwells",
+      "definition": "resides in the mind; lingers",
+      "context": "\"It dwells in my mind so!\""
+    },
+    {
+      "word": "recurrent",
+      "definition": "occurring repeatedly",
+      "context": "\"There is a recurrent spot\""
+    },
+    {
+      "word": "lolls",
+      "definition": "to hang loosely; to lounge",
+      "context": "\"where the pattern lolls like a broken neck\""
+    },
+    {
+      "word": "impertinence",
+      "definition": "bold or disrespectful behavior (duplicate sense noted earlier)",
+      "context": "used to describe the wallpaper’s affront"
+    },
+    {
+      "word": "absurd",
+      "definition": "wildly unreasonable or illogical",
+      "context": "\"those absurd, unblinking eyes\""
+    },
+    {
+      "word": "frieze",
+      "definition": "a broad horizontal band of decoration",
+      "context": "\"They have used a horizontal breadth for a frieze\""
+    },
+    {
+      "word": "interminable",
+      "definition": "endless or seemingly endless",
+      "context": "\"the interminable grotesques\""
+    },
+    {
+      "word": "grotesques",
+      "definition": "comically or repulsively distorted figures",
+      "context": "\"the interminable grotesques seem to form\""
+    },
+    {
+      "word": "plunges",
+      "definition": "sudden swift movements forward or downward",
+      "context": "\"rush off in headlong plunges\""
+    },
+    {
+      "word": "discouraging",
+      "definition": "causing someone to lose confidence or enthusiasm",
+      "context": "\"It is so discouraging not to have any advice\""
+    },
+    {
+      "word": "exhaust",
+      "definition": "to tire out completely",
+      "context": "\"it does exhaust me a good deal\""
+    },
+    {
+      "word": "cod-liver",
+      "definition": "relating to the oil from cod liver, used medicinally",
+      "context": "\"John says I mustn’t lose my strength, and has me take cod-liver oil\""
+    },
+    {
+      "word": "ale",
+      "definition": "a type of beer; old-fashioned beverage reference",
+      "context": "\"to say nothing of ale and wine\""
+    },
+    {
+      "word": "undertaking",
+      "definition": "an important or difficult task",
+      "context": "\"such an undertaking to go so far\""
+    },
+    {
+      "word": "fretful",
+      "definition": "irritable and restless",
+      "context": "\"I’m getting dreadfully fretful and querulous\""
+    },
+    {
+      "word": "querulous",
+      "definition": "complaining in a petulant or whining manner",
+      "context": "\"dreadfully fretful and querulous\""
+    },
+    {
+      "word": "porch",
+      "definition": "covered shelter projecting in front of a building",
+      "context": "\"sit on the porch under the roses\""
+    },
+    {
+      "word": "arbors",
+      "definition": "shaded garden alcoves with vines or lattice",
+      "context": "\"long grape-covered arbors\""
+    },
+    {
+      "word": "box-bordered",
+      "definition": "edged or lined with boxwood (garden term)",
+      "context": "\"full of box-bordered paths\""
+    },
+    {
+      "word": "gnarled",
+      "definition": "having a rugged, weathered appearance (variant 'gnarly')",
+      "context": "used in description of trees and shrubs"
+    },
+    {
+      "word": "stimulus",
+      "definition": "something that rouses activity or energy",
+      "context": "\"more society and stimulus\""
+    },
+    {
+      "word": "fancies",
+      "definition": "imaginings or whims",
+      "context": "\"giving way to such fancies\""
+    },
+    {
+      "word": "imaginative",
+      "definition": "having creative or fanciful thought",
+      "context": "\"with my imaginative power and habit of story-making\""
+    },
+    {
+      "word": "check",
+      "definition": "to restrain or stop",
+      "context": "\"ought to use my will and good sense to check the tendency\""
+    },
+    {
+      "word": "wavering",
+      "definition": "becoming unsteady or indecisive",
+      "context": "\"wavering grip on self-control\""
+    },
+    {
+      "word": "self-control",
+      "definition": "the ability to control one's emotions or desires",
+      "context": "\"makes me very tired... I take pains to control myself\""
+    },
+    {
+      "word": "repose",
+      "definition": "rest, sleep, or tranquility (implied in 'rest')",
+      "context": "narrator's prescribed 'perfect rest and all the air I could get'"
+    },
+    {
+      "word": "stimulating",
+      "definition": "encouraging or arousing interest or energy",
+      "context": "\"stimulating people\""
+    },
+    {
+      "word": "ridicule",
+      "definition": "subject to scornful laughter (implied in John's reaction)",
+      "context": "John laughs at the narrator’s concerns"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1952"
+}
