@@ -1,0 +1,601 @@
+{
+  "gutenberg_id": 28054,
+  "title": "The Brothers Karamazov",
+  "author": "Dostoyevsky, Fyodor",
+  "summary": "Fyodor Pavlovitch Karamazov is a senseless, debauched landowner whose reckless appetites and neglect shape a troubled family. His first marriage to Adelaïda Ivanovna Miüsov ends in elopement, scandal, and the widow’s dying in Petersburg, while their eldest son Dmitri (Mitya) is abandoned and raised by the faithful servant Grigory. Fyodor Pavlovitch squanders alliances, introduces a harem, and revels in buffoonery; his second marriage produces Ivan and Alexey (Alyosha). The household’s decay, social gossip, and political echoes—through cousins like Pyotr Miüsov returning from Paris—begin a saga of moral conflict and looming tragedy. The narrative previews complicated loyalties, self-deception, and religious questioning.",
+  "characters": [
+    {
+      "name": "Fyodor Pavlovitch Karamazov",
+      "age": "middle-aged to elderly (not specified)",
+      "personality": "senseless, fantastical, selfish, debauched, buffoonish, greedy",
+      "lifespan": "Wastes life in debauchery; remembered after a gloomy, tragic death (to be described later)"
+    },
+    {
+      "name": "Alexey Fyodorovitch Karamazov (Alyosha)",
+      "age": "young (third son)",
+      "personality": "gentle, devoutly presented as the third son; described with sympathy",
+      "lifespan": "Alive during narrated events; third son whose role is introduced early"
+    },
+    {
+      "name": "Dmitri Karamazov (Mitya)",
+      "age": "about 3 years old at abandonment; later a young man",
+      "personality": "eldest son; abandoned as a child; impulsive and central to family scandal",
+      "lifespan": "Left in servant care as a child (raised by Grigory); fate to be further developed"
+    },
+    {
+      "name": "Ivan Karamazov",
+      "age": "young adult (middle son)",
+      "personality": "intelligent, aloof (introduced as a son by second marriage)",
+      "lifespan": "Alive during narrated events; future role left to be detailed"
+    },
+    {
+      "name": "Adelaïda Ivanovna Miüsov",
+      "age": "young woman at marriage",
+      "personality": "heiress, beautiful, vigorous, independent, hot-tempered",
+      "lifespan": "Elopes with a divinity student and later dies in Petersburg (garret; typhus or starvation)"
+    },
+    {
+      "name": "Grigory",
+      "age": "adult servant (older)",
+      "personality": "faithful, dutiful, caretaker",
+      "lifespan": "Takes charge of and raises Mitya as an infant; remains the loyal family servant"
+    },
+    {
+      "name": "Pyotr Alexandrovitch Miüsov",
+      "age": "young man when returning from Paris; older later",
+      "personality": "enlightened, Europeanized, a Liberal with continental contacts",
+      "lifespan": "Returns from Paris; mentioned as having known Proudhon and Bakunin; political life sketched"
+    },
+    {
+      "name": "Mitya's grandfather (unnamed)",
+      "age": "deceased",
+      "personality": "not described in detail",
+      "lifespan": "Dead before the events described"
+    },
+    {
+      "name": "Mitya's grandmother (unnamed)",
+      "age": "elderly and ill",
+      "personality": "widow, seriously ill, moved to Moscow",
+      "lifespan": "Living but seriously ill and removed to Moscow"
+    },
+    {
+      "name": "Divinity student (unnamed)",
+      "age": "young",
+      "personality": "destitute, elopes with Adelaïda",
+      "lifespan": "Runs away with Adelaïda to Petersburg; implicated in her destitution and death"
+    },
+    {
+      "name": "Adelaïda's daughters (unnamed)",
+      "age": "adult (married)",
+      "personality": "members of her family; married off",
+      "lifespan": "Mentioned as married and thus not caring for Mitya initially"
+    },
+    {
+      "name": "Proudhon",
+      "age": "historical (referenced)",
+      "personality": "political thinker referenced as acquaintance of Pyotr",
+      "lifespan": "Referenced only as known to Pyotr Alexandrovitch"
+    },
+    {
+      "name": "Bakunin",
+      "age": "historical (referenced)",
+      "personality": "revolutionary thinker referenced as acquaintance of Pyotr",
+      "lifespan": "Referenced only as known to Pyotr Alexandrovitch"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Saint Petersburg (Petersburg)",
+      "latitude": 59.9342802,
+      "longitude": 30.3350986
+    },
+    {
+      "name": "Moscow",
+      "latitude": 55.755826,
+      "longitude": 37.6172999
+    },
+    {
+      "name": "Paris",
+      "latitude": 48.856614,
+      "longitude": 2.3522219
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "landowner",
+      "definition": "owner of land; a country estate holder",
+      "context": "Describes Fyodor Pavlovitch as a 'land owner well known in our district.'"
+    },
+    {
+      "word": "gloomy",
+      "definition": "dark, somber, or mournful",
+      "context": "Used to describe the tragic death remembered among the district."
+    },
+    {
+      "word": "tragic",
+      "definition": "causing or characterized by extreme distress or sorrow",
+      "context": "Refers to Fyodor Pavlovitch's 'gloomy and tragic death.'"
+    },
+    {
+      "word": "senseless",
+      "definition": "lacking common sense or judgment; irrational",
+      "context": "Describes Fyodor Pavlovitch as a 'senseless, fantastical fellow.'"
+    },
+    {
+      "word": "abject",
+      "definition": "extremely bad or severe; wretched",
+      "context": "Used in the phrase 'a type abject and vicious.'"
+    },
+    {
+      "word": "vicious",
+      "definition": "deliberately cruel or violent; morally bad",
+      "context": "Paired with 'abject' to portray the family's patriarchal type."
+    },
+    {
+      "word": "senselessness",
+      "definition": "the quality of being without sense or reason",
+      "context": "Explains the father's peculiar character as 'senselessness.'"
+    },
+    {
+      "word": "peculiar",
+      "definition": "strange or unusual",
+      "context": "Refers to a 'peculiar national form' of senselessness."
+    },
+    {
+      "word": "fantastical",
+      "definition": "imaginary or fanciful; odd in character",
+      "context": "Describes certain 'fantastical fellows' in the district."
+    },
+    {
+      "word": "toady",
+      "definition": "a sycophant; one who flatters for personal gain",
+      "context": "Says Fyodor 'fastened on them as a toady.'"
+    },
+    {
+      "word": "shrewd",
+      "definition": "astute or sharp in practical matters",
+      "context": "Contrasts 'shrewd and intelligent' with mere senselessness."
+    },
+    {
+      "word": "intelligent",
+      "definition": "having or showing intelligence; clever",
+      "context": "Used to contrast many 'fantastical fellows' who are still intelligent."
+    },
+    {
+      "word": "hard",
+      "definition": "solid or firm; here part of 'hard cash'",
+      "context": "Appears in 'a hundred thousand roubles in hard cash.'"
+    },
+    {
+      "word": "cash",
+      "definition": "money in coins or notes",
+      "context": "Part of 'hard cash' indicating money kept by Fyodor."
+    },
+    {
+      "word": "voluptuous",
+      "definition": "relating to luxury or sensual pleasure",
+      "context": "Describes Fyodor's 'voluptuous temper.'"
+    },
+    {
+      "word": "petticoat",
+      "definition": "a woman's undergarment; used metaphorically for women",
+      "context": "Says he was 'ready to run after any petticoat.'"
+    },
+    {
+      "word": "pliable",
+      "definition": "easily influenced or persuaded",
+      "context": "Refers to a 'pliable imagination' persuading the bride."
+    },
+    {
+      "word": "imagination",
+      "definition": "the faculty of forming new ideas or images",
+      "context": "Describes how imagination led to Adelaïda's decision."
+    },
+    {
+      "word": "bold",
+      "definition": "showing a willingness to take risks; brave or confident",
+      "context": "Used in 'bold and ironical spirits' to characterize the era."
+    },
+    {
+      "word": "ironical",
+      "definition": "characterized by irony or sardonic humor",
+      "context": "Says Fyodor was thought once to be 'ironical.'"
+    },
+    {
+      "word": "parasitic",
+      "definition": "living at the expense of another; exploitative",
+      "context": "Describes Fyodor's 'parasitic position' socially and economically."
+    },
+    {
+      "word": "piquancy",
+      "definition": "the quality of being pleasantly stimulating or exciting",
+      "context": "Asked 'What gave the marriage piquancy' referring to the elopement."
+    },
+    {
+      "word": "elopement",
+      "definition": "an act of running away to get married secretly",
+      "context": "The marriage was 'preceded by an elopement.'"
+    },
+    {
+      "word": "heiress",
+      "definition": "a woman who inherits or is entitled to inherit wealth",
+      "context": "Adelaïda is described as an 'heiress.'"
+    },
+    {
+      "word": "vigorous",
+      "definition": "strong, healthy, and full of energy",
+      "context": "Describes Adelaïda as a 'vigorous, intelligent girl.'"
+    },
+    {
+      "word": "romantic",
+      "definition": "characterized by idealized or adventurous notions",
+      "context": "Refers to the 'romantic generation' who made dramatic choices."
+    },
+    {
+      "word": "enigmatic",
+      "definition": "mysterious or difficult to understand",
+      "context": "Describes an 'enigmatic passion' in the narrator's anecdote."
+    },
+    {
+      "word": "passion",
+      "definition": "strong emotion or enthusiasm",
+      "context": "Used in 'enigmatic passion' to explain behavior."
+    },
+    {
+      "word": "insuperable",
+      "definition": "impossible to overcome",
+      "context": "Refers to 'insuperable obstacles' invented to prevent marriage."
+    },
+    {
+      "word": "obstacles",
+      "definition": "things that block one's way or impede progress",
+      "context": "Appears with 'insuperable obstacles' in the anecdote."
+    },
+    {
+      "word": "precipice",
+      "definition": "a very steep or overhanging place; cliff",
+      "context": "Used in the suicide anecdote: 'threw herself from a high bank, almost a precipice.'"
+    },
+    {
+      "word": "picturesque",
+      "definition": "visually attractive, like a picture",
+      "context": "Says her chosen spot was 'picturesque,' which influenced her action."
+    },
+    {
+      "word": "prosaic",
+      "definition": "commonplace or unromantic",
+      "context": "Contrasts 'picturesque' with a 'prosaic flat bank' that might have prevented the suicide."
+    },
+    {
+      "word": "suicide",
+      "definition": "the act of intentionally causing one's own death",
+      "context": "Used in the anecdote about the young lady who perished."
+    },
+    {
+      "word": "naïve",
+      "definition": "lacking experience or sophistication; innocent",
+      "context": "Says 'people, even the wicked, are much more naïve and simple-hearted than we suppose.'"
+    },
+    {
+      "word": "simplicity",
+      "definition": "the quality of being plain or uncomplicated; guilelessness",
+      "context": "Paired with 'naïve' to comment on human nature."
+    },
+    {
+      "word": "dowry",
+      "definition": "property or money brought by a bride to her husband on marriage",
+      "context": "Adelaïda's dowry is discussed as part of the marriage arrangement."
+    },
+    {
+      "word": "apportioned",
+      "definition": "divided and distributed",
+      "context": "Her family 'apportioned the runaway bride her dowry.'"
+    },
+    {
+      "word": "conveyance",
+      "definition": "a legal transfer of property; a document effecting transfer",
+      "context": "Fyodor tried to transfer the village and town house by 'deed of conveyance.'"
+    },
+    {
+      "word": "hot-tempered",
+      "definition": "quick to become angry",
+      "context": "Describes Adelaïda as 'hot-tempered, bold, dark-browed.'"
+    },
+    {
+      "word": "dark-browed",
+      "definition": "having dark eyebrows or a stern aspect",
+      "context": "Part of Adelaïda's physical description: 'dark-browed.'"
+    },
+    {
+      "word": "impatient",
+      "definition": "restless or short of temper under delay",
+      "context": "Used in describing Adelaïda's temperament."
+    },
+    {
+      "word": "remarkable",
+      "definition": "worthy of attention; striking",
+      "context": "Used in 'remarkable physical strength' describing Adelaïda."
+    },
+    {
+      "word": "physical",
+      "definition": "relating to the body",
+      "context": "Appears in 'remarkable physical strength.'"
+    },
+    {
+      "word": "strength",
+      "definition": "the quality or state of being strong",
+      "context": "Used to emphasize Adelaïda's physical power."
+    },
+    {
+      "word": "destitute",
+      "definition": "lacking the basic necessities of life; poor",
+      "context": "Describes the 'destitute divinity student' who eloped with Adelaïda."
+    },
+    {
+      "word": "divinity",
+      "definition": "the study of religion and theology; here, a divinity student",
+      "context": "The eloper is called a 'divinity student.'"
+    },
+    {
+      "word": "student",
+      "definition": "a person studying at an educational institution",
+      "context": "Used for the divinity student who ran away with Adelaïda."
+    },
+    {
+      "word": "harem",
+      "definition": "a group of women associated with one man; used figuratively",
+      "context": "Fyodor 'introduced a regular harem into the house.'"
+    },
+    {
+      "word": "orgies",
+      "definition": "wild, unrestrained parties or excesses",
+      "context": "Talks of 'orgies of drunkenness' in Fyodor's household."
+    },
+    {
+      "word": "drunkenness",
+      "definition": "the state of being intoxicated with alcohol",
+      "context": "Fyodor abandons himself to 'orgies of drunkenness.'"
+    },
+    {
+      "word": "debauchery",
+      "definition": "excessive indulgence in sensual pleasures",
+      "context": "The house is turned 'into a sink of debauchery.'"
+    },
+    {
+      "word": "ridiculous",
+      "definition": "deserving or inviting derision; absurd",
+      "context": "He plays the 'ridiculous part' of the injured husband."
+    },
+    {
+      "word": "buffoon",
+      "definition": "a clown or foolish person who amuses others",
+      "context": "Fyodor is repeatedly called a 'buffoon.'"
+    },
+    {
+      "word": "scoffers",
+      "definition": "those who mock or jeer",
+      "context": "The 'scoffers' mock Fyodor's ostentatious grief."
+    },
+    {
+      "word": "importunity",
+      "definition": "persistent or urgent solicitation; troublesome persistence",
+      "context": "His 'shameless importunity' in seeking his wife's property is criticized."
+    },
+    {
+      "word": "pretended",
+      "definition": "feigned or made up; not genuine",
+      "context": "He 'pretended to be unaware of his ludicrous position.'"
+    },
+    {
+      "word": "ran",
+      "definition": "moved quickly on foot; rushed",
+      "context": "He 'ran out into the street' when the news came of Adelaïda's death."
+    },
+    {
+      "word": "Petersburg",
+      "definition": "Saint Petersburg; major Russian city",
+      "context": "Adelaïda and the divinity student are said to have been in 'Petersburg.'"
+    },
+    {
+      "word": "garret",
+      "definition": "a top-floor or attic room, often small and squalid",
+      "context": "Adelaïda reportedly died 'in a garret' in Petersburg."
+    },
+    {
+      "word": "typhus",
+      "definition": "an infectious disease causing fever and rash",
+      "context": "One account says she died of 'typhus.'"
+    },
+    {
+      "word": "starvation",
+      "definition": "suffering from extreme hunger leading to death",
+      "context": "Another version says she died of 'starvation.'"
+    },
+    {
+      "word": "wept",
+      "definition": "cried; shed tears",
+      "context": "Some say Fyodor 'wept without restraint like a little child.'"
+    },
+    {
+      "word": "servant",
+      "definition": "a person employed in domestic duties",
+      "context": "A 'faithful servant of the family, Grigory,' cared for Mitya."
+    },
+    {
+      "word": "Grigory",
+      "definition": "proper name of the faithful servant",
+      "context": "Grigory 'took the three-year-old Mitya into his care.'"
+    },
+    {
+      "word": "grandmother",
+      "definition": "the mother of one's father or mother",
+      "context": "Mitya's 'widow, Mitya’s grandmother,' had moved to Moscow and was ill."
+    },
+    {
+      "word": "Moscow",
+      "definition": "capital city of Russia",
+      "context": "Mitya's grandmother had 'moved to Moscow.'"
+    },
+    {
+      "word": "cousin",
+      "definition": "a child of one's aunt or uncle; relative",
+      "context": "A 'cousin of Mitya’s mother, Pyotr Alexandrovitch Miüsov,' returns from Paris."
+    },
+    {
+      "word": "Pyotr",
+      "definition": "proper name (Peter)",
+      "context": "Pyotr Alexandrovitch Miüsov is introduced as the cousin."
+    },
+    {
+      "word": "Alexandrovitch",
+      "definition": "patronymic indicating 'son of Alexander'",
+      "context": "Part of Pyotr's full Russian name 'Pyotr Alexandrovitch Miüsov.'"
+    },
+    {
+      "word": "Miüsov",
+      "definition": "family surname (with diacritic as in text)",
+      "context": "Adelaïda's family name, the Miüsovs, appears several times."
+    },
+    {
+      "word": "Paris",
+      "definition": "capital of France",
+      "context": "Pyotr 'returned from Paris.'"
+    },
+    {
+      "word": "Liberal",
+      "definition": "supporter of liberal political ideas",
+      "context": "Pyotr 'became a Liberal of the type common in the forties and fifties.'"
+    },
+    {
+      "word": "Proudhon",
+      "definition": "Pierre-Joseph Proudhon, French political thinker (referenced)",
+      "context": "Pyotr is said to have 'known Proudhon' personally."
+    },
+    {
+      "word": "Bakunin",
+      "definition": "Mikhail Bakunin, Russian revolutionary (referenced)",
+      "context": "Pyotr is also said to have 'known Bakunin personally.'"
+    },
+    {
+      "word": "February",
+      "definition": "the second month of the year",
+      "context": "Reference to 'the Paris Revolution of February 1848.'"
+    },
+    {
+      "word": "Revolution",
+      "definition": "a forcible overthrow of a government or social order",
+      "context": "Mentions 'the Paris Revolution of February 1848.'"
+    },
+    {
+      "word": "declining",
+      "definition": "becoming weaker or less vigorous",
+      "context": "Pyotr 'in his declining years' liked to recount past events."
+    },
+    {
+      "word": "years",
+      "definition": "plural of year; long periods of time",
+      "context": "Used in reference to Pyotr's long life after his Paris sojourn."
+    },
+    {
+      "word": "district",
+      "definition": "an area or region marked by administrative boundaries",
+      "context": "Fyodor Pavlovitch was 'well known in our district.'"
+    },
+    {
+      "word": "estate",
+      "definition": "an area of land with a large house, often owned by gentry",
+      "context": "Refers to the small estate that Fyodor nominally owned."
+    },
+    {
+      "word": "dine",
+      "definition": "to eat the principal meal; to take dinner",
+      "context": "Fyodor 'ran to dine at other men's tables.'"
+    },
+    {
+      "word": "tables",
+      "definition": "furniture at which people eat; used metonymically for hospitality",
+      "context": "He dined at 'other men's tables.'"
+    },
+    {
+      "word": "fastened",
+      "definition": "attached oneself to; clung to",
+      "context": "He 'fastened on them as a toady.'"
+    },
+    {
+      "word": "career",
+      "definition": "a profession or course of action pursued over time",
+      "context": "He was 'passionately anxious to make a career in one way or another.'"
+    },
+    {
+      "word": "complaining",
+      "definition": "expressing dissatisfaction or annoyance",
+      "context": "He spent time 'complaining tearfully' to others about his wife."
+    },
+    {
+      "word": "embellishments",
+      "definition": "ornamentation or exaggerations added to a story",
+      "context": "He 'paraded his woes with embellishments.'"
+    },
+    {
+      "word": "injured",
+      "definition": "harmed or offended; here used figuratively",
+      "context": "He assumed the 'ridiculous part of the injured husband.'"
+    },
+    {
+      "word": "tears",
+      "definition": "drops of clear salty liquid from the eyes, here indicating weeping",
+      "context": "His 'tears and complaints' are described as part of his performance."
+    },
+    {
+      "word": "parade",
+      "definition": "to display ostentatiously",
+      "context": "He 'paraded his woes' publicly."
+    },
+    {
+      "word": "woes",
+      "definition": "great sorrow or distress",
+      "context": "He paraded 'his woes with embellishments.'"
+    },
+    {
+      "word": "gratify",
+      "definition": "to give pleasure or satisfaction to",
+      "context": "What seemed to 'gratify him and flatter his self-love most' was playing the injured husband."
+    },
+    {
+      "word": "flatter",
+      "definition": "to praise excessively, often insincerely",
+      "context": "His self-love was 'flattered' by public sympathy."
+    },
+    {
+      "word": "play",
+      "definition": "to act a role or perform theatrically",
+      "context": "He 'played the ridiculous part' of the injured man."
+    },
+    {
+      "word": "village",
+      "definition": "a small settlement in a rural area",
+      "context": "Mentions 'the little village' included in Adelaïda's dowry."
+    },
+    {
+      "word": "town",
+      "definition": "a populated area larger than a village",
+      "context": "Refers to the 'rather fine town house' that was part of her dowry."
+    },
+    {
+      "word": "remembered",
+      "definition": "held in memory; recalled",
+      "context": "Fyodor Pavlovitch is 'still remembered among us' due to his death."
+    },
+    {
+      "word": "death",
+      "definition": "the end of life",
+      "context": "Reference to Adelaïda's 'death in Petersburg.'"
+    },
+    {
+      "word": "release",
+      "definition": "the act of being freed from something oppressive",
+      "context": "Fyodor's exclamation 'now lettest Thou Thy servant depart in peace' implies release from marriage burdens."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/28054"
+}
