@@ -1,0 +1,578 @@
+{
+  "gutenberg_id": 100,
+  "title": "The Complete Works of William Shakespeare",
+  "author": "Shakespeare, William",
+  "summary": "The Complete Works edition here begins with Shakespeare’s sonnets: a lyrical speaker addresses a youthful beloved, urging procreation, chastising self-love, and promising poetic immortality. Personified forces—Time, Nature, Death—are challenged or entreated as beauty, season, and art are examined. Themes of transience, legacy, and art versus mortality recur: the speaker alternates praise, admonition, and consolation, urging the young man to beget children or be preserved in verse. The contents list follows, indicating comedies, histories, and tragedies set across Europe and classical lands, framing the sonnets as intimate ethical pleas within a vast dramatic corpus. They meditate on time, youth, and memory.",
+  "characters": [
+    {
+      "name": "Poet (Speaker)",
+      "age": "adult (unspecified)",
+      "personality": "observant, admonishing, persuasive; praises beauty and urges legacy through children or verse",
+      "lifespan": "Survives in verse; promises to immortalize the youth through poetry"
+    },
+    {
+      "name": "Fair Youth",
+      "age": "young adult (youthful)",
+      "personality": "beautiful, self-regarding, reluctant to marry or procreate; object of the speaker's plea",
+      "lifespan": "Portrayed as endangered by Time unless he sires children or is preserved in poetry"
+    },
+    {
+      "name": "Nature",
+      "age": "ageless (personified)",
+      "personality": "bountiful, providential; associated with fertility and succession",
+      "lifespan": "Eternal force invoked to sanction procreation and continuity"
+    },
+    {
+      "name": "Time",
+      "age": "ageless (personified)",
+      "personality": "tyrannical, devouring, inevitable; agent of decay and fate",
+      "lifespan": "Inevitable; will age and consume beauty unless countered by offspring or verse"
+    },
+    {
+      "name": "Death",
+      "age": "ageless (personified)",
+      "personality": "inevitable, looming; referenced as the final end",
+      "lifespan": "Claims the living unless their image survives in progeny or poetry"
+    },
+    {
+      "name": "Mother",
+      "age": "older adult",
+      "personality": "reflective; sees her prime returned in her child",
+      "lifespan": "Her image is preserved through offspring"
+    },
+    {
+      "name": "Child / Son",
+      "age": "infant / young child (prospective)",
+      "personality": "portrayed as future carrier of beauty and lineage",
+      "lifespan": "Represents continuity; will outlive parent if born"
+    },
+    {
+      "name": "Widow (metaphoric)",
+      "age": "unspecified",
+      "personality": "used as a metaphor for loss and public mourning",
+      "lifespan": "Symbolic; the world would lament the youth as a widow laments a lost husband"
+    },
+    {
+      "name": "Music (personified element)",
+      "age": "timeless",
+      "personality": "comforting, harmonizing; used to argue for joy and concord",
+      "lifespan": "Frame element used to persuade; endures in metaphor"
+    },
+    {
+      "name": "Sun (Eye of Heaven)",
+      "age": "ageless (celestial)",
+      "personality": "majestic, cyclical; a parallel for human life and decline",
+      "lifespan": "Continues its course; used to illustrate youth, noon, and decline"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Verona",
+      "latitude": 45.4384,
+      "longitude": 10.9916
+    },
+    {
+      "name": "Venice",
+      "latitude": 45.4408,
+      "longitude": 12.3155
+    },
+    {
+      "name": "Tyre",
+      "latitude": 33.2708,
+      "longitude": 35.2036
+    },
+    {
+      "name": "Athens",
+      "latitude": 37.9838,
+      "longitude": 23.7275
+    },
+    {
+      "name": "Denmark (Copenhagen)",
+      "latitude": 55.6761,
+      "longitude": 12.5683
+    },
+    {
+      "name": "Windsor",
+      "latitude": 51.4839,
+      "longitude": -0.6044
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "feed'st",
+      "definition": "archaic second-person singular of 'feed'",
+      "context": "Appears in Sonnet 1: 'Feed’st thy light's flame with self-substantial fuel'"
+    },
+    {
+      "word": "self-substantial",
+      "definition": "existing or sustained by itself",
+      "context": "Describes how the youth feeds his light in Sonnet 1"
+    },
+    {
+      "word": "niggarding",
+      "definition": "stinginess; being miserly",
+      "context": "Used in Sonnet 1: 'mak’st waste in niggarding'"
+    },
+    {
+      "word": "churl",
+      "definition": "rude, mean-spirited person",
+      "context": "Sonnet 1: 'tender churl' criticizes selfishness"
+    },
+    {
+      "word": "buriest",
+      "definition": "archaic second-person singular of 'bury' (buries)",
+      "context": "Sonnet 3: 'Within thine own bud buriest thy content'"
+    },
+    {
+      "word": "mak'st",
+      "definition": "archaic second-person singular of 'make'",
+      "context": "Occurs in Sonnet 1: 'mak’st waste'"
+    },
+    {
+      "word": "glutton",
+      "definition": "one who consumes excessively",
+      "context": "Sonnet 1 calls the youth a 'glutton' of beauty"
+    },
+    {
+      "word": "unthrifty",
+      "definition": "wasteful or imprudent with resources",
+      "context": "Sonnet 5: 'Unthrifty loveliness why dost thou spend'"
+    },
+    {
+      "word": "loveliness",
+      "definition": "beauty; a state of being lovely",
+      "context": "Describes the youth's qualities throughout the sonnets"
+    },
+    {
+      "word": "legacy",
+      "definition": "inheritance or something handed down",
+      "context": "Sonnet 4: 'why dost thou spend / Upon thyself thy beauty's legacy?'"
+    },
+    {
+      "word": "bequest",
+      "definition": "a gift or legacy left by will",
+      "context": "Used to discuss beauty as a bequest in Sonnet 4"
+    },
+    {
+      "word": "frank",
+      "definition": "free, liberal (archaic sense)",
+      "context": "Sonnet 4: 'being frank she lends to those are free'"
+    },
+    {
+      "word": "tillage",
+      "definition": "cultivation of land; metaphor for sexual activity/fertility",
+      "context": "Sonnet 3: 'tillage of thy husbandry'"
+    },
+    {
+      "word": "husbandry",
+      "definition": "management of resources or cultivation; fertility metaphor",
+      "context": "Sonnet 3 contrasts husbandry and barrenness"
+    },
+    {
+      "word": "uneared",
+      "definition": "unploughed, unplanted; here meaning barren",
+      "context": "Sonnet 3: 'For where is she so fair whose uneared womb'"
+    },
+    {
+      "word": "self-love",
+      "definition": "excessive regard for oneself",
+      "context": "Sonnet 3: warns against self-love stopping posterity"
+    },
+    {
+      "word": "posterity",
+      "definition": "future generations",
+      "context": "Recurring term urging the youth to have children"
+    },
+    {
+      "word": "glass",
+      "definition": "mirror",
+      "context": "Sonnet 3: 'Look in thy glass and tell the face thou viewest'"
+    },
+    {
+      "word": "bier",
+      "definition": "platform on which a coffin is carried",
+      "context": "Sonnet 12: 'Borne on the bier with white and bristly beard'"
+    },
+    {
+      "word": "bristly",
+      "definition": "having short stiff hairs; rough",
+      "context": "Sonnet 12 describes aged beards as bristly"
+    },
+    {
+      "word": "beard",
+      "definition": "facial hair; symbol of old age",
+      "context": "Sonnet 12 contrasts dark curls with white beard"
+    },
+    {
+      "word": "scythe",
+      "definition": "harvesting tool; symbol of Time or Death",
+      "context": "Sonnet 12: 'Nothing 'gainst Time's scythe can make defence'"
+    },
+    {
+      "word": "honour",
+      "definition": "honor (archaic spelling)",
+      "context": "Sonnet 13: 'husbandry in honour might uphold'"
+    },
+    {
+      "word": "astronomy",
+      "definition": "study of the heavens; used metaphorically",
+      "context": "Sonnet 14: 'I have astronomy' to read fate in eyes"
+    },
+    {
+      "word": "prognosticate",
+      "definition": "to foretell or prophesy",
+      "context": "Sonnet 14: 'this I prognosticate' about the youth's doom"
+    },
+    {
+      "word": "dearths",
+      "definition": "scarcity or famine",
+      "context": "Sonnet 14: mentions 'plagues, of dearths' as things the poet does not prognosticate"
+    },
+    {
+      "word": "maiden",
+      "definition": "unmarried young woman; used as adjective for gardens",
+      "context": "Sonnet 16: 'many maiden gardens yet unset'"
+    },
+    {
+      "word": "conceit",
+      "definition": "an idea, fanciful notion; poetic conceit",
+      "context": "Sonnet 15: 'Then the conceit of this inconstant stay'"
+    },
+    {
+      "word": "sullied",
+      "definition": "stained or tarnished",
+      "context": "Sonnet 15: 'change your day of youth to sullied night'"
+    },
+    {
+      "word": "antique",
+      "definition": "ancient, old-fashioned",
+      "context": "Sonnet 17: 'stretched metre of an antique song'"
+    },
+    {
+      "word": "temperate",
+      "definition": "moderate; mild",
+      "context": "Sonnet 18: 'Thou art more lovely and more temperate'"
+    },
+    {
+      "word": "phoenix",
+      "definition": "mythical bird reborn from its ashes",
+      "context": "Sonnet 19: used as image of long-lived creatures Time could burn"
+    },
+    {
+      "word": "master",
+      "definition": "chief or dominant one; used in phrase 'master mistress'",
+      "context": "Sonnet 20: 'Hast thou the master mistress of my passion'"
+    },
+    {
+      "word": "mistress",
+      "definition": "female beloved or subject; doubled in phrase",
+      "context": "Sonnet 20 contrasts masculine beauty with female use"
+    },
+    {
+      "word": "pricked",
+      "definition": "selected or marked",
+      "context": "Sonnet 20: 'since she pricked thee out for women's pleasure'"
+    },
+    {
+      "word": "couplement",
+      "definition": "pairing, couplet-like comparison (archaic)",
+      "context": "Sonnet 21: 'Making a couplement of proud compare'"
+    },
+    {
+      "word": "rondure",
+      "definition": "roundness or circular enclosure (archaic)",
+      "context": "Sonnet 21: 'That heaven’s air in this huge rondure hems'"
+    },
+    {
+      "word": "reeleth",
+      "definition": "archaic third-person singular of 'reel' (to stagger)",
+      "context": "Sonnet 7: 'Like feeble age he reeleth from the day'"
+    },
+    {
+      "word": "pilgrimage",
+      "definition": "journey with sacred or important purpose",
+      "context": "Sonnet 7 likens the sun's course to a 'golden pilgrimage'"
+    },
+    {
+      "word": "orient",
+      "definition": "east; the rising place of the sun",
+      "context": "Sonnet 7: 'Lo in the orient when the gracious light'"
+    },
+    {
+      "word": "noon",
+      "definition": "midpoint of the day; metaphor for prime",
+      "context": "Sonnet 7: 'thyself out-going in thy noon'"
+    },
+    {
+      "word": "diest",
+      "definition": "archaic second-person singular of 'die'",
+      "context": "Sonnet 7: 'Unlooked on diest unless thou get a son'"
+    },
+    {
+      "word": "concord",
+      "definition": "harmony",
+      "context": "Sonnet 8: 'If the true concord of well-tuned sounds'"
+    },
+    {
+      "word": "chide",
+      "definition": "to scold mildly",
+      "context": "Sonnet 8: 'They do but sweetly chide thee'"
+    },
+    {
+      "word": "husband",
+      "definition": "to manage or conserve (also spouse)",
+      "context": "Sonnet 8: 'one string sweet husband to another' (metaphor)"
+    },
+    {
+      "word": "consum'st",
+      "definition": "archaic second-person singular of 'consume'",
+      "context": "Sonnet 9: 'Is it for fear to wet a widow’s eye, That thou consum'st thyself in single life?'"
+    },
+    {
+      "word": "makeless",
+      "definition": "unmatched, peerless; here 'makeless wife' meaning matchless",
+      "context": "Sonnet 9: compares world mourning to a 'makeless wife'"
+    },
+    {
+      "word": "widow",
+      "definition": "a woman whose spouse has died; used metaphorically",
+      "context": "Sonnet 9: 'the world will wail thee like a makeless wife'"
+    },
+    {
+      "word": "thriftless",
+      "definition": "wasteful; lacking thrift",
+      "context": "Sonnet 2: 'Were an all-eating shame, and thriftless praise'"
+    },
+    {
+      "word": "livery",
+      "definition": "attire or uniform",
+      "context": "Sonnet 2: 'Thy youth's proud livery so gazed on now'"
+    },
+    {
+      "word": "weed",
+      "definition": "garment (archaic)",
+      "context": "Sonnet 2: 'Will be a tattered weed of small worth held'"
+    },
+    {
+      "word": "trenches",
+      "definition": "ditches or furrows; deep lines",
+      "context": "Sonnet 2: 'And dig deep trenches in thy beauty's field'"
+    },
+    {
+      "word": "besiege",
+      "definition": "to surround or attack; used metaphorically",
+      "context": "Sonnet 2: 'forty winters shall besiege thy brow'"
+    },
+    {
+      "word": "distillation",
+      "definition": "process of extracting essence; used metaphorically",
+      "context": "Sonnet 5: 'Then were not summer's distillation left'"
+    },
+    {
+      "word": "prisoner",
+      "definition": "one confined; used for preserved liquid in glass",
+      "context": "Sonnet 5: 'A liquid prisoner pent in walls of glass'"
+    },
+    {
+      "word": "unbless",
+      "definition": "to deprive of blessing; archaic negative",
+      "context": "Sonnet 3: 'Thou dost beguile the world, unbless some mother'"
+    },
+    {
+      "word": "beguile",
+      "definition": "to deceive or charm",
+      "context": "Sonnet 3: 'Thou dost beguile the world'"
+    },
+    {
+      "word": "usury",
+      "definition": "lending at interest; metaphor for giving away to others",
+      "context": "Sonnet 6: 'That use is not forbidden usury'"
+    },
+    {
+      "word": "happies",
+      "definition": "makes happy (archaic third-person singular)",
+      "context": "Sonnet 6: 'Which happies those that pay the willing loan'"
+    },
+    {
+      "word": "vial",
+      "definition": "small container for liquids",
+      "context": "Sonnet 6: 'Make sweet some vial; treasure thou some place'"
+    },
+    {
+      "word": "self-willed",
+      "definition": "stubbornly determined to follow one's own will",
+      "context": "Sonnet 6: 'Be not self-willed for thou art much too fair'"
+    },
+    {
+      "word": "Leese",
+      "definition": "archaic form of 'lose' (here 'Leese but their show')",
+      "context": "Sonnet 5: 'Leese but their show, their substance still lives sweet'"
+    },
+    {
+      "word": "thou",
+      "definition": "archaic second-person singular pronoun",
+      "context": "Used throughout the sonnets addressing the youth"
+    },
+    {
+      "word": "thee",
+      "definition": "archaic objective case of 'thou'",
+      "context": "Frequent in sonnets as address to the beloved"
+    },
+    {
+      "word": "thy",
+      "definition": "archaic possessive of 'thou'",
+      "context": "Common in the sonnets describing possession of beauty"
+    },
+    {
+      "word": "thine",
+      "definition": "archaic possessive pronoun (yours)",
+      "context": "Used in multiple sonnets to indicate possession"
+    },
+    {
+      "word": "art",
+      "definition": "archaic second-person singular of 'be' or 'skill'",
+      "context": "Sonnet usage: 'Thou art more lovely'"
+    },
+    {
+      "word": "ere",
+      "definition": "before (archaic)",
+      "context": "Sonnet 6: 'Then let not winter's ragged hand deface, In thee thy summer ere thou be distilled'"
+    },
+    {
+      "word": "herald",
+      "definition": "messenger or sign",
+      "context": "Sonnet 1: 'And only herald to the gaudy spring'"
+    },
+    {
+      "word": "gaudy",
+      "definition": "showy or ostentatious",
+      "context": "Sonnet 1: 'gaudy spring'"
+    },
+    {
+      "word": "papers",
+      "definition": "sheets or writings",
+      "context": "Sonnet 17: 'So should my papers (yellowed with their age)'"
+    },
+    {
+      "word": "yellowed",
+      "definition": "made yellow with age",
+      "context": "Sonnet 17: describes aging manuscripts"
+    },
+    {
+      "word": "dwell",
+      "definition": "to remain or to live (also to linger)",
+      "context": "Sonnet 5: 'The lovely gaze where every eye doth dwell'"
+    },
+    {
+      "word": "sap",
+      "definition": "plant fluid; metaphor for youthful vigor",
+      "context": "Sonnet 5: 'Sap checked with frost and lusty leaves quite gone'"
+    },
+    {
+      "word": "frost",
+      "definition": "freezing cold; used as image for age",
+      "context": "Sonnet 5 contrasts summer sap and winter frost"
+    },
+    {
+      "word": "pent",
+      "definition": "confined (archaic)",
+      "context": "Sonnet 5: 'A liquid prisoner pent in walls of glass'"
+    },
+    {
+      "word": "lease",
+      "definition": "term or period of possession",
+      "context": "Sonnet 18: 'summer's lease hath all too short a date'"
+    },
+    {
+      "word": "devouring",
+      "definition": "consuming greedily",
+      "context": "Sonnet 19: 'Devouring Time blunt thou the lion's paws'"
+    },
+    {
+      "word": "lion's",
+      "definition": "possessive of lion; used in metaphor",
+      "context": "Sonnet 19: 'blunt thou the lion's paws'"
+    },
+    {
+      "word": "teeth",
+      "definition": "biting parts; used for metaphorical destruction",
+      "context": "Sonnet 19: 'Pluck the keen teeth from the fierce tiger's jaws'"
+    },
+    {
+      "word": "tiger's",
+      "definition": "possessive of tiger; used in metaphor",
+      "context": "Sonnet 19 imagery of predators and Time"
+    },
+    {
+      "word": "swift-footed",
+      "definition": "moving quickly; compound adjective",
+      "context": "Sonnet 19: 'swift-footed Time'"
+    },
+    {
+      "word": "refigured",
+      "definition": "reproduced or re-created (archaic usage)",
+      "context": "Sonnet 6: 'ten of thine ten times refigured thee'"
+    },
+    {
+      "word": "threescore",
+      "definition": "sixty (archaic counting)",
+      "context": "Sonnet 11: 'And threescore year would make the world away'"
+    },
+    {
+      "word": "speechless",
+      "definition": "without speech; silent",
+      "context": "Sonnet 8: 'Whose speechless song being many, seeming one'"
+    },
+    {
+      "word": "bear'st",
+      "definition": "archaic second-person singular of 'bear' (to carry)",
+      "context": "Sonnet 10: 'For shame deny that thou bear'st love to any'"
+    },
+    {
+      "word": "distilled",
+      "definition": "reduced to essence; preserved",
+      "context": "Sonnet 5: 'But flowers distilled though they with winter meet'"
+    },
+    {
+      "word": "darling",
+      "definition": "cherished or beloved",
+      "context": "Sonnet 18: 'Rough winds do shake the darling buds of May'"
+    },
+    {
+      "word": "tomb",
+      "definition": "burial place; metaphor for oblivion",
+      "context": "Sonnet 17: 'Though yet heaven knows it is but as a tomb'"
+    },
+    {
+      "word": "usurer",
+      "definition": "one who lends money at excessive interest; used metaphorically",
+      "context": "Sonnet 4: 'Profitless usurer why dost thou use'"
+    },
+    {
+      "word": "breed",
+      "definition": "to procreate or produce offspring",
+      "context": "Sonnet 6 urges 'breed another thee'"
+    },
+    {
+      "word": "hideous",
+      "definition": "horrible or dreadful",
+      "context": "Sonnet 12: 'When I do count the clock that tells the time, And see the brave day sunk in hideous night'"
+    },
+    {
+      "word": "violet",
+      "definition": "a flower; symbol of fading beauty",
+      "context": "Sonnet 12: 'When I behold the violet past prime'"
+    },
+    {
+      "word": "ornament",
+      "definition": "decoration or adornment",
+      "context": "Sonnet 1: 'Thou that art now the world's fresh ornament'"
+    },
+    {
+      "word": "user",
+      "definition": "one who uses; here 'user' of beauty",
+      "context": "Sonnet 9: 'And kept unused the user so destroys it'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/100"
+}
