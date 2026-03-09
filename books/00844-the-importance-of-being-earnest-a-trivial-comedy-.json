@@ -1,0 +1,582 @@
+{
+  "gutenberg_id": 844,
+  "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+  "author": "Wilde, Oscar",
+  "summary": "The Importance of Being Earnest is a comic play in which two friends, John Worthing (Jack) and Algernon, invent fictitious personas to escape social obligations. Jack pretends to have a mischievous brother “Ernest” in town while Algernon invents an invalid called Bunbury to visit the country. Mistaken identities, cigarette-case evidence, guardianship of young Cecily, and flirtations with Gwendolen produce witty banter, social satire, and critiques of marriage and morality. The characters spar over propriety, engagements, and family obligations amid London society, with servants, a stern aunt, a governess, and gossiping relatives complicating intentions and revealing hypocrisy. Wit and farce abound.",
+  "characters": [
+    {
+      "name": "John Worthing (Jack)",
+      "age": "approx. 25-35",
+      "personality": "Responsible guardian who keeps a double identity; earnest and pragmatic in public, more playful in private",
+      "lifespan": "Present in the excerpt as guardian of Cecily; intentions and ultimate fate unresolved in provided text"
+    },
+    {
+      "name": "Algernon Moncrieff",
+      "age": "approx. 25-35",
+      "personality": "Witty, sophisticated dandy and social satirist; inventive and indulgent to avoid responsibilities",
+      "lifespan": "Present in excerpt; inventor of the fictional Bunbury; fate unresolved in provided text"
+    },
+    {
+      "name": "Rev. Canon Chasuble, D.D.",
+      "age": "approx. 45-65",
+      "personality": "Clerical figure (listed among persons) noted in cast list; pious and formal",
+      "lifespan": "Listed among characters; not developed in provided excerpt"
+    },
+    {
+      "name": "Merriman",
+      "age": "approx. 30-50",
+      "personality": "Butler figure (listed); formal servant role",
+      "lifespan": "Listed in the dramatis personae; not active in the provided excerpt"
+    },
+    {
+      "name": "Lane",
+      "age": "approx. 30-50",
+      "personality": "Algernon's manservant; dry, ironic, and observant of social manners",
+      "lifespan": "Active in the excerpt arranging tea and recording wine; continues as servant role, fate unresolved"
+    },
+    {
+      "name": "Lady Bracknell (Aunt Augusta)",
+      "age": "approx. 50-65",
+      "personality": "Formidable, status-conscious aristocratic aunt; stern guardian of propriety",
+      "lifespan": "Introduced via references and expected arrival; her judgment shapes social stakes in excerpt"
+    },
+    {
+      "name": "Hon. Gwendolen Fairfax",
+      "age": "approx. 20-30",
+      "personality": "Charming, romantic, obsessed with the name Ernest; fashionable and witty",
+      "lifespan": "Courted by Jack in the excerpt; role and outcome unresolved in provided text"
+    },
+    {
+      "name": "Cecily Cardew",
+      "age": "approx. 16-22",
+      "personality": "Young ward of Jack, object of guardianship; referenced as affectionate and imaginative",
+      "lifespan": "Mentioned in relation to Jack's guardianship and the cigarette case; present in story but not active in excerpt"
+    },
+    {
+      "name": "Miss Prism",
+      "age": "approx. 30-50",
+      "personality": "Governess to Cecily; depicted as admirable and respectable",
+      "lifespan": "Named as governess in excerpt; role in narrative unresolved in provided text"
+    },
+    {
+      "name": "Mr. Thomas Cardew",
+      "age": "deceased (mentioned)",
+      "personality": "Adoptive benefactor to Jack; referenced as deceased guardian in Jack's backstory",
+      "lifespan": "Deceased prior to events in excerpt; his will established Jack's guardianship of Cecily"
+    },
+    {
+      "name": "Lord Shoreman",
+      "age": "approx. 30-50",
+      "personality": "Occasional dinner guest (mentioned as dining with Algernon)",
+      "lifespan": "Mentioned in servants' accounts of wine consumption; minor referenced character"
+    },
+    {
+      "name": "Mary Farquhar",
+      "age": "approx. 30-50",
+      "personality": "Social acquaintance noted for flirtatious behavior",
+      "lifespan": "Mentioned by Algernon as someone his aunt seats him next to; fate unresolved"
+    },
+    {
+      "name": "Bunbury",
+      "age": "fictional/varies",
+      "personality": "Fictitious invalid invented by Algernon as an excuse to escape society",
+      "lifespan": "Invented character used as alibi; not an actual person in the plot excerpt"
+    },
+    {
+      "name": "Ernest (fictional brother)",
+      "age": "fictional",
+      "personality": "Imagined mischievous younger brother invented by Jack as an excuse",
+      "lifespan": "Fictitious persona used by Jack in town; central to the mistaken-identity premise in the excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Half Moon Street, London (Algernon's flat)",
+      "latitude": 51.5095,
+      "longitude": -0.1374
+    },
+    {
+      "name": "The Albany (London)",
+      "latitude": 51.5066,
+      "longitude": -0.1393
+    },
+    {
+      "name": "Tunbridge Wells (Royal Tunbridge Wells)",
+      "latitude": 51.1328,
+      "longitude": 0.2634
+    },
+    {
+      "name": "Shropshire (county, England)",
+      "latitude": 52.7073,
+      "longitude": -2.7553
+    },
+    {
+      "name": "Woolton (manor house scene referenced in play list)",
+      "latitude": 53.3729,
+      "longitude": -2.861
+    },
+    {
+      "name": "London (general setting)",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "forte",
+      "definition": "A person's strong point or talent (from French), or loudness in music",
+      "context": "‘As far as the piano is concerned, sentiment is my forte.’"
+    },
+    {
+      "word": "salver",
+      "definition": "A silver tray for serving food or drinks",
+      "context": "‘[Lane is arranging afternoon tea on the table, and ...] [Hands them on a salver.]’"
+    },
+    {
+      "word": "cucumber",
+      "definition": "A long, green-skinned fruit used as a vegetable in salads and sandwiches",
+      "context": "‘And, speaking of the science of Life, have you got the cucumber sandwiches cut for Lady Bracknell?’"
+    },
+    {
+      "word": "champagne",
+      "definition": "A sparkling wine from the Champagne region of France",
+      "context": "‘eight bottles of champagne are entered as having been consumed.’"
+    },
+    {
+      "word": "pint",
+      "definition": "A unit of liquid measure (approx. half a litre)",
+      "context": "‘Yes, sir; eight bottles and a pint.’"
+    },
+    {
+      "word": "bachelor",
+      "definition": "An unmarried man",
+      "context": "‘Why is it that at a bachelor’s establishment the servants invariably drink the champagne?’"
+    },
+    {
+      "word": "establishment",
+      "definition": "Household or institution, especially a private home with staff",
+      "context": "‘at a bachelor’s establishment’"
+    },
+    {
+      "word": "demoralising",
+      "definition": "Causing someone to lose confidence or morale; corrupting",
+      "context": "‘Good heavens! Is marriage so demoralising as that?’"
+    },
+    {
+      "word": "misunderstanding",
+      "definition": "A failure to understand or an instance of miscommunication",
+      "context": "‘I have only been married once. That was in consequence of a misunderstanding between myself and a young person.’"
+    },
+    {
+      "word": "languidly",
+      "definition": "In a slow, relaxed, or tired manner",
+      "context": "‘[Languidly.] I don’t know that I am much interested in your family life, Lane.’"
+    },
+    {
+      "word": "amuses",
+      "definition": "Entertains or provides enjoyment",
+      "context": "‘When one is in town one amuses oneself. When one is in the country one amuses other people.’"
+    },
+    {
+      "word": "excessively",
+      "definition": "To an extreme or excessive degree",
+      "context": "‘It is excessively boring.’"
+    },
+    {
+      "word": "neighbours",
+      "definition": "People living near one another (British spelling)",
+      "context": "‘Oh, neighbours, neighbours.’ ‘Got nice neighbours in your part of Shropshire?’"
+    },
+    {
+      "word": "horrid",
+      "definition": "Extremely unpleasant",
+      "context": "‘Perfectly horrid! Never speak to one of them.’"
+    },
+    {
+      "word": "extravagance",
+      "definition": "Excessive spending or display",
+      "context": "‘Why such reckless extravagance in one so young?’"
+    },
+    {
+      "word": "Aunt",
+      "definition": "The sister of one’s parent or a term of address for an older female relative",
+      "context": "‘Oh! merely Aunt Augusta and Gwendolen.’"
+    },
+    {
+      "word": "Augusta",
+      "definition": "Proper name (Lady Bracknell’s given name in the play)",
+      "context": "References to ‘Aunt Augusta’ who will come to tea"
+    },
+    {
+      "word": "Gwendolen",
+      "definition": "Proper name of a principal female character",
+      "context": "‘Oh! merely Aunt Augusta and Gwendolen.’"
+    },
+    {
+      "word": "flirt",
+      "definition": "To behave amorously without serious intent; playful romantic behavior",
+      "context": "‘the way you flirt with Gwendolen is perfectly disgraceful.’"
+    },
+    {
+      "word": "propose",
+      "definition": "To make a formal offer of marriage",
+      "context": "‘I have come up to town expressly to propose to her.’"
+    },
+    {
+      "word": "Divorce",
+      "definition": "The legal dissolution of a marriage",
+      "context": "‘The Divorce Court was specially invented for people whose memories are so curiously constituted.’"
+    },
+    {
+      "word": "Heaven",
+      "definition": "A term invoking divine authority or the afterlife (here used wryly)",
+      "context": "‘Divorces are made in Heaven—’"
+    },
+    {
+      "word": "cigarette",
+      "definition": "A small roll of tobacco for smoking",
+      "context": "‘Bring me that cigarette case Mr. Worthing left in the smoking-room the last time he dined here.’"
+    },
+    {
+      "word": "smoking-room",
+      "definition": "A room set aside for smoking",
+      "context": "‘in the smoking-room the last time he dined here.’"
+    },
+    {
+      "word": "frantic",
+      "definition": "Desperate or wild with worry or fear",
+      "context": "‘I have been writing frantic letters to Scotland Yard about it.’"
+    },
+    {
+      "word": "Scotland",
+      "definition": "Country in the United Kingdom; here part of the proper name ‘Scotland Yard’",
+      "context": "‘frantic letters to Scotland Yard’"
+    },
+    {
+      "word": "Yard",
+      "definition": "Short for Scotland Yard, the headquarters of the London Metropolitan Police",
+      "context": "‘frantic letters to Scotland Yard about it.’"
+    },
+    {
+      "word": "reward",
+      "definition": "Something offered in return for help or information",
+      "context": "‘I was very nearly offering a large reward.’"
+    },
+    {
+      "word": "hard up",
+      "definition": "Short of money; in financial difficulty (idiom)",
+      "context": "‘I happen to be more than usually hard up.’"
+    },
+    {
+      "word": "inscription",
+      "definition": "Words written or engraved on an object",
+      "context": "‘now that I look at the inscription inside’"
+    },
+    {
+      "word": "ungentlemanly",
+      "definition": "Not behaving as a gentleman; impolite or improper conduct",
+      "context": "‘It is a very ungentlemanly thing to read a private cigarette case.’"
+    },
+    {
+      "word": "Bunburyist",
+      "definition": "Invented term referring to someone who invents imaginary obligations to avoid duties",
+      "context": "‘I have always suspected you of being a confirmed and secret Bunburyist; and I am quite sure of it now.’"
+    },
+    {
+      "word": "retreating",
+      "definition": "Moving back or withdrawing",
+      "context": "‘[Retreating to back of sofa.]’"
+    },
+    {
+      "word": "kneeling",
+      "definition": "To be on one's knees as in supplication or emphasis",
+      "context": "‘[Moving to sofa and kneeling upon it.]’"
+    },
+    {
+      "word": "Tunbridge",
+      "definition": "Short for Tunbridge Wells, a spa town in Kent, England",
+      "context": "‘Lives at Tunbridge Wells.’"
+    },
+    {
+      "word": "Prism",
+      "definition": "Proper name of the governess, Miss Prism",
+      "context": "‘…under the charge of her admirable governess, Miss Prism.’"
+    },
+    {
+      "word": "governess",
+      "definition": "A woman employed to teach and train children in a private household",
+      "context": "‘governess, Miss Prism.’"
+    },
+    {
+      "word": "Shropshire",
+      "definition": "A county in the West Midlands of England",
+      "context": "‘Is Shropshire your county, is it not?’"
+    },
+    {
+      "word": "Albany",
+      "definition": "The Albany, a famous residential building in London used by gentlemen",
+      "context": "‘Mr. Ernest Worthing, B. 4, The Albany.’"
+    },
+    {
+      "word": "dentist",
+      "definition": "A medical professional who treats teeth (used wittily)",
+      "context": "‘You talk exactly as if you were a dentist.’"
+    },
+    {
+      "word": "invaluable",
+      "definition": "Extremely useful; indispensable",
+      "context": "‘I have invented an invaluable permanent invalid called Bunbury’"
+    },
+    {
+      "word": "invalid",
+      "definition": "A person made weak or disabled by illness; an illness used as excuse",
+      "context": "‘an invaluable permanent invalid called Bunbury’"
+    },
+    {
+      "word": "Willis's",
+      "definition": "Proper name of a fashionable dining establishment referenced in the text",
+      "context": "‘I wouldn’t be able to dine with you at Willis’s to-night’"
+    },
+    {
+      "word": "Mary",
+      "definition": "Proper name (Mary Farquhar), a social acquaintance",
+      "context": "‘She will place me next Mary Farquhar’"
+    },
+    {
+      "word": "Farquhar",
+      "definition": "Proper surname of the character Mary Farquhar",
+      "context": "‘Mary Farquhar, who always flirts with her own husband’"
+    },
+    {
+      "word": "scandalous",
+      "definition": "Causing public outrage or shock; disgraceful",
+      "context": "‘The amount of women in London who flirt with their own husbands is perfectly scandalous.’"
+    },
+    {
+      "word": "extraordinary",
+      "definition": "Very unusual or remarkable",
+      "context": "‘Bunbury’s extraordinary bad health’"
+    },
+    {
+      "word": "absurdly",
+      "definition": "In a ridiculously unreasonable way",
+      "context": "‘You are absurdly careless about sending out invitations.’"
+    },
+    {
+      "word": "confirmed",
+      "definition": "Firmly established in a habit or belief",
+      "context": "‘a confirmed Bunburyist’"
+    },
+    {
+      "word": "Bunburyed",
+      "definition": "Past tense of Bunbury (invented) meaning used the Bunburying excuse",
+      "context": "‘I have Bunburyed all over Shropshire on two separate occasions.’"
+    },
+    {
+      "word": "guardian",
+      "definition": "A person legally responsible for another, especially a minor",
+      "context": "‘made me in his will guardian to his grand-daughter, Miss Cecily Cardew.’"
+    },
+    {
+      "word": "adopted",
+      "definition": "Taken as one's own child legally or informally",
+      "context": "‘Old Mr. Thomas Cardew, who adopted me when I was a little boy’"
+    },
+    {
+      "word": "grand-daughter",
+      "definition": "The daughter of one's son or daughter",
+      "context": "‘guardian to his grand-daughter, Miss Cecily Cardew.’"
+    },
+    {
+      "word": "addresses",
+      "definition": "Speaks to or directs remark to someone; here used for form of address",
+      "context": "‘Cecily, who addresses me as her uncle’"
+    },
+    {
+      "word": "motives",
+      "definition": "Reasons for doing something",
+      "context": "‘from motives of respect that you could not possibly appreciate’"
+    },
+    {
+      "word": "respect",
+      "definition": "Esteem or regard; in context, a social reason for formality",
+      "context": "‘from motives of respect that you could not possibly appreciate’"
+    },
+    {
+      "word": "admirable",
+      "definition": "Worthy of admiration; excellent",
+      "context": "‘under the charge of her admirable governess, Miss Prism.’"
+    },
+    {
+      "word": "candidly",
+      "definition": "Frankly; openly",
+      "context": "‘You are not going to be invited ... I may tell you candidly that the place is not in Shropshire.’"
+    },
+    {
+      "word": "suspected",
+      "definition": "Believed to be guilty or likely",
+      "context": "‘I have always suspected you of being a confirmed and secret Bunburyist’"
+    },
+    {
+      "word": "permanent",
+      "definition": "Lasting or intended to last indefinitely",
+      "context": "‘an invaluable permanent invalid called Bunbury’"
+    },
+    {
+      "word": "engaged",
+      "definition": "Formally promised to be married or otherwise committed",
+      "context": "‘I have been really engaged to Aunt Augusta for more than a week.’"
+    },
+    {
+      "word": "dinner-table",
+      "definition": "The table at which dinner is served (hyphenated in text)",
+      "context": "‘flirts with her own husband across the dinner-table.’"
+    },
+    {
+      "word": "washing",
+      "definition": "Cleaning clothes; used in phrase metaphorically about airing private matters",
+      "context": "‘It looks so bad. It is simply washing one’s clean linen in public.’"
+    },
+    {
+      "word": "linen",
+      "definition": "Household cloth such as sheets and tablecloths; used metaphorically",
+      "context": "‘washing one’s clean linen in public.’"
+    },
+    {
+      "word": "public",
+      "definition": "Open to general view or affecting the community",
+      "context": "‘washing one’s clean linen in public.’"
+    },
+    {
+      "word": "amount",
+      "definition": "Quantity or number; used to emphasize extent",
+      "context": "‘The amount of women in London who flirt with their own husbands’"
+    },
+    {
+      "word": "flirts",
+      "definition": "Behaves flirtatiously; present tense plural",
+      "context": "‘Mary Farquhar, who always flirts with her own husband’"
+    },
+    {
+      "word": "member",
+      "definition": "A person belonging to a group or body",
+      "context": "‘I am always treated as a member of the family’"
+    },
+    {
+      "word": "relations",
+      "definition": "Family members; relatives",
+      "context": "‘I dined there on Monday, and once a week is quite enough to dine with one’s own relations.’"
+    },
+    {
+      "word": "treated",
+      "definition": "Behaved toward; dealt with in a specified way",
+      "context": "‘I am always treated as a member of the family’"
+    },
+    {
+      "word": "dined",
+      "definition": "Ate the main meal of the day; past tense",
+      "context": "‘when Lord Shoreman and Mr. Worthing were dining with me’"
+    },
+    {
+      "word": "rule",
+      "definition": "A prescribed guide for conduct or action",
+      "context": "‘It is absurd to have a hard and fast rule about what one should read’"
+    },
+    {
+      "word": "culture",
+      "definition": "The arts and intellectual achievements of a society",
+      "context": "‘More than half of modern culture depends on what one shouldn’t read.’"
+    },
+    {
+      "word": "improbable",
+      "definition": "Unlikely to be true or happen",
+      "context": "‘Now produce your explanation, and pray make it improbable.’"
+    },
+    {
+      "word": "card",
+      "definition": "A visiting or business card; printed identifier",
+      "context": "‘Here is one of them. ‘Mr. Ernest Worthing, B. 4, The Albany.’’"
+    },
+    {
+      "word": "proof",
+      "definition": "Evidence establishing a fact or truth",
+      "context": "‘I’ll keep this as a proof that your name is Ernest’"
+    },
+    {
+      "word": "pocket",
+      "definition": "A small pouch sewn into clothing for carrying items",
+      "context": "‘[Puts the card in his pocket.]’"
+    },
+    {
+      "word": "sake",
+      "definition": "On behalf of; for the purpose of someone or something",
+      "context": "‘I’m sorry for that, for your sake.’"
+    },
+    {
+      "word": "stiffly",
+      "definition": "With formal or rigid manner",
+      "context": "‘[Stiffly.] I believe it is customary in good society to take some slight refreshment at five o’clock.’"
+    },
+    {
+      "word": "offering",
+      "definition": "Presenting or proposing something (here monetary reward)",
+      "context": "‘I was very nearly offering a large reward.’"
+    },
+    {
+      "word": "inspects",
+      "definition": "To look at carefully; examine closely",
+      "context": "‘[Inspects them, takes two, and sits down on the sofa.]’"
+    },
+    {
+      "word": "lax",
+      "definition": "Not sufficiently strict, severe, or careful",
+      "context": "‘Lane’s views on marriage seem somewhat lax.’"
+    },
+    {
+      "word": "lower",
+      "definition": "In a social sense, the lower classes; used comparatively",
+      "context": "‘Really, if the lower orders don’t set us a good example’"
+    },
+    {
+      "word": "class",
+      "definition": "A group sharing social or economic status",
+      "context": "‘They seem, as a class, to have absolutely no sense of moral responsibility.’"
+    },
+    {
+      "word": "absolutely",
+      "definition": "Completely; without qualification",
+      "context": "‘They seem, as a class, to have absolutely no sense of moral responsibility.’"
+    },
+    {
+      "word": "sense",
+      "definition": "Perception or understanding; here moral sense",
+      "context": "‘absolutely no sense of moral responsibility.’"
+    },
+    {
+      "word": "moral",
+      "definition": "Concerned with principles of right and wrong behavior",
+      "context": "‘moral responsibility.’"
+    },
+    {
+      "word": "responsibility",
+      "definition": "The state or fact of having a duty to deal with something",
+      "context": "‘no sense of moral responsibility.’"
+    },
+    {
+      "word": "vulgar",
+      "definition": "Lacking refinement or good taste; coarse",
+      "context": "‘It is very vulgar to talk like a dentist when one isn’t a dentist.’"
+    },
+    {
+      "word": "produce",
+      "definition": "To present or bring forth for consideration",
+      "context": "‘Well, produce my cigarette case first.’"
+    },
+    {
+      "word": "truth",
+      "definition": "The quality or state of being true",
+      "context": "‘The truth is rarely pure and never simple.’"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/844"
+}
