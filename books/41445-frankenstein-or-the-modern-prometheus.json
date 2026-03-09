@@ -1,0 +1,557 @@
+{
+  "gutenberg_id": 41445,
+  "title": "Frankenstein; Or, The Modern Prometheus",
+  "author": "Shelley, Mary Wollstonecraft",
+  "summary": "Mary Shelley's novel begins with a Preface framing a speculative origin and her summer at Geneva where ghost stories inspired writing. The narrative opens with Captain Robert Walton’s letters to his sister, Margaret Saville, describing his passionate, long‑planned voyage toward the North Pole, preparations at St. Petersburgh and Archangel, and his yearning for intellectual companionship. Walton recounts training with whale‑fishermen, hiring sailors, and recruiting a courageous lieutenant and gentle ship master. He rejects ease for glory, anticipates discovery of magnetic secrets or a polar passage, and confesses fear, ardour, and the loneliness that haunts his ambitious enterprise and determination too.",
+  "characters": [
+    {
+      "name": "Robert Walton",
+      "age": "28 (stated)",
+      "personality": "ambitious, romantic, resolute, yearning for intellectual companionship",
+      "lifespan": "alive during the letters; fate beyond the excerpt unspecified"
+    },
+    {
+      "name": "Margaret Saville",
+      "age": "adult (sister of Walton; exact age unspecified)",
+      "personality": "recipient of Walton's letters, trusted confidante",
+      "lifespan": "alive during the letters; fate unspecified in excerpt"
+    },
+    {
+      "name": "Uncle Thomas",
+      "age": "middle‑aged to elderly (estimated)",
+      "personality": "bibliophile whose voyages library shaped Walton's youth",
+      "lifespan": "mentioned as influence; fate unspecified in excerpt"
+    },
+    {
+      "name": "Cousin (unnamed)",
+      "age": "adult (unnamed cousin whose fortune Walton inherited)",
+      "personality": "benefactor by inheritance",
+      "lifespan": "deceased or removed from direct narrative; fate unspecified in excerpt"
+    },
+    {
+      "name": "Lieutenant (unnamed Englishman)",
+      "age": "adult (estimated 20s–40s)",
+      "personality": "dauntless, desirous of glory, staunch and courageous",
+      "lifespan": "serves aboard Walton's ship; fate unspecified in excerpt"
+    },
+    {
+      "name": "Ship master (unnamed)",
+      "age": "adult (estimated)",
+      "personality": "gentle, mild in discipline, generous and humane",
+      "lifespan": "serves aboard the vessel; fate unspecified in excerpt"
+    },
+    {
+      "name": "Young Russian lady (unnamed)",
+      "age": "young (described as a young lady)",
+      "personality": "emotional; portrayed as tearful in a love episode",
+      "lifespan": "appears in master’s backstory; fate unspecified in excerpt"
+    },
+    {
+      "name": "William Godwin",
+      "age": "adult (real historical figure; dedicatee)",
+      "personality": "philosopher/author (dedicatee of the volumes)",
+      "lifespan": "mentioned in dedication; not a narrative character in excerpt"
+    },
+    {
+      "name": "Dr. Darwin",
+      "age": "adult (referenced physician/thinker)",
+      "personality": "physiological writer cited as entertaining speculative ideas",
+      "lifespan": "referenced in Preface; fate unspecified in excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "St. Petersburgh (St. Petersburg), Russia",
+      "latitude": 59.9342802,
+      "longitude": 30.3350986
+    },
+    {
+      "name": "London, England",
+      "latitude": 51.5073509,
+      "longitude": -0.1277583
+    },
+    {
+      "name": "Archangel (Arkhangelsk), Russia",
+      "latitude": 64.539285,
+      "longitude": 40.517016
+    },
+    {
+      "name": "North Pole",
+      "latitude": 90,
+      "longitude": 0
+    },
+    {
+      "name": "North Pacific Ocean (representative point)",
+      "latitude": 30,
+      "longitude": -160
+    },
+    {
+      "name": "Geneva, Switzerland",
+      "latitude": 46.2043907,
+      "longitude": 6.1431577
+    },
+    {
+      "name": "The Alps (representative: Mont Blanc)",
+      "latitude": 45.832623,
+      "longitude": 6.865175
+    },
+    {
+      "name": "North Sea (representative point)",
+      "latitude": 56,
+      "longitude": 2
+    },
+    {
+      "name": "Greenland (representative point)",
+      "latitude": 71.706936,
+      "longitude": -42.604303
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "remoteest",
+      "definition": "farthest in distance or degree",
+      "context": "Preface: 'the remotest degree of serious faith' describing the imagined event"
+    },
+    {
+      "word": "physiological",
+      "definition": "relating to the functions of living organisms",
+      "context": "Preface: reference to 'physiological writers of Germany' who considered the fiction possible"
+    },
+    {
+      "word": "imagination",
+      "definition": "the faculty of forming mental images or concepts",
+      "context": "Preface: used to justify grounding a fantastical event for moral exploration"
+    },
+    {
+      "word": "supernatural",
+      "definition": "beyond natural laws; unexplainable by science",
+      "context": "Preface: contrasted with the story's basis as not merely a tale of supernatural terrors"
+    },
+    {
+      "word": "disadvantages",
+      "definition": "drawbacks or unfavorable conditions",
+      "context": "Preface: 'exempt from the disadvantages of a mere tale of spectres or enchantment'"
+    },
+    {
+      "word": "novelty",
+      "definition": "the quality of being new or unusual",
+      "context": "Preface: story recommended by the novelty of its situations"
+    },
+    {
+      "word": "developes",
+      "definition": "archaic spelling of 'develops'; unfolds or brings out",
+      "context": "Preface: 'the novelty of the situations which it developes'"
+    },
+    {
+      "word": "scrupled",
+      "definition": "hesitated on moral grounds",
+      "context": "Preface: 'I have not scrupled to innovate' regarding artistic licence"
+    },
+    {
+      "word": "elementary",
+      "definition": "primary or fundamental",
+      "context": "Preface: 'truth of the elementary principles of human nature'"
+    },
+    {
+      "word": "innovate",
+      "definition": "to introduce changes or new methods",
+      "context": "Preface: author claims to 'innovate upon their combinations' of human nature"
+    },
+    {
+      "word": "Iliad",
+      "definition": "Homer's epic poem; classical reference",
+      "context": "Preface: cited among models that preserve human truth while inventing"
+    },
+    {
+      "word": "Tempest",
+      "definition": "a play by Shakespeare; named work",
+      "context": "Preface: listed alongside other poetic exemplars"
+    },
+    {
+      "word": "Midsummer",
+      "definition": "short for 'A Midsummer Night's Dream', Shakespeare's play",
+      "context": "Preface: referenced as an example of imaginative licence"
+    },
+    {
+      "word": "Paradise",
+      "definition": "here referring to Milton's 'Paradise Lost' or an ideal place",
+      "context": "Title page epigraph and Preface references to Milton's work"
+    },
+    {
+      "word": "phænomena",
+      "definition": "archaic spelling of 'phenomena'; observable events",
+      "context": "Letter I: 'as the phænomena of the heavenly bodies undoubtedly are'"
+    },
+    {
+      "word": "licence",
+      "definition": "permission to act freely; here artistic freedom",
+      "context": "Preface: 'apply to prose fiction a licence' for imaginative invention"
+    },
+    {
+      "word": "delineating",
+      "definition": "describing or portraying precisely",
+      "context": "Preface: 'a point of view to the imagination for the delineating of human passions'"
+    },
+    {
+      "word": "effusions",
+      "definition": "the expression of emotion in an unrestrained manner",
+      "context": "Preface: 'those poets whose effusions entranced my soul'"
+    },
+    {
+      "word": "entranced",
+      "definition": "filled with wonder and delight",
+      "context": "Preface: describes effect of poets' effusions on the author"
+    },
+    {
+      "word": "enervating",
+      "definition": "causing weakness or a loss of energy",
+      "context": "Preface: author's aim to avoid the 'enervating effects of the novels of the present day'"
+    },
+    {
+      "word": "majestic",
+      "definition": "having grandeur or dignity",
+      "context": "Preface: 'begun in the majestic region where the scene is principally laid'"
+    },
+    {
+      "word": "environs",
+      "definition": "surrounding area or district",
+      "context": "Preface: 'I passed the summer of 1816 in the environs of Geneva'"
+    },
+    {
+      "word": "blazing",
+      "definition": "burning brightly",
+      "context": "Preface: 'we crowded around a blazing wood fire' while telling stories"
+    },
+    {
+      "word": "ghostly",
+      "definition": "relating to ghosts; spooky",
+      "context": "Preface: 'some German stories of ghosts' that inspired imitation"
+    },
+    {
+      "word": "serene",
+      "definition": "calm and peaceful",
+      "context": "Preface: 'The weather, however, suddenly became serene' ending ghostly amusements"
+    },
+    {
+      "word": "visions",
+      "definition": "visualized ideas or imaginations",
+      "context": "Preface: friends lost 'all memory of their ghostly visions' in Alpine travel"
+    },
+    {
+      "word": "playful",
+      "definition": "merry or joking in manner",
+      "context": "Preface: 'These tales excited in us a playful desire of imitation'"
+    },
+    {
+      "word": "expedient",
+      "definition": "a convenient or practical means to an end",
+      "context": "Preface: story commenced partly as 'an expedient for exercising any untried resources of mind'"
+    },
+    {
+      "word": "mingled",
+      "definition": "mixed together",
+      "context": "Preface: 'Other motives were mingled with these, as the work proceeded'"
+    },
+    {
+      "word": "untried",
+      "definition": "not previously tested or used",
+      "context": "Preface: 'exercising any untried resources of mind'"
+    },
+    {
+      "word": "endeavoured",
+      "definition": "tried or attempted",
+      "context": "Preface: 'I have thus endeavoured to preserve the truth...'"
+    },
+    {
+      "word": "ardent",
+      "definition": "very enthusiastic or passionate",
+      "context": "Letter I: Walton's 'ardent curiosity' and 'ardent enthusiasm' about polar voyage"
+    },
+    {
+      "word": "foretaste",
+      "definition": "a small anticipatory taste or sample of something to come",
+      "context": "Letter I: 'This breeze... gives me a foretaste of those icy climes'"
+    },
+    {
+      "word": "disk",
+      "definition": "a flat circular area; here the sun's disk",
+      "context": "Letter I: 'its broad disk just skirting the horizon' describing the sun near the pole"
+    },
+    {
+      "word": "habitable",
+      "definition": "suitable for human habitation",
+      "context": "Letter I: 'a land surpassing in wonders... never before discovered on the habitable globe'"
+    },
+    {
+      "word": "tread",
+      "definition": "to step or walk on",
+      "context": "Letter I: 'may tread a land never before imprinted by the foot of man'"
+    },
+    {
+      "word": "inestimable",
+      "definition": "too valuable to estimate",
+      "context": "Letter I: 'you cannot contest the inestimable benefit which I shall confer on all mankind'"
+    },
+    {
+      "word": "conjectures",
+      "definition": "conclusions based on incomplete information; guesses",
+      "context": "Letter I: 'But, supposing all these conjectures to be false...'"
+    },
+    {
+      "word": "satiate",
+      "definition": "to satisfy fully",
+      "context": "Letter I: 'I shall satiate my ardent curiosity with the sight of a part of the world never before visited'"
+    },
+    {
+      "word": "solicit",
+      "definition": "to ask for earnestly",
+      "context": "Epigraph (Milton): 'Did I solicit thee / From darkness to promote me?'"
+    },
+    {
+      "word": "mould",
+      "definition": "to shape or form",
+      "context": "Epigraph (Milton): 'To mould me man?'"
+    },
+    {
+      "word": "sea-faring",
+      "definition": "engaged in sailing or navigation",
+      "context": "Letter I: Walton lamenting his father's injunction that forbade a 'sea-faring life'"
+    },
+    {
+      "word": "inuring",
+      "definition": "accustoming to something difficult or painful",
+      "context": "Letter I: 'I commenced by inuring my body to hardship.'"
+    },
+    {
+      "word": "whale-fishers",
+      "definition": "men engaged in hunting whales",
+      "context": "Letter I: 'I accompanied the whale-fishers on several expeditions to the North Sea'"
+    },
+    {
+      "word": "under-mate",
+      "definition": "a subordinate officer on a ship",
+      "context": "Letter I: 'Twice I actually hired myself as an under-mate in a Greenland whaler'"
+    },
+    {
+      "word": "acquitted",
+      "definition": "performed or behaved in a specified way",
+      "context": "Letter I: 'I acquitted myself to admiration' about ship service"
+    },
+    {
+      "word": "dignity",
+      "definition": "a rank or office; here a shipboard position",
+      "context": "Letter I: 'my captain offered me the second dignity in the vessel'"
+    },
+    {
+      "word": "entreated",
+      "definition": "asked earnestly or begged",
+      "context": "Letter I: 'and entreated me to remain with the greatest earnestness'"
+    },
+    {
+      "word": "post-road",
+      "definition": "a main public road used for mail and travel",
+      "context": "Letter I: Walton refuses to risk 'losing my life on the post-road between St. Petersburgh and Archangel'"
+    },
+    {
+      "word": "Archangel",
+      "definition": "English form of Arkhangelsk, a Russian port",
+      "context": "Letter II: Walton plans departure from Archangel"
+    },
+    {
+      "word": "dauntless",
+      "definition": "fearless and determined",
+      "context": "Letter II: crew described as 'men on whom I can depend, and are certainly possessed of dauntless courage'"
+    },
+    {
+      "word": "unallied",
+      "definition": "not associated or joined with",
+      "context": "Letter II: 'some feelings, unallied to the dross of human nature, beat even in these rugged bosoms'"
+    },
+    {
+      "word": "dross",
+      "definition": "worthless matter; metaphorically base elements",
+      "context": "Letter II: contrast between nobler feelings and the 'dross of human nature'"
+    },
+    {
+      "word": "bosoms",
+      "definition": "hearts or inner feelings",
+      "context": "Letter II: 'beat even in these rugged bosoms' describing sailors' feelings"
+    },
+    {
+      "word": "lieutenant",
+      "definition": "a naval officer rank",
+      "context": "Letter II: Walton's lieutenant is a man of courage and enterprise"
+    },
+    {
+      "word": "enterprise",
+      "definition": "a bold or ambitious project",
+      "context": "Letter II: 'he is madly desirous of glory' in enterprise"
+    },
+    {
+      "word": "madly",
+      "definition": "to an extreme or foolish degree",
+      "context": "Letter II: 'madly desirous of glory' describing the lieutenant"
+    },
+    {
+      "word": "prejudices",
+      "definition": "preconceived opinions not based on reason",
+      "context": "Letter II: 'national and professional prejudices' surrounding the lieutenant"
+    },
+    {
+      "word": "softened",
+      "definition": "made gentler or less severe",
+      "context": "Letter II: 'unsoftened by cultivation' describing retained noble endowments"
+    },
+    {
+      "word": "noblest",
+      "definition": "most elevated in character or quality",
+      "context": "Letter II: 'retains some of the noblest endowments of humanity'"
+    },
+    {
+      "word": "endowments",
+      "definition": "natural gifts or qualities",
+      "context": "Letter II: 'endowments of humanity' in the lieutenant"
+    },
+    {
+      "word": "master",
+      "definition": "the captain or commanding officer of a ship",
+      "context": "Letter II: description of the ship's master and his character"
+    },
+    {
+      "word": "gentleness",
+      "definition": "mildness of temperament",
+      "context": "Letter II: the master is remarkable 'for his gentleness'"
+    },
+    {
+      "word": "mildness",
+      "definition": "not severe or harsh; gentleness",
+      "context": "Letter II: 'the mildness of his discipline' aboard the ship"
+    },
+    {
+      "word": "discipline",
+      "definition": "training and control of behavior",
+      "context": "Letter II: describing the master's mild discipline"
+    },
+    {
+      "word": "endure",
+      "definition": "to tolerate or withstand",
+      "context": "Letter II: 'he cannot endure to spill blood' explaining why he won't hunt"
+    },
+    {
+      "word": "heroically",
+      "definition": "in a brave or noble manner",
+      "context": "Letter II: 'He is, moreover, heroically generous.'"
+    },
+    {
+      "word": "generous",
+      "definition": "showing readiness to give more than expected",
+      "context": "Letter II: master's generous nature in his love story"
+    },
+    {
+      "word": "amassed",
+      "definition": "gathered together, especially wealth",
+      "context": "Letter II: 'having amassed a considerable sum in prize-money'"
+    },
+    {
+      "word": "prize-money",
+      "definition": "monetary reward gained from captured ships or prizes",
+      "context": "Letter II: master's accumulation used to propose marriage"
+    },
+    {
+      "word": "mistress",
+      "definition": "a woman loved or in an intimate relationship",
+      "context": "Letter II: the master loved 'a young Russian lady' described as his mistress"
+    },
+    {
+      "word": "ceremony",
+      "definition": "a formal event like marriage",
+      "context": "Letter II: the planned wedding that did not proceed as intended"
+    },
+    {
+      "word": "bathed",
+      "definition": "covered or soaked (here with tears)",
+      "context": "Letter II: 'she was bathed in tears' when seen before the ceremony"
+    },
+    {
+      "word": "tears",
+      "definition": "drops of liquid from eyes, indicating sorrow",
+      "context": "Letter II: the young Russian lady's emotional state"
+    },
+    {
+      "word": "throwing",
+      "definition": "casting oneself (figuratively) down",
+      "context": "Letter II: 'throwing herself at his feet' describing her supplication"
+    },
+    {
+      "word": "Germany",
+      "definition": "country in Europe; referenced for physiological writers",
+      "context": "Preface: 'physiological writers of Germany' considered the fiction possible"
+    },
+    {
+      "word": "conviction",
+      "definition": "firmly held belief or opinion",
+      "context": "Preface: 'not to be conceived as existing in my own conviction' about characters' opinions"
+    },
+    {
+      "word": "indifferent",
+      "definition": "not concerned or uninterested",
+      "context": "Preface: 'I am by no means indifferent to the manner...' concerning moral tendencies"
+    },
+    {
+      "word": "prejudicing",
+      "definition": "to cause to have an unfavorable opinion beforehand",
+      "context": "Preface: 'nor is any inference justly to be drawn... as prejudicing any philosophical doctrine'"
+    },
+    {
+      "word": "philosophical",
+      "definition": "relating to philosophy or fundamental views",
+      "context": "Preface: mention of philosophical doctrine in relation to the story"
+    },
+    {
+      "word": "doctrine",
+      "definition": "a set of beliefs or principles",
+      "context": "Preface: 'any philosophical doctrine of whatever kind'"
+    },
+    {
+      "word": "region",
+      "definition": "an area or district",
+      "context": "Preface: 'the majestic region where the scene is principally laid'"
+    },
+    {
+      "word": "holiday",
+      "definition": "a day of leisure or recreation; here used for companions",
+      "context": "Letter I: 'with his holiday mates, on an expedition of discovery up his native river'"
+    },
+    {
+      "word": "acquainted",
+      "definition": "made familiar with or introduced to",
+      "context": "Letter I: Walton's early acquaintance with poets and voyages"
+    },
+    {
+      "word": "regret",
+      "definition": "a feeling of sorrow or disappointment",
+      "context": "Letter I: Walton's 'increased that regret' upon reading voyages"
+    },
+    {
+      "word": "perused",
+      "definition": "read thoroughly or carefully",
+      "context": "Letter I: 'But just at that time I perused... those poets' introducing literary influence"
+    },
+    {
+      "word": "niche",
+      "definition": "a position or role well suited to a person",
+      "context": "Letter I: Walton imagined obtaining 'a niche in the temple' with poets"
+    },
+    {
+      "word": "consecrated",
+      "definition": "made sacred or dedicated formally",
+      "context": "Letter I: 'a niche in the temple where the names of Homer and Shakespeare are consecrated'"
+    },
+    {
+      "word": "magnificent",
+      "definition": "impressively beautiful or elaborate",
+      "context": "Preface: 'lost, in the magnificent scenes which they present, all memory of their ghostly visions'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/41445"
+}
