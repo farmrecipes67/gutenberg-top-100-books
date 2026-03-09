@@ -1,0 +1,562 @@
+{
+  "gutenberg_id": 161,
+  "title": "Sense and Sensibility",
+  "author": "Austen, Jane",
+  "summary": "After the death of a kindly uncle, the Dashwood family faces sudden insecurity: Norland estate passes by entail to a nephew’s son, leaving Mr. Henry Dashwood little power to provide for his widow and three daughters. When Henry soon dies, his widow and daughters are left with scant funds. His son John, heir to Norland, promises assistance but, under his wife Fanny’s influence, contemplates providing far less than expected. Elinor, eldest and sensible, moderates family grief and counsels prudence; Marianne is passionate and imprudent; young Margaret absorbs Marianne’s romance. The household copes with bereavement, propriety, and unsettled fortunes and resilience.",
+  "characters": [
+    {
+      "name": "the old gentleman (the late owner / uncle)",
+      "age": "very advanced age",
+      "personality": "affectionate toward visiting family, fond of the little child",
+      "lifespan": "dies; will leaves Norland entailed to his nephew and nephew's son"
+    },
+    {
+      "name": "Mr. Henry Dashwood",
+      "age": "middle-aged (unspecified)",
+      "personality": "cheerful, sanguine, economical-minded",
+      "lifespan": "inherits Norland but survives his uncle only a short time (one twelvemonth); dies leaving widow and daughters with limited funds"
+    },
+    {
+      "name": "Mrs. Dashwood (Henry's widow)",
+      "age": "unspecified",
+      "personality": "affectionate, tender, prone to strong feeling and grief",
+      "lifespan": "widowed and left dependent with her three daughters"
+    },
+    {
+      "name": "Mr. John Dashwood",
+      "age": "very young when married (young adult)",
+      "personality": "cold-hearted, somewhat selfish but outwardly proper and respected",
+      "lifespan": "heir to Norland; promises assistance to his stepmother and half-sisters but is influenced to limit his generosity"
+    },
+    {
+      "name": "Mrs. John Dashwood (Fanny)",
+      "age": "young adult (unspecified)",
+      "personality": "narrow-minded, selfish, socially assertive",
+      "lifespan": "installs herself mistress of Norland and persuades her husband to restrict support to his half-sisters"
+    },
+    {
+      "name": "Harry (the child, heir)",
+      "age": "about four years old",
+      "personality": "typical young child: imperfect articulation, self-willed, engaging",
+      "lifespan": "entitled heir under the entail; his interest is prioritized in family decisions"
+    },
+    {
+      "name": "Elinor Dashwood",
+      "age": "nineteen",
+      "personality": "sensible, cool-headed, judicious, affectionate; the family's counsellor",
+      "lifespan": "remains to advise and moderate family grief and practical affairs"
+    },
+    {
+      "name": "Marianne Dashwood",
+      "age": "est. late teens (not explicitly given in excerpt)",
+      "personality": "passionate, eager, generous, imprudent, romantic",
+      "lifespan": "gives way to strong sensibility and grief; her temperament shapes household conduct"
+    },
+    {
+      "name": "Margaret Dashwood",
+      "age": "thirteen",
+      "personality": "good-humored, well-disposed, influenced by Marianne's romance",
+      "lifespan": "remains with her mother and sisters, adopting some of Marianne's romantic notions"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Sussex, England",
+      "latitude": 50.86,
+      "longitude": -0.4
+    },
+    {
+      "name": "Norland Park (fictional estate, placed in Sussex in the novel)",
+      "latitude": 50.87,
+      "longitude": -0.35
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "bequeath",
+      "definition": "to leave (property) to someone by will",
+      "context": "used of the uncle intending 'to bequeath' Norland estate"
+    },
+    {
+      "word": "devolved",
+      "definition": "transferred or passed on (usually of property or rights)",
+      "context": "half of the mother's fortune 'devolved on him on his coming of age'"
+    },
+    {
+      "word": "moiety",
+      "definition": "a half or portion",
+      "context": "the 'remaining moiety' of his first wife's fortune was secured"
+    },
+    {
+      "word": "life-interest",
+      "definition": "a beneficiary's right to enjoy property or income for the duration of their life",
+      "context": "he had only a 'life-interest' in it"
+    },
+    {
+      "word": "twelvemonth",
+      "definition": "a year (archaic/common in period usage)",
+      "context": "the fortune was his only one 'twelvemonth'"
+    },
+    {
+      "word": "sanguine",
+      "definition": "optimistic or positive, especially in a bad situation",
+      "context": "his temper was 'cheerful and sanguine'"
+    },
+    {
+      "word": "indelicacy",
+      "definition": "lack of tact or sensitivity",
+      "context": "the 'indelicacy' of Mrs. John Dashwood's conduct was greater"
+    },
+    {
+      "word": "entreaty",
+      "definition": "an earnest or humble request",
+      "context": "the 'entreaty' of her eldest girl induced Mrs. Dashwood to reflect"
+    },
+    {
+      "word": "propriety",
+      "definition": "conformity to accepted standards of behavior or morals",
+      "context": "Elinor counsels on the 'propriety' of going"
+    },
+    {
+      "word": "ill-disposed",
+      "definition": "having an unfavorable disposition; somewhat unkind or ill-natured",
+      "context": "Mr. John Dashwood 'had not the strong feelings' and was described as 'ill-disposed'"
+    },
+    {
+      "word": "caricature",
+      "definition": "an exaggerated representation; here meaning a distorted likeness",
+      "context": "Mrs. John Dashwood was 'a strong caricature' of her husband"
+    },
+    {
+      "word": "narrow-minded",
+      "definition": "unwilling to accept alternative views; prejudiced",
+      "context": "Mrs. John Dashwood described as 'more narrow-minded and selfish'"
+    },
+    {
+      "word": "meditated",
+      "definition": "thought about deeply or planned",
+      "context": "he 'meditated within himself to increase the fortunes of his sisters'"
+    },
+    {
+      "word": "prospect",
+      "definition": "the possibility or likelihood of some future event; expectation",
+      "context": "the 'prospect' of additional income warmed his heart"
+    },
+    {
+      "word": "a-year",
+      "definition": "per annum (hyphenated period usage: 'a-year')",
+      "context": "he contemplated 'four thousand a-year' in addition to income"
+    },
+    {
+      "word": "generosity",
+      "definition": "the willingness to give more of something, such as money, than is strictly necessary",
+      "context": "he felt 'capable of generosity'"
+    },
+    {
+      "word": "liberal",
+      "definition": "generous, ample in extent or amount",
+      "context": "he would give them 'three thousand pounds: it would be liberal and handsome!'"
+    },
+    {
+      "word": "inconvenience",
+      "definition": "trouble or difficulty caused to one's personal comfort",
+      "context": "he thought he could spare the sum 'with little inconvenience'"
+    },
+    {
+      "word": "successively",
+      "definition": "in sequence; one after another",
+      "context": "he thought of it 'all day long, and for many days successively'"
+    },
+    {
+      "word": "attendants",
+      "definition": "servants or those who attend to someone",
+      "context": "Mrs. John Dashwood arrived 'with her child and their attendants'"
+    },
+    {
+      "word": "dispute",
+      "definition": "argue about; contest",
+      "context": "No one could 'dispute her right to come'"
+    },
+    {
+      "word": "decease",
+      "definition": "the state of being dead; death",
+      "context": "the house was her husband's from the moment of his father's 'decease'"
+    },
+    {
+      "word": "unpleasing",
+      "definition": "not pleasant; disagreeable",
+      "context": "would have been 'highly unpleasing' to a woman in Mrs. Dashwood's situation"
+    },
+    {
+      "word": "immovable",
+      "definition": "unable to be moved or changed; here figurative: strong and unshakable",
+      "context": "'a source of immovable disgust'"
+    },
+    {
+      "word": "disgust",
+      "definition": "a strong distaste or revulsion",
+      "context": "'immovable disgust' at perceived offence"
+    },
+    {
+      "word": "ungracious",
+      "definition": "lacking charm or courtesy; rude",
+      "context": "Mrs. Dashwood felt this 'ungracious behaviour'"
+    },
+    {
+      "word": "quitted",
+      "definition": "left or departed from (formal/archaic past of quit)",
+      "context": "she would have 'quitted the house for ever'"
+    },
+    {
+      "word": "induced",
+      "definition": "persuaded or led to act",
+      "context": "the entreaty 'induced' her first to reflect"
+    },
+    {
+      "word": "effectual",
+      "definition": "effective; producing the desired effect",
+      "context": "Elinor's advice was 'so effectual'"
+    },
+    {
+      "word": "counsellor",
+      "definition": "advisor (British spelling used in text)",
+      "context": "qualified her to be the 'counsellor of her mother'"
+    },
+    {
+      "word": "counteract",
+      "definition": "to act against something to reduce its force",
+      "context": "she 'could frequently counteract' her mother's eagerness"
+    },
+    {
+      "word": "eagerness",
+      "definition": "enthusiasm to do or to have something",
+      "context": "that 'eagerness of mind' in Mrs. Dashwood"
+    },
+    {
+      "word": "imprudence",
+      "definition": "lack of caution in practical affairs; poor judgment",
+      "context": "that eagerness 'must generally have led to imprudence'"
+    },
+    {
+      "word": "disposition",
+      "definition": "a person's inherent qualities of mind and character",
+      "context": "Elinor's 'disposition was affectionate'"
+    },
+    {
+      "word": "govern",
+      "definition": "to control or direct",
+      "context": "she 'knew how to govern' her feelings"
+    },
+    {
+      "word": "sensible",
+      "definition": "having or showing good sense or judgment",
+      "context": "Marianne 'was sensible and clever'"
+    },
+    {
+      "word": "moderation",
+      "definition": "the avoidance of excess or extremes",
+      "context": "her sorrows and joys 'could have no moderation'"
+    },
+    {
+      "word": "strikingly",
+      "definition": "in a way that attracts attention; noticeably",
+      "context": "the resemblance between Marianne and her mother was 'strikingly great'"
+    },
+    {
+      "word": "sensibility",
+      "definition": "ability to feel or perceive emotionally; emotional responsiveness",
+      "context": "the 'excess of her sister's sensibility'"
+    },
+    {
+      "word": "cherished",
+      "definition": "to hold dear; to foster fondly",
+      "context": "by Mrs. Dashwood it was 'valued and cherished'"
+    },
+    {
+      "word": "affliction",
+      "definition": "a cause of pain or distress; suffering",
+      "context": "they encouraged each other in the violence of their 'affliction'"
+    },
+    {
+      "word": "agony",
+      "definition": "intense pain or suffering",
+      "context": "the 'agony of grief' which overpowered them"
+    },
+    {
+      "word": "voluntarily",
+      "definition": "done by one's own free will",
+      "context": "the agony 'was voluntarily renewed'"
+    },
+    {
+      "word": "renewed",
+      "definition": "restored, repeated, or begun again",
+      "context": "the grief 'was voluntarily renewed, was sought for'"
+    },
+    {
+      "word": "wretchedness",
+      "definition": "a state of great unhappiness or misery",
+      "context": "seeking increase of 'wretchedness' in every reflection"
+    },
+    {
+      "word": "consolation",
+      "definition": "comfort received after a loss or disappointment",
+      "context": "resolved against ever admitting 'consolation' in future"
+    },
+    {
+      "word": "afflicted",
+      "definition": "affected by pain, suffering, or distress",
+      "context": "Elinor 'was deeply afflicted' but could struggle"
+    },
+    {
+      "word": "struggle",
+      "definition": "to make forceful or violent efforts to get free of restraint",
+      "context": "Elinor 'could struggle, she could exert herself'"
+    },
+    {
+      "word": "exert",
+      "definition": "to apply effort or influence",
+      "context": "she 'could exert herself' to assist family"
+    },
+    {
+      "word": "forbearance",
+      "definition": "patient self-control; restraint and tolerance",
+      "context": "encourage her mother to similar 'forbearance'"
+    },
+    {
+      "word": "good-humored",
+      "definition": "cheerful and pleasant in disposition",
+      "context": "Margaret was 'a good-humored, well-disposed girl'"
+    },
+    {
+      "word": "well-disposed",
+      "definition": "having a favorable attitude; kindly inclined",
+      "context": "Margaret 'well-disposed' but romantic"
+    },
+    {
+      "word": "imbibed",
+      "definition": "to have taken in (ideas or knowledge), often by hearing or reading; here absorbed",
+      "context": "she had 'imbibed a good deal of Marianne's romance'"
+    },
+    {
+      "word": "romance",
+      "definition": "enthusiastic or idealized sentiment; here youthful fanciful notions",
+      "context": "Margaret absorbed Marianne's 'romance'"
+    },
+    {
+      "word": "installed",
+      "definition": "placed in a position or office; set up formally",
+      "context": "Mrs. John Dashwood 'installed herself mistress of Norland'"
+    },
+    {
+      "word": "mistress",
+      "definition": "a woman in a position of authority in a household",
+      "context": "she became 'mistress of Norland'"
+    },
+    {
+      "word": "degraded",
+      "definition": "reduced in rank, status, or condition",
+      "context": "the widow and sisters were 'degraded to the condition of visitors'"
+    },
+    {
+      "word": "civility",
+      "definition": "polite behavior; courtesy",
+      "context": "treated by her 'with quiet civility'"
+    },
+    {
+      "word": "earnestness",
+      "definition": "seriousness or sincerity of intention",
+      "context": "he pressed them 'with some earnestness' to consider Norland their home"
+    },
+    {
+      "word": "eligible",
+      "definition": "suitable or desirable as an option",
+      "context": "no plan appeared so 'eligible' to Mrs. Dashwood as remaining"
+    },
+    {
+      "word": "accommodate",
+      "definition": "to provide lodging or make suitable arrangements",
+      "context": "till she could 'accommodate herself with a house in the neighbourhood'"
+    },
+    {
+      "word": "neighbourhood",
+      "definition": "the area near or surrounding a place (British spelling)",
+      "context": "a house 'in the neighbourhood' accepted as invitation"
+    },
+    {
+      "word": "continuance",
+      "definition": "the state of remaining in existence or operation",
+      "context": "a 'continuance in a place' suited her mind"
+    },
+    {
+      "word": "cheerfulness",
+      "definition": "state of being noticeably happy and optimistic",
+      "context": "in seasons of 'cheerfulness' no temper could be more cheerful"
+    },
+    {
+      "word": "expectation",
+      "definition": "a strong belief that something will happen",
+      "context": "'that sanguine expectation of happiness which is happiness itself'"
+    },
+    {
+      "word": "alloy",
+      "definition": "a metal made with two or more elements; here figurative: mixture that lessens purity",
+      "context": "in pleasure she was beyond 'alloy' (no mixture of sadness)"
+    },
+    {
+      "word": "impoverishing",
+      "definition": "making someone poor; causing loss of wealth",
+      "context": "to take three thousand pounds would be 'impoverishing him'"
+    },
+    {
+      "word": "dreadful",
+      "definition": "extremely bad or serious",
+      "context": "impoverishing him 'to the most dreadful degree'"
+    },
+    {
+      "word": "half blood",
+      "definition": "a relation by only one common parent; half-sibling relation described in period usage",
+      "context": "Miss Dashwoods 'related to him only by half blood'"
+    },
+    {
+      "word": "light-headed",
+      "definition": "silly or not thinking clearly; faint or dizzy",
+      "context": "'ten to one but he was light-headed at the time' (speaking of the uncle)"
+    },
+    {
+      "word": "stipulate",
+      "definition": "to demand or specify a requirement as part of an agreement",
+      "context": "'He did not stipulate for any particular sum'"
+    },
+    {
+      "word": "neglect",
+      "definition": "to fail to care for or give proper attention",
+      "context": "'He could hardly suppose I would neglect them'"
+    },
+    {
+      "word": "performed",
+      "definition": "carried out; fulfilled (a promise or duty)",
+      "context": "the 'promise... was given, and must be performed'"
+    },
+    {
+      "word": "restored",
+      "definition": "brought back to a former condition or owner",
+      "context": "if indeed it could be 'restored to our poor little boy'"
+    },
+    {
+      "word": "gravely",
+      "definition": "seriously; in a serious manner",
+      "context": "'said her husband, very gravely'"
+    },
+    {
+      "word": "numerous",
+      "definition": "many in number",
+      "context": "if he should have a 'numerous family' it would be convenient"
+    },
+    {
+      "word": "convenient",
+      "definition": "useful or suitable for a particular purpose",
+      "context": "a 'convenient addition' to his finances"
+    },
+    {
+      "word": "diminished",
+      "definition": "made smaller or less",
+      "context": "the sum 'were diminished one half'"
+    },
+    {
+      "word": "prodigious",
+      "definition": "remarkably or impressively great in extent",
+      "context": "'Five hundred pounds would be a prodigious increase to their fortunes!'"
+    },
+    {
+      "word": "occasions",
+      "definition": "particular events or times",
+      "context": "'on such occasions, do too much than too little'"
+    },
+    {
+      "word": "affections",
+      "definition": "feelings of fondness or love",
+      "context": "the child 'had so far gained on the affections of his uncle'"
+    },
+    {
+      "word": "imperfect",
+      "definition": "not complete or perfect; flawed",
+      "context": "an 'imperfect articulation' in the child"
+    },
+    {
+      "word": "housekeeper",
+      "definition": "a person who manages the household",
+      "context": "the uncle 'had a constant companion and housekeeper in his sister'"
+    },
+    {
+      "word": "companion",
+      "definition": "a person who accompanies or spends time with another",
+      "context": "the uncle's 'constant companion' was his sister"
+    },
+    {
+      "word": "alteration",
+      "definition": "a change or modification",
+      "context": "her death 'produced a great alteration in his home'"
+    },
+    {
+      "word": "inheritor",
+      "definition": "one who receives property by inheritance",
+      "context": "Mr. Henry Dashwood described as 'the legal inheritor of the Norland estate'"
+    },
+    {
+      "word": "discharge",
+      "definition": "the performance of a duty or task",
+      "context": "he 'conducted himself with propriety in the discharge of his ordinary duties'"
+    },
+    {
+      "word": "amiable",
+      "definition": "friendly and pleasant in manner",
+      "context": "had he married a more 'amiable woman' he might have been made amiable"
+    },
+    {
+      "word": "a-piece",
+      "definition": "each; apiece (hyphenated in text)",
+      "context": "left them 'a thousand pounds a-piece'"
+    },
+    {
+      "word": "produced",
+      "definition": "brought into existence; caused",
+      "context": "her death 'produced a great alteration in his home'"
+    },
+    {
+      "word": "recommended",
+      "definition": "put forward with approval; urged",
+      "context": "Mr. Dashwood 'recommended... the interest of his mother-in-law and sisters'"
+    },
+    {
+      "word": "urgency",
+      "definition": "importance requiring swift action",
+      "context": "with 'all the strength and urgency which illness could command'"
+    },
+    {
+      "word": "rendered",
+      "definition": "made or caused to be in a certain state",
+      "context": "His father was 'rendered easy by such an assurance'"
+    },
+    {
+      "word": "assurance",
+      "definition": "a positive declaration intended to give confidence; promise",
+      "context": "the assurance that John would do all in his power"
+    },
+    {
+      "word": "leisure",
+      "definition": "free time; spare time for reflection or action",
+      "context": "had then 'leisure to consider' how much to do for them"
+    },
+    {
+      "word": "prudently",
+      "definition": "in a careful or sensible way considering future consequences",
+      "context": "how much there might 'prudently be in his power to do for them'"
+    },
+    {
+      "word": "economically",
+      "definition": "in a way that avoids waste; frugally",
+      "context": "by living 'economically, lay by a considerable sum'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/161"
+}
