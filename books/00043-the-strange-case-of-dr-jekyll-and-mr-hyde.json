@@ -1,0 +1,501 @@
+{
+  "gutenberg_id": 43,
+  "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+  "author": "Stevenson, Robert Louis",
+  "summary": "Mr. Utterson, a sober London lawyer, hears from his kinsman Richard Enfield about a sinister, neglected door and a violent episode in which a small girl is trampled by a mysterious, repellent man named Hyde. Enfield recounts how Hyde paid off the child’s family with a cheque drawn on the highly respectable Coutts and led them to a secretive lodging. Utterson studies Dr. Henry Jekyll’s strange holograph will naming Edward Hyde as sole beneficiary and grows troubled. The narrative establishes mood, mystery, and moral unease as respectable society is linked to a repulsive figure and a baffling legal claim.",
+  "characters": [
+    {
+      "name": "Mr. Utterson",
+      "age": "middle-aged (estimated 40-60)",
+      "personality": "reserved, austere, tolerant, methodical lawyer who values propriety",
+      "lifespan": "Present in excerpt; fate unresolved in provided text"
+    },
+    {
+      "name": "Mr. Richard Enfield",
+      "age": "adult (estimated 30-50)",
+      "personality": "man-about-town, gossipy, blunt, moralist with a private code of discretion",
+      "lifespan": "Present in excerpt; fate unresolved in provided text"
+    },
+    {
+      "name": "Edward Hyde (Mr. Hyde)",
+      "age": "adult (estimated 30-50)",
+      "personality": "repellent, deformed-feeling, violent and secretive figure who inspires loathing",
+      "lifespan": "Present in excerpt; fate unresolved in provided text"
+    },
+    {
+      "name": "Dr. Henry Jekyll",
+      "age": "adult (physician; estimated 40-60)",
+      "personality": "respectable, scholarly, wealthy physician with strange legal dispositions",
+      "lifespan": "Present in excerpt through his will; fate unresolved in provided text"
+    },
+    {
+      "name": "Little girl (unnamed)",
+      "age": "about 8-10",
+      "personality": "victim of Hyde's trampling; frightened but not severely injured in Enfield's account",
+      "lifespan": "Survives the trampling incident in excerpt; thereafter fate unresolved"
+    },
+    {
+      "name": "Girl's father (unnamed)",
+      "age": "adult",
+      "personality": "protective, part of the group confronting Hyde and seeking compensation",
+      "lifespan": "Present in excerpt; fate unresolved in provided text"
+    },
+    {
+      "name": "The doctor / sawbones (unnamed)",
+      "age": "adult (middle-aged)",
+      "personality": "practical, unemotional apothecary/physician with an Edinburgh accent; violently repulsed by Hyde",
+      "lifespan": "Present in excerpt; fate unresolved in provided text"
+    },
+    {
+      "name": "Members of Dr. Jekyll’s household",
+      "age": "various (unspecified)",
+      "personality": "mentioned as beneficiaries in legal contingency but unnamed in excerpt",
+      "lifespan": "Referenced in will; individuals are unnamed and fates unresolved in provided text"
+    }
+  ],
+  "locations": [
+    {
+      "name": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Edinburgh, Scotland",
+      "latitude": 55.9533,
+      "longitude": -3.1883
+    },
+    {
+      "name": "Coutts (bank, London)",
+      "latitude": 51.5128,
+      "longitude": -0.1225
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "countenance",
+      "definition": "a person's face or facial expression",
+      "context": "Used to describe Mr. Utterson's rugged look: 'rugged countenance'"
+    },
+    {
+      "word": "scanty",
+      "definition": "limited in amount or extent",
+      "context": "Describes Utterson's manner of discourse: 'cold, scanty and embarrassed in discourse'"
+    },
+    {
+      "word": "austere",
+      "definition": "severe or strict in manner or attitude; sparing",
+      "context": "Mr. Utterson's personal discipline: 'He was austere with himself'"
+    },
+    {
+      "word": "mortify",
+      "definition": "to subdue by self-discipline or denial; to humiliate",
+      "context": "Utterson 'drank gin... to mortify a taste for vintages'"
+    },
+    {
+      "word": "vintages",
+      "definition": "years or batches of wine; here implies fine wines",
+      "context": "Used when describing Utterson's taste in wine"
+    },
+    {
+      "word": "catholicity",
+      "definition": "broadness or universality of mind; openness",
+      "context": "Describes Utterson's tolerant, inclusive nature"
+    },
+    {
+      "word": "emulously",
+      "definition": "with competitive zeal or emulation",
+      "context": "Used describing how inhabitants hoped 'emulously' to do better"
+    },
+    {
+      "word": "coquetry",
+      "definition": "flirtatious behavior or decorative display",
+      "context": "Applied to how shopkeepers spent surplus gains on coquetry"
+    },
+    {
+      "word": "ivy",
+      "definition": "a climbing plant used metaphorically for slow growth over time",
+      "context": "Affections 'like ivy' describing Utterson's slow-growing loyalties"
+    },
+    {
+      "word": "kinsman",
+      "definition": "a relative or relation",
+      "context": "Enfield is described as Utterson's 'distant kinsman'"
+    },
+    {
+      "word": "by-street",
+      "definition": "a small or secondary street off a main one",
+      "context": "They walk down 'a by-street in a busy quarter of London'"
+    },
+    {
+      "word": "thoroughfare",
+      "definition": "a main road or public highway",
+      "context": "Refers to the small street as a 'thoroughfare' on weekdays"
+    },
+    {
+      "word": "florid",
+      "definition": "excessively intricate or showy; flowery",
+      "context": "The street 'veiled its more florid charms' on Sunday"
+    },
+    {
+      "word": "shutters",
+      "definition": "window coverings, often wooden, used in shopfronts",
+      "context": "Shutters described as freshly painted along the street"
+    },
+    {
+      "word": "brasses",
+      "definition": "metal fixtures or ornaments; polished brass fittings",
+      "context": "Shop 'well-polished brasses' on the by-street"
+    },
+    {
+      "word": "gable",
+      "definition": "the triangular upper part of a wall at the end of a ridged roof",
+      "context": "A 'sinister block of building thrust forward its gable on the street'"
+    },
+    {
+      "word": "storeys",
+      "definition": "levels or floors of a building (British spelling)",
+      "context": "The building 'was two storeys high'"
+    },
+    {
+      "word": "discoloured",
+      "definition": "having lost original color or become stained",
+      "context": "The wall bore a 'blind forehead of discoloured wall'"
+    },
+    {
+      "word": "sordid",
+      "definition": "involving ignoble actions and motives; morally degraded",
+      "context": "Building showed marks of 'prolonged and sordid negligence'"
+    },
+    {
+      "word": "blistered",
+      "definition": "having raised patches or blemishes on a surface",
+      "context": "The door 'was blistered and distained'"
+    },
+    {
+      "word": "distained",
+      "definition": "stained or discolored; soiled",
+      "context": "Describes the appearance of the door"
+    },
+    {
+      "word": "tramps",
+      "definition": "vagrants or homeless wanderers",
+      "context": "Tramps 'slouched into the recess' of the doorway"
+    },
+    {
+      "word": "slouched",
+      "definition": "to stand, move, or sit in a drooping or slumped posture",
+      "context": "Tramps 'slouched into the recess'"
+    },
+    {
+      "word": "recess",
+      "definition": "a small space set back from the main area, here a doorway alcove",
+      "context": "People 'slouched into the recess and struck matches on the panels'"
+    },
+    {
+      "word": "mouldings",
+      "definition": "ornamental architectural trim or details",
+      "context": "Schoolboy had tried his knife on the mouldings"
+    },
+    {
+      "word": "generation",
+      "definition": "a long period; here indicating for nearly a generation no one repaired it",
+      "context": "For close on a generation, no one repaired their ravages"
+    },
+    {
+      "word": "stumping",
+      "definition": "walking with a heavy step (often with a stick)",
+      "context": "Enfield describes 'a little man who was stumping along eastward'"
+    },
+    {
+      "word": "Juggernaut",
+      "definition": "an overwhelming, irresistible force or object",
+      "context": "Hyde's trampling is compared to 'some damned Juggernaut'"
+    },
+    {
+      "word": "halloa",
+      "definition": "a shout or cry to attract attention",
+      "context": "Enfield 'gave a few halloa' when he saw the trampling"
+    },
+    {
+      "word": "collared",
+      "definition": "to seize or grab someone by the collar; detain",
+      "context": "Enfield 'collared my gentleman' after the incident"
+    },
+    {
+      "word": "prisoner",
+      "definition": "one who is held or detained; used loosely for the man they stopped",
+      "context": "People gathered about the 'prisoner' who had trampled the child"
+    },
+    {
+      "word": "sawbones",
+      "definition": "slang for a surgeon or physician (archaic)",
+      "context": "The doctor is called a 'sawbones' with an Edinburgh accent"
+    },
+    {
+      "word": "apothecary",
+      "definition": "an old term for a pharmacist or medical practitioner",
+      "context": "The doctor was 'the usual cut and dry apothecary'"
+    },
+    {
+      "word": "bagpipe",
+      "definition": "a Scottish musical instrument; used metaphorically",
+      "context": "The doctor 'as emotional as a bagpipe' (simile)"
+    },
+    {
+      "word": "harpies",
+      "definition": "mythical creatures; here meaning vicious, rapturous women",
+      "context": "The women were described as 'as wild as harpies'"
+    },
+    {
+      "word": "hellish",
+      "definition": "very unpleasant or evil; like hell",
+      "context": "Enfield says 'It was hellish to see' the trampling"
+    },
+    {
+      "word": "apocryphal",
+      "definition": "of doubtful authenticity; spurious",
+      "context": "Enfield thought the cheque story looked 'apocryphal'"
+    },
+    {
+      "word": "cheque",
+      "definition": "a written order directing a bank to pay money (British spelling)",
+      "context": "Hyde produced a 'cheque for the balance on Coutts's'"
+    },
+    {
+      "word": "payable",
+      "definition": "able to be paid; here used regarding the cheque 'payable to bearer'",
+      "context": "The cheque was 'drawn payable to bearer'"
+    },
+    {
+      "word": "bearer",
+      "definition": "the person in possession of a negotiable instrument who can claim payment",
+      "context": "The cheque was 'payable to bearer'"
+    },
+    {
+      "word": "Coutts",
+      "definition": "the name of a prestigious London bank",
+      "context": "The cheque was 'on Coutts's', a respectable bank"
+    },
+    {
+      "word": "signature",
+      "definition": "a person's name written in a distinctive way as a form of identification",
+      "context": "The cheque was signed with 'a name... the signature was good'"
+    },
+    {
+      "word": "pedantically",
+      "definition": "in an overly concerned or meticulous manner about minor details",
+      "context": "Enfield says 'I have been pedantically exact'"
+    },
+    {
+      "word": "delicacy",
+      "definition": "sensitivity in dealing with others or with difficult issues",
+      "context": "Enfield says he had a 'delicacy' about asking questions"
+    },
+    {
+      "word": "bland",
+      "definition": "mild or soothing; here meaning smooth or gentle manner",
+      "context": "Enfield mentions 'some bland old bird' in a hypothetical"
+    },
+    {
+      "word": "heresy",
+      "definition": "belief or opinion contrary to orthodox doctrine; used figuratively",
+      "context": "Utterson says 'I incline to Cain's heresy'"
+    },
+    {
+      "word": "downgoing",
+      "definition": "declining morally or socially; falling away",
+      "context": "Utterson is often the last good influence in the lives of 'downgoing men'"
+    },
+    {
+      "word": "undemonstrative",
+      "definition": "not openly emotional or expressive",
+      "context": "Utterson is described as 'undemonstrative at the best'"
+    },
+    {
+      "word": "aptness",
+      "definition": "suitability or appropriate quality (appears as 'aptness in the object')",
+      "context": "Affections 'implied no aptness in the object'"
+    },
+    {
+      "word": "relish",
+      "definition": "great enjoyment or appreciation",
+      "context": "Utterson took 'no relish' at dinner that evening"
+    },
+    {
+      "word": "bachelor",
+      "definition": "an unmarried man; used to describe Utterson's home",
+      "context": "Utterson 'came home to his bachelor house'"
+    },
+    {
+      "word": "divinity",
+      "definition": "the study of religious doctrine; a theological work",
+      "context": "He read 'a volume of some dry divinity'"
+    },
+    {
+      "word": "soberly",
+      "definition": "in a serious, thoughtful manner",
+      "context": "He would 'go soberly and gratefully to bed'"
+    },
+    {
+      "word": "safe",
+      "definition": "a secure lockbox for valuables or documents",
+      "context": "Utterson 'opened his safe' to retrieve the will"
+    },
+    {
+      "word": "holograph",
+      "definition": "a document written entirely in the handwriting of the person whose signature it bears",
+      "context": "The will was 'holograph' in Jekyll's handwriting"
+    },
+    {
+      "word": "endorsed",
+      "definition": "marked or inscribed on the outside (of an envelope or document)",
+      "context": "The will was 'endorsed on the envelope as Dr. Jekyll’s Will'"
+    },
+    {
+      "word": "decease",
+      "definition": "death; the fact of dying",
+      "context": "The will provided 'in case of the decease of Henry Jekyll'"
+    },
+    {
+      "word": "benefactor",
+      "definition": "one who gives help or financial aid; a patron",
+      "context": "Hyde is named as 'friend and benefactor' in the will"
+    },
+    {
+      "word": "burthen",
+      "definition": "archaic form of 'burden' (used in the will)",
+      "context": "Hyde would inherit 'without further delay and free from any burthen'"
+    },
+    {
+      "word": "obligation",
+      "definition": "a duty or commitment",
+      "context": "Hyde would take over 'without obligation beyond a few small sums'"
+    },
+    {
+      "word": "eyesore",
+      "definition": "something unpleasant to look at",
+      "context": "The will had long been the lawyer's 'eyesore'"
+    },
+    {
+      "word": "fanciful",
+      "definition": "over-imaginative or unrealistic",
+      "context": "Utterson, lover of the sane, found the will 'fanciful'"
+    },
+    {
+      "word": "detestable",
+      "definition": "deserving intense dislike",
+      "context": "Hyde begins to be 'clothed upon with detestable attributes'"
+    },
+    {
+      "word": "attributes",
+      "definition": "qualities or features regarded as characteristic",
+      "context": "Hyde is described with 'detestable attributes'"
+    },
+    {
+      "word": "gin",
+      "definition": "a distilled alcoholic drink",
+      "context": "Utterson 'drank gin when he was alone'"
+    },
+    {
+      "word": "theatre",
+      "definition": "a place for dramatic performances",
+      "context": "Utterson 'enjoyed the theatre' though had not been to one for twenty years"
+    },
+    {
+      "word": "extremity",
+      "definition": "a serious or dangerous situation",
+      "context": "In any extremity he was 'inclined to help rather than to reprove'"
+    },
+    {
+      "word": "reprove",
+      "definition": "to reprimand or scold",
+      "context": "Utterson preferred to help 'rather than to reprove'"
+    },
+    {
+      "word": "reputable",
+      "definition": "having a good reputation; respectable",
+      "context": "Utterson was often the 'last reputable acquaintance' for downgoing men"
+    },
+    {
+      "word": "demeanour",
+      "definition": "outward behavior or bearing (British spelling)",
+      "context": "To such men he 'never marked a shade of change in his demeanour'"
+    },
+    {
+      "word": "modest",
+      "definition": "having a moderate estimate of one's merits; unassuming",
+      "context": "It 'is the mark of a modest man to accept his friendly circle ready-made'"
+    },
+    {
+      "word": "aptness",
+      "definition": "suitability or appropriateness",
+      "context": "His affections 'implied no aptness in the object'"
+    },
+    {
+      "word": "beaconed",
+      "definition": "sent out a signal or shone out; metaphorical use",
+      "context": "At friendly meetings 'something eminently human beaconed from his eye'"
+    },
+    {
+      "word": "eminently",
+      "definition": "to a notable degree; very",
+      "context": "Used in 'something eminently human beaconed from his eye'"
+    },
+    {
+      "word": "opportunity",
+      "definition": "a favorable circumstance or chance",
+      "context": "He accepted his circle 'ready-made from the hands of opportunity'"
+    },
+    {
+      "word": "ready-made",
+      "definition": "preexisting or already formed",
+      "context": "His friendly circle was 'ready-made from the hands of opportunity'"
+    },
+    {
+      "word": "affections",
+      "definition": "feelings of fondness or love",
+      "context": "His 'affections, like ivy, were the growth of time'"
+    },
+    {
+      "word": "implied",
+      "definition": "suggested without being directly stated",
+      "context": "Affections 'implied no aptness in the object'"
+    },
+    {
+      "word": "singularly",
+      "definition": "in a remarkable or noticeable way",
+      "context": "They 'looked singularly dull' on their walks"
+    },
+    {
+      "word": "excursions",
+      "definition": "short journeys or outings",
+      "context": "Their Sunday 'excursions' were treasured"
+    },
+    {
+      "word": "uninterrupted",
+      "definition": "without pause or break",
+      "context": "They enjoyed them 'uninterrupted'"
+    },
+    {
+      "word": "jewel",
+      "definition": "a treasured thing or highlight",
+      "context": "Their walks were 'the chief jewel of each week'"
+    },
+    {
+      "word": "resisted",
+      "definition": "withstood or refused to comply with",
+      "context": "They 'resisted the calls of business' to keep their walks"
+    },
+    {
+      "word": "sombre",
+      "definition": "dark or gloomy in tone",
+      "context": "Utterson 'came home to his bachelor house in sombre spirits'"
+    },
+    {
+      "word": "mischief",
+      "definition": "playful misbehavior or wrongdoing; trouble",
+      "context": "Enfield says 'there was something about the lot of us that meant mischief'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/43"
+}
