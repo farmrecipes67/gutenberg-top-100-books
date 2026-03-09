@@ -1,0 +1,571 @@
+{
+  "gutenberg_id": 2148,
+  "title": "The Works of Edgar Allan Poe — Volume 2",
+  "author": "Poe, Edgar Allan",
+  "summary": "In Paris one gusty autumn evening the narrator and C. Auguste Dupin entertain the Prefect of Police, Monsieur G., who seeks Dupin's aid in recovering a purloined letter stolen from a royal lady by Minister D. The minister had cleverly exchanged his own note to seize the incriminating paper while it lay address-up on a table. Though the police have repeatedly ransacked the minister’s Hotel, inspecting furniture, rungs, mirrors, carpets, and adjoining houses with microscopes and needles, and even waylaid his person, the letter eludes detection. Dupin hints that the very simplicity of the concealment may be the cause, indeed.",
+  "characters": [
+    {
+      "name": "Narrator (unnamed)",
+      "age": "approx. 30s–40s (adult)",
+      "personality": "observant, reflective, companion to Dupin",
+      "lifespan": "alive at end of excerpt; continues as narrator"
+    },
+    {
+      "name": "C. Auguste Dupin",
+      "age": "30s–40s (estimated)",
+      "personality": "analytic, eccentric, keenly logical and perceptive",
+      "lifespan": "alive and active in investigation at end of excerpt"
+    },
+    {
+      "name": "Monsieur G. (the Prefect of Police)",
+      "age": "40s–50s (estimated)",
+      "personality": "official, vain about experience, earnest but puzzled",
+      "lifespan": "alive; seeks Dupin's counsel"
+    },
+    {
+      "name": "Minister D——",
+      "age": "40s (estimated)",
+      "personality": "bold, cunning, audacious, a poet",
+      "lifespan": "holds the purloined letter; not apprehended in excerpt"
+    },
+    {
+      "name": "The personage robbed (a royal lady)",
+      "age": "adult (unspecified)",
+      "personality": "distressed, secretive, anxious to recover the letter",
+      "lifespan": "alive; has entrusted recovery to the Prefect"
+    },
+    {
+      "name": "The other exalted personage",
+      "age": "unspecified",
+      "personality": "interrupting presence whose entrance prompted concealment",
+      "lifespan": "unnamed; present at the scene of the theft"
+    },
+    {
+      "name": "Servants (Neapolitans)",
+      "age": "adult servants (various)",
+      "personality": "few in number, described as readily made drunk",
+      "lifespan": "alive; used as potential sources during searches"
+    },
+    {
+      "name": "Marie Rogêt",
+      "age": "young woman (unspecified)",
+      "personality": "victim referenced in other discussed cases",
+      "lifespan": "murdered (referenced from prior affair)"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "Rue Dunôt, Faubourg Saint-Germain (No. 33, au troisième)",
+      "latitude": 48.856,
+      "longitude": 2.321
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Nil",
+      "definition": "Latin 'nothing'",
+      "context": "Opening Latin motto: 'Nil sapientiæ odiosius acumine nimio.'"
+    },
+    {
+      "word": "sapientiæ",
+      "definition": "Latin genitive of 'wisdom'",
+      "context": "Part of the Latin motto attributed to Seneca."
+    },
+    {
+      "word": "odiosius",
+      "definition": "Latin, meaning 'more hateful'",
+      "context": "Appears in the Latin epigraph."
+    },
+    {
+      "word": "acumine",
+      "definition": "Latin ablative/noun 'sharpness' or 'wit'",
+      "context": "Used in the Latin epigraph."
+    },
+    {
+      "word": "nimio",
+      "definition": "Latin, 'excessive'",
+      "context": "Final word of the Latin epigraph."
+    },
+    {
+      "word": "Seneca",
+      "definition": "Roman philosopher and author",
+      "context": "Author of the Latin motto printed at the start."
+    },
+    {
+      "word": "meerschaum",
+      "definition": "a pipe material made from sepiolite",
+      "context": "Narrator enjoys a 'meerschaum' while conversing with Dupin."
+    },
+    {
+      "word": "meditation",
+      "definition": "deep reflective thought",
+      "context": "Narrator enjoying the luxury of meditation."
+    },
+    {
+      "word": "gusty",
+      "definition": "characterized by sudden brief bursts of wind",
+      "context": "Describes the evening: 'one gusty evening.'"
+    },
+    {
+      "word": "autumn",
+      "definition": "season (fall)",
+      "context": "Time: 'in the autumn of 18-.'"
+    },
+    {
+      "word": "Paris",
+      "definition": "capital city of France",
+      "context": "Setting: 'At Paris...' where the scene occurs."
+    },
+    {
+      "word": "C.",
+      "definition": "initial for character name",
+      "context": "Initial of 'C. Auguste Dupin' used in introduction."
+    },
+    {
+      "word": "Auguste",
+      "definition": "given name",
+      "context": "Part of 'C. Auguste Dupin.'"
+    },
+    {
+      "word": "Dupin",
+      "definition": "surname of detective character",
+      "context": "C. Auguste Dupin, the analytic friend of the narrator."
+    },
+    {
+      "word": "back",
+      "definition": "rear; referring to part of a dwelling",
+      "context": "The 'little back library' where they sit."
+    },
+    {
+      "word": "library",
+      "definition": "room for books",
+      "context": "Dupin's 'little back library, or book-closet.'"
+    },
+    {
+      "word": "book-closet",
+      "definition": "small room for books (hyphenated)",
+      "context": "Alternative description of Dupin's library."
+    },
+    {
+      "word": "troisième",
+      "definition": "French for 'third'",
+      "context": "Location: 'au troisième' (on the third floor)."
+    },
+    {
+      "word": "Rue",
+      "definition": "French for 'street'",
+      "context": "Part of the address: 'Rue Dunôt.'"
+    },
+    {
+      "word": "Dunôt",
+      "definition": "name of the street (as printed)",
+      "context": "The street name in Dupin's address: 'Rue Dunôt.'"
+    },
+    {
+      "word": "Faubourg",
+      "definition": "French for 'suburb' or district",
+      "context": "Faubourg St. Germain, the district named in the address."
+    },
+    {
+      "word": "Germain",
+      "definition": "name (part of Faubourg St. Germain)",
+      "context": "District name in the address."
+    },
+    {
+      "word": "eddies",
+      "definition": "small whirlpools or swirling motions (of smoke)",
+      "context": "The 'curling eddies of smoke' in the chamber."
+    },
+    {
+      "word": "smoke",
+      "definition": "visible product of burning",
+      "context": "Smoke from pipes fills the room."
+    },
+    {
+      "word": "chamber",
+      "definition": "room",
+      "context": "Atmosphere of the chamber is described."
+    },
+    {
+      "word": "perusal",
+      "definition": "the act of reading or examining",
+      "context": "Reference to the lady's perusal of the letter in her boudoir."
+    },
+    {
+      "word": "boudoir",
+      "definition": "a lady's private sitting room",
+      "context": "The royal lady read the letter alone in her boudoir."
+    },
+    {
+      "word": "Prefect",
+      "definition": "chief officer of police (title)",
+      "context": "Monsieur G. is 'the Prefect of the Parisian police.'"
+    },
+    {
+      "word": "Monsieur",
+      "definition": "French title 'Mister'",
+      "context": "Used before 'G.' to address the Prefect."
+    },
+    {
+      "word": "lamp",
+      "definition": "a light source",
+      "context": "Dupin considered lighting a lamp in the dark room."
+    },
+    {
+      "word": "enkindle",
+      "definition": "to set alight, to light (archaic flavor)",
+      "context": "Dupin 'forebore to enkindle the wick.'"
+    },
+    {
+      "word": "wick",
+      "definition": "the cord of a lamp or candle",
+      "context": "Part of the lamp Dupin chose not to light."
+    },
+    {
+      "word": "oddities",
+      "definition": "strange or unusual features",
+      "context": "The Prefect calls many of Dupin's traits 'oddities.'"
+    },
+    {
+      "word": "sagacious",
+      "definition": "wise or shrewd",
+      "context": "Used approvingly about an agent: 'no more sagacious agent.'"
+    },
+    {
+      "word": "pipe",
+      "definition": "a smoking instrument",
+      "context": "Dupin supplies the Prefect with a pipe."
+    },
+    {
+      "word": "chair",
+      "definition": "seat of wood or upholstered",
+      "context": "Dupin rolls toward him 'a comfortable chair.'"
+    },
+    {
+      "word": "secrecy",
+      "definition": "condition of being secret",
+      "context": "The Prefect warns the matter demands 'the greatest secrecy.'"
+    },
+    {
+      "word": "document",
+      "definition": "a written paper of importance",
+      "context": "The purloined item is referred to as a document (a letter)."
+    },
+    {
+      "word": "purloined",
+      "definition": "stolen (formal/archaic)",
+      "context": "Title and theme: a 'purloined letter' was taken."
+    },
+    {
+      "word": "royal",
+      "definition": "relating to a monarch or court",
+      "context": "The letter was taken from the royal apartments."
+    },
+    {
+      "word": "minister",
+      "definition": "a high government official",
+      "context": "The thief is 'the Minister D——.'"
+    },
+    {
+      "word": "ascendancy",
+      "definition": "position of dominance or influence",
+      "context": "The letter gives its holder an 'ascendancy' over another."
+    },
+    {
+      "word": "address",
+      "definition": "the written recipient line on a letter",
+      "context": "The address being uppermost concealed the contents."
+    },
+    {
+      "word": "juxtaposition",
+      "definition": "placing side by side",
+      "context": "Minister places his letter in close juxtaposition to the other."
+    },
+    {
+      "word": "intrigues",
+      "definition": "secretive political schemes",
+      "context": "Current 'intrigues' at court make the document valuable."
+    },
+    {
+      "word": "ransacking",
+      "definition": "searching thoroughly and disorderly",
+      "context": "The Prefect describes 'ransacking' the minister's Hotel."
+    },
+    {
+      "word": "Hotel",
+      "definition": "in this context, a grand private house (French usage)",
+      "context": "The 'D—— Hotel' where searches are conducted."
+    },
+    {
+      "word": "servants",
+      "definition": "household workers",
+      "context": "The minister's 'servants' sleep distant and few in number."
+    },
+    {
+      "word": "Neapolitans",
+      "definition": "people from Naples (used of the servants)",
+      "context": "Servants are chiefly 'Neapolitans,' so readily made drunk."
+    },
+    {
+      "word": "drunk",
+      "definition": "intoxicated",
+      "context": "The Neapolitan servants 'are readily made drunk.'"
+    },
+    {
+      "word": "keys",
+      "definition": "instruments for opening locks",
+      "context": "Prefect boasts of having keys to open any chamber."
+    },
+    {
+      "word": "nook",
+      "definition": "a small corner or recess",
+      "context": "He investigated every 'nook and corner' of the premises."
+    },
+    {
+      "word": "corner",
+      "definition": "angle or remote part",
+      "context": "Searched every 'nook and corner.'"
+    },
+    {
+      "word": "furniture",
+      "definition": "moveable household articles",
+      "context": "They examined every piece of 'furniture.'"
+    },
+    {
+      "word": "drawer",
+      "definition": "sliding storage compartment",
+      "context": "They opened every possible drawer in search."
+    },
+    {
+      "word": "bulk",
+      "definition": "size or mass",
+      "context": "There is a certain 'amount of bulk' to account for."
+    },
+    {
+      "word": "cabinet",
+      "definition": "a case or cupboard",
+      "context": "Bulk and space in cabinets considered during search."
+    },
+    {
+      "word": "knitting-needle",
+      "definition": "thin pointed implement for knitting",
+      "context": "A letter compressed into a spiral might match a 'knitting-needle.'"
+    },
+    {
+      "word": "rung",
+      "definition": "a crosspiece on a chair or ladder",
+      "context": "A letter could be concealed in the 'rung of a chair.'"
+    },
+    {
+      "word": "cushions",
+      "definition": "soft pads for seating",
+      "context": "They 'probed' the cushions with long needles."
+    },
+    {
+      "word": "needles",
+      "definition": "thin pointed tools used for probing",
+      "context": "Used to probe mattresses and cushions."
+    },
+    {
+      "word": "tables",
+      "definition": "pieces of furniture with flat tops",
+      "context": "They removed the 'tops' of tables in searches."
+    },
+    {
+      "word": "bedposts",
+      "definition": "upright posts at the corners of a bed",
+      "context": "Bedposts can be hollowed to conceal items."
+    },
+    {
+      "word": "sounding",
+      "definition": "testing by tapping to detect hollowness",
+      "context": "Question whether cavities could be detected by 'sounding.'"
+    },
+    {
+      "word": "wadding",
+      "definition": "soft material used as packing",
+      "context": "A sufficient 'wadding' of cotton can hide excavation."
+    },
+    {
+      "word": "cotton",
+      "definition": "soft fibrous material",
+      "context": "Used as 'wadding' around hidden cavities."
+    },
+    {
+      "word": "glueing",
+      "definition": "the act of applying glue (archaic spelling)",
+      "context": "Any disorder in the 'glueing' would show disturbance."
+    },
+    {
+      "word": "microscope",
+      "definition": "instrument to magnify small details",
+      "context": "They used a 'microscope' to examine joints and surfaces."
+    },
+    {
+      "word": "jointings",
+      "definition": "places where parts are joined together",
+      "context": "Unusual gaping in the 'jointings' would reveal tampering."
+    },
+    {
+      "word": "gimlet-dust",
+      "definition": "sawdust produced by drilling (hyphenated)",
+      "context": "A single grain of 'gimlet-dust' would indicate recent work."
+    },
+    {
+      "word": "apple",
+      "definition": "fruit used metaphorically for size reference",
+      "context": "A grain of dust 'would have been as obvious as an apple.'"
+    },
+    {
+      "word": "gaping",
+      "definition": "wide opening or separation",
+      "context": "Any unusual 'gaping' in joints would indicate disturbance."
+    },
+    {
+      "word": "mirrors",
+      "definition": "reflective glass surfaces",
+      "context": "They examined mirrors between the boards and plates."
+    },
+    {
+      "word": "carpets",
+      "definition": "floor coverings",
+      "context": "Carpets, curtains, and beds were probed."
+    },
+    {
+      "word": "adjoining",
+      "definition": "next to or adjoining",
+      "context": "They searched the two houses immediately 'adjoining.'"
+    },
+    {
+      "word": "compartments",
+      "definition": "divided sections or parts",
+      "context": "They divided the house surface into 'compartments.'"
+    },
+    {
+      "word": "numbered",
+      "definition": "assigned numbers for tracking",
+      "context": "Compartments were 'numbered' so none would be missed."
+    },
+    {
+      "word": "square",
+      "definition": "a flat unit of area",
+      "context": "Each 'square inch' of the premises was scrutinized."
+    },
+    {
+      "word": "inch",
+      "definition": "unit of linear measure",
+      "context": "'Each individual square inch' was examined."
+    },
+    {
+      "word": "scrutinized",
+      "definition": "examined closely and critically",
+      "context": "They 'scrutinized' every particle throughout the premises."
+    },
+    {
+      "word": "reward",
+      "definition": "a sum offered for recovery",
+      "context": "The Prefect mentions the 'reward offered' as prodigious."
+    },
+    {
+      "word": "prodigious",
+      "definition": "remarkably large or impressive",
+      "context": "The 'reward offered is prodigious.'"
+    },
+    {
+      "word": "waylaid",
+      "definition": "ambushed or stopped on the way",
+      "context": "The minister 'has been twice waylaid' and searched."
+    },
+    {
+      "word": "footpads",
+      "definition": "street robbers on foot",
+      "context": "He was waylaid 'as if by footpads.'"
+    },
+    {
+      "word": "searched",
+      "definition": "examined thoroughly",
+      "context": "His person was 'rigorously searched' under inspection."
+    },
+    {
+      "word": "honor",
+      "definition": "reputation or dignity",
+      "context": "The disclosure would bring in question the 'honor' of a personage."
+    },
+    {
+      "word": "political",
+      "definition": "relating to governance or public affairs",
+      "context": "The letter has been wielded 'for political purposes.'"
+    },
+    {
+      "word": "purposes",
+      "definition": "intended ends or aims",
+      "context": "Used in the phrase 'political purposes.'"
+    },
+    {
+      "word": "lynx",
+      "definition": "a predatory wildcat; metaphor for keenness",
+      "context": "The minister's 'lynx eye immediately perceives the paper.'"
+    },
+    {
+      "word": "recognises",
+      "definition": "perceives or identifies (British spelling)",
+      "context": "He 'recognises the handwriting of the address.'"
+    },
+    {
+      "word": "handwriting",
+      "definition": "style of writing by hand",
+      "context": "The minister recognises the 'handwriting' of the address."
+    },
+    {
+      "word": "fathoms",
+      "definition": "understands thoroughly; measures depth figuratively",
+      "context": "He 'fathoms her secret.'"
+    },
+    {
+      "word": "decamped",
+      "definition": "departed suddenly",
+      "context": "After taking the letter the minister 'decamped.'"
+    },
+    {
+      "word": "owner",
+      "definition": "one who possesses something",
+      "context": "The rightful 'owner' saw but dared not call attention."
+    },
+    {
+      "word": "dared",
+      "definition": "had the courage to do something",
+      "context": "She 'dared not call attention to the act.'"
+    },
+    {
+      "word": "elbow",
+      "definition": "the area at the bend of the arm; used figuratively for close proximity",
+      "context": "The 'third personage who stood at her elbow.'"
+    },
+    {
+      "word": "exclaimed",
+      "definition": "cry out suddenly, especially in surprise",
+      "context": "The narrator 'exclaimed' at certain points in the dialogue."
+    },
+    {
+      "word": "probed",
+      "definition": "examined or explored with a probe",
+      "context": "They 'probed' cushions and bedclothes with long needles."
+    },
+    {
+      "word": "forebore",
+      "definition": "refrained or abstained (archaic/formal)",
+      "context": "Dupin 'forebore to enkindle the wick.'"
+    },
+    {
+      "word": "conversation",
+      "definition": "talk between persons",
+      "context": "The topics had 'formed matter for conversation' earlier that evening."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2148"
+}
