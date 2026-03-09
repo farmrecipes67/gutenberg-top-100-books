@@ -1,0 +1,559 @@
+{
+  "gutenberg_id": 174,
+  "title": "The Picture of Dorian Gray",
+  "author": "Wilde, Oscar",
+  "summary": "Basil Hallward, a painter, creates a stunning full-length portrait of the extraordinarily beautiful young man Dorian Gray. In his London studio Basil fears the picture reveals too much of himself and refuses exhibition. Lord Henry Wotton, cynical and witty, visits, teases Basil and praises Dorian’s unmixed beauty, arguing that thought destroys beauty. Basil confesses how meeting Dorian at Lady Brandon’s overwhelmed him: the stranger’s charm threatened to absorb his art and life. Themes include art and morality, secrecy and influence, youth and appearance, and the perilous fascination beauty provokes in those who behold it and the danger of self-ruin ultimately.",
+  "characters": [
+    {
+      "name": "Basil Hallward",
+      "age": "young man (20s–30s, described as a young artist)",
+      "personality": "sincere, sensitive, introspective painter who believes his work reveals himself",
+      "lifespan": "fate not revealed in the provided excerpt"
+    },
+    {
+      "name": "Lord Henry Wotton",
+      "age": "young man (20s–30s, described as a young companion)",
+      "personality": "cynical, witty, languid, provocative conversationalist who delights in paradox",
+      "lifespan": "fate not revealed in the provided excerpt"
+    },
+    {
+      "name": "Dorian Gray",
+      "age": "a young man (described as extraordinarily beautiful, likely in his late teens or twenties)",
+      "personality": "brainlessly beautiful, fascinating to others, object of aesthetic admiration",
+      "lifespan": "fate not revealed in the provided excerpt"
+    },
+    {
+      "name": "Lady Brandon",
+      "age": "middle-aged woman (social hostess)",
+      "personality": "chatty, socially prominent hostess who detains guests at gatherings",
+      "lifespan": "fate not revealed in the provided excerpt"
+    },
+    {
+      "name": "Lord Henry's wife (unnamed)",
+      "age": "adult (married to Lord Henry)",
+      "personality": "mentioned as someone who shares deception play with her husband; exact traits not detailed in excerpt",
+      "lifespan": "fate not revealed in the provided excerpt"
+    },
+    {
+      "name": "The Duke (unnamed)",
+      "age": "adult aristocrat (referenced)",
+      "personality": "referenced as part of social set (hosting events); not described in detail",
+      "lifespan": "fate not revealed in the provided excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Grosvenor Gallery (London)",
+      "latitude": 51.509,
+      "longitude": -0.1414
+    },
+    {
+      "name": "Royal Academy (Burlington House, London)",
+      "latitude": 51.5096,
+      "longitude": -0.1395
+    },
+    {
+      "name": "Oxford, England",
+      "latitude": 51.752,
+      "longitude": -1.2577
+    },
+    {
+      "name": "Tokyo, Japan",
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "artist",
+      "definition": "one who creates art",
+      "context": "Used repeatedly in the Preface to discuss the role and nature of the artist."
+    },
+    {
+      "word": "creator",
+      "definition": "one who brings something into existence",
+      "context": "Opens the Preface: 'The artist is the creator of beautiful things.'"
+    },
+    {
+      "word": "reveal",
+      "definition": "to make visible or known",
+      "context": "Preface: 'To reveal art and conceal the artist is art’s aim.'"
+    },
+    {
+      "word": "conceal",
+      "definition": "to hide or keep secret",
+      "context": "Preface contrast: the artist conceals himself while revealing art."
+    },
+    {
+      "word": "critic",
+      "definition": "one who evaluates or interprets art",
+      "context": "Preface describes the critic as translator of impressions of beauty."
+    },
+    {
+      "word": "translate",
+      "definition": "to render into another form or medium",
+      "context": "Preface: critics translate impressions into other manners or materials."
+    },
+    {
+      "word": "manner",
+      "definition": "a way of doing or presenting something",
+      "context": "Preface discusses translating impressions 'into another manner.'"
+    },
+    {
+      "word": "material",
+      "definition": "substance or medium used in art",
+      "context": "Preface: translating impressions into a new material."
+    },
+    {
+      "word": "impression",
+      "definition": "an effect produced on the mind or senses",
+      "context": "Preface: the critic translates his impression of beautiful things."
+    },
+    {
+      "word": "autobiography",
+      "definition": "a self-written account of one’s life",
+      "context": "Preface: 'The highest as the lowest form of criticism is a mode of autobiography.'"
+    },
+    {
+      "word": "Caliban",
+      "definition": "a literary reference to Shakespeare’s character, used as metaphor",
+      "context": "Preface: 'The nineteenth century dislike of realism is the rage of Caliban...' "
+    },
+    {
+      "word": "realism",
+      "definition": "artistic representation aiming for faithful depiction of reality",
+      "context": "Preface contrasts nineteenth-century attitudes to realism and romanticism."
+    },
+    {
+      "word": "romanticism",
+      "definition": "an artistic movement valuing emotion and imagination",
+      "context": "Preface: mentions nineteenth-century dislike of romanticism."
+    },
+    {
+      "word": "morality",
+      "definition": "principles concerning right and wrong behavior",
+      "context": "Preface: discusses 'the morality of art' as separate from moralizing."
+    },
+    {
+      "word": "medium",
+      "definition": "the material or method used by an artist",
+      "context": "Preface: 'the morality of art consists in the perfect use of an imperfect medium.'"
+    },
+    {
+      "word": "ethical",
+      "definition": "relating to moral principles",
+      "context": "Preface notes that 'No artist has ethical sympathies.'"
+    },
+    {
+      "word": "unpardonable",
+      "definition": "not able to be forgiven",
+      "context": "Preface: calls ethical sympathy in an artist 'an unpardonable mannerism.'"
+    },
+    {
+      "word": "mannerism",
+      "definition": "a habitual style or peculiarity of expression",
+      "context": "Preface criticizes mannerism of style in artists with ethical sympathies."
+    },
+    {
+      "word": "morbid",
+      "definition": "characterized by abnormal and unhealthy interest (in disturbing subjects)",
+      "context": "Preface: 'No artist is ever morbid.'"
+    },
+    {
+      "word": "instrument",
+      "definition": "a tool or means of expression",
+      "context": "Preface: 'Thought and language are to the artist instruments of an art.'"
+    },
+    {
+      "word": "symbol",
+      "definition": "a thing that represents or stands for something else",
+      "context": "Preface: 'All art is at once surface and symbol.'"
+    },
+    {
+      "word": "spectator",
+      "definition": "one who watches or observes",
+      "context": "Preface: 'It is the spectator, and not life, that art really mirrors.'"
+    },
+    {
+      "word": "peril",
+      "definition": "danger or risk",
+      "context": "Preface warns readers who 'go beneath the surface' do so at their peril."
+    },
+    {
+      "word": "diversity",
+      "definition": "variety or difference",
+      "context": "Preface: diversity of opinion indicates a work is new and complex."
+    },
+    {
+      "word": "useless",
+      "definition": "not serving a purpose; without practical use",
+      "context": "Preface: 'All art is quite useless.'"
+    },
+    {
+      "word": "studio",
+      "definition": "a room where an artist works",
+      "context": "Chapter I opens: 'The studio was filled with the rich odour of roses...'"
+    },
+    {
+      "word": "odour",
+      "definition": "a smell or scent (British spelling)",
+      "context": "Chapter I: 'The studio was filled with the rich odour of roses.'"
+    },
+    {
+      "word": "roses",
+      "definition": "flowering plants with fragrant blooms",
+      "context": "Chapter I: roses scent the studio."
+    },
+    {
+      "word": "divan",
+      "definition": "a long low sofa without a back or arms",
+      "context": "Chapter I: 'From the corner of the divan of Persian saddle-bags...' "
+    },
+    {
+      "word": "Persian",
+      "definition": "relating to Persia (Iran); used to describe style or origin",
+      "context": "Chapter I: 'Persian saddle-bags' on the divan."
+    },
+    {
+      "word": "saddle-bags",
+      "definition": "bags attached to a saddle or used decoratively",
+      "context": "Chapter I: 'divan of Persian saddle-bags' describing upholstery."
+    },
+    {
+      "word": "innumerable",
+      "definition": "too many to be counted",
+      "context": "Chapter I: 'smoking, as was his custom, innumerable cigarettes.'"
+    },
+    {
+      "word": "cigarettes",
+      "definition": "small rolls of tobacco for smoking",
+      "context": "Chapter I: Lord Henry smokes innumerable cigarettes."
+    },
+    {
+      "word": "tussore-silk",
+      "definition": "a type of coarse silk made from wild silkworms (tussar)",
+      "context": "Chapter I: 'long tussore-silk curtains' stretched before the window."
+    },
+    {
+      "word": "laburnum",
+      "definition": "a small tree with pendulous clusters of yellow flowers",
+      "context": "Chapter I: 'honey-sweet and honey-coloured blossoms of a laburnum.'"
+    },
+    {
+      "word": "tremulous",
+      "definition": "shaking or quivering slightly; trembling",
+      "context": "Chapter I: laburnum 'whose tremulous branches seemed hardly able to bear...' "
+    },
+    {
+      "word": "flamelike",
+      "definition": "resembling or suggestive of flame",
+      "context": "Chapter I: laburnum blossoms described as 'flamelike.'"
+    },
+    {
+      "word": "pallid",
+      "definition": "pale, typically because of poor health",
+      "context": "Chapter I: 'those pallid, jade-faced painters of Tokyo' in Lord Henry’s remark."
+    },
+    {
+      "word": "jade-faced",
+      "definition": "having a greenish, pale complexion (compound descriptor)",
+      "context": "Chapter I: used to describe the painters of Tokyo as 'pallid, jade-faced.'"
+    },
+    {
+      "word": "Tokyo",
+      "definition": "capital city of Japan (used as cultural reference)",
+      "context": "Chapter I: Lord Henry refers to 'painters of Tokyo' as an exotic comparison."
+    },
+    {
+      "word": "immobile",
+      "definition": "not moving; still",
+      "context": "Chapter I: describes Japanese art as necessarily immobile."
+    },
+    {
+      "word": "sullen",
+      "definition": "bad-tempered and sulky; gloomy",
+      "context": "Chapter I: 'The sullen murmur of the bees...' describing sound in the garden."
+    },
+    {
+      "word": "murmur",
+      "definition": "a soft, low, or indistinct sound",
+      "context": "Chapter I: 'sullen murmur of the bees' in the grass."
+    },
+    {
+      "word": "bees",
+      "definition": "insects that collect nectar and pollen",
+      "context": "Chapter I: bees bustle in the unmown grass, adding to the ambience."
+    },
+    {
+      "word": "unmown",
+      "definition": "not cut (as grass)",
+      "context": "Chapter I: 'the long unmown grass' in the garden."
+    },
+    {
+      "word": "gilt",
+      "definition": "covered thinly with gold leaf or gold paint",
+      "context": "Chapter I: 'dusty gilt horns of the straggling woodbine.'"
+    },
+    {
+      "word": "woodbine",
+      "definition": "a climbing plant, often honeysuckle",
+      "context": "Chapter I: woodbine with dusty gilt horns mentioned in garden scene."
+    },
+    {
+      "word": "oppressive",
+      "definition": "unpleasantly heavy or intense; burdensome",
+      "context": "Chapter I: stillness made more oppressive by the bees' murmur."
+    },
+    {
+      "word": "dim",
+      "definition": "not bright; faint",
+      "context": "Chapter I: 'The dim roar of London' likened to an organ note."
+    },
+    {
+      "word": "roar",
+      "definition": "a deep, prolonged sound",
+      "context": "Chapter I: the distant roar of London compared to a bourdon."
+    },
+    {
+      "word": "bourdon",
+      "definition": "a low, sustained drone (as in an organ)",
+      "context": "Chapter I: 'The dim roar of London was like the bourdon note of a distant organ.'"
+    },
+    {
+      "word": "easel",
+      "definition": "a stand for supporting a painter’s canvas",
+      "context": "Chapter I: the portrait stood 'clamped to an upright easel.'"
+    },
+    {
+      "word": "clamped",
+      "definition": "secured tightly in place",
+      "context": "Chapter I: the portrait was 'clamped to an upright easel.'"
+    },
+    {
+      "word": "full-length",
+      "definition": "showing the entire figure from head to foot",
+      "context": "Chapter I: the portrait described as a 'full-length portrait.'"
+    },
+    {
+      "word": "portrait",
+      "definition": "a painting or depiction of a person",
+      "context": "Chapter I: Basil Hallward's full-length portrait of Dorian Gray."
+    },
+    {
+      "word": "extraordinary",
+      "definition": "very unusual or remarkable",
+      "context": "Chapter I: used to describe Dorian Gray's personal beauty."
+    },
+    {
+      "word": "comely",
+      "definition": "pleasant to look at; attractive",
+      "context": "Chapter I: the painted figure described as 'gracious and comely.'"
+    },
+    {
+      "word": "Basil",
+      "definition": "proper name of the artist (Basil Hallward)",
+      "context": "Chapter I: the painter who produced the portrait."
+    },
+    {
+      "word": "Hallward",
+      "definition": "proper surname of the painter character",
+      "context": "Chapter I: 'Basil Hallward' appears as the artist in the studio."
+    },
+    {
+      "word": "disappearance",
+      "definition": "the act of ceasing to be visible or present",
+      "context": "Chapter I: Basil's 'sudden disappearance' earlier caused public excitement."
+    },
+    {
+      "word": "crush",
+      "definition": "a fashionable social gathering (Victorian usage)",
+      "context": "Chapter I: Basil went 'to a crush at Lady Brandon’s.'"
+    },
+    {
+      "word": "overdressed",
+      "definition": "wearing more formal or elaborate clothes than necessary",
+      "context": "Chapter I: 'huge overdressed dowagers' at the social event."
+    },
+    {
+      "word": "dowagers",
+      "definition": "older women of high social rank, typically widows",
+      "context": "Chapter I: 'huge overdressed dowagers' annoy the narrator at the crush."
+    },
+    {
+      "word": "academicians",
+      "definition": "members of an academy, here of art (formal term)",
+      "context": "Chapter I: 'tedious academicians' in the social room."
+    },
+    {
+      "word": "fate",
+      "definition": "destiny; events beyond one’s control",
+      "context": "Chapter I: Basil senses a 'fatality' about distinction that dogs history."
+    },
+    {
+      "word": "exquisite",
+      "definition": "extremely beautiful and delicate",
+      "context": "Chapter I: Basil feared 'exquisite joys and exquisite sorrows.'"
+    },
+    {
+      "word": "sorrows",
+      "definition": "states of distress or sadness",
+      "context": "Chapter I: Basil anticipates 'exquisite sorrows' with meeting Dorian."
+    },
+    {
+      "word": "cowardice",
+      "definition": "lack of bravery; avoidance from fear",
+      "context": "Chapter I: Basil admits his retreat from the party was 'cowardice.'"
+    },
+    {
+      "word": "conscience",
+      "definition": "inner sense of right and wrong",
+      "context": "Chapter I: Basil says it was not conscience but cowardice that made him leave."
+    },
+    {
+      "word": "trade-name",
+      "definition": "a brand or commonly used commercial name",
+      "context": "Preface: 'Conscience is the trade-name of the firm.' (Lord Henry's quip)"
+    },
+    {
+      "word": "peacock",
+      "definition": "a flamboyant bird; used metaphorically for showiness",
+      "context": "Chapter I: Lord Henry says Lady Brandon 'is a peacock in everything but beauty.'"
+    },
+    {
+      "word": "laurel",
+      "definition": "an evergreen shrub or tree with glossy leaves",
+      "context": "Chapter I: the friends sit 'in the shade of a tall laurel bush.'"
+    },
+    {
+      "word": "bamboo",
+      "definition": "a tall grass used for building and furniture",
+      "context": "Chapter I: they sit on 'a long bamboo seat.'"
+    },
+    {
+      "word": "daisies",
+      "definition": "common small white-and-yellow flowers",
+      "context": "Chapter I: 'white daisies were tremulous' in the grass."
+    },
+    {
+      "word": "dragon-fly",
+      "definition": "an insect with long body and transparent wings (dragonfly)",
+      "context": "Chapter I: 'a long thin dragon-fly floated past on its brown gauze wings.'"
+    },
+    {
+      "word": "gauze",
+      "definition": "light, thin translucent fabric; used descriptively for wings",
+      "context": "Chapter I: dragon-fly's 'brown gauze wings.'"
+    },
+    {
+      "word": "opium-tainted",
+      "definition": "influenced or tainted by opium (suggesting languor or indulgence)",
+      "context": "Chapter I: Lord Henry's cigarette described as 'opium-tainted.'"
+    },
+    {
+      "word": "whorls",
+      "definition": "spiral forms or coils",
+      "context": "Chapter I: smoke curling up in fanciful whorls from Lord Henry's cigarette."
+    },
+    {
+      "word": "Adonis",
+      "definition": "a mythological figure symbolizing ideal male beauty",
+      "context": "Chapter I: Lord Henry calls the portrait 'a Narcissus' and earlier compares it to 'Adonis.'"
+    },
+    {
+      "word": "Narcissus",
+      "definition": "mythological youth who fell in love with his own reflection; used to denote self-beauty",
+      "context": "Chapter I: Lord Henry exclaims 'he is a Narcissus' describing the painted youth."
+    },
+    {
+      "word": "intellectual",
+      "definition": "relating to the intellect or thinking",
+      "context": "Chapter I: Lord Henry remarks that 'beauty ends where an intellectual expression begins.'"
+    },
+    {
+      "word": "expression",
+      "definition": "the look on a face conveying thought or feeling",
+      "context": "Chapter I: discussion of intellectual expression altering beauty."
+    },
+    {
+      "word": "exaggeration",
+      "definition": "the action of representing something as larger or greater than it is",
+      "context": "Chapter I: 'Intellect is in itself a mode of exaggeration.'"
+    },
+    {
+      "word": "Academy",
+      "definition": "short for The Royal Academy (of Arts), a major exhibition venue in London",
+      "context": "Chapter I: discussion whether to send the picture to the Academy or the Grosvenor."
+    },
+    {
+      "word": "Grosvenor",
+      "definition": "refers to the Grosvenor Gallery, a London exhibition space of the time",
+      "context": "Chapter I: Lord Henry recommends sending the portrait 'to the Grosvenor.'"
+    },
+    {
+      "word": "cultivated",
+      "definition": "refined or educated in taste",
+      "context": "Preface: 'Those who find beautiful meanings in beautiful things are the cultivated.'"
+    },
+    {
+      "word": "elect",
+      "definition": "a chosen or privileged group",
+      "context": "Preface: 'They are the elect to whom beautiful things mean only beauty.'"
+    },
+    {
+      "word": "fascinating",
+      "definition": "extremely interesting or charming",
+      "context": "Chapter I: Basil says Dorian's personality was 'so fascinating' it threatened to absorb him."
+    },
+    {
+      "word": "secrecy",
+      "definition": "the action of keeping something secret",
+      "context": "Chapter I: Basil says he has grown to love secrecy as it brings romance."
+    },
+    {
+      "word": "romance",
+      "definition": "a quality of mystery, excitement, or remoteness from everyday life",
+      "context": "Chapter I: secrecy seems to bring a great deal of romance into Basil's life."
+    },
+    {
+      "word": "surrender",
+      "definition": "to give up possession or control",
+      "context": "Chapter I: Basil compares telling a friend's name to 'surrendering a part of them.'"
+    },
+    {
+      "word": "modern",
+      "definition": "relating to the present or recent times",
+      "context": "Chapter I: Basil muses about what makes modern life mysterious or marvellous."
+    },
+    {
+      "word": "mysterious",
+      "definition": "difficult to understand; enigmatic",
+      "context": "Chapter I: Basil finds secrecy renders modern life mysterious."
+    },
+    {
+      "word": "marvellous",
+      "definition": "causing wonder or astonishment (British spelling)",
+      "context": "Chapter I: Basil says secrecy makes life 'mysterious or marvellous to us.'"
+    },
+    {
+      "word": "lilac",
+      "definition": "a shrub with fragrant clusters of pale purple flowers",
+      "context": "Chapter I: 'heavy lilac-blooms' moved in the languid air."
+    },
+    {
+      "word": "honey-sweet",
+      "definition": "having sweetness like honey (compound descriptor)",
+      "context": "Chapter I: 'honey-sweet and honey-coloured blossoms' of the laburnum."
+    },
+    {
+      "word": "honey-coloured",
+      "definition": "having the warm, golden hue of honey",
+      "context": "Chapter I: describes blossoms as 'honey-coloured.'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/174"
+}
