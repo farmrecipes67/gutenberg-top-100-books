@@ -1,0 +1,604 @@
+{
+  "gutenberg_id": 64317,
+  "title": "The Great Gatsby",
+  "author": "Fitzgerald, F. Scott (Francis Scott)",
+  "summary": "Nick Carraway recounts his summer after moving to West Egg, Long Island, where opulent neighbors and old-money East Egg contrast starkly with new wealth. He narrates Tom and Daisy Buchanan’s gilded restlessness, the polished detachment of Jordan Baker, and the enigmatic Jay Gatsby, whose colossal mansion and extravagant parties mask an obsessive romantic hope tied to Daisy. Through Nick’s reserved perspective the novel examines privilege, moral decay, illusion, and yearning, as surface glamour conceals corruption and vulnerability. Gatsby’s singular capacity for hope stands out amid abortive dreams, social hypocrisy, and the fatal consequences of unmet desire and American modernity's contradictions.",
+  "characters": [
+    {
+      "name": "Nick Carraway",
+      "age": "late 20s (approx)",
+      "personality": "reserved, tolerant, reflective narrator",
+      "lifespan": "present during the narrated summer; narrator of the events (fate beyond excerpt not revealed)"
+    },
+    {
+      "name": "Jay Gatsby",
+      "age": "unknown (enigmatic, estimated 30s)",
+      "personality": "mysterious, hopeful, ostentatious",
+      "lifespan": "central figure of the narrative; described by narrator as having 'turned out all right at the end' (specific fate not detailed in excerpt)"
+    },
+    {
+      "name": "Daisy Buchanan",
+      "age": "mid-to-late 20s (approx)",
+      "personality": "charming, melodious, superficially light-hearted",
+      "lifespan": "present in early scenes at East Egg; her long-term fate not revealed in excerpt"
+    },
+    {
+      "name": "Tom Buchanan",
+      "age": "30",
+      "personality": "powerful, aggressive, supercilious",
+      "lifespan": "present in the narrated summer; fate beyond excerpt not revealed"
+    },
+    {
+      "name": "Jordan Baker",
+      "age": "mid-20s (approx)",
+      "personality": "aloof, self-sufficient, polished",
+      "lifespan": "present at East Egg dinner; fate not revealed in excerpt"
+    },
+    {
+      "name": "Finnish woman",
+      "age": "adult (not specified)",
+      "personality": "quiet, practical (houseworker)",
+      "lifespan": "employed as Nick's housekeeper in the excerpt; further details not given"
+    },
+    {
+      "name": "Nick's dog",
+      "age": "young (runs away)",
+      "personality": "briefly present; unnamed",
+      "lifespan": "runs away early in Nick's residence (as told in excerpt)"
+    },
+    {
+      "name": "Young man at the office",
+      "age": "young adult (not specified)",
+      "personality": "helpful, practical (found the house)",
+      "lifespan": "briefly mentioned as having found the West Egg house; no further role in excerpt"
+    },
+    {
+      "name": "Nick's father",
+      "age": "adult (older generation)",
+      "personality": "advisory (gave Nick formative advice)",
+      "lifespan": "mentioned as source of counsel; further details not given in excerpt"
+    },
+    {
+      "name": "Grandfather's brother (founder of family line)",
+      "age": "historical figure (19th century)",
+      "personality": "entrepreneurial (started wholesale hardware business)",
+      "lifespan": "mentioned as having come in 'fifty-one' and founded the family business; treated as ancestor in narration"
+    },
+    {
+      "name": "Demaine (the oil man)",
+      "age": "not specified",
+      "personality": "wealthy (previous owner)",
+      "lifespan": "mentioned as former owner of property; no narrative fate in excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "West Egg (mapped to Great Neck, Long Island)",
+      "latitude": 40.783,
+      "longitude": -73.704
+    },
+    {
+      "name": "East Egg (mapped to Sands Point, Long Island)",
+      "latitude": 40.9054,
+      "longitude": -73.6937
+    },
+    {
+      "name": "Long Island Sound",
+      "latitude": 41.2,
+      "longitude": -73.5
+    },
+    {
+      "name": "New York City, NY",
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    {
+      "name": "New Haven, CT",
+      "latitude": 41.3083,
+      "longitude": -72.9279
+    },
+    {
+      "name": "Lake Forest, IL",
+      "latitude": 42.2523,
+      "longitude": -87.8409
+    },
+    {
+      "name": "Chicago, IL",
+      "latitude": 41.8781,
+      "longitude": -87.6298
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "vulnerable",
+      "definition": "open to harm or influence",
+      "context": "\"In my younger and more vulnerable years\""
+    },
+    {
+      "word": "privy",
+      "definition": "informed about something secret",
+      "context": "\"I was privy to the secret griefs of wild, unknown men\""
+    },
+    {
+      "word": "confidences",
+      "definition": "private disclosures",
+      "context": "\"Most of the confidences were unsought\""
+    },
+    {
+      "word": "unsought",
+      "definition": "not requested or sought after",
+      "context": "\"Most of the confidences were unsought\""
+    },
+    {
+      "word": "feigned",
+      "definition": "pretended",
+      "context": "\"frequently I have feigned sleep\""
+    },
+    {
+      "word": "preoccupation",
+      "definition": "state of being preoccupied",
+      "context": "\"feigned sleep, preoccupation\""
+    },
+    {
+      "word": "levity",
+      "definition": "lack of seriousness",
+      "context": "\"or a hostile levity\""
+    },
+    {
+      "word": "intimate",
+      "definition": "deeply personal",
+      "context": "\"the intimate revelations of young men\""
+    },
+    {
+      "word": "quivering",
+      "definition": "trembling slightly",
+      "context": "\"an intimate revelation ... was quivering on the horizon\""
+    },
+    {
+      "word": "plagiaristic",
+      "definition": "derivative, imitative",
+      "context": "\"usually plagiaristic and marred by obvious suppressions\""
+    },
+    {
+      "word": "suppressions",
+      "definition": "omissions or repressions",
+      "context": "\"marred by obvious suppressions\""
+    },
+    {
+      "word": "reserving",
+      "definition": "holding back judgment",
+      "context": "\"Reserving judgements is a matter of infinite hope\""
+    },
+    {
+      "word": "infinite",
+      "definition": "endless or boundless",
+      "context": "\"a matter of infinite hope\""
+    },
+    {
+      "word": "snobbishly",
+      "definition": "in a snobbish manner",
+      "context": "\"as my father snobbishly suggested\""
+    },
+    {
+      "word": "marshes",
+      "definition": "wet, soft land",
+      "context": "\"Conduct may be founded on the hard rock or the wet marshes\""
+    },
+    {
+      "word": "riotous",
+      "definition": "wildly extravagant or turbulent",
+      "context": "\"no more riotous excursions\""
+    },
+    {
+      "word": "excursions",
+      "definition": "short journeys or outings",
+      "context": "\"no more riotous excursions with privileged glimpses\""
+    },
+    {
+      "word": "privileged",
+      "definition": "having special advantages",
+      "context": "\"privileged glimpses into the human heart\""
+    },
+    {
+      "word": "unaffected",
+      "definition": "genuine, not feigned",
+      "context": "\"who represented everything for which I have an unaffected scorn\""
+    },
+    {
+      "word": "scorn",
+      "definition": "contempt or disdain",
+      "context": "\"unaffected scorn\""
+    },
+    {
+      "word": "gestures",
+      "definition": "movements or acts",
+      "context": "\"personality is an unbroken series of successful gestures\""
+    },
+    {
+      "word": "gorgeous",
+      "definition": "magnificent or splendid",
+      "context": "\"there was something gorgeous about him\""
+    },
+    {
+      "word": "heightened",
+      "definition": "made more intense",
+      "context": "\"some heightened sensitivity to the promises of life\""
+    },
+    {
+      "word": "sensitivity",
+      "definition": "responsiveness to stimuli",
+      "context": "\"heightened sensitivity to the promises of life\""
+    },
+    {
+      "word": "responsiveness",
+      "definition": "reactivity or quick reaction",
+      "context": "form of Gatsby's responsiveness described in the text"
+    },
+    {
+      "word": "flabby",
+      "definition": "lacking firmness",
+      "context": "\"that flabby impressionability\""
+    },
+    {
+      "word": "impressionability",
+      "definition": "easily influenced nature",
+      "context": "\"flabby impressionability\""
+    },
+    {
+      "word": "temperament",
+      "definition": "disposition or nature",
+      "context": "\"creative temperament\""
+    },
+    {
+      "word": "romantic",
+      "definition": "idealizing, sentimental",
+      "context": "\"a romantic readiness\""
+    },
+    {
+      "word": "readiness",
+      "definition": "willingness or preparedness",
+      "context": "\"a romantic readiness such as I have never found\""
+    },
+    {
+      "word": "preyed",
+      "definition": "to be consumed or troubled by",
+      "context": "\"it is what preyed on Gatsby\""
+    },
+    {
+      "word": "foul",
+      "definition": "dirty or polluted",
+      "context": "\"what foul dust floated in the wake of his dreams\""
+    },
+    {
+      "word": "floated",
+      "definition": "drifted gently",
+      "context": "\"foul dust floated in the wake\""
+    },
+    {
+      "word": "wake",
+      "definition": "trail left behind",
+      "context": "\"in the wake of his dreams\""
+    },
+    {
+      "word": "abortive",
+      "definition": "unsuccessful; failing to achieve",
+      "context": "\"abortive sorrows\""
+    },
+    {
+      "word": "sorrows",
+      "definition": "deep sadnesses",
+      "context": "\"abortive sorrows and short-winded elations\""
+    },
+    {
+      "word": "short-winded",
+      "definition": "brief, lacking stamina",
+      "context": "\"short-winded elations\""
+    },
+    {
+      "word": "elations",
+      "definition": "states of great joy",
+      "context": "\"short-winded elations of men\""
+    },
+    {
+      "word": "Carraways",
+      "definition": "family name (proper noun)",
+      "context": "\"My family have been prominent ... The Carraways are something of a clan\""
+    },
+    {
+      "word": "Buccleuch",
+      "definition": "Scottish ducal name (proper noun)",
+      "context": "\"descended from the Dukes of Buccleuch\""
+    },
+    {
+      "word": "substitute",
+      "definition": "one who takes another's place",
+      "context": "\"sent a substitute to the Civil War\""
+    },
+    {
+      "word": "wholesale",
+      "definition": "large-scale trade",
+      "context": "\"started the wholesale hardware business\""
+    },
+    {
+      "word": "hardware",
+      "definition": "tools and metal goods business",
+      "context": "\"wholesale hardware business\""
+    },
+    {
+      "word": "hard-boiled",
+      "definition": "tough or unsentimental",
+      "context": "\"the rather hard-boiled painting\""
+    },
+    {
+      "word": "Teutonic",
+      "definition": "Germanic; relating to Germans",
+      "context": "\"that delayed Teutonic migration known as the Great War\""
+    },
+    {
+      "word": "counter-raid",
+      "definition": "a retaliatory incursion",
+      "context": "\"I enjoyed the counter-raid so thoroughly\""
+    },
+    {
+      "word": "restless",
+      "definition": "unable to rest or relax",
+      "context": "\"I came back restless\""
+    },
+    {
+      "word": "bond",
+      "definition": "debt security; financial business",
+      "context": "\"learn the bond business\""
+    },
+    {
+      "word": "prep",
+      "definition": "preparatory (school)",
+      "context": "\"choosing a prep school for me\""
+    },
+    {
+      "word": "bungalow",
+      "definition": "small single-story house",
+      "context": "\"a weather-beaten cardboard bungalow\""
+    },
+    {
+      "word": "Finnish",
+      "definition": "from Finland",
+      "context": "\"a Finnish woman, who made my bed\""
+    },
+    {
+      "word": "muttered",
+      "definition": "spoke quietly or under breath",
+      "context": "\"muttered Finnish wisdom to herself\""
+    },
+    {
+      "word": "pathfinder",
+      "definition": "one who finds a way; guide",
+      "context": "\"I was a guide, a pathfinder, an original settler\""
+    },
+    {
+      "word": "settler",
+      "definition": "one who settles in a place",
+      "context": "\"an original settler\""
+    },
+    {
+      "word": "breath-giving",
+      "definition": "invigorating; freshening",
+      "context": "\"so much fine health to be pulled down out of the young breath-giving air\""
+    },
+    {
+      "word": "Midas",
+      "definition": "mythical king who turned things to gold",
+      "context": "\"like new money from the mint, promising to unfold ... that only Midas and Morgan and Maecenas knew\""
+    },
+    {
+      "word": "Morgan",
+      "definition": "proper name (financial magnate)",
+      "context": "\"only Midas and Morgan and Maecenas knew\""
+    },
+    {
+      "word": "Maecenas",
+      "definition": "patron of the arts (proper noun)",
+      "context": "\"only Midas and Morgan and Maecenas knew\""
+    },
+    {
+      "word": "well-rounded",
+      "definition": "broadly developed",
+      "context": "\"the 'well-rounded man'\""
+    },
+    {
+      "word": "epigram",
+      "definition": "witty remark, short saying",
+      "context": "\"This isn't just an epigram\""
+    },
+    {
+      "word": "slender",
+      "definition": "thin or narrow",
+      "context": "\"that slender riotous island\""
+    },
+    {
+      "word": "formations",
+      "definition": "distinctive shapes or structures",
+      "context": "\"two unusual formations of land\""
+    },
+    {
+      "word": "contour",
+      "definition": "outline or shape",
+      "context": "\"a pair of enormous eggs, identical in contour\""
+    },
+    {
+      "word": "courtesy",
+      "definition": "polite gesture; in phrase 'courtesy bay'",
+      "context": "\"separated only by a courtesy bay\""
+    },
+    {
+      "word": "domesticated",
+      "definition": "tamed; made suited to household use",
+      "context": "\"the most domesticated body of salt water\""
+    },
+    {
+      "word": "ovals",
+      "definition": "egg-shaped forms",
+      "context": "\"They are not perfect ovals\""
+    },
+    {
+      "word": "crushed",
+      "definition": "flattened or compressed",
+      "context": "\"they are both crushed flat at the contact end\""
+    },
+    {
+      "word": "gulls",
+      "definition": "seabirds",
+      "context": "\"a source of perpetual wonder to the gulls\""
+    },
+    {
+      "word": "wingless",
+      "definition": "without wings (figurative)",
+      "context": "\"To the wingless a more interesting phenomenon\""
+    },
+    {
+      "word": "dissimilarity",
+      "definition": "state of being unlike",
+      "context": "\"a more interesting phenomenon is their dissimilarity\""
+    },
+    {
+      "word": "superficial",
+      "definition": "shallow; not deep",
+      "context": "\"though this is a most superficial tag\""
+    },
+    {
+      "word": "bizarre",
+      "definition": "strikingly odd or unusual",
+      "context": "\"the bizarre and not a little sinister contrast\""
+    },
+    {
+      "word": "sinister",
+      "definition": "giving the impression of evil",
+      "context": "\"not a little sinister contrast\""
+    },
+    {
+      "word": "colossal",
+      "definition": "extremely large",
+      "context": "\"a colossal affair by any standard\""
+    },
+    {
+      "word": "Hôtel de Ville",
+      "definition": "town hall (French)",
+      "context": "\"a factual imitation of some Hôtel de Ville in Normandy\""
+    },
+    {
+      "word": "Normandy",
+      "definition": "region in France",
+      "context": "\"in Normandy\""
+    },
+    {
+      "word": "ivy",
+      "definition": "climbing plant",
+      "context": "\"under a thin beard of raw ivy\""
+    },
+    {
+      "word": "marble",
+      "definition": "polished stone used architecturally",
+      "context": "\"and a marble swimming pool\""
+    },
+    {
+      "word": "mansion",
+      "definition": "large impressive house",
+      "context": "\"Gatsby's mansion\""
+    },
+    {
+      "word": "eyesore",
+      "definition": "ugly thing or sight",
+      "context": "\"My own house was an eyesore\""
+    },
+    {
+      "word": "millionaires",
+      "definition": "very wealthy people",
+      "context": "\"the consoling proximity of millionaires\""
+    },
+    {
+      "word": "palaces",
+      "definition": "large stately houses",
+      "context": "\"the white palaces of fashionable East Egg\""
+    },
+    {
+      "word": "glittered",
+      "definition": "shone with sparkling light",
+      "context": "\"white palaces ... glittered along the water\""
+    },
+    {
+      "word": "Buchanans",
+      "definition": "family surname (proper noun)",
+      "context": "\"I drove over there to have dinner with the Tom Buchanans\""
+    },
+    {
+      "word": "polo",
+      "definition": "equestrian sport",
+      "context": "\"wherever people played polo and were rich together\""
+    },
+    {
+      "word": "anticlimax",
+      "definition": "disappointing end after buildup",
+      "context": "\"everything afterward savours of anticlimax\""
+    },
+    {
+      "word": "Georgian",
+      "definition": "architectural style",
+      "context": "\"a cheerful red-and-white Georgian Colonial mansion\""
+    },
+    {
+      "word": "sundials",
+      "definition": "time-telling garden ornaments",
+      "context": "\"jumping over sundials and brick walks\""
+    },
+    {
+      "word": "French",
+      "definition": "relating to France; here 'French windows'",
+      "context": "multiple references to 'French windows' in the house description"
+    },
+    {
+      "word": "riding",
+      "definition": "related to equestrian activity",
+      "context": "\"Tom Buchanan in riding clothes\""
+    },
+    {
+      "word": "straw-haired",
+      "definition": "describing pale yellow hair",
+      "context": "\"a sturdy straw-haired man of thirty\""
+    },
+    {
+      "word": "supercilious",
+      "definition": "haughtily disdainful",
+      "context": "\"with a rather hard mouth and a supercilious manner\""
+    },
+    {
+      "word": "effeminate",
+      "definition": "having feminine traits (pejorative here)",
+      "context": "\"Not even the effeminate swank of his riding clothes\""
+    },
+    {
+      "word": "swank",
+      "definition": "display of wealth or style",
+      "context": "\"the effeminate swank of his riding clothes\""
+    },
+    {
+      "word": "glistening",
+      "definition": "shining with reflected light",
+      "context": "\"those glistening boots\""
+    },
+    {
+      "word": "pack",
+      "definition": "group (of animals or muscles)",
+      "context": "\"you could see a great pack of muscle shifting\""
+    },
+    {
+      "word": "leverage",
+      "definition": "mechanical advantage; force",
+      "context": "\"a body capable of enormous leverage—a cruel body\""
+    },
+    {
+      "word": "gruff",
+      "definition": "rough or brusque in manner",
+      "context": "\"His speaking voice, a gruff husky tenor\""
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/64317"
+}
