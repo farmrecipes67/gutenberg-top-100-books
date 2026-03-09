@@ -1,0 +1,689 @@
+{
+  "gutenberg_id": 1232,
+  "title": "The Prince",
+  "author": "Machiavelli, Niccolò",
+  "summary": "Niccolò Machiavelli’s The Prince is a concise manual advising rulers how to acquire, govern, and preserve principalities. Drawn from his Florentine service and diplomatic missions, it classifies states, analyses hereditary and new dominions, and recommends military readiness, prudence, and popular support. Machiavelli cites contemporary examples—Cesare Borgia, Lorenzo de’ Medici, Catherina Sforza—and criticizes mercenaries, flatterers, and misplaced faith. He argues that cruelty, clemency, generosity, and the keeping of promises must be judged by political utility. Written after his exile, the work blends historical observation, pragmatic prescriptions, and reflections on fortune and virtue to counsel practical statecraft for ambitious rulers everywhere today.",
+  "characters": [
+    {
+      "name": "Nicolo Machiavelli",
+      "age": "born 1469; died 1527 (aged 58)",
+      "personality": "practical, observant, analytical; devoted to historical study and political prescription",
+      "lifespan": "Florentine official until 1512, imprisoned and exiled, retired to San Casciano and wrote The Prince; died 1527"
+    },
+    {
+      "name": "Bernardo di Nicolo Machiavelli",
+      "age": "estimated born early 1400s (deceased)",
+      "personality": "legal professional of some repute; member of old Florentine nobility",
+      "lifespan": "presented as Machiavelli's father; no further fate described in excerpt"
+    },
+    {
+      "name": "Bartolommea di Stefano Nelli",
+      "age": "estimated born early 1400s (deceased)",
+      "personality": "mother from old Florentine nobility",
+      "lifespan": "mentioned as Machiavelli's mother; no further fate described in excerpt"
+    },
+    {
+      "name": "Lorenzo de’ Medici (Il Magnifico)",
+      "age": "deceased by 1494 (influential during Machiavelli's youth)",
+      "personality": "splendour-loving, influential patronal figure referenced as an exemplar of magnificence",
+      "lifespan": "his rule is background to Machiavelli's youth; his grandson is patron to whom The Prince was dedicated"
+    },
+    {
+      "name": "Savonarola",
+      "age": "deceased by Machiavelli's writing",
+      "personality": "fervent, austere religious reformer; cited as an unarmed prophet",
+      "lifespan": "mentioned as having come to a bad end in the text"
+    },
+    {
+      "name": "Guido (Machiavelli's son)",
+      "age": "adult correspondent in letters (exact age not given)",
+      "personality": "dutiful; advised by his father to study and improve himself",
+      "lifespan": "mentioned in Machiavelli's advice letter; no further fate described"
+    },
+    {
+      "name": "Catherina Sforza (my lady of Forli)",
+      "age": "contemporary ruler during Machiavelli's service (exact age not given)",
+      "personality": "vigorous, defended her state; used as an example regarding fortresses versus popular support",
+      "lifespan": "encountered by Machiavelli on a diplomatic mission; her conduct is used as a political lesson"
+    },
+    {
+      "name": "Louis XII",
+      "age": "ruling king during events described (exact age not given)",
+      "personality": "monarch whose errors in statecraft are criticized",
+      "lifespan": "described as having been driven out due to strategic errors"
+    },
+    {
+      "name": "Cesare Borgia (Duke Valentino)",
+      "age": "contemporary military and political actor (exact age not given)",
+      "personality": "ambitious, ruthless, example of prudence and also of reliance on fortune",
+      "lifespan": "cited as both exemplary in methods and as a figure who rose and fell with fortune"
+    },
+    {
+      "name": "Pius III",
+      "age": "pontiff who died shortly after election (exact age not given)",
+      "personality": "briefly mentioned in sequence of papal elections",
+      "lifespan": "died soon after election; his death precedes election of Julius II"
+    },
+    {
+      "name": "Giuliano delle Rovere (Julius II)",
+      "age": "pontiff during events described (exact age not given)",
+      "personality": "impetuous, determined, politically active; antagonist to Cesare Borgia",
+      "lifespan": "elected pope and later ruins Cesare Borgia according to Machiavelli"
+    },
+    {
+      "name": "Pope Alexander VI",
+      "age": "pontiff during events described (exact age not given)",
+      "personality": "politically opportunistic; father to Cesare Borgia",
+      "lifespan": "central to political maneuvers described in Machiavelli's career"
+    },
+    {
+      "name": "Filippo Casavecchio",
+      "age": "contemporary interlocutor (exact age not given)",
+      "personality": "friend and reader who discussed Machiavelli's draft",
+      "lifespan": "consulted by Machiavelli about The Prince; mentioned as having seen it"
+    },
+    {
+      "name": "Francesco Vettori",
+      "age": "contemporary correspondent (exact age not given)",
+      "personality": "friend and correspondent who received letters describing Machiavelli's life",
+      "lifespan": "recipient of Machiavelli's famous letter describing his study routine; remains a correspondent"
+    },
+    {
+      "name": "Dante",
+      "age": "classic poet (historical, deceased)",
+      "personality": "author cited by Machiavelli for the value of retained learning",
+      "lifespan": "quoted in Machiavelli's letter; historical authority"
+    },
+    {
+      "name": "Ferdinand of Aragon",
+      "age": "ruling monarch during described events (exact age not given)",
+      "personality": "portrayed as religious cloak for ambition; pragmatic and unmerciful",
+      "lifespan": "character sketched as successful through calculated ruthlessness"
+    },
+    {
+      "name": "Emperor Maximilian",
+      "age": "ruling sovereign during period (exact age not given)",
+      "personality": "secretive, lacking force of character according to Machiavelli",
+      "lifespan": "described as failing often because of secretiveness and lack of insistence"
+    },
+    {
+      "name": "Vitellozzo Vitelli",
+      "age": "contemporary condottiero (exact age not given)",
+      "personality": "one of those murdered as described in the work's appended narrative",
+      "lifespan": "named among those murdered by Duke Valentino in the appended description"
+    },
+    {
+      "name": "Oliverotto da Fermo",
+      "age": "condottiero contemporary (exact age not given)",
+      "personality": "noted as a victim in the account of Valentino's murders",
+      "lifespan": "listed among those murdered by Duke Valentino"
+    },
+    {
+      "name": "Signor Pagolo",
+      "age": "contemporary noble (exact age not given)",
+      "personality": "minor figure cited among Valentino's victims",
+      "lifespan": "named among those murdered in the Valentino narrative"
+    },
+    {
+      "name": "Duke di Gravina Orsini",
+      "age": "noble contemporary (exact age not given)",
+      "personality": "member of Italian nobility mentioned among Valentino's victims",
+      "lifespan": "listed among those murdered by Duke Valentino in the appended account"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Florence, Italy",
+      "latitude": 43.7696,
+      "longitude": 11.2558
+    },
+    {
+      "name": "Forlì, Italy",
+      "latitude": 44.2223,
+      "longitude": 12.04
+    },
+    {
+      "name": "Paris, France (used here to represent France)",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "Rome, Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "San Casciano (San Casciano in Val di Pesa), Italy",
+      "latitude": 43.7051,
+      "longitude": 11.1783
+    },
+    {
+      "name": "Bologna, Italy",
+      "latitude": 44.4949,
+      "longitude": 11.3426
+    },
+    {
+      "name": "Pisa, Italy",
+      "latitude": 43.7228,
+      "longitude": 10.4017
+    },
+    {
+      "name": "Cambrai, France",
+      "latitude": 50.176,
+      "longitude": 3.2347
+    },
+    {
+      "name": "Venice, Italy",
+      "latitude": 45.4408,
+      "longitude": 12.3155
+    },
+    {
+      "name": "Lucca, Italy",
+      "latitude": 43.8445,
+      "longitude": 10.501
+    },
+    {
+      "name": "Zaragoza (Aragon), Spain",
+      "latitude": 41.6488,
+      "longitude": -0.8891
+    },
+    {
+      "name": "Bern, Switzerland (representing the Swiss mentioned)",
+      "latitude": 46.948,
+      "longitude": 7.4474
+    },
+    {
+      "name": "Vienna, Austria (representing the Emperor/Imperial court)",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Æt.",
+      "definition": "abbreviation (Latin 'aetatis') indicating age or period of life",
+      "context": "Used in headings to mark life periods: 'YOUTH Æt. 1-25—1469-94'"
+    },
+    {
+      "word": "Magnifico",
+      "definition": "honorific title (the Magnificent); applied to Lorenzo de' Medici",
+      "context": "Refers to Lorenzo de’ Medici as 'Il Magnifico' in discussion of Machiavelli's youth"
+    },
+    {
+      "word": "Chancery",
+      "definition": "a governmental office or department handling official documents",
+      "context": "Machiavelli served as Secretary to the Second Chancery"
+    },
+    {
+      "word": "Catherina",
+      "definition": "proper name (Catherina Sforza)",
+      "context": "Machiavelli's first mission was in 1499 to Catherina Sforza"
+    },
+    {
+      "word": "Forli",
+      "definition": "place name (Forlì), Italian city",
+      "context": "Catherina Sforza is called 'my lady of Forli'"
+    },
+    {
+      "word": "Gibe",
+      "definition": "a taunt or sarcastic remark",
+      "context": "Savonarola 'furnished Machiavelli with a subject of a gibe' in The Prince"
+    },
+    {
+      "word": "Magnificence",
+      "definition": "splendor or grandeur in appearance or style",
+      "context": "Machiavelli notes the 'magnificence of the Medicean rule' influenced him"
+    },
+    {
+      "word": "Recurs",
+      "definition": "to return to a subject or idea",
+      "context": "Machiavelli 'frequently recurs to it in his writings' regarding Lorenzo's rule"
+    },
+    {
+      "word": "Forefathers",
+      "definition": "ancestors or earlier generations",
+      "context": "Youth description contrasts young men with their 'forefathers'"
+    },
+    {
+      "word": "Excesses",
+      "definition": "overindulgences or immoderate behaviors",
+      "context": "Youth 'consuming their time and money in excesses'"
+    },
+    {
+      "word": "Idleness",
+      "definition": "state of inaction or laziness",
+      "context": "Young men spent time in 'idleness' according to Machiavelli's account"
+    },
+    {
+      "word": "Gaming",
+      "definition": "playing games, especially gambling",
+      "context": "Listed among youthful pursuits: 'gaming, and women'"
+    },
+    {
+      "word": "Peasant-clothes",
+      "definition": "rustic or rural clothing; hyphenated compound used by Machiavelli",
+      "context": "Machiavelli describes pulling off his 'peasant-clothes' when entering study"
+    },
+    {
+      "word": "Chancellor",
+      "definition": "senior official in government",
+      "context": "Machiavelli was appointed Chancellor and Secretary to the Second Chancery"
+    },
+    {
+      "word": "Envoy",
+      "definition": "a diplomatic representative or messenger",
+      "context": "Machiavelli was sent as an envoy to various courts including France and Rome"
+    },
+    {
+      "word": "Impetuous",
+      "definition": "acting quickly and without thought; impulsive",
+      "context": "Pope Julius II is described as 'impetuous' in his enterprises"
+    },
+    {
+      "word": "Pontiff",
+      "definition": "a pope or high-ranking bishop",
+      "context": "The term is used when speaking of the pope and papal actions"
+    },
+    {
+      "word": "Moralizes",
+      "definition": "to draw moral conclusions or lessons",
+      "context": "Machiavelli 'moralizes on the resemblance between Fortune and women'"
+    },
+    {
+      "word": "Resemblance",
+      "definition": "the state of being alike or similar",
+      "context": "Used in 'the resemblance between Fortune and women'"
+    },
+    {
+      "word": "Enterprise",
+      "definition": "an important or bold undertaking",
+      "context": "Julius II's 'enterprise against Bologna' is recounted"
+    },
+    {
+      "word": "League",
+      "definition": "a coalition or alliance of states",
+      "context": "Reference to the 'League of Cambrai' formed against Venice"
+    },
+    {
+      "word": "Cambrai",
+      "definition": "place name: Cambrai, site of the diplomatic league",
+      "context": "The League of Cambrai (1508) is discussed as a major political event"
+    },
+    {
+      "word": "Venetian",
+      "definition": "relating to Venice or its republic",
+      "context": "The 'Venetian Republic' is a principal actor in the period described"
+    },
+    {
+      "word": "Vaila",
+      "definition": "place name as given in the text (battle of Vaila)",
+      "context": "Mentioned as the site of a decisive battle where Venice lost much"
+    },
+    {
+      "word": "Feud",
+      "definition": "a prolonged and bitter quarrel or conflict",
+      "context": "A 'feud' broke out between the pope and the French, complicating policy"
+    },
+    {
+      "word": "Medici",
+      "definition": "the Medici family, powerful Florentine dynasty",
+      "context": "Their downfall and returns shape Machiavelli's career as described"
+    },
+    {
+      "word": "Abortive",
+      "definition": "failing to produce the intended result; unsuccessful",
+      "context": "Machiavelli was accused of complicity in an 'abortive conspiracy' against the Medici"
+    },
+    {
+      "word": "Complicity",
+      "definition": "involvement as an accomplice in wrongdoing",
+      "context": "He was accused of 'complicity' in a conspiracy after the Medici returned"
+    },
+    {
+      "word": "Torture",
+      "definition": "infliction of severe pain to extract information or punishment",
+      "context": "Machiavelli was 'put to the question by torture' during imprisonment"
+    },
+    {
+      "word": "Benignity",
+      "definition": "kindness or gentleness; benevolent disposition",
+      "context": "Machiavelli describes ancient authors answering him in 'their benignity'"
+    },
+    {
+      "word": "Meditation",
+      "definition": "deep reflective thought",
+      "context": "He composed a small work on 'Principalities' born of meditation"
+    },
+    {
+      "word": "Principalities",
+      "definition": "small sovereign states ruled by a prince",
+      "context": "Core subject of The Prince: what a principality is and how to govern it"
+    },
+    {
+      "word": "Hereditary",
+      "definition": "passed down by inheritance",
+      "context": "Chapter on 'hereditary principalities' appears in contents and text"
+    },
+    {
+      "word": "Mixed",
+      "definition": "composed of different elements; used of principalities with varied rule",
+      "context": "Discussed in 'concerning mixed principalities' in chapter headings"
+    },
+    {
+      "word": "Darius",
+      "definition": "name of a historical Persian king (used as example)",
+      "context": "Chapter IV references 'the kingdom of Darius' conquered by Alexander"
+    },
+    {
+      "word": "Alexander",
+      "definition": "Alexander the Great, historical conqueror",
+      "context": "Used in example explaining why certain conquered kingdoms did not rebel"
+    },
+    {
+      "word": "Successors",
+      "definition": "those who follow or inherit a position",
+      "context": "Why a conquered kingdom 'did not rebel against the successors of Alexander'"
+    },
+    {
+      "word": "Annexed",
+      "definition": "added or attached to a larger entity, especially territory",
+      "context": "Discussed in 'cities or principalities which lived under their own laws before they were annexed'"
+    },
+    {
+      "word": "Arms",
+      "definition": "military force or weapons",
+      "context": "Chapters on acquiring principalities 'by one's own arms and ability'"
+    },
+    {
+      "word": "Ability",
+      "definition": "skill or competence",
+      "context": "Machiavelli discusses acquisition by 'one's own arms and ability'"
+    },
+    {
+      "word": "Wickedness",
+      "definition": "morally wrong or evil behavior",
+      "context": "Chapter on 'those who have obtained a principality by wickedness'"
+    },
+    {
+      "word": "Civil",
+      "definition": "relating to citizens and their interrelations",
+      "context": "Chapter title 'Concerning a civil principality' appears in contents"
+    },
+    {
+      "word": "Ecclesiastical",
+      "definition": "relating to the church or clergy",
+      "context": "Chapter XI: 'Concerning ecclesiastical principalities'"
+    },
+    {
+      "word": "Soldiery",
+      "definition": "soldiers collectively; military forces",
+      "context": "Chapter XII: 'How many kinds of soldiery there are' discussing armed forces"
+    },
+    {
+      "word": "Mercenaries",
+      "definition": "soldiers hired to serve in a foreign army for pay",
+      "context": "Machiavelli condemns reliance on 'mercenaries' in chapter XII"
+    },
+    {
+      "word": "Auxiliaries",
+      "definition": "troops provided by another power to assist a ruler",
+      "context": "Chapter XIII: 'Concerning auxiliaries, mixed soldiery, and one's own'"
+    },
+    {
+      "word": "Fortresses",
+      "definition": "strongly fortified buildings or defensive structures",
+      "context": "Machiavelli debates whether 'fortresses' are advantageous or hurtful to princes"
+    },
+    {
+      "word": "Renown",
+      "definition": "fame or widespread reputation",
+      "context": "Chapter XXI: 'How a prince should conduct himself so as to gain renown'"
+    },
+    {
+      "word": "Secretaries",
+      "definition": "administrative officials who record and advise",
+      "context": "Chapter XXII: 'Concerning the secretaries of princes'"
+    },
+    {
+      "word": "Flatterers",
+      "definition": "people who praise excessively for personal gain",
+      "context": "Chapter XXIII: 'How flatterers should be avoided'"
+    },
+    {
+      "word": "Barbarians",
+      "definition": "foreign invaders considered uncivilized by the author",
+      "context": "Chapter XXVI: 'An exhortation to liberate Italy from the barbarians'"
+    },
+    {
+      "word": "Description",
+      "definition": "an account or representation in words",
+      "context": "Appendix: 'Description of the methods adopted by the Duke Valentino...'"
+    },
+    {
+      "word": "Murdering",
+      "definition": "killing someone unlawfully and with intent",
+      "context": "Used in the appendix title describing Valentino's murdering of rivals"
+    },
+    {
+      "word": "Castruccio",
+      "definition": "proper name (Castruccio Castracani)",
+      "context": "Title: 'The life of Castruccio Castracani of Lucca' at the end of the contents"
+    },
+    {
+      "word": "Castracani",
+      "definition": "surname of Castruccio, historical condottiero",
+      "context": "Included as the subject of a biographical appendix"
+    },
+    {
+      "word": "Lucca",
+      "definition": "an Italian city-state",
+      "context": "Location associated with Castruccio Castracani in the appended life"
+    },
+    {
+      "word": "Usurpers",
+      "definition": "those who seize power or position unlawfully",
+      "context": "Machiavelli cites Cesare's conduct 'for the benefit of usurpers who wish to keep states'"
+    },
+    {
+      "word": "Imprisoned",
+      "definition": "confined or incarcerated",
+      "context": "Machiavelli was 'imprisoned' and put to the question by torture after 1512"
+    },
+    {
+      "word": "Exiled",
+      "definition": "banished from one's country or home",
+      "context": "After release Machiavelli 'retired to his small property' and lived in effective exile"
+    },
+    {
+      "word": "Patron",
+      "definition": "a person who gives support or sponsorship",
+      "context": "The Prince's title and patron were changed; Machiavelli considered presenting it to a patron"
+    },
+    {
+      "word": "Dedication",
+      "definition": "the act of dedicating a work to someone",
+      "context": "The little book was dedicated to Lorenzo de' Medici in its final form"
+    },
+    {
+      "word": "Vicissitudes",
+      "definition": "changes of circumstances or fortune, often unwelcome",
+      "context": "The 'little book' 'suffered many vicissitudes before attaining the form' we have"
+    },
+    {
+      "word": "Insomuch",
+      "definition": "to such an extent; in so much as (archaic)",
+      "context": "Used to say Cesare is 'insomuch... acclaimed by some critics as the \"hero\" of The Prince'"
+    },
+    {
+      "word": "Whilst",
+      "definition": "archaic or formal form of 'while'",
+      "context": "Used in the youth description: 'whilst he who could wound others... was thought the wisest'"
+    },
+    {
+      "word": "Doth",
+      "definition": "archaic third-person singular present of 'do'",
+      "context": "Quoted from Dante: 'Knowledge doth come of learning well retained'"
+    },
+    {
+      "word": "Pagolo",
+      "definition": "proper name as given in the contents (Signor Pagolo)",
+      "context": "Named among those murdered by the Duke Valentino in the descriptive appendix"
+    },
+    {
+      "word": "Orsini",
+      "definition": "Italian noble family name",
+      "context": "The Duke di Gravina Orsini appears among Valentino's victims in the contents"
+    },
+    {
+      "word": "Vitellozzo",
+      "definition": "proper name (Vitellozzo Vitelli)",
+      "context": "Named in the appendix title concerning Valentino's murders"
+    },
+    {
+      "word": "Vitelli",
+      "definition": "surname of Vitellozzo, a condottiero",
+      "context": "Appears in the descriptive appendix list of murdered men"
+    },
+    {
+      "word": "Oliverotto",
+      "definition": "proper name (Oliverotto da Fermo)",
+      "context": "Named among those murdered by Valentino in the appendix"
+    },
+    {
+      "word": "Fermo",
+      "definition": "place name or family designation (da Fermo)",
+      "context": "Oliverotto is styled 'da Fermo' in the contents listing"
+    },
+    {
+      "word": "Signor",
+      "definition": "Italian title of respect equivalent to 'mister' or 'sir'",
+      "context": "Used in contents: 'the Signor PAGOLO'"
+    },
+    {
+      "word": "San Casciano",
+      "definition": "place name (San Casciano in Val di Pesa near Florence)",
+      "context": "Machiavelli retired to his small property at San Casciano after release"
+    },
+    {
+      "word": "Casavecchio",
+      "definition": "proper name (Filippo Casavecchio), a friend and reader",
+      "context": "Machiavelli discussed the book with Filippo Casavecchio"
+    },
+    {
+      "word": "Filippo",
+      "definition": "proper given name (Filippo Casavecchio)",
+      "context": "Filippo Casavecchio is mentioned as someone who saw the book"
+    },
+    {
+      "word": "Vettori",
+      "definition": "proper surname (Francesco Vettori), correspondent",
+      "context": "Machiavelli wrote the December 1513 letter to Francesco Vettori describing his life"
+    },
+    {
+      "word": "Dante",
+      "definition": "proper name of the medieval poet Dante Alighieri",
+      "context": "Quoted by Machiavelli on the value of retained learning"
+    },
+    {
+      "word": "Guido",
+      "definition": "proper name (Machiavelli's son)",
+      "context": "Machiavelli writes advice to his son Guido in a letter"
+    },
+    {
+      "word": "Giuliano",
+      "definition": "proper name (Giuliano delle Rovere; Julius II)",
+      "context": "Giuliano delle Rovere is noted as a cardinal and later pope"
+    },
+    {
+      "word": "Rovere",
+      "definition": "family name of Giuliano delle Rovere (Julius II)",
+      "context": "Used when identifying the cardinal chosen as pope"
+    },
+    {
+      "word": "Julius",
+      "definition": "papal name (Julius II)",
+      "context": "Giuliano delle Rovere becomes Pope Julius II, who opposes Cesare"
+    },
+    {
+      "word": "Pius",
+      "definition": "papal name (Pius III referenced)",
+      "context": "The death of Pius III is mentioned preceding an election"
+    },
+    {
+      "word": "Aragon",
+      "definition": "kingdom/region (Ferdinand of Aragon)",
+      "context": "Ferdinand of Aragon is characterized by Machiavelli"
+    },
+    {
+      "word": "Maximilian",
+      "definition": "proper name (Emperor Maximilian)",
+      "context": "Machiavelli describes his time as envoy at Maximilian's court and characterizes him"
+    },
+    {
+      "word": "Swiss",
+      "definition": "people from Switzerland; Swiss mercenaries referenced",
+      "context": "The Swiss assisted Julius II and helped drive the French out of Italy"
+    },
+    {
+      "word": "Florence",
+      "definition": "city-state; Machiavelli's birthplace and sphere of activity",
+      "context": "Central setting for Machiavelli's life and official career"
+    },
+    {
+      "word": "Rome",
+      "definition": "city and seat of the papacy",
+      "context": "Machiavelli was sent to Rome to watch papal elections"
+    },
+    {
+      "word": "Bologna",
+      "definition": "Italian city targeted by papal enterprise",
+      "context": "Julius II's enterprise against Bologna is recounted"
+    },
+    {
+      "word": "Pisa",
+      "definition": "Italian city involved in conflicts mentioned",
+      "context": "Machiavelli's mission to France concerned terms for war against Pisa"
+    },
+    {
+      "word": "Venice",
+      "definition": "Republic and maritime power in Italy",
+      "context": "The League of Cambrai aimed at crushing the Venetian Republic"
+    },
+    {
+      "word": "Italy",
+      "definition": "geographic and political entity referenced throughout",
+      "context": "The book frequently addresses the condition and liberation of Italy"
+    },
+    {
+      "word": "Spain",
+      "definition": "country referenced among powers controlling Italian states",
+      "context": "Italy was influenced by France, Spain, and Germany according to the text"
+    },
+    {
+      "word": "Germany",
+      "definition": "region/country referenced among European powers",
+      "context": "Germany is named as one of the powers controlling Italian states"
+    },
+    {
+      "word": "Louis",
+      "definition": "proper name (Louis XII of France)",
+      "context": "Louis XII is mentioned as the French king whose errors are criticized"
+    },
+    {
+      "word": "Cesare",
+      "definition": "proper name (Cesare Borgia)",
+      "context": "Cesare Borgia is a central contemporary example discussed at length"
+    },
+    {
+      "word": "Valentino",
+      "definition": "epithet for Cesare Borgia (Duke Valentino)",
+      "context": "Used when recounting Valentino's methods and the murders in the appendix"
+    },
+    {
+      "word": "Borgia",
+      "definition": "family name of Cesare and Alexander VI",
+      "context": "References to Cesare Borgia and the Borgia papacy appear throughout the narrative"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1232"
+}
