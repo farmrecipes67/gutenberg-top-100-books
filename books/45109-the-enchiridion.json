@@ -1,0 +1,669 @@
+{
+  "gutenberg_id": 45109,
+  "title": "The Enchiridion",
+  "author": "Epictetus",
+  "summary": "The Enchiridion is a concise Stoic manual compiled by Arrian from Epictetus’ teachings, aimed at guiding students toward philosophical self-mastery. Emphasizing distinguishing what is within our power—our judgments, desires, and choices—from what is not—wealth, health, reputation, and death—it prescribes practical disciplines: control of passions, acceptance of fate, and acting according to nature. Unlike the Discourses’ dialogic immediacy, the manual offers distilled rules for daily conduct, military metaphors, and exercises to attain inner freedom. Historically influential, the manual shaped modern moral thought by promoting autonomy, asceticism of emotions, and philosophy as a way of life altogether.",
+  "characters": [
+    {
+      "name": "Epictetus",
+      "age": "born c. 50–60 AD",
+      "personality": "practical Stoic teacher, ascetic, focused on ethics and self-mastery",
+      "lifespan": "born a slave, became free, taught in Rome, was exiled under Domitian and founded a school at Nicopolis"
+    },
+    {
+      "name": "Flavius Arrian",
+      "age": "born 108 AD",
+      "personality": "devoted student, diligent recorder and compiler",
+      "lifespan": "took down Epictetus’ talks in shorthand, published the Discourses and arranged the Enchiridion; later became consul"
+    },
+    {
+      "name": "Musonius Rufus",
+      "age": "active mid-1st century AD",
+      "personality": "influential Stoic teacher",
+      "lifespan": "taught Epictetus in Rome and shaped his early philosophical training"
+    },
+    {
+      "name": "Nero",
+      "age": "emperor during mid-1st century AD",
+      "personality": "imperial figure mentioned in background",
+      "lifespan": "one emperor in whose household Epictetus served as slave to a distinguished freedman"
+    },
+    {
+      "name": "Domitian",
+      "age": "emperor late 1st century AD",
+      "personality": "despotic ruler in the narrative",
+      "lifespan": "during his rule philosophers including Epictetus were exiled from Rome"
+    },
+    {
+      "name": "Hadrian",
+      "age": "emperor early 2nd century AD",
+      "personality": "imperial patron linked to Arrian",
+      "lifespan": "associated with Arrian, who served in Hadrian’s circle and later retired after the emperor’s death"
+    },
+    {
+      "name": "Montaigne",
+      "age": "16th-century essayist (mentioned)",
+      "personality": "literary reader and adopter",
+      "lifespan": "recorded as having a copy of the Enchiridion among his books"
+    },
+    {
+      "name": "Pascal",
+      "age": "17th-century thinker (mentioned)",
+      "personality": "sharp critic",
+      "lifespan": "noted in the introduction as violently rejecting Stoic pride"
+    },
+    {
+      "name": "Frederick the Great",
+      "age": "18th-century monarch (mentioned)",
+      "personality": "military ruler who admired Stoic texts",
+      "lifespan": "said to have carried the Enchiridion with him on campaigns"
+    },
+    {
+      "name": "Anthony, Earl of Shaftesbury",
+      "age": "18th-century noble (mentioned)",
+      "personality": "devout reader seeking consolation",
+      "lifespan": "used passages from the Enchiridion extensively during serious illness"
+    },
+    {
+      "name": "Francis Hutcheson",
+      "age": "18th-century philosopher (mentioned)",
+      "personality": "moral philosopher sympathetic to Stoic ideas",
+      "lifespan": "cited among Scottish thinkers influenced by Epictetus"
+    },
+    {
+      "name": "Adam Smith",
+      "age": "18th-century economist/philosopher (mentioned)",
+      "personality": "scholar influenced by Stoic moral thought",
+      "lifespan": "named as among those who valued Stoic moral philosophy"
+    },
+    {
+      "name": "Adam Ferguson",
+      "age": "18th-century philosopher (mentioned)",
+      "personality": "social thinker",
+      "lifespan": "mentioned as influenced by Stoic ethics"
+    },
+    {
+      "name": "Seneca",
+      "age": "1st-century Stoic (mentioned)",
+      "personality": "literary Stoic moralist",
+      "lifespan": "contrasted with Epictetus for his existential and psychological insights"
+    },
+    {
+      "name": "Marcus Aurelius",
+      "age": "2nd-century emperor-philosopher (mentioned)",
+      "personality": "Stoic ruler-philosopher",
+      "lifespan": "contrasted for translating Stoic doctrine into a ruler’s regimen"
+    },
+    {
+      "name": "G. H. Mead",
+      "age": "modern sociologist (mentioned)",
+      "personality": "practical, human-centered thinker",
+      "lifespan": "used as a modern parallel to Epictetus’ dedication to human problems"
+    },
+    {
+      "name": "Diogenes",
+      "age": "ancient Cynic (mentioned)",
+      "personality": "ascetic exemplar evoked by the text",
+      "lifespan": "used as a comparative reference for Epictetus’ practical Stoicism"
+    },
+    {
+      "name": "Socrates",
+      "age": "classical philosopher (mentioned)",
+      "personality": "moral exemplar",
+      "lifespan": "invoked as a Stoic analogue in Arrian’s depiction of Epictetus"
+    },
+    {
+      "name": "Oskar Piest",
+      "age": "editor (20th century)",
+      "personality": "editorial figure",
+      "lifespan": "credited as General Editor of the series in the edition"
+    },
+    {
+      "name": "Thomas W. Higginson",
+      "age": "translator (20th century)",
+      "personality": "translator",
+      "lifespan": "credited as translator of this edition"
+    },
+    {
+      "name": "Albert Salomon",
+      "age": "20th-century scholar",
+      "personality": "introducer and commentator",
+      "lifespan": "wrote the included introduction describing the work’s history and influence"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hieropolis (Hierapolis, Phrygia, modern Turkey)",
+      "latitude": 37.924,
+      "longitude": 29.1187
+    },
+    {
+      "name": "Rome, Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Nicopolis (Nikopolis, Epirus, Greece)",
+      "latitude": 38.9197,
+      "longitude": 20.7097
+    },
+    {
+      "name": "Actium (near Preveza, site in Epirus, Greece)",
+      "latitude": 38.9056,
+      "longitude": 20.6378
+    },
+    {
+      "name": "Athens, Greece",
+      "latitude": 37.9838,
+      "longitude": 23.7275
+    },
+    {
+      "name": "153 West 72nd Street, New York (publisher address)",
+      "latitude": 40.7789,
+      "longitude": -73.979
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Enchiridion",
+      "definition": "a handbook or manual (Greek-origin title)",
+      "context": "Title and subject of the book; Epictetus’ manual"
+    },
+    {
+      "word": "manual",
+      "definition": "concise handbook of practical rules",
+      "context": "Used to describe the Enchiridion as a 'manual'"
+    },
+    {
+      "word": "vernacular",
+      "definition": "native language of a region",
+      "context": "Mentioned in reference to translations into vernacular languages"
+    },
+    {
+      "word": "bestseller",
+      "definition": "a widely sold and popular book",
+      "context": "Said to have been a bestseller when translated"
+    },
+    {
+      "word": "independent",
+      "definition": "self-reliant in thought or action",
+      "context": "Describes the intellectuals who read the Enchiridion"
+    },
+    {
+      "word": "intellectuals",
+      "definition": "people engaged in critical thought and study",
+      "context": "Group among whom the Enchiridion was popular"
+    },
+    {
+      "word": "anti-Christian",
+      "definition": "opposed to Christian doctrines or institutions",
+      "context": "One readership the book attracted"
+    },
+    {
+      "word": "subjective",
+      "definition": "based on personal feelings or perspectives",
+      "context": "Describes a philosophical cast that appreciated the book"
+    },
+    {
+      "word": "Montaigne",
+      "definition": "name of the French essayist referenced",
+      "context": "Recorded as having a copy of the Enchiridion"
+    },
+    {
+      "word": "Pascal",
+      "definition": "name of the French philosopher referenced",
+      "context": "Noted as violently rejecting Stoic pride"
+    },
+    {
+      "word": "megalomaniac",
+      "definition": "having delusions of grandeur or power",
+      "context": "Used to describe the pride Pascal rejected in Stoicism"
+    },
+    {
+      "word": "Frederick",
+      "definition": "reference to Frederick the Great",
+      "context": "Said to have carried the book on campaigns"
+    },
+    {
+      "word": "campaigns",
+      "definition": "military expeditions or operations",
+      "context": "Frederick carried the Enchiridion on campaigns"
+    },
+    {
+      "word": "diaries",
+      "definition": "personal journals or daily records",
+      "context": "Shaftesbury’s diaries contained copied passages"
+    },
+    {
+      "word": "Shaftesbury",
+      "definition": "refers to Anthony, Earl of Shaftesbury",
+      "context": "Mentioned as a reader who used the book during illness"
+    },
+    {
+      "word": "Stoic",
+      "definition": "relating to Stoicism, the Hellenistic school of philosophy",
+      "context": "Describes the philosophical tradition of Epictetus"
+    },
+    {
+      "word": "Hutcheson",
+      "definition": "surname of Francis Hutcheson, philosopher",
+      "context": "Named among Scottish philosophers influenced by Stoicism"
+    },
+    {
+      "word": "Adam",
+      "definition": "given name appearing as part of referenced thinkers",
+      "context": "Part of names 'Adam Smith' and 'Adam Ferguson' in the introduction"
+    },
+    {
+      "word": "Smith",
+      "definition": "surname of Adam Smith",
+      "context": "Named as one influenced by Stoic moral philosophy"
+    },
+    {
+      "word": "Ferguson",
+      "definition": "surname of Adam Ferguson",
+      "context": "Named among thinkers valuing Stoic ethics"
+    },
+    {
+      "word": "rebirth",
+      "definition": "renewal or revival",
+      "context": "Used to describe Stoicism’s rebirth in modern times"
+    },
+    {
+      "word": "despotism",
+      "definition": "rule by a despot or absolute ruler",
+      "context": "Roman Stoicism developed in times of despotism"
+    },
+    {
+      "word": "solitude",
+      "definition": "state of being alone",
+      "context": "Seneca and Marcus Aurelius’ concerns include solitude"
+    },
+    {
+      "word": "existential",
+      "definition": "relating to existence or human experience",
+      "context": "Used when discussing Stoics’ existential problems"
+    },
+    {
+      "word": "Seneca",
+      "definition": "Roman Stoic philosopher and writer",
+      "context": "Compared with Epictetus in the introduction"
+    },
+    {
+      "word": "Marcus",
+      "definition": "given name (Marcus Aurelius)",
+      "context": "Part of Marcus Aurelius, mentioned in comparison"
+    },
+    {
+      "word": "Aurelius",
+      "definition": "surname of Marcus Aurelius",
+      "context": "Named as a Stoic figure contrasted with Epictetus"
+    },
+    {
+      "word": "Epictetus",
+      "definition": "the Stoic philosopher whose teachings this manual summarizes",
+      "context": "Primary subject and teacher of the Enchiridion"
+    },
+    {
+      "word": "Arrian",
+      "definition": "Flavius Arrian, student and recorder of Epictetus",
+      "context": "Compiled the Discourses and arranged the Enchiridion"
+    },
+    {
+      "word": "Musonius",
+      "definition": "part of Musonius Rufus, Stoic teacher",
+      "context": "Teacher of Epictetus mentioned in the biography"
+    },
+    {
+      "word": "Rufus",
+      "definition": "surname of Musonius Rufus",
+      "context": "Referenced as Epictetus’ early teacher"
+    },
+    {
+      "word": "slave",
+      "definition": "one legally owned by another; servile status",
+      "context": "Epictetus was born the son of a woman slave and served as slave"
+    },
+    {
+      "word": "freedmen",
+      "definition": "plural of freedman; former slaves who were freed",
+      "context": "Epictetus served a distinguished freedman of Nero"
+    },
+    {
+      "word": "Nero",
+      "definition": "Roman emperor associated with the household where Epictetus served",
+      "context": "Mentioned as the emperor in whose retinue Epictetus lived"
+    },
+    {
+      "word": "secretary",
+      "definition": "official who serves in administrative duties",
+      "context": "The freedman served as the Emperor’s secretary"
+    },
+    {
+      "word": "exiled",
+      "definition": "banished from one’s home or country",
+      "context": "Epictetus and other philosophers were exiled from Rome"
+    },
+    {
+      "word": "Nicopolis",
+      "definition": "ancient city in Epirus where Epictetus taught",
+      "context": "Epictetus established his school at Nicopolis"
+    },
+    {
+      "word": "Actium",
+      "definition": "site in Epirus near which Nicopolis is located",
+      "context": "Nicopolis described as across Actium in Epirus"
+    },
+    {
+      "word": "Epirus",
+      "definition": "region in northwestern Greece",
+      "context": "Region where Nicopolis and Epictetus’ school were situated"
+    },
+    {
+      "word": "consul",
+      "definition": "high Roman official; a magistrate",
+      "context": "Arrian was made consul in 130 AD"
+    },
+    {
+      "word": "Hadrian",
+      "definition": "Roman emperor mentioned in Arrian’s life",
+      "context": "Hadrian made Arrian consul and influenced his career"
+    },
+    {
+      "word": "Diogenes",
+      "definition": "ancient Cynic philosopher referenced for comparison",
+      "context": "Epictetus compared to a 'Stoic Diogenes' by Arrian"
+    },
+    {
+      "word": "Socrates",
+      "definition": "classical Greek philosopher evoked as a model",
+      "context": "Epictetus described as a 'Stoic Socrates' in Arrian’s view"
+    },
+    {
+      "word": "Discourses",
+      "definition": "the longer recorded talks of Epictetus by Arrian",
+      "context": "Arrian’s work that preserves Epictetus’ informal conversations"
+    },
+    {
+      "word": "shorthand",
+      "definition": "abbreviated writing method used to record speech",
+      "context": "Arrian took down the discourses in shorthand"
+    },
+    {
+      "word": "ineffable",
+      "definition": "too great or extreme to be expressed in words",
+      "context": "Arrian recorded the ineffable liveliness of Epictetus"
+    },
+    {
+      "word": "liveliness",
+      "definition": "animated energy or spirit",
+      "context": "Arrian sought to preserve Epictetus’ liveliness"
+    },
+    {
+      "word": "grace",
+      "definition": "elegance or refinement of movement or expression",
+      "context": "Part of the qualities Arrian preserved in Epictetus’ speech"
+    },
+    {
+      "word": "wit",
+      "definition": "keen intelligence combined with humor",
+      "context": "Arrian recorded the wit of his teacher"
+    },
+    {
+      "word": "philosophical",
+      "definition": "relating to philosophy or its methods",
+      "context": "Describes the nature of Epictetus’ instruction"
+    },
+    {
+      "word": "epistemology",
+      "definition": "theory of knowledge",
+      "context": "Said to be only instrumental in Epictetus’ teaching"
+    },
+    {
+      "word": "physics",
+      "definition": "natural philosophy; cosmological studies",
+      "context": "Epictetus is said to have taken physics too lightly"
+    },
+    {
+      "word": "cosmology",
+      "definition": "study of the universe’s origin and structure",
+      "context": "Mentioned as less central to Epictetus’ teaching"
+    },
+    {
+      "word": "applied",
+      "definition": "put into practical use",
+      "context": "The Enchiridion presents applied Stoicism"
+    },
+    {
+      "word": "regimen",
+      "definition": "systematic plan or routine, especially for conduct",
+      "context": "Marcus Aurelius translated doctrine into a ruler’s regimen"
+    },
+    {
+      "word": "metaphors",
+      "definition": "figurative expressions that imply comparisons",
+      "context": "Roman Stoics used military metaphors throughout"
+    },
+    {
+      "word": "Vivere",
+      "definition": "Latin 'to live' part of the phrase 'Vivere militare!'",
+      "context": "Appears in the Latin formula 'Vivere militare!'"
+    },
+    {
+      "word": "militare",
+      "definition": "Latin 'to be a soldier' in the phrase 'Vivere militare!'",
+      "context": "Used to illustrate the Stoic soldier analogy"
+    },
+    {
+      "word": "private",
+      "definition": "lower military rank; introductory Stoic student metaphor",
+      "context": "The student of philosophy is likened to a private"
+    },
+    {
+      "word": "non-commissioned",
+      "definition": "military rank without commission; enlisted officer class",
+      "context": "The advancing Stoic is a non-commissioned officer"
+    },
+    {
+      "word": "officer",
+      "definition": "one with authority in a structured organization",
+      "context": "Philosopher is compared to a combat officer"
+    },
+    {
+      "word": "messengers",
+      "definition": "those sent on errands or missions",
+      "context": "Apprentice students are described as messengers"
+    },
+    {
+      "word": "scouts",
+      "definition": "explorers or reconnaissance agents",
+      "context": "Students are likened to scouts of God"
+    },
+    {
+      "word": "divine",
+      "definition": "relating to a deity or ultimate principle",
+      "context": "Students described as representatives of divine nature"
+    },
+    {
+      "word": "nature",
+      "definition": "the totality of existence; Stoic cosmic order",
+      "context": "Philosophical aim is to live according to nature"
+    },
+    {
+      "word": "freedom",
+      "definition": "state of being free from external control",
+      "context": "Stoic goal of inner freedom amid dependencies"
+    },
+    {
+      "word": "dependencies",
+      "definition": "conditions of relying on external things",
+      "context": "Contrasted with what is within our power"
+    },
+    {
+      "word": "asceticism",
+      "definition": "practice of strict self-discipline and abstention",
+      "context": "Emotional asceticism recommended to control passions"
+    },
+    {
+      "word": "passions",
+      "definition": "strong emotions or drives",
+      "context": "The Stoic must examine and control passions"
+    },
+    {
+      "word": "Jesuitism",
+      "definition": "reference to the rigorous discipline associated with Jesuits",
+      "context": "Stoics practiced a 'Jesuitism avant la lettre'"
+    },
+    {
+      "word": "avant",
+      "definition": "French 'before' used in idiom",
+      "context": "Part of the phrase 'avant la lettre' describing precedent practice"
+    },
+    {
+      "word": "la",
+      "definition": "French definite article 'the' (part of phrase)",
+      "context": "Appears in 'avant la lettre' in the note about Stoic practice"
+    },
+    {
+      "word": "lettre",
+      "definition": "French 'letter' used in the idiom 'avant la lettre'",
+      "context": "Completes the idiom describing prior practice"
+    },
+    {
+      "word": "camp",
+      "definition": "military encampment; metaphor for life",
+      "context": "Life is compared to a military camp"
+    },
+    {
+      "word": "play",
+      "definition": "theatrical performance; metaphor for life",
+      "context": "Life is compared to a play on the stage"
+    },
+    {
+      "word": "stage",
+      "definition": "platform for theatrical performance",
+      "context": "Used in the theatrical metaphor for life"
+    },
+    {
+      "word": "banquet",
+      "definition": "large formal meal or feast",
+      "context": "Life is likened to a banquet to which we are invited"
+    },
+    {
+      "word": "invited",
+      "definition": "asked to participate or attend",
+      "context": "Used in the banquet metaphor for life"
+    },
+    {
+      "word": "conduct",
+      "definition": "manner of behaving; moral action",
+      "context": "The Enchiridion offers rules for daily conduct"
+    },
+    {
+      "word": "control",
+      "definition": "power to direct or regulate",
+      "context": "Advice to control desires and emotions"
+    },
+    {
+      "word": "tenderness",
+      "definition": "gentle affection or sympathy",
+      "context": "Stoic examines tenderness among emotions to be regulated"
+    },
+    {
+      "word": "farewell",
+      "definition": "act of saying goodbye",
+      "context": "Stoic prepares for inevitable moments of farewell"
+    },
+    {
+      "word": "philosopher",
+      "definition": "lover of wisdom; one who practices philosophy",
+      "context": "Final goal contrasted with student and officer ranks"
+    },
+    {
+      "word": "self-redemption",
+      "definition": "personal salvation through one’s own efforts",
+      "context": "Stoic teaching presented as a way to self-redemption"
+    },
+    {
+      "word": "secular",
+      "definition": "nonreligious or not ecclesiastical",
+      "context": "Stoicism appealed to secular thinkers seeking natural religion"
+    },
+    {
+      "word": "autonomy",
+      "definition": "self-governance or independence",
+      "context": "The book opened the way for the autonomy of morals"
+    },
+    {
+      "word": "renascence",
+      "definition": "a rebirth or revival (archaic form of 'renaissance')",
+      "context": "Used to describe the rebirth of Stoicism in modern times"
+    },
+    {
+      "word": "Descartes",
+      "definition": "name of the modern philosopher mentioned",
+      "context": "Listed among thinkers in Stoicism’s influence"
+    },
+    {
+      "word": "Grotius",
+      "definition": "name of the jurist/philosopher mentioned",
+      "context": "Included in the lineage of influence from Stoicism"
+    },
+    {
+      "word": "Butler",
+      "definition": "refers to Bishop Butler",
+      "context": "Named among those in the modern philosophical tradition"
+    },
+    {
+      "word": "Montesquieu",
+      "definition": "name of the political philosopher mentioned",
+      "context": "Cited as part of Stoicism’s influence on modern thought"
+    },
+    {
+      "word": "Kant",
+      "definition": "Immanuel Kant, philosopher",
+      "context": "Named among modern thinkers influenced indirectly by Stoicism"
+    },
+    {
+      "word": "theologians",
+      "definition": "scholars of religious doctrine",
+      "context": "Mentioned among those who studied translations of Stoics"
+    },
+    {
+      "word": "propagating",
+      "definition": "spreading or promoting an idea",
+      "context": "Used to describe those promoting Stoicism as natural religion"
+    },
+    {
+      "word": "Calvinistic",
+      "definition": "relating to Calvinism, a Protestant tradition",
+      "context": "Mentioned as sympathetic to Stoic austerity"
+    },
+    {
+      "word": "ecclesiastical",
+      "definition": "relating to the Christian Church or clergy",
+      "context": "The introduction contrasts ecclesiastical authority with the state"
+    },
+    {
+      "word": "Liberal",
+      "definition": "pertaining to liberal arts in the series title",
+      "context": "Appears in the series title 'Library of Liberal Arts'"
+    },
+    {
+      "word": "Bibliography",
+      "definition": "a list of writings or sources",
+      "context": "Section heading 'Selected Bibliography' in the edition"
+    },
+    {
+      "word": "inevitable",
+      "definition": "unavoidable; certain to occur",
+      "context": "Refers to the inevitable moment of farewell in life"
+    },
+    {
+      "word": "O.P.",
+      "definition": "editorial initials printed at the end of a note",
+      "context": "Signed initials appearing at the end of the Note on the Text"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/45109"
+}
