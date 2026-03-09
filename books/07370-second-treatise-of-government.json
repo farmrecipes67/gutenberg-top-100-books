@@ -1,0 +1,593 @@
+{
+  "gutenberg_id": 7370,
+  "title": "Second Treatise of Government",
+  "author": "Locke, John",
+  "summary": "Locke argues against patriarchal and divine-right theories of monarchy, asserting political power derives from consent. He defines the state of nature as one of freedom and equality governed by natural law and reason, obliging preservation of life, liberty, and property. Men possess a right to enforce that law by punishing transgressors. Civil government arises by mutual agreement to protect property through laws and impartial judges. Governments must exercise authority for the public good; illegitimate rulers may be resisted. Locke targets Sir Robert Filmer’s claims, defends voluntary consent as the basis of legitimate sovereignty, and justifies the Glorious Revolution peaceably attained.",
+  "characters": [
+    {
+      "name": "Adam",
+      "age": "ancient/biblical",
+      "personality": "referenced as the alleged first proprietor in patriarchal theory",
+      "lifespan": "biblical figure; discussed as theoretical origin of claimed authority rather than an active participant"
+    },
+    {
+      "name": "Sir Robert Filmer",
+      "age": "not specified (historical author)",
+      "personality": "authoritative, patriarchalist (as portrayed by Locke); defender of paternal and divine-right monarchy",
+      "lifespan": "represented as the primary target of Locke's refutation; his doctrine is criticized and overthrown in the text"
+    },
+    {
+      "name": "King William",
+      "age": "not specified (William III, contemporary to Locke)",
+      "personality": "presented favorably as the restored monarch justified by consent",
+      "lifespan": "celebrated in the Preface as the lawful king whose title Locke seeks to establish"
+    },
+    {
+      "name": "Richard Hooker",
+      "age": "not specified (referenced theologian)",
+      "personality": "quoted approvingly for views on equality and mutual duty",
+      "lifespan": "cited as authoritative moral commentator within Locke's argument"
+    },
+    {
+      "name": "Hobbs",
+      "age": "not specified (Thomas Hobbes, referenced)",
+      "personality": "mentioned among writers Locke engages with; typifies competing views",
+      "lifespan": "referenced in editorial notes and Observations; not a participant in the narrative"
+    },
+    {
+      "name": "Milton",
+      "age": "not specified (John Milton, referenced)",
+      "personality": "referenced among authors addressed in Observations",
+      "lifespan": "mentioned in passing, used as a point of contrast in commentary"
+    },
+    {
+      "name": "Mr. Peter Coste",
+      "age": "not specified (historical contemporary)",
+      "personality": "recipient of Locke’s last corrected copy",
+      "lifespan": "noted as the person to whom Locke delivered his corrected copy; mentioned in editorial note"
+    },
+    {
+      "name": "C. B. McPherson",
+      "age": "20th century (editor)",
+      "personality": "editor and modern commentator (appears in front matter)",
+      "lifespan": "named as editor of a later edition; referenced in the digitization notes"
+    },
+    {
+      "name": "People of England",
+      "age": "collective / all ages",
+      "personality": "described as lovers of just and natural rights and as the consenting body",
+      "lifespan": "treated collectively as the political community whose consent legitimizes government"
+    },
+    {
+      "name": "Editor (unnamed)",
+      "age": "not specified",
+      "personality": "annotator and publisher of the edition (offers notes and collation)",
+      "lifespan": "appears in prefatory material as responsible for collating editions and noting corrections"
+    }
+  ],
+  "locations": [
+    {
+      "name": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Christ's College, Cambridge, England",
+      "latitude": 52.2053,
+      "longitude": 0.1218
+    },
+    {
+      "name": "Indianapolis, Indiana, USA",
+      "latitude": 39.7684,
+      "longitude": -86.1581
+    },
+    {
+      "name": "Cambridge, Massachusetts, USA",
+      "latitude": 42.3736,
+      "longitude": -71.1097
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "SALUS",
+      "definition": "Latin: welfare or safety",
+      "context": "Appears in the motto 'SALUS POPULI SUPREMA LEX ESTO' in the front matter."
+    },
+    {
+      "word": "POPULI",
+      "definition": "Latin genitive of 'people'",
+      "context": "Part of the front-matter Latin motto asserting public welfare."
+    },
+    {
+      "word": "SUPREMA",
+      "definition": "Latin: supreme",
+      "context": "Used in the motto to mean 'the supreme' (as in supreme law)."
+    },
+    {
+      "word": "LEX",
+      "definition": "Latin: law",
+      "context": "Appears in the motto 'LEX' meaning law."
+    },
+    {
+      "word": "ESTO",
+      "definition": "Latin: let it be",
+      "context": "Final word of the motto: 'let it be'."
+    },
+    {
+      "word": "IOHN",
+      "definition": "Early-modern spelling of 'John' (I used for J)",
+      "context": "Locke's name printed 'IOHN LOCKE' in the title page."
+    },
+    {
+      "word": "MDCLXXXVIII",
+      "definition": "Roman numerals for 1688",
+      "context": "Printed year on the title page."
+    },
+    {
+      "word": "REPRINTED",
+      "definition": "reissued in print",
+      "context": "Appears in the publication history on the title page."
+    },
+    {
+      "word": "PATRIARCHA",
+      "definition": "title of Filmer's work (Patriarcha)",
+      "context": "Locke references Filmer's Patriarcha (Edition 1680)."
+    },
+    {
+      "word": "CAVILLING",
+      "definition": "making petty objections",
+      "context": "Locke warns against cavilling at expressions as adequate refutation."
+    },
+    {
+      "word": "PULPIT",
+      "definition": "a preacher's platform; used metaphorically",
+      "context": "Locke criticizes those in the pulpit who propagated Filmer's doctrine."
+    },
+    {
+      "word": "ECCLESIASTIC",
+      "definition": "pertaining to the church or clergy",
+      "context": "Used in the phrase 'Drum Ecclesiastic' in the Preface."
+    },
+    {
+      "word": "HYPOTHESIS",
+      "definition": "a proposed explanation or theory",
+      "context": "Locke refers to Filmer's 'Hypothesis' that he seeks to confute."
+    },
+    {
+      "word": "USURPATION",
+      "definition": "wrongful seizure of authority",
+      "context": "Locke invites readers to examine Filmer's treatment of usurpation."
+    },
+    {
+      "word": "MAGISTRATE",
+      "definition": "civil officer or judge",
+      "context": "Locke distinguishes political power of a magistrate from other relations."
+    },
+    {
+      "word": "GALLEY",
+      "definition": "a type of oared ship",
+      "context": "Analogy: a captain of a galley contrasted with a father of a family."
+    },
+    {
+      "word": "UNCONTROULABLE",
+      "definition": "antiquated spelling of 'uncontrollable'",
+      "context": "Used describing liberty: 'uncontroulable liberty'."
+    },
+    {
+      "word": "LICENCE",
+      "definition": "archaic spelling of 'license' (permitted freedom)",
+      "context": "Locke notes liberty is not licence in the state of nature."
+    },
+    {
+      "word": "FACULTIES",
+      "definition": "abilities or powers",
+      "context": "Refers to human faculties common to all men."
+    },
+    {
+      "word": "SUBORDINATION",
+      "definition": "state of being placed under authority",
+      "context": "Used discussing absence of natural subordination among men."
+    },
+    {
+      "word": "WORKMANSHIP",
+      "definition": "the quality of having been made; workmanship",
+      "context": "Locke calls mankind the workmanship of one maker."
+    },
+    {
+      "word": "PROMISCUOUSLY",
+      "definition": "indiscriminately or mixed together",
+      "context": "Used in 'promiscuously born' describing human birth into the same species."
+    },
+    {
+      "word": "RECIPROCAL",
+      "definition": "mutual; felt by both sides",
+      "context": "Describes the mutual nature of power and jurisdiction in the state of nature."
+    },
+    {
+      "word": "DOMINION",
+      "definition": "rule or control over a domain",
+      "context": "Locke discusses alleged dominion claimed from Adam."
+    },
+    {
+      "word": "FATHERHOOD",
+      "definition": "the condition or function of a father",
+      "context": "Mentioned in discussing Filmer's claim of paternal authority."
+    },
+    {
+      "word": "DONATION",
+      "definition": "a giving; here, a supposed grant by God",
+      "context": "Refers to positive donation from God as claimed source of authority."
+    },
+    {
+      "word": "PRETENDED",
+      "definition": "supposed or alleged (often falsely)",
+      "context": "Used criticizing purported claims of original authority."
+    },
+    {
+      "word": "HEIRS",
+      "definition": "those inheriting rights or property",
+      "context": "Locke questions claims of Adam's heirs to inherit dominion."
+    },
+    {
+      "word": "SUCCESSION",
+      "definition": "sequence of inheritance or office",
+      "context": "Discusses indeterminacy of right of succession to power."
+    },
+    {
+      "word": "POSTERITY",
+      "definition": "future generations or descendants",
+      "context": "Refers to Adam's posterity and the loss of knowledge of eldest line."
+    },
+    {
+      "word": "PATERNAL",
+      "definition": "relating to a father; fatherly",
+      "context": "Used in 'paternal jurisdiction' in the critique of Filmer."
+    },
+    {
+      "word": "JURISDICTION",
+      "definition": "legal authority or control",
+      "context": "Appears regarding paternal jurisdiction and political authority."
+    },
+    {
+      "word": "PROPERTY",
+      "definition": "possession; that which is owned",
+      "context": "Central concept: government exists to regulate and preserve property."
+    },
+    {
+      "word": "PENALTIES",
+      "definition": "punishments or sanctions",
+      "context": "Locke defines political power as making laws with penalties."
+    },
+    {
+      "word": "COMMONWEALTH",
+      "definition": "a political community or state",
+      "context": "Used in describing defence of the commonwealth from foreign injury."
+    },
+    {
+      "word": "FOREIGN",
+      "definition": "relating to other states or nations",
+      "context": "Appears in phrase 'defence of the commonwealth from foreign injury.'"
+    },
+    {
+      "word": "REGULATING",
+      "definition": "controlling or setting rules for",
+      "context": "Part of definition of political power: regulating property."
+    },
+    {
+      "word": "PRESERVING",
+      "definition": "keeping safe or maintaining",
+      "context": "Political power enacted for preserving property and community."
+    },
+    {
+      "word": "EXECUTION",
+      "definition": "carrying out or enforcing (laws)",
+      "context": "Refers to employing community force in the execution of laws."
+    },
+    {
+      "word": "DEFENCE",
+      "definition": "protection from harm",
+      "context": "Used in 'defence of the commonwealth'."
+    },
+    {
+      "word": "PUBLIC",
+      "definition": "relating to the community or common good",
+      "context": "Political power is exercised only for the public good."
+    },
+    {
+      "word": "CIVIL",
+      "definition": "relating to citizens or government",
+      "context": "Title: Essay concerning the true original, extent and end of civil government."
+    },
+    {
+      "word": "TREATISE",
+      "definition": "formal written work on a subject",
+      "context": "The work is itself a treatise on government."
+    },
+    {
+      "word": "RESTORER",
+      "definition": "one who restores; here, the monarch restored",
+      "context": "Refers to 'our great restorer, our present King William'."
+    },
+    {
+      "word": "THRONE",
+      "definition": "seat of sovereign authority",
+      "context": "Locke hopes to establish the throne of the restored king."
+    },
+    {
+      "word": "CONSENT",
+      "definition": "agreement or approval",
+      "context": "Consent of the people is central to Locke's account of legitimate government."
+    },
+    {
+      "word": "LAWFUL",
+      "definition": "conforming to the law",
+      "context": "Describes lawful governments as those based on consent."
+    },
+    {
+      "word": "CHRISTENDOM",
+      "definition": "the Christian world or community of Christian nations",
+      "context": "Locke contrasts William's title with other princes in Christendom."
+    },
+    {
+      "word": "NATION",
+      "definition": "a people or country considered as a group",
+      "context": "Refers to the nation saved from ruin by preserving rights."
+    },
+    {
+      "word": "SAFETY",
+      "definition": "state of being protected from danger",
+      "context": "Locke praises those who preserved the nation's safety."
+    },
+    {
+      "word": "HOBBS",
+      "definition": "variant spelling of Hobbes; philosopher referenced",
+      "context": "Appears in editorial reference 'Observations on Hobbs, Milton, &c.'"
+    },
+    {
+      "word": "MILTON",
+      "definition": "poet and polemicist referenced",
+      "context": "Included among authors in the Observations note."
+    },
+    {
+      "word": "OBSERVATIONS",
+      "definition": "title of Locke's earlier remarks on other authors",
+      "context": "Editorial note: Observations stands for Observations on Hobbs, Milton, &c."
+    },
+    {
+      "word": "PATRIARCH",
+      "definition": "a male head or founder figure; also Filmer's theme",
+      "context": "Filmer is called the Patriarch whose doctrine Locke opposes."
+    },
+    {
+      "word": "RAILING",
+      "definition": "abusive language; scolding",
+      "context": "Locke says he will not take railing for arguments."
+    },
+    {
+      "word": "SEDITION",
+      "definition": "incitement to rebellion against authority",
+      "context": "Locke warns against doctrines that foster sedition and rebellion."
+    },
+    {
+      "word": "REBELLION",
+      "definition": "open resistance to authority",
+      "context": "Listed as one of the mischiefs arising from bad political theory."
+    },
+    {
+      "word": "SLAVERY",
+      "definition": "state of being a slave; absence of liberty",
+      "context": "Locke contrasts tyranny and slavery with rightful government."
+    },
+    {
+      "word": "TUMULT",
+      "definition": "confused disturbance or upheaval",
+      "context": "Used among the evils (tumult, sedition) following bad theories."
+    },
+    {
+      "word": "DRUM",
+      "definition": "literary/metaphorical reference (as in 'Drum Ecclesiastic')",
+      "context": "Used figuratively in the Preface to criticize clerical alarmism."
+    },
+    {
+      "word": "INDUCEMENT",
+      "definition": "that which induces or persuades",
+      "context": "Quoted from Hooker: 'The like natural inducement...'"
+    },
+    {
+      "word": "REPUGNANT",
+      "definition": "incompatible; offensive",
+      "context": "Hooker's quote uses 'repugnant' describing what grieves men."
+    },
+    {
+      "word": "AFFECTION",
+      "definition": "feeling of fondness or love",
+      "context": "Used in Hooker's quote about mutual love among equals."
+    },
+    {
+      "word": "CANONS",
+      "definition": "principles or rules",
+      "context": "Hooker: 'what several rules and canons natural reason hath drawn'."
+    },
+    {
+      "word": "CONTRADICTIONS",
+      "definition": "inconsistencies or opposing statements",
+      "context": "Locke accuses Filmer of contradictions dressed up in style."
+    },
+    {
+      "word": "COLLATED",
+      "definition": "compared and arranged (editions)",
+      "context": "Editor’s note: this edition has been collated with earlier editions."
+    },
+    {
+      "word": "CORRECTIONS",
+      "definition": "emendations or fixes to a text",
+      "context": "Editor notes inclusion of Locke's last corrections and improvements."
+    },
+    {
+      "word": "IMPROVEMENTS",
+      "definition": "amendments or betterments",
+      "context": "Editor cites Locke's improvements to the text."
+    },
+    {
+      "word": "LODGED",
+      "definition": "placed or deposited in a location",
+      "context": "Locke's corrected copy is said to be lodged in Christ College, Cambridge."
+    },
+    {
+      "word": "CHRIST",
+      "definition": "the name used in the college title 'Christ College'",
+      "context": "Mention of 'Christ College, Cambridge' in the editor's note."
+    },
+    {
+      "word": "COLLEGE",
+      "definition": "educational institution",
+      "context": "Christ College referenced as repository of Locke's corrected copy."
+    },
+    {
+      "word": "CAMBRIDGE",
+      "definition": "city and university town",
+      "context": "Where Christ College is located; also mentioned in publication details."
+    },
+    {
+      "word": "HACKETT",
+      "definition": "publisher name in front matter",
+      "context": "Hackett Publishing Company appears in the digitization note."
+    },
+    {
+      "word": "PUBLISHING",
+      "definition": "activity of producing printed works",
+      "context": "Part of the publisher name 'Hackett Publishing Company'."
+    },
+    {
+      "word": "COMPANY",
+      "definition": "business organization",
+      "context": "In publishing company name in the front matter."
+    },
+    {
+      "word": "INDIANAPOLIS",
+      "definition": "city in Indiana, USA",
+      "context": "Mentioned in the bibliographic note for the modern edition."
+    },
+    {
+      "word": "COPYRIGHT",
+      "definition": "legal right over a text",
+      "context": "Editor notes that the 1690 edition text is free of copyright."
+    },
+    {
+      "word": "ETEXT",
+      "definition": "electronic text",
+      "context": "Editorial note mentions the Etext below contains only original words."
+    },
+    {
+      "word": "UNABRIDGED",
+      "definition": "not shortened; complete",
+      "context": "Reference to the complete unabridged text in digitization notes."
+    },
+    {
+      "word": "DIGITIZED",
+      "definition": "converted into electronic form",
+      "context": "Line 'Digitized by Dave Gowan' appears in the header."
+    },
+    {
+      "word": "QUOTATION",
+      "definition": "a cited passage from a work",
+      "context": "Editor notes 'a bare quotation of pages' refers to Patriarcha pages."
+    },
+    {
+      "word": "PAGES",
+      "definition": "numbered leaves in a book",
+      "context": "Used in editorial instruction about quotations."
+    },
+    {
+      "word": "POLITICAL",
+      "definition": "relating to governance or statecraft",
+      "context": "Appears in headings: 'political power'."
+    },
+    {
+      "word": "POWER",
+      "definition": "authority to act or rule",
+      "context": "Central term: 'political power' defined by Locke."
+    },
+    {
+      "word": "RIGHT",
+      "definition": "a justified claim or entitlement",
+      "context": "Locke defines political power as a right of making laws."
+    },
+    {
+      "word": "LAWS",
+      "definition": "rules established by authority",
+      "context": "Referenced repeatedly: laws with penalties to preserve property."
+    },
+    {
+      "word": "SUBJECT",
+      "definition": "one under authority; citizen",
+      "context": "Used contrasting the magistrate's power over a subject."
+    },
+    {
+      "word": "MASTER",
+      "definition": "one holding authority over servants",
+      "context": "Contrasted with magistrate and father as differing relations."
+    },
+    {
+      "word": "HUSBAND",
+      "definition": "married man; relation with legal duties",
+      "context": "Listed among relations (father, master, husband) distinct from magistrate."
+    },
+    {
+      "word": "SLAVE",
+      "definition": "one in bondage",
+      "context": "Mentioned as distinct relation (lord over his slave) contrasted with magistrate."
+    },
+    {
+      "word": "ORDER",
+      "definition": "a command or directive",
+      "context": "Phrase 'sent into the world by his order' describing divine sending."
+    },
+    {
+      "word": "OMNIPOTENT",
+      "definition": "all-powerful (of God)",
+      "context": "Describes the maker as 'one omnipotent, and infinitely wise'."
+    },
+    {
+      "word": "WISE",
+      "definition": "possessing wisdom",
+      "context": "Part of phrase describing the maker: 'infinitely wise'."
+    },
+    {
+      "word": "MAKER",
+      "definition": "creator; God",
+      "context": "Used: 'their workmanship of one omnipotent, and infinitely wise maker'."
+    },
+    {
+      "word": "NOBLER",
+      "definition": "more noble or higher in worth",
+      "context": "Used in 'where some nobler use than its bare preservation calls for it'."
+    },
+    {
+      "word": "PRESERVATION",
+      "definition": "act of preserving or keeping safe",
+      "context": "Used regarding preservation of life and other persons."
+    },
+    {
+      "word": "OFFENDER",
+      "definition": "one who breaks a law",
+      "context": "Used in context of applying punishment and doing justice on an offender."
+    },
+    {
+      "word": "PUNISH",
+      "definition": "to impose a penalty for wrongdoing",
+      "context": "Every man has a right to punish transgressors in the state of nature."
+    },
+    {
+      "word": "TRANSGRESSORS",
+      "definition": "those who violate a law",
+      "context": "Used about those who break the law of nature."
+    },
+    {
+      "word": "EXECUTE",
+      "definition": "to carry out or enforce",
+      "context": "Used of executing the law of nature or laws of the community."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/7370"
+}
