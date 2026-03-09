@@ -1,0 +1,614 @@
+{
+  "gutenberg_id": 27673,
+  "title": "Oedipus King of Thebes: Translated into English Rhyming Verse with Explanatory Notes",
+  "author": "Sophocles",
+  "summary": "Oedipus, king of Thebes, confronts a devastating pestilence afflicting his city. The play opens with suppliants and a priest appealing for relief. An oracle links the plague to an unavenged crime; Oedipus vows to find the murderer of former king Laius. As inquiries proceed, figures including the blind seer Tiresias, Creon, the queen Jocasta, messengers, a shepherd, and a stranger from Corinth bring conflicting testimony. Ancient rites, oracles, and the Sphinx’s earlier riddle frame the catastrophe. The investigation unravels family secrets, guilt, and pollution, revealing the tragic collision of human action and inscrutable divine will and overwhelming consequences for all.",
+  "characters": [
+    {
+      "name": "OEDIPUS",
+      "age": "mid-30s to 40s (est.)",
+      "personality": "passionate, truthful, determined, impetuous leader",
+      "lifespan": "Elected King of Thebes and married Jocasta; leads inquiry into Laius's death; further fate is revealed later in the play beyond the provided excerpt."
+    },
+    {
+      "name": "JOCASTA",
+      "age": "30s to 40s (est.)",
+      "personality": "royal, protective, authoritative, emotionally complex",
+      "lifespan": "Queen of Thebes and widow of Laius who later marries Oedipus; her past actions and their consequences are central to the tragedy; precise fate not detailed in the provided excerpt."
+    },
+    {
+      "name": "CREON",
+      "age": "30s to 50s (est.)",
+      "personality": "pragmatic, level-headed, politically cautious",
+      "lifespan": "Prince of Thebes and brother to Jocasta; acts as intermediary and is involved in the investigation; later developments not fully covered in the excerpt."
+    },
+    {
+      "name": "TIRESIAS",
+      "age": "very old",
+      "personality": "blind seer, enigmatic, ambivalent between wisdom and malignity",
+      "lifespan": "A professional prophet who confronts Oedipus with uncomfortable truths; his prophecies drive the inquiry though his exact later fate is not given in the excerpt."
+    },
+    {
+      "name": "PRIEST OF ZEUS",
+      "age": "elderly (est.)",
+      "personality": "religious, supplicating, authoritative voice for the afflicted city",
+      "lifespan": "Leads the crowd of suppliants in appealing to Oedipus for relief at the play's opening; role limited to the plea and ritual context in the excerpt."
+    },
+    {
+      "name": "A STRANGER (from Corinth)",
+      "age": "young to middle-aged (est.)",
+      "personality": "mysterious, bearer of news and testimony",
+      "lifespan": "Described as a stranger from Corinth who provides testimony relevant to Oedipus's background; further fate not specified in the excerpt."
+    },
+    {
+      "name": "A SHEPHERD (of King Laius)",
+      "age": "middle-aged to old (est.)",
+      "personality": "reticent, witness to past events, burdened by memory",
+      "lifespan": "A land-attending shepherd associated with Laius's household who holds important information about Laius's child; his testimony features in the investigation."
+    },
+    {
+      "name": "A MESSENGER (from the Palace)",
+      "age": "adult (est.)",
+      "personality": "official, report-bringing, factual",
+      "lifespan": "Conveys information to the court; acts as a classical dramatic messenger whose reports advance the plot within the play."
+    },
+    {
+      "name": "CHORUS of the Elders of Thebes",
+      "age": "elders",
+      "personality": "collective voice, conservative, ritualistic, responsive to omens",
+      "lifespan": "Group of Theban elders who comment on events, perform choral odes, and reflect communal fears; present throughout the drama as moral and religious frame."
+    },
+    {
+      "name": "CROWD OF SUPPLIANTS",
+      "age": "mixed",
+      "personality": "desperate, grieving, beseeching the king",
+      "lifespan": "Men, women, and children who appear at the play's opening seeking deliverance from plague; serve to articulate the city's suffering."
+    },
+    {
+      "name": "LAIUS",
+      "age": "deceased (was king)",
+      "personality": "referred to as former king; background figure",
+      "lifespan": "Former King of Thebes before Oedipus; according to the Argument he was slain mysteriously on the road prior to Oedipus's arrival."
+    },
+    {
+      "name": "CADMUS",
+      "age": "mythic ancestor (deceased)",
+      "personality": "founder figure, legendary",
+      "lifespan": "Founder of Thebes, son of Agenor of Sidon; referenced as part of Theban ancestral myth; does not appear in the play."
+    },
+    {
+      "name": "POLYBUS",
+      "age": "adult (King of Corinth)",
+      "personality": "parental figure in Oedipus's supposed upbringing",
+      "lifespan": "King of Corinth mentioned as the supposed father of Oedipus; in the excerpt he is referenced but his detailed fate is not specified here."
+    },
+    {
+      "name": "MEROPE",
+      "age": "adult (Queen of Corinth)",
+      "personality": "maternal figure in Oedipus's supposed upbringing",
+      "lifespan": "Queen of Corinth mentioned as the supposed mother of Oedipus; referenced but her fate is not detailed in the provided text."
+    },
+    {
+      "name": "APOLLO",
+      "age": "immortal deity",
+      "personality": "oracular, vengeful, inscrutable divine force in the play",
+      "lifespan": "God presiding over the oracle of Delphi whose decrees and hostility are central to the religious frame; a divine agent rather than mortal."
+    },
+    {
+      "name": "SPHINX",
+      "age": "monster (deceased by event described)",
+      "personality": "riddling, deadly, mythic antagonist",
+      "lifespan": "Monstrous creature that beset Thebes with riddles and death until Oedipus solved her riddle and she flung herself from her rock as recounted in the Argument."
+    }
+  ],
+  "locations": [
+    {
+      "name": "Thebes (ancient, Boeotia, Greece)",
+      "latitude": 38.3256,
+      "longitude": 23.318
+    },
+    {
+      "name": "Corinth (ancient city, Greece)",
+      "latitude": 37.94,
+      "longitude": 22.93
+    },
+    {
+      "name": "Delphi (oracle site, Greece)",
+      "latitude": 38.4833,
+      "longitude": 22.5
+    },
+    {
+      "name": "Delos (island, Greece)",
+      "latitude": 37.3939,
+      "longitude": 25.272
+    },
+    {
+      "name": "Cithaeron / Kithairon (mountain, border of Boeotia/Attica)",
+      "latitude": 38.15,
+      "longitude": 23.5
+    },
+    {
+      "name": "Sidon (ancient city, modern Lebanon)",
+      "latitude": 33.56,
+      "longitude": 35.376
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "daemon",
+      "definition": "a spirit or supernatural being (archaic sense)",
+      "context": "Used in the Preface describing an original spirit allegedly haunting Mount Kithairon."
+    },
+    {
+      "word": "Kithairon",
+      "definition": "mountain (Cithaeron) near Thebes",
+      "context": "Mentioned as the place associated with the original daemon and as a geographic reference in the Preface and notes."
+    },
+    {
+      "word": "Jocasta",
+      "definition": "name of the queen character",
+      "context": "Proper name of Oedipus's wife and Laius's widow, discussed throughout Preface and character list."
+    },
+    {
+      "word": "Earth-Mother",
+      "definition": "archaic title for a fertility goddess",
+      "context": "Hyphenated phrase used in the Preface to compare Jocasta to a primal earth goddess."
+    },
+    {
+      "word": "Choephori",
+      "definition": "title of Aeschylus's play (archaic Greek reference)",
+      "context": "Quoted in the Preface to illustrate a line about the Earth-Mother."
+    },
+    {
+      "word": "Crusius",
+      "definition": "scholar's name cited in a reference",
+      "context": "Referenced in the Preface citation to a contribution on Greek myth."
+    },
+    {
+      "word": "Beitraege",
+      "definition": "German for 'contributions' (in a title)",
+      "context": "Part of a bibliographic citation (Beitraege z. Gr. Myth) in the Preface."
+    },
+    {
+      "word": "pre-hellenic",
+      "definition": "pertaining to the period before Hellenic (Greek) culture",
+      "context": "Used in the Preface to describe mythic stages predating classical Greek belief."
+    },
+    {
+      "word": "Basileus",
+      "definition": "ancient Greek word for 'king'",
+      "context": "Applied in the Preface to the archaic concept of a king who is also divine."
+    },
+    {
+      "word": "Theos",
+      "definition": "Greek word for 'god'",
+      "context": "Used in the Preface when explaining the ancient royal-divine status."
+    },
+    {
+      "word": "Olympian",
+      "definition": "relating to the gods of Mount Olympus",
+      "context": "Appears in the Preface describing Apollo as an Olympian opposing earth-born powers."
+    },
+    {
+      "word": "consort",
+      "definition": "spouse or companion of a monarch",
+      "context": "Used in the Preface to describe Oedipus at times seeming the consort of Jocasta."
+    },
+    {
+      "word": "consecrated",
+      "definition": "made sacred or devoted to a religious purpose",
+      "context": "Describes a class of queens in the Preface who were 'consecrated' and honored."
+    },
+    {
+      "word": "metrogamy",
+      "definition": "marriage to one's mother (technical/antiquarian term)",
+      "context": "Used in the Preface when discussing involuntary parricide and metrogamy as terms in the story."
+    },
+    {
+      "word": "patria potestas",
+      "definition": "Latin phrase for the legal power of a father over his family",
+      "context": "Appears in the Preface to explain social context and taboos regarding child exposure."
+    },
+    {
+      "word": "primaeval",
+      "definition": "primitive or ancient; primeval",
+      "context": "Used in the Preface describing the primeval gloom of the play's atmosphere."
+    },
+    {
+      "word": "parricide",
+      "definition": "the act of killing one's parent",
+      "context": "Mentioned in the Preface as one of the monstrous pollutions central to the story."
+    },
+    {
+      "word": "incest",
+      "definition": "sexual relations between close relatives",
+      "context": "Referenced in the Preface among the taboo subjects treated as pollutions in the play."
+    },
+    {
+      "word": "beastlike",
+      "definition": "resembling or characteristic of a beast; savage",
+      "context": "Quoted in the Preface describing the cruelty of certain actions in the myth."
+    },
+    {
+      "word": "piercing",
+      "definition": "the act of making a hole or penetrating (used graphically)",
+      "context": "Used in the Preface in reference to the described cruelty of piercing an exposed child's feet."
+    },
+    {
+      "word": "exposed",
+      "definition": "left out in the open or abandoned (of infants)",
+      "context": "Appears in Preface discussing the exposure of infants as a punitive or protective practice."
+    },
+    {
+      "word": "pollutions",
+      "definition": "moral or ritual contaminations in ancient religious terms",
+      "context": "Used repeatedly in the Preface to explain how the play treats incest and parricide."
+    },
+    {
+      "word": "piety",
+      "definition": "religious devotion (archaic moral sense)",
+      "context": "Appears in the Preface in the discussion of commentators who saw 'humble and unquestioning piety' in the play."
+    },
+    {
+      "word": "arraignment",
+      "definition": "a formal charge or condemnation (here rhetorical)",
+      "context": "Used in the Preface describing a sudden moral arraignment of the ruling powers."
+    },
+    {
+      "word": "abyss",
+      "definition": "a deep or seemingly bottomless chasm (metaphoric)",
+      "context": "Used in the Preface as a metaphor for sudden moral depth crossing Sophocles's art."
+    },
+    {
+      "word": "reticence",
+      "definition": "the quality of being reserved or restrained",
+      "context": "Used in the Preface to describe Sophocles's severe and classic reserve."
+    },
+    {
+      "word": "choric",
+      "definition": "relating to a chorus, especially in ancient drama",
+      "context": "Used in the Preface when discussing choric effects and choral power in Greek tragedy."
+    },
+    {
+      "word": "crescendo",
+      "definition": "a gradual increase in intensity; dramatic rise",
+      "context": "Employed in the Preface to praise the play's unbroken crescendo of tragedy."
+    },
+    {
+      "word": "lyrics",
+      "definition": "poetic or musical choral sections (in drama)",
+      "context": "Mentioned in the Preface discussing Sophocles's lyric passages and their role."
+    },
+    {
+      "word": "suppliants",
+      "definition": "petitioners who humbly ask for aid (ritual term)",
+      "context": "Used in the dramatis personae and opening scene to describe the crowd seeking relief."
+    },
+    {
+      "word": "Paian",
+      "definition": "a ritual cry or hymn for healing; paeon",
+      "context": "Appears in the Apollo description as one of the cries associated with the god."
+    },
+    {
+      "word": "Lykeios",
+      "definition": "an epithet of Apollo, often 'Wolf-God' in translation",
+      "context": "Listed among Apollo's names in the character glosses."
+    },
+    {
+      "word": "Loxias",
+      "definition": "an epithet of Apollo often rendered 'he of the crooked words'",
+      "context": "Given as one of Apollo's names in the explanatory character notes."
+    },
+    {
+      "word": "PHOEBUS",
+      "definition": "epithet of Apollo meaning 'the pure' or bright one",
+      "context": "Included in the character gloss as another name of Apollo."
+    },
+    {
+      "word": "Agenor",
+      "definition": "name of a mythic king (proper noun)",
+      "context": "Mentioned as the father of Cadmus in the character list."
+    },
+    {
+      "word": "Cadmus",
+      "definition": "founder of Thebes in myth (proper noun)",
+      "context": "Listed among those frequently mentioned though not appearing in the play."
+    },
+    {
+      "word": "LAIUS",
+      "definition": "proper name of the former king of Thebes",
+      "context": "Named in the dramatis personae and the Argument as the slain predecessor of Oedipus."
+    },
+    {
+      "word": "pestilence",
+      "definition": "a deadly widespread disease or plague",
+      "context": "Central to the play's opening crisis, described in the Argument as afflicting Thebes."
+    },
+    {
+      "word": "riddling",
+      "definition": "related to posing riddles; puzzling",
+      "context": "Used in the Argument to describe the Sphinx as 'the riddling Sphinx.'"
+    },
+    {
+      "word": "Sphinx",
+      "definition": "mythical creature posing riddles and causing death",
+      "context": "Recounted in the Argument where Oedipus solves her riddle and she dies."
+    },
+    {
+      "word": "woven",
+      "definition": "interlaced; here used metaphorically of song or story",
+      "context": "In the Argument phrase 'She-Wolf of the woven song' describing the Sphinx."
+    },
+    {
+      "word": "flung",
+      "definition": "threw oneself violently (archaic past usage preserved)",
+      "context": "Used in the Argument to say the Sphinx flung herself from her rock."
+    },
+    {
+      "word": "vacant",
+      "definition": "empty or unoccupied (of an office)",
+      "context": "Describes the throne being vacant and offered to Oedipus in the Argument."
+    },
+    {
+      "word": "throne",
+      "definition": "royal seat; symbol of kingship",
+      "context": "Mentioned in the Argument as the object offered to Oedipus after the Sphinx's defeat."
+    },
+    {
+      "word": "oracle",
+      "definition": "a prophetic utterance or shrine that gives prophecies",
+      "context": "Appears throughout the Preface and Argument as the source of divine decrees."
+    },
+    {
+      "word": "Delphi",
+      "definition": "sanctuary in ancient Greece famed for its oracle",
+      "context": "Referenced in the character gloss and Preface as the site consulted in myth."
+    },
+    {
+      "word": "Delos",
+      "definition": "Aegean island sacred to Apollo",
+      "context": "Mentioned in Apollo's descriptive gloss among locales and epithets."
+    },
+    {
+      "word": "insipid",
+      "definition": "lacking vigor or interest; dull",
+      "context": "Used in the Preface as a criticism the translator later retracts regarding Tiresias."
+    },
+    {
+      "word": "sympathetic",
+      "definition": "compassionate or aligning kindly with another",
+      "context": "Applied in the Preface to a mistaken reading of Tiresias as a sympathetic prophet."
+    },
+    {
+      "word": "malignity",
+      "definition": "malicious ill will or hostility",
+      "context": "Used in the Preface to describe one pole in the imagined character of certain seers."
+    },
+    {
+      "word": "sanctity",
+      "definition": "the quality of being holy or revered",
+      "context": "Appears in the Preface discussing perceived qualities of seers and priests."
+    },
+    {
+      "word": "prologue",
+      "definition": "opening section of a play or speech",
+      "context": "Mentioned in the Preface when comparing structural elements of Greek tragedians."
+    },
+    {
+      "word": "messenger",
+      "definition": "stage role who reports off-stage events",
+      "context": "Listed among traditional structural forms of Greek drama in the Preface."
+    },
+    {
+      "word": "visible",
+      "definition": "able to be seen; plainly present",
+      "context": "Used in the Preface in the phrase 'visible god' describing Aeschylean practice."
+    },
+    {
+      "word": "god",
+      "definition": "deity; divine being",
+      "context": "Frequently referenced in the Preface and character gloss as an operative force in the play."
+    },
+    {
+      "word": "disguised",
+      "definition": "made to look like something else; masked",
+      "context": "Used in the Preface describing 'disguised dancers' of older ritual forms."
+    },
+    {
+      "word": "formalism",
+      "definition": "adherence to established forms or conventions",
+      "context": "Appears in the Preface critiquing outward formalism of other tragedians."
+    },
+    {
+      "word": "insufficiency",
+      "definition": "lack of adequacy; deficiency",
+      "context": "Used by the translator in the Preface to defend restraint in rendering Sophocles."
+    },
+    {
+      "word": "redundance",
+      "definition": "unnecessary repetition or excess (archaic spelling)",
+      "context": "Employed in the Preface to criticize excessive translation practices."
+    },
+    {
+      "word": "Chorus",
+      "definition": "group in Greek drama that comments on the action",
+      "context": "Identified in the dramatis personae as the Elders of Thebes forming the Chorus."
+    },
+    {
+      "word": "OEDIPUS",
+      "definition": "title character and tragic hero (proper noun)",
+      "context": "Named in the dramatis personae and discussed extensively in the Preface analysis."
+    },
+    {
+      "word": "CREON",
+      "definition": "principal Theban noble and brother to Jocasta (proper noun)",
+      "context": "Listed among dramatis personae and described in the Preface as politically significant."
+    },
+    {
+      "word": "TIRESIAS",
+      "definition": "famous blind seer of Greek myth (proper noun)",
+      "context": "Named in the dramatis personae; analyzed in the Preface for character complexity."
+    },
+    {
+      "word": "PRIEST",
+      "definition": "religious official conducting rites",
+      "context": "Listed in the dramatis personae as Priest of Zeus who opens the play's petition."
+    },
+    {
+      "word": "ZEUS",
+      "definition": "chief god of the Greek pantheon (proper noun)",
+      "context": "Referenced in the dramatis personae as the deity associated with the Priest's office."
+    },
+    {
+      "word": "STRANGER",
+      "definition": "unnamed foreign figure used as a dramatic witness",
+      "context": "Appears in dramatis personae as 'A Stranger from Corinth' who contributes to inquiry."
+    },
+    {
+      "word": "SHEPHERD",
+      "definition": "a herdsman; witness to past exposure in the narrative",
+      "context": "Listed as 'A Shepherd of King Laius' whose testimony is crucial to the plot."
+    },
+    {
+      "word": "MESSENGER",
+      "definition": "one who brings reports from offstage",
+      "context": "Appears twice in dramatis personae: messenger from the palace and others as structural device."
+    },
+    {
+      "word": "piety",
+      "definition": "religious devotion (duplicate sense noted earlier)",
+      "context": "Recurring Preface term about critics' readings of the play's religious tone."
+    },
+    {
+      "word": "task",
+      "definition": "a duty or mission (used in a rhetorical sense)",
+      "context": "Used in the Preface describing Oedipus's readiness to accept an oracle-commanded task."
+    },
+    {
+      "word": "plot-interest",
+      "definition": "the dramatic attraction of a narrative's plot (compound term)",
+      "context": "Coined in the Preface to contrast plot-driven and character-driven drama."
+    },
+    {
+      "word": "character-interest",
+      "definition": "the dramatic focus on character rather than plot (compound term)",
+      "context": "Used in the Preface to analyze balance between plot and character in the play."
+    },
+    {
+      "word": "impetuosity",
+      "definition": "impulsiveness; rash action",
+      "context": "Applied in the Preface as a key trait of Oedipus shaping his judgments."
+    },
+    {
+      "word": "pre-eminently",
+      "definition": "above all; especially",
+      "context": "Used in the Preface quoting Aristotle on the nature of Sophoclean heroes."
+    },
+    {
+      "word": "Aeschylus",
+      "definition": "Greek tragedian referenced for comparison (proper noun)",
+      "context": "Cited in the Preface to contrast choral and ritual styles with Sophocles."
+    },
+    {
+      "word": "Euripides",
+      "definition": "Greek tragedian and point of translator comparison (proper noun)",
+      "context": "Referenced in the Preface repeatedly in comparing techniques and translations."
+    },
+    {
+      "word": "Aristotle",
+      "definition": "ancient Greek philosopher referenced for criticism (proper noun)",
+      "context": "Quoted by the translator in the Preface on the effective tragic hero."
+    },
+    {
+      "word": "Elizabethan",
+      "definition": "relating to England's Elizabethan era theater",
+      "context": "Used in the Preface comparing Sophocles's naturalness to later stages such as the Elizabethan."
+    },
+    {
+      "word": "New Comedy",
+      "definition": "a later Greek comedic tradition (proper noun)",
+      "context": "Mentioned in the Preface as a possible direction Sophocles's technique anticipates."
+    },
+    {
+      "word": "Storr",
+      "definition": "proper name (the translator's former master)",
+      "context": "Named in the Preface as Francis Storr, credited with influence on the translator."
+    },
+    {
+      "word": "Regius",
+      "definition": "royal; used as a title ('Regius Professor')",
+      "context": "Appears in the translator's credentials on the title page (Regius Professor of Greek)."
+    },
+    {
+      "word": "Averter",
+      "definition": "one who averts or turns away (rare usage)",
+      "context": "Used in Apollo's gloss as 'the great Averter of Evil' in the character notes."
+    },
+    {
+      "word": "pessimistic",
+      "definition": "tending to see the worst aspect of things",
+      "context": "Employed in the Preface describing flashes of pessimistic arraignment in Sophocles."
+    },
+    {
+      "word": "impiety",
+      "definition": "lack of reverence or piousness",
+      "context": "Used in the Preface discussing older commentators' judgments about Jocasta."
+    },
+    {
+      "word": "riddle",
+      "definition": "a puzzling question or statement posed for solution",
+      "context": "Central motif referenced in the Argument where the Sphinx posed a riddle solved by Oedipus."
+    },
+    {
+      "word": "tragedy",
+      "definition": "a serious dramatic genre dealing with human suffering",
+      "context": "Used throughout the Preface to describe Sophocles's genre and the play's power."
+    },
+    {
+      "word": "monstrous",
+      "definition": "shockingly hideous or frightful; unnatural",
+      "context": "Applied in the Preface and Argument to crimes like parricide and the Sphinx's nature."
+    },
+    {
+      "word": "Thebes",
+      "definition": "ancient Greek city (proper noun)",
+      "context": "Primary setting of the play, repeatedly named in dramatis personae and Argument."
+    },
+    {
+      "word": "malignant",
+      "definition": "tending to produce harm or suffering; malevolent",
+      "context": "Used in the Preface to characterize the gods' apparent hostility in the play."
+    },
+    {
+      "word": "unquestioning",
+      "definition": "not doubting; accepting without question",
+      "context": "Used in the Preface in the phrase 'humble and unquestioning piety' discussed by commentators."
+    },
+    {
+      "word": "enlightenment",
+      "definition": "the state of gaining intellectual or spiritual understanding",
+      "context": "Used in the Preface noting absence of later enlightenment from the play's primaeval atmosphere."
+    },
+    {
+      "word": "folklore",
+      "definition": "traditional beliefs, stories, and customs of a people",
+      "context": "Invoked in the Preface as a possible root of the Oedipus story in popular legend."
+    },
+    {
+      "word": "technique",
+      "definition": "method or skill in artistic creation",
+      "context": "Frequently discussed in the Preface as the translator analyzes Sophocles's dramatic method."
+    },
+    {
+      "word": "Explanatory",
+      "definition": "serving to explain (as in 'Explanatory Notes')",
+      "context": "Appears in the book title indicating the translator's added notes."
+    },
+    {
+      "word": "Translated",
+      "definition": "rendered from one language into another",
+      "context": "Used in the book title to indicate Gilbert Murray's English rhyming verse version."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/27673"
+}
