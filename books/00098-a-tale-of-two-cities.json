@@ -1,0 +1,655 @@
+{
+  "gutenberg_id": 98,
+  "title": "A Tale of Two Cities",
+  "author": "Dickens, Charles",
+  "summary": "A Tale of Two Cities opens by contrasting turbulent eras in England and France, describing extremes of wealth and suffering, superstition, and brutal punishments. Dickens personifies Fate as a Woodman and Death as a Farmer preparing tumbrils. He depicts crime, public executions, and social decay in London. The narrative then follows a Dover mail on Shooter’s Hill, where a misty night, wary passengers, a guard with a blunderbuss, and a mysterious messenger converge. Mr. Jarvis Lorry is sought by a despatch from Tellson’s, setting in motion a strange, suspenseful journey that links personal fates to wider revolutionary forces and consequences.",
+  "characters": [
+    {
+      "name": "Mr. Jarvis Lorry",
+      "age": "middle-aged (approx. 40-60)",
+      "personality": "mild, methodical, cautious; businesslike but humanely affected",
+      "lifespan": "alive in the excerpt; pursued by a despatch and continues his journey"
+    },
+    {
+      "name": "Jerry",
+      "age": "unspecified (adult)",
+      "personality": "hoarse-voiced messenger implied to be a courier",
+      "lifespan": "appears as a messenger in the excerpt; fate unknown"
+    },
+    {
+      "name": "Coachman (Tom)",
+      "age": "adult (approx. 30-50)",
+      "personality": "impatient, practical, brusque",
+      "lifespan": "remains in role driving the Dover mail in the excerpt"
+    },
+    {
+      "name": "Guard (Joe)",
+      "age": "adult (approx. 20-40)",
+      "personality": "wary, suspicious, armed and authoritative",
+      "lifespan": "active in protecting the mail; alive in the scene"
+    },
+    {
+      "name": "Unnamed Passenger (1)",
+      "age": "unspecified",
+      "personality": "secretive, cautious, reluctant to trust strangers",
+      "lifespan": "present on the Dover mail; continues travel"
+    },
+    {
+      "name": "Unnamed Passenger (2)",
+      "age": "unspecified",
+      "personality": "reserved and suspicious like other travellers",
+      "lifespan": "present on the Dover mail; continues travel"
+    },
+    {
+      "name": "Mrs. Southcott",
+      "age": "twenty-five (five-and-twenty)",
+      "personality": "portrayed as prophetic or reputed prophetic",
+      "lifespan": "mentioned as a contemporary figure; fate not given in excerpt"
+    },
+    {
+      "name": "Cock-lane Ghost",
+      "age": "n/a (spirit)",
+      "personality": "supernatural apparition referenced for atmosphere",
+      "lifespan": "said to have been laid a dozen years earlier"
+    },
+    {
+      "name": "The Youth (executed)",
+      "age": "youth (unspecified)",
+      "personality": "victim of religious intolerance in the narrative",
+      "lifespan": "sentenced to have his hands cut off, tongue torn with pincers, and body burned alive"
+    },
+    {
+      "name": "The Woodman (Fate)",
+      "age": "personification",
+      "personality": "silent, inexorable agent of destiny",
+      "lifespan": "metaphorical figure preparing fated ends (told as working unheeded)"
+    },
+    {
+      "name": "The Farmer (Death)",
+      "age": "personification",
+      "personality": "silent, methodical, preparing tumbrils",
+      "lifespan": "metaphorical figure associated with Revolution's tumbrils"
+    },
+    {
+      "name": "Lord Mayor of London (unnamed)",
+      "age": "adult (prominent official)",
+      "personality": "illustrates vulnerability of authority; publicly humiliated",
+      "lifespan": "despoiled by a highwayman at Turnham Green (event related in excerpt)"
+    },
+    {
+      "name": "The Captain (the highwayman)",
+      "age": "adult (criminal)",
+      "personality": "bold, predatory, double-faced (City tradesman by day, robber by night)",
+      "lifespan": "described as committing daring robberies and sometimes escaping after violence"
+    },
+    {
+      "name": "The Hangman",
+      "age": "adult (officer of execution)",
+      "personality": "busy, ruthless, an instrument of state violence",
+      "lifespan": "constantly employed carrying out executions; active in the social scene"
+    },
+    {
+      "name": "Wretched Pilferer (unnamed)",
+      "age": "young or petty criminal",
+      "personality": "poor, petty thief punished severely",
+      "lifespan": "mentioned as being executed for a small theft in the social commentary"
+    },
+    {
+      "name": "Atrocious Murderer (unnamed)",
+      "age": "adult",
+      "personality": "seriously criminal, used as example for capital punishment",
+      "lifespan": "noted as being executed in the public sequence described"
+    },
+    {
+      "name": "Prisoners of London Gaols (collective)",
+      "age": "varied",
+      "personality": "depicted fighting turnkeys and suffering under the law",
+      "lifespan": "subject to public punishment and execution as part of social order"
+    }
+  ],
+  "locations": [
+    {
+      "name": "England",
+      "latitude": 52.3555,
+      "longitude": -1.1743
+    },
+    {
+      "name": "France",
+      "latitude": 46.2276,
+      "longitude": 2.2137
+    },
+    {
+      "name": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "London",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Westminster",
+      "latitude": 51.4995,
+      "longitude": -0.1245
+    },
+    {
+      "name": "Cock Lane (Smithfield, London)",
+      "latitude": 51.5155,
+      "longitude": -0.099
+    },
+    {
+      "name": "Dover",
+      "latitude": 51.1279,
+      "longitude": 1.308
+    },
+    {
+      "name": "Shooter's Hill",
+      "latitude": 51.468,
+      "longitude": -0.04
+    },
+    {
+      "name": "Blackheath",
+      "latitude": 51.4743,
+      "longitude": -0.0078
+    },
+    {
+      "name": "Turnham Green",
+      "latitude": 51.4884,
+      "longitude": -0.2694
+    },
+    {
+      "name": "St. Giles's (London)",
+      "latitude": 51.5167,
+      "longitude": -0.1281
+    },
+    {
+      "name": "Newgate (Old Bailey area)",
+      "latitude": 51.5171,
+      "longitude": -0.1025
+    },
+    {
+      "name": "Westminster Hall",
+      "latitude": 51.4995,
+      "longitude": -0.1276
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "epoch",
+      "definition": "a distinct period of time in history",
+      "context": "appears in the opening line: 'It was the epoch of belief...'"
+    },
+    {
+      "word": "incredulity",
+      "definition": "the state of being unwilling or unable to believe",
+      "context": "used in contrast: 'the epoch of incredulity'"
+    },
+    {
+      "word": "superlative",
+      "definition": "of the highest degree; exaggerated to the utmost",
+      "context": "authorities insisted on its being received... in the superlative degree"
+    },
+    {
+      "word": "trident",
+      "definition": "a three-pronged spear; emblem of naval power",
+      "context": "England is called 'sister of the shield and trident'"
+    },
+    {
+      "word": "preserves",
+      "definition": "things maintained or kept intact; here, metaphorical holdings",
+      "context": "lords of the State preserves of loaves and fishes"
+    },
+    {
+      "word": "favoured",
+      "definition": "treated with special kindness or privilege",
+      "context": "that favoured period, as at this"
+    },
+    {
+      "word": "prophetic",
+      "definition": "related to predicting the future",
+      "context": "a prophetic private in the Life Guards had heralded the sublime appearance"
+    },
+    {
+      "word": "sublime",
+      "definition": "awe-inspiringly elevated or grand",
+      "context": "the sublime appearance by announcing that arrangements were made"
+    },
+    {
+      "word": "swallowing",
+      "definition": "the act of engulfing or absorbing; here hyperbolic",
+      "context": "announcing that arrangements were made for the swallowing up of London"
+    },
+    {
+      "word": "Cock-lane",
+      "definition": "a lane in London associated with a famous ghost story",
+      "context": "Even the Cock-lane ghost had been laid only a round dozen of years"
+    },
+    {
+      "word": "ghost",
+      "definition": "a spirit or apparition",
+      "context": "the Cock-lane ghost had been laid only a round dozen of years"
+    },
+    {
+      "word": "rapping",
+      "definition": "knocking or striking sounds often attributed to spirits",
+      "context": "as the spirits of this very year last past rapped out theirs"
+    },
+    {
+      "word": "supernaturally",
+      "definition": "by means beyond natural explanation",
+      "context": "supernaturally deficient in originality"
+    },
+    {
+      "word": "deficient",
+      "definition": "lacking in some necessary quality",
+      "context": "supernaturally deficient in originality"
+    },
+    {
+      "word": "congress",
+      "definition": "an assembly or meeting, here of American colonists",
+      "context": "a congress of British subjects in America"
+    },
+    {
+      "word": "revelations",
+      "definition": "disclosures or revelations of truth, often spiritual",
+      "context": "Spiritual revelations were conceded to England"
+    },
+    {
+      "word": "humane",
+      "definition": "showing compassion or benevolence",
+      "context": "she entertained herself... with such humane achievements as sentencing a youth"
+    },
+    {
+      "word": "sentencing",
+      "definition": "imposing a judicial punishment",
+      "context": "with such humane achievements as sentencing a youth to have his hands cut off"
+    },
+    {
+      "word": "pincers",
+      "definition": "a tool used for gripping or pulling, used torturously here",
+      "context": "his tongue torn out with pincers"
+    },
+    {
+      "word": "sawn",
+      "definition": "cut with a saw",
+      "context": "already marked... to come down and be sawn into boards"
+    },
+    {
+      "word": "Woodman",
+      "definition": "personification of Fate chopping down trees",
+      "context": "rooted in the woods... there were growing trees... marked by the Woodman, Fate"
+    },
+    {
+      "word": "Farmer",
+      "definition": "personification of Death preparing tumbrils",
+      "context": "the Farmer, Death, had already set apart to be his tumbrils"
+    },
+    {
+      "word": "tumbrils",
+      "definition": "carts used to carry prisoners to execution (esp. French Revolution)",
+      "context": "to be his tumbrils of the Revolution"
+    },
+    {
+      "word": "muffled",
+      "definition": "wrapped or covered so as to be quieted",
+      "context": "they work unceasingly, work silently, and no one heard them as they went about with muffled tread"
+    },
+    {
+      "word": "atheistical",
+      "definition": "relating to or characteristic of atheism; impious",
+      "context": "to entertain any suspicion that they were awake, was to be atheistical"
+    },
+    {
+      "word": "traitorous",
+      "definition": "treacherous; betraying one's country",
+      "context": "was to be atheistical and traitorous"
+    },
+    {
+      "word": "burglaries",
+      "definition": "thefts committed by entering buildings unlawfully",
+      "context": "Daring burglaries by armed men, and highway robberies, took place"
+    },
+    {
+      "word": "upholsterers’",
+      "definition": "relating to businesses that reupholster and store furniture",
+      "context": "removing their furniture to upholsterers’ warehouses for security"
+    },
+    {
+      "word": "Life Guards",
+      "definition": "a ceremonial cavalry regiment in Britain; here referenced historically",
+      "context": "a prophetic private in the Life Guards had heralded the sublime appearance"
+    },
+    {
+      "word": "highwayman",
+      "definition": "robber who attacked travelers on roads",
+      "context": "the highwayman in the dark was a City tradesman in the light"
+    },
+    {
+      "word": "Captain",
+      "definition": "nickname used for a highwayman in the text",
+      "context": "ranging from the landlord to the lowest stable non-descript, it was the likeliest thing upon the cards"
+    },
+    {
+      "word": "turnkeys",
+      "definition": "jail officers or wardens",
+      "context": "prisoners in London gaols fought battles with their turnkeys"
+    },
+    {
+      "word": "blunderbusses",
+      "definition": "short-barrelled firearm, effective at close range",
+      "context": "the majesty of the law fired blunderbusses in among them"
+    },
+    {
+      "word": "musketeers",
+      "definition": "soldiers armed with muskets",
+      "context": "musketeers went into St. Giles’s, to search for contraband goods"
+    },
+    {
+      "word": "contraband",
+      "definition": "goods that are illegal to import or possess",
+      "context": "to search for contraband goods"
+    },
+    {
+      "word": "requisition",
+      "definition": "an authoritative demand or calling into service",
+      "context": "the hangman... was in constant requisition"
+    },
+    {
+      "word": "despatch",
+      "definition": "a written message or official communication",
+      "context": "A despatch sent after you from over yonder. T. and Co."
+    },
+    {
+      "word": "Dover",
+      "definition": "a port town in Kent, England; route referenced by the mail coach",
+      "context": "It was the Dover road that lay, on a Friday night late in November"
+    },
+    {
+      "word": "Shooter’s",
+      "definition": "refers to Shooter’s Hill, a location on the Dover road",
+      "context": "as it lumbered up Shooter’s Hill"
+    },
+    {
+      "word": "Blackheath",
+      "definition": "an area of southeast London near Shooter's Hill",
+      "context": "with the mutinous intent of taking it back to Blackheath"
+    },
+    {
+      "word": "lumbered",
+      "definition": "moved heavily or clumsily",
+      "context": "the Dover mail, as it lumbered up Shooter’s Hill"
+    },
+    {
+      "word": "jack-boots",
+      "definition": "thick, high boots (often heavy riding boots)",
+      "context": "All three were wrapped to the cheekbones and over the ears, and wore jack-boots"
+    },
+    {
+      "word": "mutinous",
+      "definition": "rebellious, refusing to obey orders",
+      "context": "with the mutinous intent of taking it back to Blackheath"
+    },
+    {
+      "word": "capitulated",
+      "definition": "surrendered or gave in",
+      "context": "the team had capitulated and returned to their duty"
+    },
+    {
+      "word": "substratum",
+      "definition": "an underlying layer or substratum",
+      "context": "deposited on a substratum of cutlass"
+    },
+    {
+      "word": "cutlass",
+      "definition": "a short curved sword",
+      "context": "deposited on a substratum of cutlass"
+    },
+    {
+      "word": "perch",
+      "definition": "a place to sit or stand, here the guard's platform",
+      "context": "as he stood on his own particular perch behind the mail"
+    },
+    {
+      "word": "blunderbuss",
+      "definition": "see blunderbusses; singular form",
+      "context": "where a loaded blunderbuss lay at the top of six or eight loaded horse-pistols"
+    },
+    {
+      "word": "adjuration",
+      "definition": "a solemn and earnest appeal or command",
+      "context": "With this hurried adjuration, he cocked his blunderbuss"
+    },
+    {
+      "word": "cocked",
+      "definition": "prepared or readied a firearm to fire",
+      "context": "he cocked his blunderbuss"
+    },
+    {
+      "word": "nimbly",
+      "definition": "quickly and lightly in movement",
+      "context": "leaving his hold of the door, and mounting nimbly to his place"
+    },
+    {
+      "word": "clammy",
+      "definition": "damp and cold in an unpleasant way",
+      "context": "A clammy and intensely cold mist, it made its slow way"
+    },
+    {
+      "word": "forlornness",
+      "definition": "a state of loneliness or desolation",
+      "context": "it had roamed in its forlornness up the hill"
+    },
+    {
+      "word": "steaming",
+      "definition": "emitting steam or vapor; here used of mist and horses",
+      "context": "There was a steaming mist in all the hollows"
+    },
+    {
+      "word": "reek",
+      "definition": "a strong unpleasant smell or vapor",
+      "context": "and the reek of the labouring horses steamed into it"
+    },
+    {
+      "word": "labouring",
+      "definition": "working hard; here of the horses",
+      "context": "the reek of the labouring horses"
+    },
+    {
+      "word": "emphatic",
+      "definition": "expressed with emphasis",
+      "context": "like an unusually emphatic horse"
+    },
+    {
+      "word": "tremulous",
+      "definition": "shaking or quivering slightly",
+      "context": "With drooping heads and tremulous tails"
+    },
+    {
+      "word": "mashed",
+      "definition": "squashed or trampled heavily",
+      "context": "they mashed their way through the thick mud"
+    },
+    {
+      "word": "floundering",
+      "definition": "struggling to move or obtain footing",
+      "context": "floundering and stumbling between whiles"
+    },
+    {
+      "word": "denying",
+      "definition": "refusing to admit or accept",
+      "context": "denying that the coach could be got up the hill"
+    },
+    {
+      "word": "cheekbones",
+      "definition": "the bony prominence of the face beneath the eye",
+      "context": "All three were wrapped to the cheekbones and over the ears"
+    },
+    {
+      "word": "wrapped",
+      "definition": "covered or enfolded closely",
+      "context": "All three were wrapped to the cheekbones"
+    },
+    {
+      "word": "suspected",
+      "definition": "thought likely or questionable in character",
+      "context": "The Dover mail was in its usual genial position that the guard suspected the passengers"
+    },
+    {
+      "word": "o'clock",
+      "definition": "of the clock; used in telling time in colloquial speech",
+      "context": "'What o'clock do you make it, Joe?'"
+    },
+    {
+      "word": "blood",
+      "definition": "an exclamation in this usage; archaic intensifier",
+      "context": "\"My blood!\" ejaculated the vexed coachman"
+    },
+    {
+      "word": "Wo-ho",
+      "definition": "a vocative or cry used to urge horses",
+      "context": "“Wo-ho!” said the coachman."
+    },
+    {
+      "word": "So-ho",
+      "definition": "another vocative or urging cry used to coordinate the team",
+      "context": "“So-ho!” the guard sang out"
+    },
+    {
+      "word": "booked",
+      "definition": "recorded or designated (here, 'the passenger booked by this history')",
+      "context": "The passenger booked by this history, was on the coach-step"
+    },
+    {
+      "word": "passenger",
+      "definition": "a traveler in a vehicle",
+      "context": "the two other passengers were plodding up the hill"
+    },
+    {
+      "word": "coach-step",
+      "definition": "the step of a coach used for entering or alighting",
+      "context": "The passenger... was on the coach-step, getting in"
+    },
+    {
+      "word": "Yo",
+      "definition": "an interjection calling attention; colloquial shout",
+      "context": "“Yo there! Stand! I shall fire!”"
+    },
+    {
+      "word": "quavering",
+      "definition": "trembling or wavering in voice",
+      "context": "What is the matter? asked the passenger, then, with mildly quavering speech"
+    },
+    {
+      "word": "messenger",
+      "definition": "one who carries a message or despatch",
+      "context": "I know this messenger, guard"
+    },
+    {
+      "word": "assisted",
+      "definition": "helped or supported",
+      "context": "getting down into the road--assisted from behi..."
+    },
+    {
+      "word": "Halloa",
+      "definition": "an old-fashioned exclamation used to hail someone",
+      "context": "“Halloa!” the guard replied."
+    },
+    {
+      "word": "adjacent",
+      "definition": "lying near or close to",
+      "context": "in the heavy lands adjacent to Paris"
+    },
+    {
+      "word": "rude",
+      "definition": "roughly made or crude",
+      "context": "rude carts, bespattered with rustic mire"
+    },
+    {
+      "word": "bespattered",
+      "definition": "splashed over with mud or dirt",
+      "context": "rude carts, bespattered with rustic mire"
+    },
+    {
+      "word": "rustic",
+      "definition": "relating to the countryside; rural",
+      "context": "rude carts, bespattered with rustic mire"
+    },
+    {
+      "word": "mire",
+      "definition": "wet, sticky mud or muck",
+      "context": "He walked up hill in the mire by the side of the mail"
+    },
+    {
+      "word": "roosted",
+      "definition": "settled or rested like birds in a roost",
+      "context": "roosted in by poultry"
+    },
+    {
+      "word": "unwholesome",
+      "definition": "unhealthy or morally tainted",
+      "context": "as the waves of an unwholesome sea might do"
+    },
+    {
+      "word": "wary",
+      "definition": "watchful and cautious",
+      "context": "with a wary 'Wo-ho! So-ho-then!'"
+    },
+    {
+      "word": "pricked",
+      "definition": "gave a sudden small sharp feeling or motion; here, ears pricked up",
+      "context": "the emphatic leader pricked up his ears"
+    },
+    {
+      "word": "expectation",
+      "definition": "the state of looking forward to something",
+      "context": "having the pulses quickened by expectation"
+    },
+    {
+      "word": "pulses",
+      "definition": "the beats of the heart",
+      "context": "having the pulses quickened by expectation"
+    },
+    {
+      "word": "breath",
+      "definition": "the act of inhaling and exhaling; used in phraseology of suspense",
+      "context": "people out of breath, and holding the breath"
+    },
+    {
+      "word": "environed",
+      "definition": "surrounded or encircled",
+      "context": "Environed by them, while the Woodman and the Farmer worked unheeded"
+    },
+    {
+      "word": "myriads",
+      "definition": "a countless or extremely great number",
+      "context": "myriads of small creatures--the creatures of this chronicle among the rest"
+    },
+    {
+      "word": "chronicle",
+      "definition": "a factual written account of important or historical events",
+      "context": "the creatures of this chronicle among the rest"
+    },
+    {
+      "word": "tread",
+      "definition": "the sound or manner of walking",
+      "context": "they went about with muffled tread"
+    },
+    {
+      "word": "consequent",
+      "definition": "following as a result or effect",
+      "context": "The stillness consequent on the cessation of the rumbling"
+    },
+    {
+      "word": "entertained",
+      "definition": "amused oneself or occupied the mind",
+      "context": "she entertained herself... with such humane achievements"
+    },
+    {
+      "word": "wretched",
+      "definition": "in a very unhappy or unfortunate state",
+      "context": "to-morrow of a wretched pilferer who had robbed a farmer’s boy of sixpence"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/98"
+}
