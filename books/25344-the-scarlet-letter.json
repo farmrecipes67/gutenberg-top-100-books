@@ -1,0 +1,555 @@
+{
+  "gutenberg_id": 25344,
+  "title": "The Scarlet Letter",
+  "author": "Hawthorne, Nathaniel",
+  "summary": "The Scarlet Letter opens with a Custom-House preface in which the narrator recounts employment at Salem’s Custom House, framing his discovery of papers that introduce the main tale. In seventeenth-century Puritan Boston, Hester Prynne is publicly punished for adultery, forced to wear the scarlet letter A. Her child Pearl, the minister, and a mysterious physician—posed as a leech—become entwined in moral, psychological, and social conflicts. Themes of sin, punishment, hypocrisy, and redemption unfold through interviews, public spectacles, and intimate vigils, as private guilt and revenge shape the characters’ destinies amid strict colonial society, and enduring consequences for conscience and community.",
+  "characters": [
+    {
+      "name": "Hester Prynne",
+      "age": "adult (approximate)",
+      "personality": "resolute, skilled needlewoman, dignified under public shame",
+      "lifespan": "fate not specified in the provided excerpt"
+    },
+    {
+      "name": "Pearl",
+      "age": "young child (toddler)",
+      "personality": "impish, lambent, described as an 'elf-child' in the text",
+      "lifespan": "fate not specified in the provided excerpt"
+    },
+    {
+      "name": "The Minister",
+      "age": "adult (young to middle-aged)",
+      "personality": "sensitive, inwardly tormented, morally eloquent",
+      "lifespan": "fate not specified in the provided excerpt"
+    },
+    {
+      "name": "Roger Chillingworth (the Leech)",
+      "age": "middle-aged",
+      "personality": "learned, inquisitorial, vengeful (portrayed as a leech/physician)",
+      "lifespan": "fate not specified in the provided excerpt"
+    },
+    {
+      "name": "The Governor",
+      "age": "elderly",
+      "personality": "authoritative, representative of civil power",
+      "lifespan": "fate not specified in the provided excerpt"
+    },
+    {
+      "name": "Narrator (Custom-House narrator / editor)",
+      "age": "adult, middle-aged (implied)",
+      "personality": "wry, observant, autobiographical tone",
+      "lifespan": "narrator survives at least through the frame narrative in the excerpt"
+    },
+    {
+      "name": "P. P., Clerk of this Parish",
+      "age": "unspecified (literary exemplar)",
+      "personality": "satirical, used as a literary model",
+      "lifespan": "not applicable (literary reference)"
+    },
+    {
+      "name": "Matthew (biblical reference)",
+      "age": "ancient / apostolic",
+      "personality": "apostolic exemplar used in a simile",
+      "lifespan": "not applicable (biblical reference)"
+    },
+    {
+      "name": "Custom-House officers",
+      "age": "elderly",
+      "personality": "languid, sleepy, officious in small ways",
+      "lifespan": "not specified in the provided excerpt"
+    },
+    {
+      "name": "Sea-flushed shipmaster",
+      "age": "adult",
+      "personality": "practical, maritime, businesslike",
+      "lifespan": "not specified in the provided excerpt"
+    },
+    {
+      "name": "Ship-owner / Merchant",
+      "age": "adult",
+      "personality": "commercial, anxious about voyages and cargoes",
+      "lifespan": "not specified in the provided excerpt"
+    },
+    {
+      "name": "Young clerk (merchant's clerk)",
+      "age": "young adult",
+      "personality": "ambitious, eager for trade experience",
+      "lifespan": "not specified in the provided excerpt"
+    },
+    {
+      "name": "Sailor / Captain of small schooner",
+      "age": "adult",
+      "personality": "rugged, provincial (e.g., Nova Scotia captains)",
+      "lifespan": "not specified in the provided excerpt"
+    },
+    {
+      "name": "Venerable personage",
+      "age": "elderly",
+      "personality": "figure offended by the author's sketch (referenced in Preface)",
+      "lifespan": "not specified in the provided excerpt"
+    },
+    {
+      "name": "The Virgins of the Church",
+      "age": "young women",
+      "personality": "puritanical, communal figure in church scenes (listed in chapter headings)",
+      "lifespan": "not specified in the provided excerpt"
+    },
+    {
+      "name": "The Patient (as in 'the Leech and his Patient')",
+      "age": "adult",
+      "personality": "ill or spiritually afflicted (contextual role)",
+      "lifespan": "not specified in the provided excerpt"
+    },
+    {
+      "name": "New England Worthies (procession figures)",
+      "age": "varied",
+      "personality": "ceremonial/historical figures in the public procession",
+      "lifespan": "not specified in the provided excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Salem, Massachusetts (Custom House / wharf area)",
+      "latitude": 42.5195,
+      "longitude": -70.8967
+    },
+    {
+      "name": "Derby Street, Salem, Massachusetts (lane mentioned)",
+      "latitude": 42.523,
+      "longitude": -70.9
+    },
+    {
+      "name": "Salem Custom House (building described)",
+      "latitude": 42.5233,
+      "longitude": -70.8921
+    },
+    {
+      "name": "Boston, Massachusetts (referenced as commerce center)",
+      "latitude": 42.3601,
+      "longitude": -71.0589
+    },
+    {
+      "name": "New York City, New York (referenced as commerce center)",
+      "latitude": 40.7128,
+      "longitude": -74.006
+    },
+    {
+      "name": "Halifax, Nova Scotia (representing Nova Scotia schooner origin)",
+      "latitude": 44.6488,
+      "longitude": -63.5752
+    },
+    {
+      "name": "Africa (continent referenced as origin/destination of vessels)",
+      "latitude": 1.6508,
+      "longitude": 17.6868
+    },
+    {
+      "name": "South America (continent referenced)",
+      "latitude": -8.7832,
+      "longitude": -55.4915
+    },
+    {
+      "name": "The Old Manse (referenced autobiographically)",
+      "latitude": 42.4606,
+      "longitude": -71.3489
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "autobiographical",
+      "definition": "relating to the author's own life",
+      "context": "author describes his autobiographical impulse twice"
+    },
+    {
+      "word": "impulse",
+      "definition": "sudden urge or inclination",
+      "context": "an autobiographical impulse seized the narrator"
+    },
+    {
+      "word": "inexcusably",
+      "definition": "in a way that cannot be excused",
+      "context": "the narrator admits he wrote an account 'inexcusably'"
+    },
+    {
+      "word": "indulgent",
+      "definition": "lenient; overly generous",
+      "context": "indulgent reader is addressed in the preface"
+    },
+    {
+      "word": "intrusive",
+      "definition": "causing disruption or annoyance by being unwelcome",
+      "context": "intrusive author contrasted with indulgent reader"
+    },
+    {
+      "word": "prolix",
+      "definition": "tediously prolonged or wordy",
+      "context": "the most prolix among the tales"
+    },
+    {
+      "word": "genial",
+      "definition": "friendly and cheerful",
+      "context": "a genial consciousness thawed reserve"
+    },
+    {
+      "word": "benumbed",
+      "definition": "made numb, deprived of feeling",
+      "context": "utterance benumbed unless speaker stands in relation to audience"
+    },
+    {
+      "word": "decorous",
+      "definition": "in keeping with good taste and propriety",
+      "context": "it is scarcely decorous to speak all"
+    },
+    {
+      "word": "utterance",
+      "definition": "spoken word or expression",
+      "context": "utterance benumbed without relation to audience"
+    },
+    {
+      "word": "dilapidated",
+      "definition": "in a state of disrepair",
+      "context": "dilapidated wharf and wooden warehouses"
+    },
+    {
+      "word": "edifice",
+      "definition": "a large building",
+      "context": "a spacious edifice of brick stands at the wharf head"
+    },
+    {
+      "word": "banner",
+      "definition": "a flag or standard",
+      "context": "from the roof floats the banner of the republic"
+    },
+    {
+      "word": "republic",
+      "definition": "a state in which power is held by the people or representatives",
+      "context": "banner of the republic flies over the Custom-House"
+    },
+    {
+      "word": "portico",
+      "definition": "a structure consisting of a roof supported by columns",
+      "context": "its front is ornamented with a portico of wooden pillars"
+    },
+    {
+      "word": "specimen",
+      "definition": "an example showing features of a class",
+      "context": "an enormous specimen of the American eagle"
+    },
+    {
+      "word": "truculency",
+      "definition": "aggressiveness or ferocity",
+      "context": "the general truculency of her attitude (the eagle)"
+    },
+    {
+      "word": "eider-down",
+      "definition": "soft down from the eider duck, used in bedding",
+      "context": "her bosom has all the softness of an eider-down pillow"
+    },
+    {
+      "word": "rankling",
+      "definition": "causing persistent irritation or resentment",
+      "context": "a rankling wound from her barbed arrows"
+    },
+    {
+      "word": "barbed",
+      "definition": "having sharp points; metaphor for biting words or weapons",
+      "context": "barbed arrows in each claw"
+    },
+    {
+      "word": "pavement",
+      "definition": "a paved surface or path",
+      "context": "the pavement around the edifice has grass in its chinks"
+    },
+    {
+      "word": "chinks",
+      "definition": "small openings or cracks",
+      "context": "grass growing in its chinks shows lack of use"
+    },
+    {
+      "word": "multitudinous",
+      "definition": "very numerous",
+      "context": "not worn by any multitudinous resort of business"
+    },
+    {
+      "word": "forenoon",
+      "definition": "the morning",
+      "context": "for precisely three and a half hours of each forenoon"
+    },
+    {
+      "word": "bustling",
+      "definition": "full of energetic activity",
+      "context": "a bustling wharf in days of old King Derby"
+    },
+    {
+      "word": "shipmaster",
+      "definition": "master of a ship; captain",
+      "context": "the sea-flushed shipmaster just in port with papers"
+    },
+    {
+      "word": "tarnished",
+      "definition": "made less bright or good; discolored",
+      "context": "tarnished tin box holding a vessel's papers"
+    },
+    {
+      "word": "tin",
+      "definition": "a metal used for containers; here a box material",
+      "context": "tarnished tin box"
+    },
+    {
+      "word": "bark",
+      "definition": "a type of sailing vessel (bark)",
+      "context": "a bark or brig half-way down the wharf"
+    },
+    {
+      "word": "brig",
+      "definition": "a two-masted sailing vessel",
+      "context": "a bark or brig discharging hides"
+    },
+    {
+      "word": "schooner",
+      "definition": "a sailing vessel with fore-and-aft sails on two or more masts",
+      "context": "a Nova Scotia schooner pitching out her cargo"
+    },
+    {
+      "word": "pitching",
+      "definition": "to pitch as a ship moves up and down",
+      "context": "schooner pitching out her cargo of firewood"
+    },
+    {
+      "word": "discharging",
+      "definition": "unloading cargo",
+      "context": "discharging hides from a bark or brig"
+    },
+    {
+      "word": "harbor",
+      "definition": "sheltered body of water where ships dock",
+      "context": "thence across the harbor stands the edifice"
+    },
+    {
+      "word": "wharf",
+      "definition": "a structure on the shore where ships load and unload",
+      "context": "the dilapidated wharf is often overflowed by the tide"
+    },
+    {
+      "word": "melancholy",
+      "definition": "a thoughtful sadness",
+      "context": "melancholy length of the wharf's prospect"
+    },
+    {
+      "word": "warehouses",
+      "definition": "large buildings for storing goods",
+      "context": "decayed wooden warehouses burden the wharf"
+    },
+    {
+      "word": "unthrifty",
+      "definition": "not prosperous; poorly growing",
+      "context": "a border of unthrifty grass along the row of buildings"
+    },
+    {
+      "word": "granite",
+      "definition": "a very hard igneous rock used in building",
+      "context": "a flight of wide granite steps descends towards the street"
+    },
+    {
+      "word": "eagle",
+      "definition": "a large bird of prey; here the American emblem",
+      "context": "an enormous specimen of the American eagle decorates the front"
+    },
+    {
+      "word": "shield",
+      "definition": "a protective emblem on the eagle's breast",
+      "context": "a shield before her breast on the eagle figure"
+    },
+    {
+      "word": "thunderbolts",
+      "definition": "symbols of force or divine power (on the eagle)",
+      "context": "a bunch of intermingled thunderbolts in each claw"
+    },
+    {
+      "word": "arrows",
+      "definition": "missiles; symbolic weapons held by the eagle",
+      "context": "barbed arrows clutched in the eagle's claws"
+    },
+    {
+      "word": "bosom",
+      "definition": "the chest; used metaphorically for comfort",
+      "context": "imagining her bosom has the snugness of an eider-down pillow"
+    },
+    {
+      "word": "snugness",
+      "definition": "comfort and coziness",
+      "context": "the snugness of an eider-down pillow attributed to the eagle's bosom"
+    },
+    {
+      "word": "nestlings",
+      "definition": "young birds in a nest; used metaphorically for dependents",
+      "context": "the eagle is apt to fling off her nestlings"
+    },
+    {
+      "word": "scratch",
+      "definition": "to tear or wound slightly",
+      "context": "fling off her nestlings with a scratch of her claw"
+    },
+    {
+      "word": "claw",
+      "definition": "the sharp hooked nail of a bird",
+      "context": "a scratch of her claw described"
+    },
+    {
+      "word": "beak",
+      "definition": "the bill of a bird",
+      "context": "a dab of her beak used to fling off nestlings"
+    },
+    {
+      "word": "infirmity",
+      "definition": "a weakness or ailment",
+      "context": "the customary infirmity of temper that characterizes this fowl"
+    },
+    {
+      "word": "outward-bound",
+      "definition": "bound out to sea; leaving port",
+      "context": "the outward-bound sailor seeking a protection"
+    },
+    {
+      "word": "passport",
+      "definition": "a document permitting passage (here metaphorical to hospital)",
+      "context": "a recently arrived sailor seeking a passport to the hospital"
+    },
+    {
+      "word": "germ",
+      "definition": "a small beginning or origin",
+      "context": "the germ of the wrinkle-browed, grizzly-bearded, care-worn merchant"
+    },
+    {
+      "word": "wrinkle-browed",
+      "definition": "having furrowed brow from worry",
+      "context": "the germ of the wrinkle-browed merchant"
+    },
+    {
+      "word": "grizzly-bearded",
+      "definition": "having a gray beard",
+      "context": "grizzly-bearded, care-worn merchant described"
+    },
+    {
+      "word": "care-worn",
+      "definition": "worn by anxiety or labor",
+      "context": "care-worn merchant figure at the Custom-House"
+    },
+    {
+      "word": "mimic-boats",
+      "definition": "small boats used as toys or practice models",
+      "context": "a young clerk would better be sailing mimic-boats upon a mill-pond"
+    },
+    {
+      "word": "block-makers",
+      "definition": "craftsmen making wooden blocks for rigging",
+      "context": "shops of block-makers along Derby Street"
+    },
+    {
+      "word": "slop-sellers",
+      "definition": "vendors of ready-made clothing (slops) for sailors",
+      "context": "shops of slop-sellers mentioned near the Custom-House"
+    },
+    {
+      "word": "ship-chandlers",
+      "definition": "merchants selling supplies to ships",
+      "context": "ship-chandlers' shops give glimpses through the windows"
+    },
+    {
+      "word": "almshouses",
+      "definition": "houses built to support the poor",
+      "context": "occupants dependent on charity, like those in almshouses"
+    },
+    {
+      "word": "apostolic",
+      "definition": "relating to the apostles; here used in simile",
+      "context": "not liable to be summoned thence, like him, for apostolic errands"
+    },
+    {
+      "word": "venerable",
+      "definition": "accorded a great deal of respect, especially because of age",
+      "context": "a row of venerable figures sitting in old-fashioned chairs"
+    },
+    {
+      "word": "receipt",
+      "definition": "the receiving of customs duties",
+      "context": "like Matthew, at the receipt of customs"
+    },
+    {
+      "word": "sombre",
+      "definition": "dark or dull in color or mood (British spelling)",
+      "context": "owner, cheerful or sombre, according to his voyage scheme"
+    },
+    {
+      "word": "owner",
+      "definition": "the proprietor of a ship or cargo",
+      "context": "here comes his owner, cheerful or sombre"
+    },
+    {
+      "word": "sulks",
+      "definition": "state of persistent bad mood or silent resentment",
+      "context": "owner may be in the sulks if voyage failed"
+    },
+    {
+      "word": "intermingled",
+      "definition": "mixed together",
+      "context": "a bunch of intermingled thunderbolts and arrows"
+    },
+    {
+      "word": "malevolence",
+      "definition": "desire to cause harm; ill will",
+      "context": "the author is supposed to cherish a peculiar malevolence"
+    },
+    {
+      "word": "adjudged",
+      "definition": "declared or pronounced formally",
+      "context": "adjudged guilty of atrocities by public disapprobation"
+    },
+    {
+      "word": "incommodities",
+      "definition": "inconvenient or troublesome things (old-fashioned usage)",
+      "context": "merchandise that will bury him under a bulk of incommodities"
+    },
+    {
+      "word": "republish",
+      "definition": "to publish again",
+      "context": "the author constrained to republish his introductory sketch"
+    },
+    {
+      "word": "good-humor",
+      "definition": "a pleasant, cheerful nature",
+      "context": "frank and genuine good-humor of the sketch"
+    },
+    {
+      "word": "enmity",
+      "definition": "the state of being actively opposed or hostile",
+      "context": "as to enmity, he utterly disclaims such motives"
+    },
+    {
+      "word": "expunge",
+      "definition": "to erase or remove completely",
+      "context": "alter or expunge whatever might be found amiss"
+    },
+    {
+      "word": "atrocities",
+      "definition": "extremely wicked or cruel acts",
+      "context": "make reparation for the atrocities of which he has been adjudged guilty"
+    },
+    {
+      "word": "reparation",
+      "definition": "making amends for a wrong",
+      "context": "to make the best reparation in his power"
+    },
+    {
+      "word": "thitherward",
+      "definition": "towards that place (archaic)",
+      "context": "on the verge of their departure thitherward"
+    },
+    {
+      "word": "melancholy (noun)",
+      "definition": "a feeling of pensive sadness",
+      "context": "not very enlivening prospect; melancholy length of the wharf"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/25344"
+}
