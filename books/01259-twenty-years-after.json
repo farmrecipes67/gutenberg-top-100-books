@@ -1,0 +1,757 @@
+{
+  "gutenberg_id": 1259,
+  "title": "Twenty years after",
+  "author": "Dumas, Alexandre",
+  "summary": "Twenty Years After opens in the Palais Royal where Cardinal Mazarin, haunted by Richelieu’s memory, reflects on his precarious position amid Parisian unrest. Heavy taxation, corruption in finance under Emery (a Particelli protégé), and sold offices provoke magistrates, tradesmen, and rioters to resist. Deputations to Orléans and the minister fail; plots, insults, and near-violence—Emery’s son almost suffocated—escalate tensions. Figures from the court and city (Anne of Austria, the Duke of Orléans, Mathieu Molé, the Duc de Beaufort, Talon) appear as Dumas sets political and personal rivalries in motion, foreshadowing arrests, imprisonments, and clashes that will draw the musketeers into action.",
+  "characters": [
+    {
+      "name": "Cardinal Mazarin",
+      "age": "approx. 40s–50s",
+      "personality": "wily, subtle, politically shrewd; feels threatened",
+      "lifespan": "Alive in the narrative, minister whose position is precarious and contested by the populace"
+    },
+    {
+      "name": "Cardinal Richelieu",
+      "age": "deceased",
+      "personality": "formidable, authoritative (recalled in memory)",
+      "lifespan": "Dead; his influence and memory haunt the Palais Cardinal and Mazarin"
+    },
+    {
+      "name": "Anne of Austria",
+      "age": "46 (chapter title)",
+      "personality": "regal, protective of her minister",
+      "lifespan": "Present as queen; politically allied with Mazarin (appears in chapter listings)"
+    },
+    {
+      "name": "D'Artagnan",
+      "age": "in his fortieth year (approx. 39–40)",
+      "personality": "bold, resourceful (musketeer)",
+      "lifespan": "Expected to be drawn back into political and military action (foreshadowed)"
+    },
+    {
+      "name": "Athos",
+      "age": "approx. 40s",
+      "personality": "grave, dignified (musketeer)",
+      "lifespan": "Present among the old friends; involved in ensuing events (chapter list)"
+    },
+    {
+      "name": "Porthos",
+      "age": "approx. 40s",
+      "personality": "boisterous, acquisitive, concerned with rank",
+      "lifespan": "Present; his social ambitions and fate unfold (chapter list mentions his barony)"
+    },
+    {
+      "name": "Aramis",
+      "age": "approx. 40s",
+      "personality": "pious, scheming, clerically inclined",
+      "lifespan": "Present; central to clandestine and clerical intrigues (chapter references)"
+    },
+    {
+      "name": "Duke of Orléans",
+      "age": "middle-aged (unspecified)",
+      "personality": "plays to popularity, polite to petitioners",
+      "lifespan": "Receives deputations and offers cautious promises; politically active"
+    },
+    {
+      "name": "Emery",
+      "age": "middle-aged (unspecified)",
+      "personality": "ineptly ostentatious and unpopular as financier",
+      "lifespan": "Appointed superintendent of finance; the object of popular detestation"
+    },
+    {
+      "name": "Particelli",
+      "age": "older (unspecified)",
+      "personality": "former banker, socially suspect",
+      "lifespan": "Claimed by Richelieu to have been hanged (text states Particelli has been hanged)"
+    },
+    {
+      "name": "Emery's son",
+      "age": "young adult (unspecified)",
+      "personality": "pampered, exposed to mob violence",
+      "lifespan": "Nearly suffocated by rioters but survives the attack described"
+    },
+    {
+      "name": "Nicholas de Camus",
+      "age": "unspecified",
+      "personality": "self-made, ostentatious family man",
+      "lifespan": "Father-in-law of Emery's wife; noted for conspicuous wealth"
+    },
+    {
+      "name": "Mathieu Molé",
+      "age": "unspecified (est. middle-aged)",
+      "personality": "calm, courageous, steady as chief president",
+      "lifespan": "Attacked by the people but maintains composure; remains influential"
+    },
+    {
+      "name": "Advocate-General Talon",
+      "age": "unspecified",
+      "personality": "legal voice noting the people's plight",
+      "lifespan": "Referenced as commentator on popular suffering"
+    },
+    {
+      "name": "Duc de Beaufort",
+      "age": "unspecified",
+      "personality": "popular with parts of the populace, dashing",
+      "lifespan": "Mentioned as an object of popular shouts and later associated with the donjon of Vincennes (imprisonment referenced in contents)"
+    },
+    {
+      "name": "Prince de Condé",
+      "age": "unspecified",
+      "personality": "brave, military leader",
+      "lifespan": "Referenced as a focal noble figure praised by populace (mentioned in text)"
+    },
+    {
+      "name": "Abbé D'Herblay",
+      "age": "unspecified",
+      "personality": "clerical, secretive (Aramis' alias in series)",
+      "lifespan": "Appears in chapter listings; embroiled in clerical plots"
+    },
+    {
+      "name": "Abbé Scarron",
+      "age": "unspecified",
+      "personality": "literary/clerical figure (listed)",
+      "lifespan": "Referenced in contents as appearing in the narrative"
+    },
+    {
+      "name": "Grimaud",
+      "age": "middle-aged (servant)",
+      "personality": "silent, loyal servant",
+      "lifespan": "Servant to the musketeers; begins new functions in the story (chapter)"
+    },
+    {
+      "name": "Mousqueton",
+      "age": "unspecified (servant)",
+      "personality": "comic, put-upon servant",
+      "lifespan": "Suffers narrow escapes (chapter references)"
+    },
+    {
+      "name": "Marie Michon",
+      "age": "unspecified",
+      "personality": "adventurous woman noted in a chapter",
+      "lifespan": "Subject of an episode recorded in the contents"
+    },
+    {
+      "name": "Father Marteau",
+      "age": "elderly (unspecified)",
+      "personality": "religious cookly figure (implied)",
+      "lifespan": "Referred to indirectly in chapter on pâtés (successor mentioned)"
+    },
+    {
+      "name": "Henrietta Maria",
+      "age": "unspecified",
+      "personality": "royal foreign consort (listed)",
+      "lifespan": "Appears in correspondence and diplomacy chapters"
+    },
+    {
+      "name": "Charles I (Charles the First)",
+      "age": "unspecified",
+      "personality": "kingly correspondent in the plot (chapter title)",
+      "lifespan": "His letters and fate figure in English episodes in the narrative"
+    },
+    {
+      "name": "Oliver Cromwell",
+      "age": "unspecified",
+      "personality": "Puritan, military leader (appears in chapters)",
+      "lifespan": "Central to English episodes; correspondence and actions are dramatized"
+    },
+    {
+      "name": "The Man in the Mask",
+      "age": "unknown",
+      "personality": "mysterious, concealed identity",
+      "lifespan": "Introduced as an enigmatic figure (chapter title) with later consequences in the series"
+    },
+    {
+      "name": "The Scotchman",
+      "age": "unspecified",
+      "personality": "unspecified but notable in a chapter",
+      "lifespan": "Appears in a narrative episode (chapter)"
+    },
+    {
+      "name": "The Beggar of St. Eustache",
+      "age": "unspecified",
+      "personality": "destitute, symbolic of popular misery",
+      "lifespan": "Featured in a chapter highlighting urban distress"
+    },
+    {
+      "name": "Monsieur le Coadjuteur",
+      "age": "unspecified",
+      "personality": "ecclesiastical carriage-owner figure in a chapter",
+      "lifespan": "Mentioned in a chapter title (Carriage of Monsieur le Coadjuteur)"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Palais Royal (Palais Cardinal), Paris, France",
+      "latitude": 48.8636,
+      "longitude": 2.3364
+    },
+    {
+      "name": "Paris, France (general)",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "Lyon (Lyons), France",
+      "latitude": 45.764,
+      "longitude": 4.8357
+    },
+    {
+      "name": "Château de Vincennes (Donjon of Vincennes), Vincennes, France",
+      "latitude": 48.8472,
+      "longitude": 2.4446
+    },
+    {
+      "name": "Place Royale (Place des Vosges), Paris, France",
+      "latitude": 48.8554,
+      "longitude": 2.3652
+    },
+    {
+      "name": "Oise River (near Pontoise), France",
+      "latitude": 49.0509,
+      "longitude": 2.0833
+    },
+    {
+      "name": "Saint-Denis, France",
+      "latitude": 48.9362,
+      "longitude": 2.3574
+    },
+    {
+      "name": "Église Saint-Eustache, Paris, France",
+      "latitude": 48.8633,
+      "longitude": 2.347
+    },
+    {
+      "name": "Tour Saint-Jacques (St. Jacques de la Boucherie), Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3561
+    },
+    {
+      "name": "Charenton (Charenton-le-Pont), France",
+      "latitude": 48.8386,
+      "longitude": 2.4026
+    },
+    {
+      "name": "Amiens (Picardy region reference), France",
+      "latitude": 49.8951,
+      "longitude": 2.302
+    },
+    {
+      "name": "Lens, Pas-de-Calais (Victory of Lens reference), France",
+      "latitude": 50.4333,
+      "longitude": 2.8333
+    },
+    {
+      "name": "Whitehall, London, England",
+      "latitude": 51.5065,
+      "longitude": -0.127
+    },
+    {
+      "name": "London, England (general)",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "simar",
+      "definition": "a long, loose robe or cloak",
+      "context": "the red simar—the gorgeous robe of office worn in the Palais Royal"
+    },
+    {
+      "word": "habiliments",
+      "definition": "clothing or dress, especially ceremonial garments",
+      "context": "the superb habiliments of the lonely tenant of the room"
+    },
+    {
+      "word": "andirons",
+      "definition": "metal supports for logs in a fireplace",
+      "context": "great logs of oak blazed and crackled on the polished brass andirons"
+    },
+    {
+      "word": "candelabra",
+      "definition": "large branched candlesticks holding several candles",
+      "context": "illumined grandly by twin candelabra rich with wax-lights"
+    },
+    {
+      "word": "reverie",
+      "definition": "a state of being pleasantly lost in thought; daydream",
+      "context": "a man was sitting in deep reverie, his head supported on his hands"
+    },
+    {
+      "word": "gilt",
+      "definition": "covered thinly with gold leaf or gold paint",
+      "context": "leaning over a gilt and inlaid table"
+    },
+    {
+      "word": "inlaid",
+      "definition": "decorated by embedding material into surface",
+      "context": "leaning over a gilt and inlaid table which was covered with letters"
+    },
+    {
+      "word": "leaping",
+      "definition": "springing up or moving suddenly",
+      "context": "Behind this figure glowed a vast fireplace alive with leaping flames"
+    },
+    {
+      "word": "crackled",
+      "definition": "made slight snapping noises",
+      "context": "great logs of oak blazed and crackled"
+    },
+    {
+      "word": "flicker",
+      "definition": "a wavering light or movement",
+      "context": "whose flicker shone upon the superb habiliments"
+    },
+    {
+      "word": "wax-lights",
+      "definition": "candles made of wax",
+      "context": "illumined grandly by twin candelabra rich with wax-lights"
+    },
+    {
+      "word": "robe",
+      "definition": "a long outer garment; here, ceremonial dress",
+      "context": "the red simar—the gorgeous robe of office"
+    },
+    {
+      "word": "circlet",
+      "definition": "a small circle or ring, often ornamental",
+      "context": "a simple circlet of gold, with a cipher on it and a date"
+    },
+    {
+      "word": "cipher",
+      "definition": "a monogram or symbol; here, an engraved mark",
+      "context": "a simple circlet of gold, with a cipher on it and a date"
+    },
+    {
+      "word": "chapel",
+      "definition": "a small place of worship",
+      "context": "that ring has been blessed in the chapel of the Palais Royal"
+    },
+    {
+      "word": "foreigner",
+      "definition": "a person from another country",
+      "context": "“Foreigner!” he ejaculated; “Italian! that is their mean yet mighty byword”"
+    },
+    {
+      "word": "Italian",
+      "definition": "a person from Italy; used pejoratively by the mob",
+      "context": "“Italian! that is their mean yet mighty byword of reproach”"
+    },
+    {
+      "word": "byword",
+      "definition": "a proverb or term used as a reputation",
+      "context": "that is their mean yet mighty byword of reproach"
+    },
+    {
+      "word": "reproach",
+      "definition": "an expression of disapproval or disappointment",
+      "context": "their mean yet mighty byword of reproach—the watchword with which they assassinated"
+    },
+    {
+      "word": "assassinated",
+      "definition": "murdered for political reasons",
+      "context": "with which they assassinated, hanged, and made away with Concini"
+    },
+    {
+      "word": "hanged",
+      "definition": "put to death by hanging",
+      "context": "they assassinated, hanged, and made away with Concini"
+    },
+    {
+      "word": "Concini",
+      "definition": "proper name (historical favorite referenced)",
+      "context": "they assassinated, hanged, and made away with Concini"
+    },
+    {
+      "word": "Earl",
+      "definition": "a noble title in England",
+      "context": "The Earl of Essex, ’tis true, wore a splendid ring"
+    },
+    {
+      "word": "Essex",
+      "definition": "proper name/title referenced in example",
+      "context": "The Earl of Essex, ’tis true, wore a splendid ring"
+    },
+    {
+      "word": "laurels",
+      "definition": "symbolic leaves denoting victory or honor",
+      "context": "reports of brilliant victories gained by France; laurels, however, were not meat and drink"
+    },
+    {
+      "word": "avarice",
+      "definition": "extreme greed for wealth",
+      "context": "imposed by Mazarin, whose avarice impelled him to grind them down"
+    },
+    {
+      "word": "enfeebled",
+      "definition": "weakened",
+      "context": "France enfeebled, the authority of her sovereign contemned"
+    },
+    {
+      "word": "contemned",
+      "definition": "treated with contempt; despised",
+      "context": "the authority of her sovereign contemned"
+    },
+    {
+      "word": "turbulence",
+      "definition": "disorderly or violent behavior",
+      "context": "her nobles returning to their former turbulence and insolence"
+    },
+    {
+      "word": "insolence",
+      "definition": "rude and disrespectful behavior",
+      "context": "their former turbulence and insolence"
+    },
+    {
+      "word": "leagued",
+      "definition": "joined in a league or alliance",
+      "context": "the murmurs of a whole city leagued against the minister"
+    },
+    {
+      "word": "Swiss",
+      "definition": "soldiers from Switzerland (Swiss Guards)",
+      "context": "let off, happily, without other end or aim, except to show to the guards, the Swiss troops"
+    },
+    {
+      "word": "murmurs",
+      "definition": "soft low sounds of complaint",
+      "context": "the very casements of the room, which resounded with the murmurs of a whole city"
+    },
+    {
+      "word": "guns",
+      "definition": "firearms; here, fired in the city as signal",
+      "context": "as well as from the distant and incessant sounds of guns firing"
+    },
+    {
+      "word": "Palais",
+      "definition": "French for palace (Palais Royal)",
+      "context": "In a splendid chamber of the Palais Royal, formerly styled the Palais Cardinal"
+    },
+    {
+      "word": "ante-chambers",
+      "definition": "antechambers; outer rooms leading to a main room",
+      "context": "the solitude of that apartment, combined with the silence of the ante-chambers"
+    },
+    {
+      "word": "measured",
+      "definition": "regular and restrained (paces)",
+      "context": "and the measured paces of the guards upon the landing-place"
+    },
+    {
+      "word": "guards",
+      "definition": "soldiers or sentries",
+      "context": "the measured paces of the guards upon the landing-place"
+    },
+    {
+      "word": "landing-place",
+      "definition": "the entrance area or landing at a stair",
+      "context": "the measured paces of the guards upon the landing-place"
+    },
+    {
+      "word": "phantom",
+      "definition": "ghost or apparition",
+      "context": "might have fancied that the shade of Cardinal Richelieu lingered still in his accustomed haunt"
+    },
+    {
+      "word": "tenant",
+      "definition": "occupant of a room or place",
+      "context": "the superb habiliments of the lonely tenant of the room"
+    },
+    {
+      "word": "illumined",
+      "definition": "lit up, illuminated",
+      "context": "the lonely tenant of the room, which was illumined grandly by twin candelabra"
+    },
+    {
+      "word": "grandly",
+      "definition": "in a magnificent or splendid manner",
+      "context": "which was illumined grandly by twin candelabra"
+    },
+    {
+      "word": "populace",
+      "definition": "the general public or common people",
+      "context": "Whilst they shout, ‘Down with Mazarin!’ I, unknown, and unperceived by them"
+    },
+    {
+      "word": "magistrates",
+      "definition": "judicial officers or civil officials",
+      "context": "unluckily, Mazarin had had the imprudence to attack the magistrates"
+    },
+    {
+      "word": "superintendent",
+      "definition": "a high financial official",
+      "context": "a council of state was assembled and the superintendent of finance was summoned"
+    },
+    {
+      "word": "Emery",
+      "definition": "proper name of the superintendent of finance in the narrative",
+      "context": "This man, named Emery, was the object of popular detestation"
+    },
+    {
+      "word": "Particelli",
+      "definition": "merchant/banker name (father of Emery)",
+      "context": "the son of a banker at Lyons named Particelli"
+    },
+    {
+      "word": "bankrupt",
+      "definition": "insolvent; financially ruined",
+      "context": "who, after becoming a bankrupt, chose to change his name to Emery"
+    },
+    {
+      "word": "appointment",
+      "definition": "a job or office conferred by authority",
+      "context": "rest assured that Particelli, the man to whom your majesty refers, has been hanged\"—Ah; so much the better!\" exclaimed the king. \"It is not for nothing that I am styled Louis the Just,\" and he signed Emery’s appointment."
+    },
+    {
+      "word": "Sire",
+      "definition": "respectful form of address for a king",
+      "context": "\"Sire,\" replied Richelieu, \"rest assured that Particelli...\""
+    },
+    {
+      "word": "Louis",
+      "definition": "proper name of the king referenced (Louis XIII)",
+      "context": "\"Sire,\" replied Richelieu...\"It is not for nothing that I am styled Louis the Just\""
+    },
+    {
+      "word": "Molé",
+      "definition": "proper name (Mathieu Molé, chief president)",
+      "context": "On the next day Mathieu Molé, the chief president, ... had been attacked"
+    },
+    {
+      "word": "chief president",
+      "definition": "title for the head of a court",
+      "context": "Mathieu Molé, the chief president, whose courage at this crisis... had been attacked"
+    },
+    {
+      "word": "gallows",
+      "definition": "a structure used for execution by hanging",
+      "context": "that should the agitators refuse obedience to the king’s wishes he would have gallows erected in the public squares"
+    },
+    {
+      "word": "deputed",
+      "definition": "sent as a representative",
+      "context": "They deputed ten of their number to wait upon the Duke of Orléans"
+    },
+    {
+      "word": "tradesmen",
+      "definition": "men engaged in trade; merchants",
+      "context": "On the seventh of January between seven and eight hundred tradesmen had assembled in Paris"
+    },
+    {
+      "word": "tax",
+      "definition": "a mandated payment to authority",
+      "context": "to discuss a new tax which was to be levied on house property"
+    },
+    {
+      "word": "Orléans",
+      "definition": "proper name of a duke (Duke of Orléans)",
+      "context": "They deputed ten of their number to wait upon the Duke of Orléans"
+    },
+    {
+      "word": "bourgeoisie",
+      "definition": "the middle class of society",
+      "context": "separated as it was from the poor by the intervening classes of the gentry and the bourgeoisie"
+    },
+    {
+      "word": "odium",
+      "definition": "general or widespread hatred or disgust",
+      "context": "He was the object of popular detestation... and in the second place, because he rather deserved the odium which he had incurred"
+    },
+    {
+      "word": "son",
+      "definition": "male child (here, Emery's son)",
+      "context": "He was sent for by the ministers and he came before them pale and trembling, declaring that his son had very nearly been assassinated the day before"
+    },
+    {
+      "word": "suffocated",
+      "definition": "deprived of air and nearly killed",
+      "context": "one of the rioters having proposed to squeeze him until he gave up all the gold he had swallowed"
+    },
+    {
+      "word": "ostentatious",
+      "definition": "characterized by vulgar or pretentious display",
+      "context": "the mob had insulted him on account of the ostentatious luxury of his wife"
+    },
+    {
+      "word": "red velvet",
+      "definition": "a luxurious cloth described in the wife's house",
+      "context": "whose house was hung with red velvet edged with gold fringe"
+    },
+    {
+      "word": "fringe",
+      "definition": "ornamental border of threads",
+      "context": "red velvet edged with gold fringe"
+    },
+    {
+      "word": "Nicholas",
+      "definition": "proper name (Nicholas de Camus)",
+      "context": "This lady was the daughter of Nicholas de Camus"
+    },
+    {
+      "word": "Camus",
+      "definition": "proper name (family referenced)",
+      "context": "daughter of Nicholas de Camus, who arrived in Paris with twenty francs in his pocket"
+    },
+    {
+      "word": "francs",
+      "definition": "unit of French currency referenced",
+      "context": "arrived in Paris with twenty francs in his pocket"
+    },
+    {
+      "word": "income",
+      "definition": "annual revenue or earnings",
+      "context": "to keep an income of forty thousand for himself"
+    },
+    {
+      "word": "colleagues",
+      "definition": "fellow members of a body or office",
+      "context": "the addition of twelve new colleagues would necessarily lower the value of each place"
+    },
+    {
+      "word": "union",
+      "definition": "an association formed for action",
+      "context": "the old functionaries formed a union amongst themselves"
+    },
+    {
+      "word": "swore",
+      "definition": "made a solemn promise (on the Bible)",
+      "context": "and, enraged, swore on the Bible not to allow of this addition"
+    },
+    {
+      "word": "Bible",
+      "definition": "the Christian holy scriptures used for oath-taking",
+      "context": "swore on the Bible not to allow of this addition to their number"
+    },
+    {
+      "word": "indemnify",
+      "definition": "to compensate for loss or damage",
+      "context": "should any one of them chance to forfeit his post by this resistance, to combine to indemnify him for his loss"
+    },
+    {
+      "word": "deputation",
+      "definition": "a body of delegates chosen to represent others",
+      "context": "They deputed ten of their number to wait upon the Duke of Orléans"
+    },
+    {
+      "word": "astounded",
+      "definition": "greatly surprised or impressed",
+      "context": "the minister was astounded and sent the deputation away with the same answer"
+    },
+    {
+      "word": "pale",
+      "definition": "of light or wan complexion, indicating fear",
+      "context": "he came before them pale and trembling"
+    },
+    {
+      "word": "trembling",
+      "definition": "shaking from fear or emotion",
+      "context": "he came before them pale and trembling"
+    },
+    {
+      "word": "rioters",
+      "definition": "people engaged in a violent public disturbance",
+      "context": "the mob had insulted him on account of the ostentatious luxury of his wife"
+    },
+    {
+      "word": "skirmishing",
+      "definition": "engaging in small-scale fighting or clashes",
+      "context": "Chapter XXX. Skirmishing"
+    },
+    {
+      "word": "donjon",
+      "definition": "the main tower or keep of a medieval castle",
+      "context": "Chapter XVII. Duc de Beaufort amused his Leisure Hours in the Donjon of Vincennes"
+    },
+    {
+      "word": "Vincennes",
+      "definition": "place name (site of the donjon referenced)",
+      "context": "Donjon of Vincennes"
+    },
+    {
+      "word": "Pâtés",
+      "definition": "meat pastes or pies (French culinary term)",
+      "context": "Chapter XIX. Pâtés made by the Successor of Father Marteau are described"
+    },
+    {
+      "word": "Abbé",
+      "definition": "a French clerical title (abbot/abbé)",
+      "context": "Chapter IX. The Abbé D’Herblay"
+    },
+    {
+      "word": "D’Herblay",
+      "definition": "proper name (Abbé D’Herblay, Aramis' alias)",
+      "context": "Chapter IX. The Abbé D’Herblay"
+    },
+    {
+      "word": "Porthos",
+      "definition": "proper name (one of the musketeers)",
+      "context": "Chapter X. Monsieur Porthos du Vallon de Bracieux de Pierrefonds"
+    },
+    {
+      "word": "Bracieux",
+      "definition": "place/name element in Porthos' title",
+      "context": "Monsieur Porthos du Vallon de Bracieux de Pierrefonds"
+    },
+    {
+      "word": "Pierrefonds",
+      "definition": "place/name element in Porthos' title",
+      "context": "Monsieur Porthos du Vallon de Bracieux de Pierrefonds"
+    },
+    {
+      "word": "Grimaud",
+      "definition": "proper name (the loyal servant)",
+      "context": "Chapter XVIII. Grimaud begins his Functions"
+    },
+    {
+      "word": "Father Marteau",
+      "definition": "proper name/title referenced in culinary chapter",
+      "context": "Successor of Father Marteau referenced in pâtés chapter"
+    },
+    {
+      "word": "Marie Michon",
+      "definition": "proper name (female character)",
+      "context": "Chapter XX. One of Marie Michon’s Adventures"
+    },
+    {
+      "word": "Scarron",
+      "definition": "proper name (Abbé Scarron referenced)",
+      "context": "Chapter XXI. The Abbé Scarron"
+    },
+    {
+      "word": "Saint Denis",
+      "definition": "place name (Saint-Denis)",
+      "context": "Chapter XXII. Saint Denis"
+    },
+    {
+      "word": "Rencontre",
+      "definition": "French for 'encounter' (chapter title)",
+      "context": "Chapter XXVI. The Rencontre"
+    },
+    {
+      "word": "Place Royale",
+      "definition": "historic square in Paris (Place Royale)",
+      "context": "Chapter XXVIII. The Place Royale"
+    },
+    {
+      "word": "Oise",
+      "definition": "name of a river in France",
+      "context": "Chapter XXIX. The Ferry across the Oise"
+    },
+    {
+      "word": "Te Deum",
+      "definition": "Latin hymn of thanksgiving used in liturgy",
+      "context": "Chapter XLIV. Te Deum for the Victory of Lens"
+    },
+    {
+      "word": "St. Eustache",
+      "definition": "church name in Paris",
+      "context": "Chapter XLV. The Beggar of St. Eustache"
+    },
+    {
+      "word": "St. Jacques de la Boucherie",
+      "definition": "historic tower/church site in Paris",
+      "context": "Chapter XLVI. The Tower of St. Jacques de la Boucherie"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1259"
+}
