@@ -1,0 +1,565 @@
+{
+  "gutenberg_id": 4363,
+  "title": "Beyond Good and Evil",
+  "author": "Nietzsche, Friedrich Wilhelm",
+  "summary": "Nietzsche attacks philosophical dogmatism and the unquestioned reverence for \"truth,\" personifying Truth as a woman who resists crude wooing. He diagnoses metaphysicians' prejudice in believing high values require pure origins, indicting Plato and Christian-Platonism as massive errors that inverted life by denying perspective. He urges suspicion of antitheses of value, asks whether untruth and illusion might be life-preserving, and calls for new philosophers who embrace dangerous \"perhapses.\" He exposes philosophers as instinct-driven advocates defending prejudices as truths, ridicules Kantian and Spinozist pieties, and celebrates free European spirits.",
+  "characters": [
+    {
+      "name": "Truth (personified)",
+      "age": "ageless (personification)",
+      "personality": "elusive, resistant to crude dogmatism; likened to a woman who cannot be won by force",
+      "lifespan": "remains unconquered; resists dogmatic philosophers in the narrative"
+    },
+    {
+      "name": "Philosophers (general)",
+      "age": "various",
+      "personality": "portrayed as dogmatic, instinct-driven, pretentious defenders of prejudices called truths",
+      "lifespan": "subject to critique and exposure; urged to be superseded by new kinds of thinkers"
+    },
+    {
+      "name": "Dogmatists",
+      "age": "various",
+      "personality": "solemn, conclusive, and certain; enamored of absolute foundations",
+      "lifespan": "depicted as declining, caricatured, and at risk of collapse"
+    },
+    {
+      "name": "Plato",
+      "age": "ancient",
+      "personality": "blamed for inventing Pure Spirit and the Good in Itself; source of dangerous inversion",
+      "lifespan": "his doctrine is portrayed as a malady to be overcome"
+    },
+    {
+      "name": "Socrates",
+      "age": "ancient",
+      "personality": "mentioned as possible corrupter in a provocative, ironic way",
+      "lifespan": "invoked in historical critique (his hemlock debated) within the argument"
+    },
+    {
+      "name": "Jesuits (as group)",
+      "age": "modern to Nietzsche's era",
+      "personality": "example of a force that attempted to unbend European tension; conservative and disciplinary",
+      "lifespan": "represented as one historical attempt to redirect European spirit"
+    },
+    {
+      "name": "Democrats / democratic enlightenment",
+      "age": "modern",
+      "personality": "another historical attempt to ease cultural tension via press and popular education",
+      "lifespan": "portrayed as an alternative remedy to Jesuitism, with limited success"
+    },
+    {
+      "name": "Germans",
+      "age": "modern/national",
+      "personality": "credited with inventing gunpowder and printing; caricatured as square-makers",
+      "lifespan": "mentioned as a cultural force in Europe's history"
+    },
+    {
+      "name": "Good Europeans / Free Spirits (collective)",
+      "age": "contemporary to author",
+      "personality": "awake, wakeful, tense, and poised to aim at new goals; self-conscious critics of dogma",
+      "lifespan": "presented as heirs of struggle against Platonic-Christian errors and as agents of future philosophy"
+    },
+    {
+      "name": "Oedipus",
+      "age": "mythic figure",
+      "personality": "used metaphorically as solver of riddles (rendezvous of questions)",
+      "lifespan": "serves as an interrogative figure in Nietzsche's allegory"
+    },
+    {
+      "name": "Sphinx (mythic)",
+      "age": "mythic",
+      "personality": "poses questions; symbolic catalyst for intellectual peril and inquiry",
+      "lifespan": "remains a testing challenge for philosophers in the text"
+    },
+    {
+      "name": "Metaphysicians (group)",
+      "age": "various",
+      "personality": "committed to antitheses of value and traditional valuations; resistant to doubt",
+      "lifespan": "their foundational beliefs are challenged and exposed as prejudices"
+    },
+    {
+      "name": "Kant",
+      "age": "modern (relative to Nietzsche)",
+      "personality": "depicted as a decent, stiff Tartuffe-like figure whose moralism misleads",
+      "lifespan": "satirized for dialectic that misguides toward categorical imperatives"
+    },
+    {
+      "name": "Spinoza",
+      "age": "early modern",
+      "personality": "portrayed as masking philosophy with mathematical form, using 'hocus-pocus' of math to intimidate",
+      "lifespan": "criticized for cloaked argument and awe-inspiring form rather than candid advocacy"
+    },
+    {
+      "name": "Christians / Christianity",
+      "age": "historical/religious",
+      "personality": "equated with popular Platonism for the masses; ecclesiastical oppression",
+      "lifespan": "portrayed as a long-standing oppressive influence that must be overcome"
+    },
+    {
+      "name": "The 'Will to Truth' (concept as character)",
+      "age": "conceptual",
+      "personality": "investigated as a driving, hazardous enterprise and questioned for its value",
+      "lifespan": "placed under scrutiny; its origins and value are interrogated"
+    },
+    {
+      "name": "Scoffers (collective)",
+      "age": "various",
+      "personality": "mocking commentators who say dogma has fallen",
+      "lifespan": "exist as critics within the philosophical scene"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Sils Maria, Upper Engadine, Switzerland",
+      "latitude": 46.4,
+      "longitude": 9.69
+    },
+    {
+      "name": "Europe (general)",
+      "latitude": 54.526,
+      "longitude": 15.2551
+    },
+    {
+      "name": "Asia (general)",
+      "latitude": 34.0479,
+      "longitude": 100.6197
+    },
+    {
+      "name": "Egypt (general)",
+      "latitude": 26.8206,
+      "longitude": 30.8025
+    },
+    {
+      "name": "Germany (general)",
+      "latitude": 51.1657,
+      "longitude": 10.4515
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Sphinx",
+      "definition": "mythical riddle-poser",
+      "context": "Personification questioning philosophers and Truth in the preface"
+    },
+    {
+      "word": "dogmatists",
+      "definition": "those holding rigid doctrines",
+      "context": "Criticised for philosophical rigidity in the preface"
+    },
+    {
+      "word": "dogma",
+      "definition": "established belief",
+      "context": "Used to describe entrenched philosophical claims"
+    },
+    {
+      "word": "puerilism",
+      "definition": "childishness",
+      "context": "Describes dogmatic philosophy as a 'noble puerilism'"
+    },
+    {
+      "word": "tyronism",
+      "definition": "attitude of novices; inexperience",
+      "context": "Paired with puerilism to criticise philosophers"
+    },
+    {
+      "word": "Vedanta",
+      "definition": "Hindu metaphysical doctrine",
+      "context": "Given as example of grand dogmatic philosophy in Asia"
+    },
+    {
+      "word": "Platonism",
+      "definition": "philosophical system of Plato",
+      "context": "Blamed as Europe's dogmatic nightmare and linked with Christianity"
+    },
+    {
+      "word": "intransitory",
+      "definition": "not passing away; enduring",
+      "context": "Used to describe supposed sources of highest values"
+    },
+    {
+      "word": "Thing-in-itself",
+      "definition": "Kantian noumenon; underlying reality",
+      "context": "Quoted as a supposed source of value \"in the lap of Being\""
+    },
+    {
+      "word": "antitheses",
+      "definition": "direct opposites",
+      "context": "Metaphysicians' belief in value opposites is criticised"
+    },
+    {
+      "word": "metaphysicians",
+      "definition": "those studying beyond physical experience",
+      "context": "Targeted as holding prejudiced valuations"
+    },
+    {
+      "word": "valuation",
+      "definition": "act of assigning value",
+      "context": "Discusses how philosophers make valuations for life"
+    },
+    {
+      "word": "niaiserie",
+      "definition": "foolishness or naivety (French)",
+      "context": "Used to suggest some valuations may be infantile necessities"
+    },
+    {
+      "word": "perspective",
+      "definition": "point of view or vantage",
+      "context": "Argues philosophers ignored the perspective-conditioned nature of values"
+    },
+    {
+      "word": "frog (in 'frog perspectives')",
+      "definition": "denotes a low vantage; pejorative metaphor",
+      "context": "Image used to criticise narrow viewpoints of metaphysicians"
+    },
+    {
+      "word": "Jesuitism",
+      "definition": "methods or spirit of Jesuits; religious discipline",
+      "context": "Named as one historical attempt to unbend Europe's tension"
+    },
+    {
+      "word": "democratic",
+      "definition": "relating to democracy",
+      "context": "As part of 'democratic enlightenment' contrasted with Jesuitism"
+    },
+    {
+      "word": "enlightenment",
+      "definition": "intellectual awakening or movement",
+      "context": "Used to describe mass liberal movement by way of press and newspapers"
+    },
+    {
+      "word": "gunpowder",
+      "definition": "explosive powder (metonymy for German invention)",
+      "context": "Credited as German invention in cultural history note"
+    },
+    {
+      "word": "printing",
+      "definition": "method of mechanical reproduction",
+      "context": "Mentioned as a German cultural invention easing tension"
+    },
+    {
+      "word": "distress",
+      "definition": "state of tension or strain",
+      "context": "Europe's 'distress of spirit' described in the preface"
+    },
+    {
+      "word": "bow (tensely strained bow)",
+      "definition": "weapon metaphor for mental tension",
+      "context": "Image for Europe's accumulated intellectual tension"
+    },
+    {
+      "word": "arrow",
+      "definition": "projectile; metaphor for aim/goal",
+      "context": "Represents duty and the goal philosophers might aim at"
+    },
+    {
+      "word": "duty",
+      "definition": "moral obligation or task",
+      "context": "The arrow's purpose; the philosophic mission evoked"
+    },
+    {
+      "word": "goal",
+      "definition": "intended aim or terminal point",
+      "context": "What new philosophers might aim toward from strained bow"
+    },
+    {
+      "word": "Will-to-Truth",
+      "definition": "drive or impulse to seek truth",
+      "context": "Central concept questioned in chapter I about its origin and value"
+    },
+    {
+      "word": "Truthfulness",
+      "definition": "quality of being truthful",
+      "context": "Discussed ironically as famed virtue of philosophers"
+    },
+    {
+      "word": "hazardous",
+      "definition": "risky; dangerous",
+      "context": "Describes the enterprise of questioning the Will to Truth"
+    },
+    {
+      "word": "enterprise",
+      "definition": "undertaking or venture",
+      "context": "Philosophical inquiry characterized as hazardous enterprise"
+    },
+    {
+      "word": "rendezvous",
+      "definition": "meeting; encounter",
+      "context": "Describes the meeting of questions and notes of interrogation"
+    },
+    {
+      "word": "Oedipus",
+      "definition": "mythic solver of riddles",
+      "context": "Used as metaphorical figure in relation to the Sphinx's questions"
+    },
+    {
+      "word": "origin",
+      "definition": "source or beginning",
+      "context": "Questioned for the Will to Truth and values"
+    },
+    {
+      "word": "untruth",
+      "definition": "falsehood",
+      "context": "Considered as a possible life-preserving alternative to truth"
+    },
+    {
+      "word": "uncertainty",
+      "definition": "state of doubt or lack of certainty",
+      "context": "Contrasted with the certain valued by philosophers"
+    },
+    {
+      "word": "ignorance",
+      "definition": "lack of knowledge",
+      "context": "Posed as possibly preferable to certain truth in life terms"
+    },
+    {
+      "word": "genesis",
+      "definition": "origin or mode of coming into being",
+      "context": "Argues metaphysicians presume noble things have nobler genesis"
+    },
+    {
+      "word": "deception",
+      "definition": "act of deceiving",
+      "context": "Contrasts with Will to Truth in speculative origin questions"
+    },
+    {
+      "word": "covetousness",
+      "definition": "eager desire, greed",
+      "context": "Listed among human motives opposite to pure vision"
+    },
+    {
+      "word": "belief",
+      "definition": "accepted conviction",
+      "context": "Metaphysicians' fundamental 'belief in antitheses of values'"
+    },
+    {
+      "word": "Perhaps",
+      "definition": "expression of speculative possibility",
+      "context": "Repeated motif inviting new philosophers to entertain risky doubts"
+    },
+    {
+      "word": "Perhapses",
+      "definition": "pluralized rhetorical perhaps (archaic usage)",
+      "context": "Used to emphasize the dangerous plural speculations to be entertained"
+    },
+    {
+      "word": "physiological",
+      "definition": "relating to bodily processes",
+      "context": "Claims valuations are tied to physiological demands for life modes"
+    },
+    {
+      "word": "innateness",
+      "definition": "quality of being inborn",
+      "context": "Compares innate instincts to philosophical conscious thinking"
+    },
+    {
+      "word": "heredity",
+      "definition": "genetic transmission",
+      "context": "Analogy used to discuss instinctive vs conscious thinking"
+    },
+    {
+      "word": "instinctive",
+      "definition": "prompted by instinct rather than reason",
+      "context": "Applies to most conscious thinking including philosophical thought"
+    },
+    {
+      "word": "species-preserving",
+      "definition": "maintaining the species",
+      "context": "Measures an opinion by whether it furthers species survival"
+    },
+    {
+      "word": "species-rearing",
+      "definition": "raising or fostering species' development",
+      "context": "Further measure of opinions' life-furthering worth"
+    },
+    {
+      "word": "synthetic",
+      "definition": "combined or constructed (epistemology)",
+      "context": "As in 'synthetic judgments a priori' given as indispensable false opinions"
+    },
+    {
+      "word": "a priori",
+      "definition": "knowledge prior to experience",
+      "context": "Mentioned as an example of valuable but false opinions"
+    },
+    {
+      "word": "counterfeiting",
+      "definition": "imitating or faking",
+      "context": "Describes human use of numbers to counterfeit the world"
+    },
+    {
+      "word": "IMAGINED",
+      "definition": "emphasized imagined realm (capitalized in text)",
+      "context": "Contrasted with reality in philosophical constructions"
+    },
+    {
+      "word": "absolute",
+      "definition": "complete and unconditioned",
+      "context": "Describes the imaginary immutable world philosophers posit"
+    },
+    {
+      "word": "immutable",
+      "definition": "unchanging",
+      "context": "Refers to the imagined absolute philosophers compare reality with"
+    },
+    {
+      "word": "numbers",
+      "definition": "numerical abstractions",
+      "context": "Described as tools by which humans counterfeit the world"
+    },
+    {
+      "word": "life-furthering",
+      "definition": "promoting life",
+      "context": "Standard by which Nietzsche proposes to judge opinions' worth"
+    },
+    {
+      "word": "life-preserving",
+      "definition": "helpful to sustaining life",
+      "context": "Another criterion for evaluating opinions"
+    },
+    {
+      "word": "renunciation",
+      "definition": "act of giving up",
+      "context": "Says renouncing false opinions could be renunciation of life"
+    },
+    {
+      "word": "negation",
+      "definition": "denial or refusal",
+      "context": "Equates renouncing false opinions with a negation of life"
+    },
+    {
+      "word": "pose",
+      "definition": "to assume a false front",
+      "context": "Philosophers 'pose' as having discovered opinions by pure dialectic"
+    },
+    {
+      "word": "advocate",
+      "definition": "one who argues in favor of something",
+      "context": "Philosophers depicted as advocates for their prejudices"
+    },
+    {
+      "word": "prejudices",
+      "definition": "preconceived opinions",
+      "context": "Central targets Nietzsche accuses philosophers of defending"
+    },
+    {
+      "word": "conscience",
+      "definition": "moral sense or self-awareness",
+      "context": "Says philosophers lack the humility to admit advocacy of prejudices"
+    },
+    {
+      "word": "self-ridicule",
+      "definition": "ability to laugh at oneself",
+      "context": "Noted as lacking among philosophers who defend their prejudices"
+    },
+    {
+      "word": "Tartuffery",
+      "definition": "hypocritical piety (from Molière's Tartuffe)",
+      "context": "Applied to Kant's moral pose"
+    },
+    {
+      "word": "categorical",
+      "definition": "unconditional, absolute",
+      "context": "Reference to Kant's 'categorical imperative' as misleading"
+    },
+    {
+      "word": "imperative",
+      "definition": "commanding rule",
+      "context": "Part of the Kantian target of satire"
+    },
+    {
+      "word": "hocus-pocus",
+      "definition": "deceptive trickery",
+      "context": "Describes Spinoza's mathematical garb as magic to intimidate readers"
+    },
+    {
+      "word": "mail",
+      "definition": "armor of chain or plate",
+      "context": "Metaphor: Spinoza clothes philosophy in mail (armour) and mask"
+    },
+    {
+      "word": "mask",
+      "definition": "disguise",
+      "context": "Image describing Spinoza's cloaked approach to philosophy"
+    },
+    {
+      "word": "love (of HIS wisdom)",
+      "definition": "phrase in translation of 'philosophy'",
+      "context": "Quoting Spinoza's notion of 'love of wisdom' as formidable cover"
+    },
+    {
+      "word": "astute",
+      "definition": "clever and shrewd",
+      "context": "Describes philosophers as astute defenders of prejudices"
+    },
+    {
+      "word": "defenders",
+      "definition": "those who defend",
+      "context": "Philosophers called defenders of their preconceived ideas"
+    },
+    {
+      "word": "scoffers",
+      "definition": "mockers; those who jeer",
+      "context": "Mentioned as saying dogma has fallen"
+    },
+    {
+      "word": "mien",
+      "definition": "demeanor or bearing",
+      "context": "Describes dogma standing with a 'sad and discouraged mien'"
+    },
+    {
+      "word": "oppression",
+      "definition": "harsh or cruel authority",
+      "context": "Refers to ecclesiastical oppression of Christianity"
+    },
+    {
+      "word": "super-terrestrial",
+      "definition": "beyond the earthly; heavenly",
+      "context": "Describes dogmatic philosopher's pretensions of otherworldly claims"
+    },
+    {
+      "word": "caricature",
+      "definition": "exaggerated depiction",
+      "context": "Dogmatic philosophy characterized as enormous caricature"
+    },
+    {
+      "word": "architecture",
+      "definition": "grand style of construction",
+      "context": "Credit given to dogmatic pretensions for fostering grand architecture"
+    },
+    {
+      "word": "heir",
+      "definition": "one who inherits",
+      "context": "'We... are the heirs of all the strength' from struggle against Plato"
+    },
+    {
+      "word": "wakefulness",
+      "definition": "state of being awake and vigilant",
+      "context": "Describes the duty of the new philosophers as wakeful vigilance"
+    },
+    {
+      "word": "tension",
+      "definition": "strain or tightness",
+      "context": "Europe's sustained state due to the Platonic-Christian struggle"
+    },
+    {
+      "word": "unbend",
+      "definition": "to relax or loosen tension",
+      "context": "Historical attempts to ease Europe's spiritual tension are noted"
+    },
+    {
+      "word": "bow (metaphor)",
+      "definition": "a strained instrument ready to discharge an arrow (metaphor)",
+      "context": "Used to evoke the cultural tension and possible aim"
+    },
+    {
+      "word": "arrow (metaphor)",
+      "definition": "projectile representing a purpose or duty",
+      "context": "Represents the task and goal toward which new philosophers may aim"
+    },
+    {
+      "word": "goal (philosophical)",
+      "definition": "final aim or telos",
+      "context": "Suggested as the possible target of the European tension"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/4363"
+}
