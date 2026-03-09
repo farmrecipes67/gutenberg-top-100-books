@@ -1,0 +1,730 @@
+{
+  "gutenberg_id": 135,
+  "title": "Les Misérables",
+  "author": "Hugo, Victor",
+  "summary": "Les Misérables traces Jean Valjean’s journey from convict to moral leader after an act of mercy by Bishop Myriel. Interwoven are Fantine’s downfall and Cosette’s rescue and upbringing; the relentless inspector Javert; the cunning Thénardiers; the streetwise Gavroche; and the idealistic students led by Enjolras and Marius. Hugo spans personal redemption, social injustice, and historical episodes including Waterloo and the 1832 Paris uprising, moving between convent life, prisons, hovels, and barricades. Through rich digressions—legal cases, Latin aphorisms, and urban topography—the novel examines law, grace, poverty, and political ferment in nineteenth‑century France. It juxtaposes intimate suffering with sweeping historical panorama vividly.",
+  "characters": [
+    {
+      "name": "M. Myriel (Monseigneur Bienvenu)",
+      "age": "not specified in provided excerpt",
+      "personality": "compassionate, moral, hospitable (as indicated by chapter headings)",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Jean Valjean",
+      "age": "not specified in provided excerpt",
+      "personality": "central protagonist; portrayed through chapters of transformation and struggle",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Fantine",
+      "age": "not specified in provided excerpt",
+      "personality": "tragic figure undergoing downfall (named in volume title and chapters)",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Cosette",
+      "age": "child/young (repeatedly described as 'little' in TOC)",
+      "personality": "innocent, central to rescue and upbringing sections",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Javert",
+      "age": "not specified in provided excerpt",
+      "personality": "relentless, law‑focused inspector (title 'JAVERT')",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Tholomyès",
+      "age": "not specified in provided excerpt",
+      "personality": "merry; appears in social episode chapters",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Bombarda",
+      "age": "not specified in provided excerpt",
+      "personality": "associated with social scene (appears in chapter titles)",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Boulatrulle",
+      "age": "not specified in provided excerpt",
+      "personality": "minor figure referenced in chapter heading",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "M. Madeleine",
+      "age": "not specified in provided excerpt",
+      "personality": "public figure/businessman identity referenced in TOC",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Laffitte",
+      "age": "not specified in provided excerpt",
+      "personality": "banker/financial name appearing in TOC",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Fauchelevent",
+      "age": "not specified in provided excerpt",
+      "personality": "helper/associated with gardening and convent episodes",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Madame Victurnien",
+      "age": "not specified in provided excerpt",
+      "personality": "social figure appearing in chapter headings",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "M. Bamatabois",
+      "age": "not specified in provided excerpt",
+      "personality": "minor character (appears in chapter title)",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Champmathieu",
+      "age": "not specified in provided excerpt",
+      "personality": "accused man in legal chapter arc",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Sister Simplice",
+      "age": "not specified in provided excerpt",
+      "personality": "nun; involved in Champmathieu episode",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Master Scaufflaire",
+      "age": "not specified in provided excerpt",
+      "personality": "legal/official figure referenced in TOC",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Master Gorbeau",
+      "age": "not specified in provided excerpt",
+      "personality": "tenancy/hovel figure (title 'MASTER GORBEAU')",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Thénardier",
+      "age": "not specified in provided excerpt",
+      "personality": "cunning innkeeper and later villain; appears with 'manœuvres'",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Little Gervais",
+      "age": "child",
+      "personality": "a small boy appearing in Fantine's book",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Mother Innocente",
+      "age": "not specified in provided excerpt",
+      "personality": "nun appearing in Petit‑Picpus/convent chapters",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "M. Mabeuf (Father Mabeuf)",
+      "age": "elderly (chapters reference advanced age)",
+      "personality": "devout, poor veteran figure",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Marius",
+      "age": "young adult (chapters mention 'grown up')",
+      "personality": "represents the younger generation and romantic/political threads",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Enjolras",
+      "age": "young adult",
+      "personality": "revolutionary leader of student group",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Éponine",
+      "age": "not specified in provided excerpt",
+      "personality": "associated with Thénardier family and later plots",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Gavroche",
+      "age": "child (explicitly 'Little Gavroche' in TOC)",
+      "personality": "streetwise, playful, rebellious youth",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Babet",
+      "age": "not specified in provided excerpt",
+      "personality": "member of the criminal troupe 'Patron Minette'",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Gueulemer",
+      "age": "not specified in provided excerpt",
+      "personality": "member of criminal troupe",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Claquesous",
+      "age": "not specified in provided excerpt",
+      "personality": "member of criminal troupe",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Montparnasse",
+      "age": "not specified in provided excerpt",
+      "personality": "member of criminal troupe (name appears in TOC)",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Magnon",
+      "age": "not specified in provided excerpt",
+      "personality": "mother figure with two children (chapter headings)",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Luc‑Esprit",
+      "age": "not specified in provided excerpt",
+      "personality": "minor character named in TOC",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Basque",
+      "age": "not specified in provided excerpt",
+      "personality": "minor character named in TOC",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Nicolette",
+      "age": "not specified in provided excerpt",
+      "personality": "minor character named in TOC",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Jondrette",
+      "age": "not specified in provided excerpt",
+      "personality": "family/hood character appearing in Book III arcs",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "M. Leblanc",
+      "age": "not specified in provided excerpt",
+      "personality": "minor tenant mentioned in Gorbeau hovel episodes",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Toussaint",
+      "age": "not specified in provided excerpt",
+      "personality": "commentator in a chapter heading (authorial voice)",
+      "lifespan": "not specified in provided excerpt"
+    },
+    {
+      "name": "Mother Plutarque",
+      "age": "not specified in provided excerpt",
+      "personality": "nun/house figure appearing in convent chapters",
+      "lifespan": "not specified in provided excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "Nivelles, Belgium",
+      "latitude": 50.587,
+      "longitude": 4.589
+    },
+    {
+      "name": "Hougoumont (Hougomont), Waterloo battlefield, Belgium",
+      "latitude": 50.717,
+      "longitude": 4.39
+    },
+    {
+      "name": "Mont‑Saint‑Jean (Waterloo plateau), Belgium",
+      "latitude": 50.6806,
+      "longitude": 4.4039
+    },
+    {
+      "name": "Pontarlier, France",
+      "latitude": 46.9046,
+      "longitude": 6.3537
+    },
+    {
+      "name": "Montfermeil, France",
+      "latitude": 48.8879,
+      "longitude": 2.543
+    },
+    {
+      "name": "Pont d'Austerlitz (Paris bridge), France",
+      "latitude": 48.8449,
+      "longitude": 2.3727
+    },
+    {
+      "name": "Saint‑Denis, France",
+      "latitude": 48.9362,
+      "longitude": 2.3574
+    },
+    {
+      "name": "Rue Petit‑Picpus (Paris), France",
+      "latitude": 48.8481,
+      "longitude": 2.393
+    },
+    {
+      "name": "Waterloo, Belgium (battle context)",
+      "latitude": 50.7171,
+      "longitude": 4.3986
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Myriel",
+      "definition": "proper name (bishop in the opening chapters)",
+      "context": "Appears as 'M. MYRIEL' in chapter heading."
+    },
+    {
+      "word": "Monseigneur",
+      "definition": "honorific for a high‑ranking clergyman",
+      "context": "Used in 'MONSEIGNEUR BIENVENU' chapter title."
+    },
+    {
+      "word": "Bienvenu",
+      "definition": "French for 'welcome'; used as a name",
+      "context": "Part of the bishop's name 'Monseigneur Bienvenu'."
+    },
+    {
+      "word": "cassocks",
+      "definition": "long clerical garments",
+      "context": "Appears in chapter 'MONSEIGNEUR BIENVENU MADE HIS CASSOCKS LAST TOO LONG'."
+    },
+    {
+      "word": "cravatte",
+      "definition": "old spelling of 'cravat', a necktie",
+      "context": "Chapter titled 'CRAVATTE'."
+    },
+    {
+      "word": "Billows",
+      "definition": "large waves or surges (metaphorical)",
+      "context": "Used in 'BILLOWS AND SHADOWS' chapter title."
+    },
+    {
+      "word": "Shadows",
+      "definition": "figurative darkness or doubt",
+      "context": "Paired with 'Billows' in a chapter heading."
+    },
+    {
+      "word": "Tholomyès",
+      "definition": "proper name (character in a social episode)",
+      "context": "Chapter 'THOLOMYÈS IS SO MERRY THAT HE SINGS A SPANISH DITTY'."
+    },
+    {
+      "word": "Bombarda",
+      "definition": "proper name (salon/character)",
+      "context": "Chapter 'AT BOMBARDA’S'."
+    },
+    {
+      "word": "Boulatrulle",
+      "definition": "proper name (minor character)",
+      "context": "Appears in 'WHICH POSSIBLY PROVES BOULATRUELLE’S INTELLIGENCE'."
+    },
+    {
+      "word": "Madeleine",
+      "definition": "proper name/title (M. Madeleine appears as an identity)",
+      "context": "Chapters titled 'MADELEINE' and related."
+    },
+    {
+      "word": "Laffitte",
+      "definition": "proper name (banker/person)",
+      "context": "Appears in 'SUMS DEPOSITED WITH LAFFITTE'."
+    },
+    {
+      "word": "Fauchelevent",
+      "definition": "proper name (gardener/assistant figure)",
+      "context": "Chapters 'FATHER FAUCHELEVENT' and others."
+    },
+    {
+      "word": "Victurnien",
+      "definition": "proper name (Madame Victurnien)",
+      "context": "Appears in 'MADAME VICTURNIEN EXPENDS THIRTY FRANCS ON MORALITY'."
+    },
+    {
+      "word": "Bamatabois",
+      "definition": "proper name (M. BAMATABOIS)",
+      "context": "Chapter 'M. BAMATABOIS’S INACTIVITY'."
+    },
+    {
+      "word": "Javert",
+      "definition": "proper name (police inspector)",
+      "context": "Title 'JAVERT' and chapters about pursuit."
+    },
+    {
+      "word": "Champmathieu",
+      "definition": "proper name (accused man in a legal episode)",
+      "context": "Chapters in 'THE CHAMPMATHIEU AFFAIR'."
+    },
+    {
+      "word": "Simplice",
+      "definition": "proper name (Sister Simplice, a nun)",
+      "context": "Chapter 'SISTER SIMPLICE'."
+    },
+    {
+      "word": "Scaufflaire",
+      "definition": "proper name (legal/official figure)",
+      "context": "Appears as 'MASTER SCAUFFLAIRE'."
+    },
+    {
+      "word": "Gorbeau",
+      "definition": "proper name (tenant/hovel owner)",
+      "context": "Chapters 'MASTER GORBEAU' and 'THE GORBEAU HOVEL'."
+    },
+    {
+      "word": "Thénardier",
+      "definition": "proper name (innkeeper, antagonist)",
+      "context": "Appears in 'THÉNARDIER AND HIS MANŒUVRES'."
+    },
+    {
+      "word": "Petit‑Picpus",
+      "definition": "name of a Paris convent/street",
+      "context": "Chapter 'NUMBER 62 RUE PETIT‑PICPUS'."
+    },
+    {
+      "word": "Guimpe",
+      "definition": "a nun’s wimple or bib (archaic clothing term)",
+      "context": "Appears in 'A CENTURY UNDER A GUIMPE'."
+    },
+    {
+      "word": "Christus",
+      "definition": "Latin for 'Christ'",
+      "context": "Part of phrase 'CHRISTUS NOS LIBERAVIT' in TOC."
+    },
+    {
+      "word": "Liberavit",
+      "definition": "Latin 'has freed' (from 'liberare')",
+      "context": "Appears in 'CHRISTUS NOS LIBERAVIT'."
+    },
+    {
+      "word": "Quadrifrons",
+      "definition": "Latin/architectural term meaning 'four‑faced', unusual noun",
+      "context": "Chapter titled 'QUADRIFRONS'."
+    },
+    {
+      "word": "Corinthe",
+      "definition": "French for 'Corinth' (classical reference)",
+      "context": "Book/Chapter titled 'CORINTHE'."
+    },
+    {
+      "word": "Enjolras",
+      "definition": "proper name (student revolutionary leader)",
+      "context": "Appears in 'ENJOLRAS AND HIS LIEUTENANTS'."
+    },
+    {
+      "word": "Éponine",
+      "definition": "proper name (young woman connected to Thénardiers)",
+      "context": "Book titled 'ÉPONINE'."
+    },
+    {
+      "word": "Plumet",
+      "definition": "street name (Rue Plumet), used as a place",
+      "context": "Chapter 'THE HOUSE IN THE RUE PLUMET'."
+    },
+    {
+      "word": "Plutarque",
+      "definition": "proper name used for 'Mother Plutarque' (nun)",
+      "context": "Chapter 'MOTHER PLUTARQUE'."
+    },
+    {
+      "word": "Gavroche",
+      "definition": "proper name (street urchin)",
+      "context": "Appears in multiple chapters, e.g., 'LITTLE GAVROCHE'."
+    },
+    {
+      "word": "Babet",
+      "definition": "proper name (member of criminal gang)",
+      "context": "Listed with other gang names in 'PATRON MINETTE'."
+    },
+    {
+      "word": "Gueulemer",
+      "definition": "proper name (gang member)",
+      "context": "Listed among criminal troupe members."
+    },
+    {
+      "word": "Claquesous",
+      "definition": "proper name (gang member)",
+      "context": "Named in 'PATRON MINETTE' section."
+    },
+    {
+      "word": "Montparnasse",
+      "definition": "proper name (gang member, also Paris neighborhood)",
+      "context": "Listed as part of the criminal troupe."
+    },
+    {
+      "word": "Grantaire",
+      "definition": "proper name (student/revolutionary)",
+      "context": "Appears in 'GRANTAIRE'‑related chapters."
+    },
+    {
+      "word": "Mabeuf",
+      "definition": "proper name (Father/M. Mabeuf, elderly figure)",
+      "context": "Chapters 'M. MABEUF' and related."
+    },
+    {
+      "word": "Luc‑Esprit",
+      "definition": "proper name (character name)",
+      "context": "Appears in Book III chapter headings."
+    },
+    {
+      "word": "Magnon",
+      "definition": "proper name (mother with children in TOC)",
+      "context": "Appears in 'MAGNON AND HER TWO CHILDREN'."
+    },
+    {
+      "word": "Basque",
+      "definition": "proper name (minor character name)",
+      "context": "Listed in Book II character groupings."
+    },
+    {
+      "word": "Nicolette",
+      "definition": "proper name (minor character)",
+      "context": "Appears in book/chapter headings."
+    },
+    {
+      "word": "Parvulus",
+      "definition": "Latin for 'little one' or 'very small child'",
+      "context": "Chapter titled 'PARVULUS'."
+    },
+    {
+      "word": "Gamin",
+      "definition": "French for 'street urchin' or 'urchin'",
+      "context": "Chapter 'THE GAMIN SHOULD HAVE HIS PLACE'."
+    },
+    {
+      "word": "Jondrette",
+      "definition": "proper name (family/hood character)",
+      "context": "Appears in the Jondrette episodes in Book III."
+    },
+    {
+      "word": "Solus",
+      "definition": "Latin 'alone'",
+      "context": "Part of Latin phrase 'SOLUS CUM SOLO' in TOC."
+    },
+    {
+      "word": "Austerlitz",
+      "definition": "place name (battle/bridge reference)",
+      "context": "Appears in 'PONT D’AUSTERLITZ' and strategy chapters."
+    },
+    {
+      "word": "Hougoumont",
+      "definition": "proper name of farm/chateau at Waterloo",
+      "context": "Chapter 'HOUGOMONT' in the Waterloo sequence."
+    },
+    {
+      "word": "Nivelles",
+      "definition": "town on route to Waterloo",
+      "context": "Chapter 'WHAT IS MET WITH ON THE WAY FROM NIVELLES'."
+    },
+    {
+      "word": "Mont‑Saint‑Jean",
+      "definition": "plateau near Waterloo battlefield",
+      "context": "Chapter 'THE PLATEAU OF MONT‑SAINT‑JEAN'."
+    },
+    {
+      "word": "Pontarlier",
+      "definition": "town in eastern France",
+      "context": "Chapter concerning cheese‑dairies of Pontarlier."
+    },
+    {
+      "word": "Montfermeil",
+      "definition": "place near Paris where Cosette is kept by Thénardiers",
+      "context": "Chapter 'THE WATER QUESTION AT MONTFERMEIL'."
+    },
+    {
+      "word": "Pont",
+      "definition": "French for 'bridge' used in place names (e.g., Pont d'Austerlitz)",
+      "context": "Appears in 'PONT D’AUSTERLITZ'."
+    },
+    {
+      "word": "Picpus",
+      "definition": "Paris neighborhood/convent name",
+      "context": "Appears in 'PETIT‑PICPUS' and related chapters."
+    },
+    {
+      "word": "Res",
+      "definition": "Latin 'thing' (used in phrase 'RES ANGUSTA')",
+      "context": "Part of 'RES ANGUSTA' chapter heading."
+    },
+    {
+      "word": "Angusta",
+      "definition": "Latin 'narrow' (in 'RES ANGUSTA')",
+      "context": "Used in the phrase 'RES ANGUSTA'."
+    },
+    {
+      "word": "Quot",
+      "definition": "Latin 'how many' or 'how many pounds' in phrase",
+      "context": "Appears in 'QUOT LIBRAS IN DUCE?' chapter title."
+    },
+    {
+      "word": "Libras",
+      "definition": "Latin for 'pounds' (weight/money)",
+      "context": "Part of the rhetorical chapter 'QUOT LIBRAS IN DUCE?'."
+    },
+    {
+      "word": "Duce",
+      "definition": "Latin for 'leader' (in phrase 'IN DUCE')",
+      "context": "Used in 'QUOT LIBRAS IN DUCE?'."
+    },
+    {
+      "word": "Recrudescence",
+      "definition": "a renewed increase or revival (rare word)",
+      "context": "Appears in 'A RECRUDESCENCE OF DIVINE RIGHT'."
+    },
+    {
+      "word": "Ebullitions",
+      "definition": "violent outbursts or boiling up (archaic/rare)",
+      "context": "Used in 'THE EBULLITIONS OF FORMER DAYS' chapter."
+    },
+    {
+      "word": "Cambronne",
+      "definition": "proper name (general famous in Napoleonic lore)",
+      "context": "Chapter titled 'CAMBRONNE'."
+    },
+    {
+      "word": "Quid",
+      "definition": "Latin 'what' used rhetorically",
+      "context": "Appears in 'THE QUID OBSCURUM OF BATTLES'."
+    },
+    {
+      "word": "Obscurum",
+      "definition": "Latin 'dark' or 'obscure'",
+      "context": "Used in 'THE QUID OBSCURUM OF BATTLES'."
+    },
+    {
+      "word": "Foliis",
+      "definition": "Latin 'leaves' (ablative plural)",
+      "context": "Used in chapter title 'FOLIIS AC FRONDIBUS'."
+    },
+    {
+      "word": "Ac",
+      "definition": "Latin 'and'",
+      "context": "Part of 'FOLIIS AC FRONDIBUS'."
+    },
+    {
+      "word": "Frondibus",
+      "definition": "Latin 'fronds' or 'foliage'",
+      "context": "Part of 'FOLIIS AC FRONDIBUS'."
+    },
+    {
+      "word": "Post",
+      "definition": "Latin 'after' or 'behind'",
+      "context": "Part of 'POST CORDA LAPIDES' phrase."
+    },
+    {
+      "word": "Corda",
+      "definition": "Latin 'hearts' (plural of cor)",
+      "context": "Appears in 'POST CORDA LAPIDES'."
+    },
+    {
+      "word": "Lapides",
+      "definition": "Latin 'stones'",
+      "context": "Appears in 'POST CORDA LAPIDES'."
+    },
+    {
+      "word": "Lux",
+      "definition": "Latin 'light'",
+      "context": "Used in 'LUX FACTA EST' chapter heading."
+    },
+    {
+      "word": "Facta",
+      "definition": "Latin 'made' or 'become'",
+      "context": "Used in 'LUX FACTA EST'."
+    },
+    {
+      "word": "Est",
+      "definition": "Latin 'is' (third person singular of 'to be')",
+      "context": "Part of 'LUX FACTA EST'."
+    },
+    {
+      "word": "Adoration",
+      "definition": "ceremonial worship (here of perpetual practice)",
+      "context": "Appears in 'ORIGIN OF THE PERPETUAL ADORATION'."
+    },
+    {
+      "word": "Nos",
+      "definition": "Latin 'we'",
+      "context": "Part of the Latin phrase 'CHRISTUS NOS LIBERAVIT'."
+    },
+    {
+      "word": "Solitude",
+      "definition": "state of being solitary (used figuratively in TOC)",
+      "context": "Used in chapter headings like 'THE SOLITUDE OF MONSEIGNEUR WELCOME'."
+    },
+    {
+      "word": "Perpetual",
+      "definition": "never ending; used in religious context",
+      "context": "Appears in 'PERPETUAL ADORATION' reference."
+    },
+    {
+      "word": "Minette",
+      "definition": "French slang name used as a gang title ('Patron Minette')",
+      "context": "Used as the name of the criminal troupe 'PATRON MINETTE'."
+    },
+    {
+      "word": "Tariff",
+      "definition": "a schedule of charges or fees (archaic usage in context)",
+      "context": "Appears in 'TARIFF OF LICENSED CABS'."
+    },
+    {
+      "word": "Licensed",
+      "definition": "authorized (used in 'LICENSED CABS')",
+      "context": "Appears in 'TARIFF OF LICENSED CABS'."
+    },
+    {
+      "word": "Ecce",
+      "definition": "Latin 'behold'",
+      "context": "Appears in the chapter heading 'ECCE PARIS, ECCE HOMO'."
+    },
+    {
+      "word": "Homo",
+      "definition": "Latin 'man' or 'human'",
+      "context": "Paired with 'Ecce' in the chapter heading."
+    },
+    {
+      "word": "Bülow",
+      "definition": "proper name (historical figure referenced)",
+      "context": "Appears in 'A BAD GUIDE TO NAPOLEON; A GOOD GUIDE TO BÜLOW'."
+    },
+    {
+      "word": "manœuvres",
+      "definition": "archaic spelling of 'maneuvers' (œ ligature)",
+      "context": "Used in 'THÉNARDIER AND HIS MANŒUVRES'."
+    },
+    {
+      "word": "vis‑a‑vis",
+      "definition": "French term meaning 'face to face' or counterpart",
+      "context": "Used in 'MARIUS’ TWO CHAIRS FORM A VIS‑A‑VIS'."
+    },
+    {
+      "word": "Misérables",
+      "definition": "French 'the miserable ones' (title of the work)",
+      "context": "Main title 'LES MISÉRABLES'."
+    },
+    {
+      "word": "Les",
+      "definition": "French definite article 'the' (in title)",
+      "context": "Part of the book title 'LES MISÉRABLES'."
+    },
+    {
+      "word": "Hapgood",
+      "definition": "proper name (translator Isabel F. Hapgood)",
+      "context": "Translator credit in the front matter."
+    },
+    {
+      "word": "Crowell",
+      "definition": "proper name (publisher Thomas Y. Crowell & Co.)",
+      "context": "Publisher listed on title page."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/135"
+}
