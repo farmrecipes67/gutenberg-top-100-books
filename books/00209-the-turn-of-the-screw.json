@@ -1,0 +1,619 @@
+{
+  "gutenberg_id": 209,
+  "title": "The Turn of the Screw",
+  "author": "James, Henry",
+  "summary": "The Turn of the Screw recounts a governess’s unsettling tenure at Bly, an isolated country estate where she cares for two young wards, Flora and Miles. Hired by their enigmatic guardian, she encounters hints of previous tragedy and reports of spectral figures. Mrs. Grose and the household are uneasy; the governess grows convinced that apparitions of a former valet and a previous governess haunt the children. She promises silence to the master while struggling with mounting dread, enigmatic signs, and the children’s odd behavior. The narrator frames the governess’s manuscript read by Douglas, who preserves and relays its chilling impressions.",
+  "characters": [
+    {
+      "name": "Narrator (I)",
+      "age": "adult (unspecified)",
+      "personality": "observant, framing storyteller; attentive and reflective",
+      "lifespan": "alive while recounting; presents Douglas's manuscript"
+    },
+    {
+      "name": "Douglas",
+      "age": "approx. 30–50",
+      "personality": "cultivated, dramatic, secretive; enjoys relating the manuscript",
+      "lifespan": "alive when he read the manuscript but later dies; entrusted manuscript to narrator"
+    },
+    {
+      "name": "Mrs. Griffin",
+      "age": "adult (partner in social circle)",
+      "personality": "curious, gossipy member of the fireside company",
+      "lifespan": "alive during framing scenes"
+    },
+    {
+      "name": "Griffin (Mr. Griffin)",
+      "age": "approx. 40 (exclaims \"Forty years!\")",
+      "personality": "participates wryly in the company’s banter",
+      "lifespan": "alive during framing scenes"
+    },
+    {
+      "name": "The Governess (manuscript author)",
+      "age": "20",
+      "personality": "young, nervously courageous, dutiful, impressionable",
+      "lifespan": "author of the manuscript; in the framing account she is reported as dead (the pages were sent before she died)"
+    },
+    {
+      "name": "Mrs. Grose",
+      "age": "middle-aged",
+      "personality": "practical, affectionate toward the children, loyal housekeeper",
+      "lifespan": "alive and acting as housekeeper/superintendent at Bly"
+    },
+    {
+      "name": "Miles",
+      "age": "young schoolboy (child)",
+      "personality": "polished but mysteriously affected; central child-ward",
+      "lifespan": "at Bly during the governess’s account; fate not fully revealed in excerpt"
+    },
+    {
+      "name": "Flora",
+      "age": "young child (child)",
+      "personality": "sweet, much looked after by Mrs. Grose; naive",
+      "lifespan": "at Bly during the governess’s account; fate not fully revealed in excerpt"
+    },
+    {
+      "name": "Former Governess (the deceased predecessor)",
+      "age": "older than her successor (text: \"she was ten years older\")",
+      "personality": "described as respectable and capable",
+      "lifespan": "died (her death precipitated the new governess’s appointment)"
+    },
+    {
+      "name": "The Guardian / Bachelor (employer)",
+      "age": "in the prime of life (adult)",
+      "personality": "handsome, off-hand, kind, gallant but distant; imposes strict condition of non-interference",
+      "lifespan": "alive and guardian of the children; remains remote and enigmatic"
+    },
+    {
+      "name": "Narrator's Sister",
+      "age": "adult (unspecified)",
+      "personality": "mentioned indirectly as employer relation; not central",
+      "lifespan": "alive when referenced; her former governess was known to narrator"
+    },
+    {
+      "name": "Cook (unnamed)",
+      "age": "adult",
+      "personality": "household servant; respectable",
+      "lifespan": "serves at Bly during the governess’s tenure"
+    },
+    {
+      "name": "Housemaid (unnamed)",
+      "age": "adult",
+      "personality": "household servant; respectable",
+      "lifespan": "serves at Bly during the governess’s tenure"
+    },
+    {
+      "name": "Dairywoman (unnamed)",
+      "age": "adult",
+      "personality": "household servant; respectable",
+      "lifespan": "serves at Bly during the governess’s tenure"
+    },
+    {
+      "name": "Old Groom (unnamed)",
+      "age": "elderly",
+      "personality": "longstanding servant; respectable",
+      "lifespan": "serves at Bly during the governess’s tenure"
+    },
+    {
+      "name": "Old Gardener (unnamed)",
+      "age": "elderly",
+      "personality": "longstanding servant; respectable",
+      "lifespan": "serves at Bly during the governess’s tenure"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Harley Street, London",
+      "latitude": 51.5176,
+      "longitude": -0.1439
+    },
+    {
+      "name": "Essex (county, country home/Bly)",
+      "latitude": 51.7356,
+      "longitude": 0.4685
+    },
+    {
+      "name": "Trinity (Trinity College, Cambridge)",
+      "latitude": 52.2053,
+      "longitude": 0.1218
+    },
+    {
+      "name": "Hampshire (vicarage region)",
+      "latitude": 51.0629,
+      "longitude": -1.3168
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "gruesome",
+      "definition": "causing repulsion or horror",
+      "context": "describes the kind of tale told round the fire"
+    },
+    {
+      "word": "visitation",
+      "definition": "an appearance, often of a supernatural kind",
+      "context": "used of an apparition that had fallen on a child"
+    },
+    {
+      "word": "apparition",
+      "definition": "a ghostly figure or sudden appearance",
+      "context": "the frightening sight that woke the child and mother"
+    },
+    {
+      "word": "dreadful",
+      "definition": "inspiring fear or dread",
+      "context": "Douglas used it to qualify the nature of the story"
+    },
+    {
+      "word": "dreadfulness",
+      "definition": "the quality of being dreadful",
+      "context": "Douglas exclaimed the story’s ‘dreadfulness’"
+    },
+    {
+      "word": "uncanny",
+      "definition": "strange or mysterious, especially in an unsettling way",
+      "context": "applied to the general feeling of the tale"
+    },
+    {
+      "word": "ugliness",
+      "definition": "the state of being unpleasant or repellent",
+      "context": "Douglas refers to ‘uncanny ugliness and horror’"
+    },
+    {
+      "word": "horror",
+      "definition": "an intense feeling of fear or disgust",
+      "context": "one of the sensations evoked by the narrative"
+    },
+    {
+      "word": "breathless",
+      "definition": "filled with suspense or excitement",
+      "context": "the story had held the listeners round the fire sufficiently breathless"
+    },
+    {
+      "word": "shudder",
+      "definition": "to tremble convulsively, as from fear",
+      "context": "the scene was not one for a shudder"
+    },
+    {
+      "word": "candlestuck",
+      "definition": "seated while holding a candle; an unusual descriptive coinage in the text",
+      "context": "used jokingly when people departed, ‘candlestuck’"
+    },
+    {
+      "word": "candlestick",
+      "definition": "a holder for a candle",
+      "context": "Douglas caught up a candlestick when leaving"
+    },
+    {
+      "word": "wincing",
+      "definition": "making a slight involuntary grimace from pain or distress",
+      "context": "Douglas passed his hand over his eyes, made a little wincing grimace"
+    },
+    {
+      "word": "grimace",
+      "definition": "a facial expression usually of disgust or discomfort",
+      "context": "describes Douglas’s expression while recalling the tale"
+    },
+    {
+      "word": "preoccupied",
+      "definition": "absorbed in thought; distracted",
+      "context": "Douglas was described as preoccupied in his manner"
+    },
+    {
+      "word": "triumph",
+      "definition": "a notable success or victory",
+      "context": "Douglas prepared his triumph by looking round the company"
+    },
+    {
+      "word": "packet",
+      "definition": "a small bundle of papers or letters",
+      "context": "the manuscript pages were enclosed in a packet sent by post"
+    },
+    {
+      "word": "manuscript",
+      "definition": "a handwritten or typed document",
+      "context": "the governess’s written account was a manuscript"
+    },
+    {
+      "word": "drawer",
+      "definition": "a sliding compartment in furniture used for storage",
+      "context": "the manuscript lay in a locked drawer"
+    },
+    {
+      "word": "faded",
+      "definition": "having lost brightness or freshness",
+      "context": "the manuscript was in old, faded ink"
+    },
+    {
+      "word": "ink",
+      "definition": "colored fluid used for writing",
+      "context": "the old, faded ink of the manuscript"
+    },
+    {
+      "word": "hand",
+      "definition": "style of handwriting",
+      "context": "the manuscript was noted to be in the most beautiful hand"
+    },
+    {
+      "word": "governess",
+      "definition": "a woman employed to teach and care for children in a private household",
+      "context": "central figure; the young woman hired to care for Flora and Miles"
+    },
+    {
+      "word": "Trinity",
+      "definition": "short for Trinity College (a Cambridge college)",
+      "context": "Douglas says he was at Trinity when he met the governess"
+    },
+    {
+      "word": "lawn",
+      "definition": "an area of short, mown grass in a garden",
+      "context": "Douglas recalls a corner of the lawn where a conversation took place"
+    },
+    {
+      "word": "beeches",
+      "definition": "large deciduous trees of the genus Fagus",
+      "context": "the shade of the great beeches on the lawn is mentioned"
+    },
+    {
+      "word": "afternoon",
+      "definition": "the part of the day between noon and evening",
+      "context": "a long, hot summer afternoon framed the recollection"
+    },
+    {
+      "word": "glow",
+      "definition": "a soft, bright light or radiance",
+      "context": "the gentleman was seen ‘all in a glow of high fashion’"
+    },
+    {
+      "word": "gallant",
+      "definition": "brave, spirited, or chivalrous; also fashionable and attentive to women",
+      "context": "the gentleman struck the governess as gallant"
+    },
+    {
+      "word": "splendid",
+      "definition": "magnificent and very impressive",
+      "context": "the gentleman appeared splendid to the governess"
+    },
+    {
+      "word": "extravagant",
+      "definition": "excessively elaborate or costly",
+      "context": "the gentleman was conceived as fearfully extravagant"
+    },
+    {
+      "word": "spoils",
+      "definition": "treasures or trophies taken by travel or conquest",
+      "context": "his town house was filled with the spoils of travel"
+    },
+    {
+      "word": "trophies",
+      "definition": "objects given or retained as a token of victory or travel",
+      "context": "the trophies of the chase decorated his house"
+    },
+    {
+      "word": "chase",
+      "definition": "the pursuit of game; hunting",
+      "context": "trophies of the chase are mentioned among his possessions"
+    },
+    {
+      "word": "country",
+      "definition": "rural area; used to indicate the country estate",
+      "context": "he had a country home in Essex to which he wished her to proceed"
+    },
+    {
+      "word": "Essex",
+      "definition": "a county in eastern England",
+      "context": "the family’s country place, Bly, is in Essex"
+    },
+    {
+      "word": "Bly",
+      "definition": "the fictional country estate where the children live",
+      "context": "the estate the children occupy; central setting"
+    },
+    {
+      "word": "housekeeper",
+      "definition": "a woman in charge of household affairs",
+      "context": "Mrs. Grose acts as housekeeper at Bly"
+    },
+    {
+      "word": "superintendent",
+      "definition": "a person who supervises or directs",
+      "context": "Mrs. Grose is also acting as superintendent to Flora"
+    },
+    {
+      "word": "Grose",
+      "definition": "proper name (Mrs. Grose), housekeeper and confidante",
+      "context": "Mrs. Grose is introduced as the housekeeper"
+    },
+    {
+      "word": "maid",
+      "definition": "a female domestic servant",
+      "context": "there was formerly a maid and then a more recent governess"
+    },
+    {
+      "word": "dairywoman",
+      "definition": "a woman employed in making and selling dairy produce",
+      "context": "one of the respectable household servants at Bly"
+    },
+    {
+      "word": "pony",
+      "definition": "a small horse",
+      "context": "the household keeps an old pony"
+    },
+    {
+      "word": "groom",
+      "definition": "a man employed to look after horses",
+      "context": "an old groom was among the Bly staff"
+    },
+    {
+      "word": "gardener",
+      "definition": "a person who tends a garden",
+      "context": "an old gardener served at Bly"
+    },
+    {
+      "word": "term",
+      "definition": "a period during which school is in session",
+      "context": "Miles had been at school for a term"
+    },
+    {
+      "word": "holidays",
+      "definition": "school vacation periods",
+      "context": "the governess would have to look after the boy in holidays"
+    },
+    {
+      "word": "schoolroom",
+      "definition": "a room where instruction is given",
+      "context": "the governess had taken service for the first time in the schoolroom"
+    },
+    {
+      "word": "parson",
+      "definition": "a member of the clergy, typically a parish priest",
+      "context": "the children were daughters/sons of a poor country parson"
+    },
+    {
+      "word": "nephew",
+      "definition": "a son of one’s sibling",
+      "context": "the gentleman had been guardian to a small nephew"
+    },
+    {
+      "word": "niece",
+      "definition": "a daughter of one’s sibling",
+      "context": "and a small niece whom he had left at Bly"
+    },
+    {
+      "word": "misfortune",
+      "definition": "bad luck or an unfortunate event",
+      "context": "the household had the misfortune to lose the former governess"
+    },
+    {
+      "word": "respectable",
+      "definition": "regarded by society as proper or decent",
+      "context": "the former governess was described as a most respectable person"
+    },
+    {
+      "word": "awkwardness",
+      "definition": "an uncomfortable or difficult situation",
+      "context": "her death left the awkwardness of putting Miles back to school"
+    },
+    {
+      "word": "solicitor",
+      "definition": "a legal practitioner who handles legal affairs and transactions",
+      "context": "the governess was to receive monies from his solicitor"
+    },
+    {
+      "word": "disburdened",
+      "definition": "relieved of a burden",
+      "context": "when, for a moment, disburdened, he held her hand"
+    },
+    {
+      "word": "delighted",
+      "definition": "very pleased or glad",
+      "context": "she felt delighted when he thanked her for the sacrifice"
+    },
+    {
+      "word": "engaged",
+      "definition": "having agreed to do a job or be employed",
+      "context": "she engaged as governess after a second interview"
+    },
+    {
+      "word": "hesitated",
+      "definition": "paused before deciding",
+      "context": "she hesitated and took a couple of days to consider"
+    },
+    {
+      "word": "consult",
+      "definition": "seek advice or information",
+      "context": "she took days to consult and consider before accepting"
+    },
+    {
+      "word": "consider",
+      "definition": "think carefully about",
+      "context": "she considered the prospect of loneliness and duties"
+    },
+    {
+      "word": "salary",
+      "definition": "a fixed regular payment for employment",
+      "context": "the salary offered much exceeded her modest measure"
+    },
+    {
+      "word": "measure",
+      "definition": "an amount appropriate to someone’s situation",
+      "context": "the salary exceeded her modest measure"
+    },
+    {
+      "word": "fluttered",
+      "definition": "nervously excited or agitated",
+      "context": "a fluttered, anxious girl from a Hampshire vicarage"
+    },
+    {
+      "word": "anxious",
+      "definition": "experiencing worry or nervousness",
+      "context": "the governess was described as anxious about taking service"
+    },
+    {
+      "word": "patron",
+      "definition": "a person who gives support or employment",
+      "context": "the advertiser proved a gentleman and prospective patron"
+    },
+    {
+      "word": "bachelor",
+      "definition": "an unmarried man",
+      "context": "the employer was a gentleman and a bachelor"
+    },
+    {
+      "word": "gentleman",
+      "definition": "a courteous or well-bred man",
+      "context": "the employer is repeatedly characterized as a gentleman"
+    },
+    {
+      "word": "prime",
+      "definition": "the best or most vigorous stage",
+      "context": "he was in the prime of life"
+    },
+    {
+      "word": "figure",
+      "definition": "a person of importance or striking appearance",
+      "context": "one could fix his type; he was a figure in the governess’s view"
+    },
+    {
+      "word": "novel",
+      "definition": "a long fictional prose narrative",
+      "context": "he was a figure such as had risen in an old novel"
+    },
+    {
+      "word": "dream",
+      "definition": "a visionary creation of the imagination",
+      "context": "she had never seen such a figure except in a dream"
+    },
+    {
+      "word": "favor",
+      "definition": "an act of kindness or help",
+      "context": "he put the whole thing to her as a kind of favor"
+    },
+    {
+      "word": "obligation",
+      "definition": "a duty or commitment",
+      "context": "he spoke of the duty he should gratefully incur as an obligation"
+    },
+    {
+      "word": "incur",
+      "definition": "to become subject to something undesirable or onerous",
+      "context": "he should gratefully incur the obligation"
+    },
+    {
+      "word": "promise",
+      "definition": "a declaration that one will do something",
+      "context": "she promised never to trouble him and to take the whole thing over"
+    },
+    {
+      "word": "thanked",
+      "definition": "expressed gratitude",
+      "context": "he holding her hand thanked her for the sacrifice"
+    },
+    {
+      "word": "sacrifice",
+      "definition": "an act of giving up something valued",
+      "context": "her taking the post was called a sacrifice by him"
+    },
+    {
+      "word": "rewarded",
+      "definition": "given a recompense for an effort",
+      "context": "she felt already rewarded when he held her hand"
+    },
+    {
+      "word": "auditory",
+      "definition": "relating to an audience; an assemblage of listeners",
+      "context": "Douglas’s little final auditory is mentioned at the fire"
+    },
+    {
+      "word": "hushed",
+      "definition": "quieted or muted",
+      "context": "the circle listened in a hushed little company"
+    },
+    {
+      "word": "circle",
+      "definition": "a small group gathered together",
+      "context": "the hushed little circle round the hearth"
+    },
+    {
+      "word": "hearth",
+      "definition": "the floor of a fireplace; symbol of the fireside gathering",
+      "context": "the story was read round the hearth"
+    },
+    {
+      "word": "kick",
+      "definition": "a sudden push or blow with the foot",
+      "context": "Douglas gave a kick to a log in the fire"
+    },
+    {
+      "word": "log",
+      "definition": "a piece of wood used as fuel in a fire",
+      "context": "he kicked a log and watched it"
+    },
+    {
+      "word": "stair",
+      "definition": "a step or steps in a staircase",
+      "context": "they heard his step on the stair after he left"
+    },
+    {
+      "word": "rage",
+      "definition": "violent, often sudden, feeling; also used figuratively",
+      "context": "the departing ladies left in a rage of curiosity"
+    },
+    {
+      "word": "curiosity",
+      "definition": "a strong desire to know or learn something",
+      "context": "their rage of curiosity sent them away"
+    },
+    {
+      "word": "post",
+      "definition": "mail service or a particular mail delivery",
+      "context": "the key and packet were sent by post to his London apartments"
+    },
+    {
+      "word": "London",
+      "definition": "capital city of England",
+      "context": "referenced as site of his apartments and where a letter would be sent"
+    },
+    {
+      "word": "apartments",
+      "definition": "a set of rooms for living; here, city lodgings",
+      "context": "the packet was to be sent to his London apartments"
+    },
+    {
+      "word": "dinner",
+      "definition": "the main meal of the day",
+      "context": "they agreed to meet after dinner for Douglas’s reading"
+    },
+    {
+      "word": "evening",
+      "definition": "the latter part of the day",
+      "context": "the reading and gatherings occur in the evening"
+    },
+    {
+      "word": "read",
+      "definition": "to recite written material aloud",
+      "context": "Douglas read the manuscript to the company"
+    },
+    {
+      "word": "narrator",
+      "definition": "one who tells the story",
+      "context": "the framing voice who later transcribes the manuscript"
+    },
+    {
+      "word": "committed",
+      "definition": "entrusted for safekeeping",
+      "context": "Douglas committed the manuscript to the narrator before his death"
+    },
+    {
+      "word": "transcript",
+      "definition": "a written copy of dictated or recorded material",
+      "context": "the narrator presents an exact transcript of the manuscript"
+    },
+    {
+      "word": "impression",
+      "definition": "a strong effect produced on the mind",
+      "context": "Douglas said he had only taken the impression into his heart"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/209"
+}
