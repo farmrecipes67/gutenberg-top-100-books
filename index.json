@@ -1,0 +1,702 @@
+[
+  {
+    "gutenberg_id": 84,
+    "title": "Frankenstein; or, the modern prometheus",
+    "author": "Shelley, Mary Wollstonecraft",
+    "file": "books/00084-frankenstein-or-the-modern-prometheus.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/84"
+  },
+  {
+    "gutenberg_id": 768,
+    "title": "Wuthering Heights",
+    "author": "Brontë, Emily",
+    "file": "books/00768-wuthering-heights.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/768"
+  },
+  {
+    "gutenberg_id": 2701,
+    "title": "Moby Dick; Or, The Whale",
+    "author": "Melville, Herman",
+    "file": "books/02701-moby-dick-or-the-whale.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2701"
+  },
+  {
+    "gutenberg_id": 1342,
+    "title": "Pride and Prejudice",
+    "author": "Austen, Jane",
+    "file": "books/01342-pride-and-prejudice.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1342"
+  },
+  {
+    "gutenberg_id": 1513,
+    "title": "Romeo and Juliet",
+    "author": "Shakespeare, William",
+    "file": "books/01513-romeo-and-juliet.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1513"
+  },
+  {
+    "gutenberg_id": 100,
+    "title": "The Complete Works of William Shakespeare",
+    "author": "Shakespeare, William",
+    "file": "books/00100-the-complete-works-of-william-shakespeare.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/100"
+  },
+  {
+    "gutenberg_id": 2641,
+    "title": "A Room with a View",
+    "author": "Forster, E. M. (Edward Morgan)",
+    "file": "books/02641-a-room-with-a-view.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2641"
+  },
+  {
+    "gutenberg_id": 11,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Carroll, Lewis",
+    "file": "books/00011-alice-s-adventures-in-wonderland.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/11"
+  },
+  {
+    "gutenberg_id": 26184,
+    "title": "Simple Sabotage Field Manual",
+    "author": "United States. Office of Strategic Services",
+    "file": "books/26184-simple-sabotage-field-manual.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/26184"
+  },
+  {
+    "gutenberg_id": 43,
+    "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+    "author": "Stevenson, Robert Louis",
+    "file": "books/00043-the-strange-case-of-dr-jekyll-and-mr-hyde.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/43"
+  },
+  {
+    "gutenberg_id": 145,
+    "title": "Middlemarch",
+    "author": "Eliot, George",
+    "file": "books/00145-middlemarch.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/145"
+  },
+  {
+    "gutenberg_id": 37106,
+    "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+    "author": "Alcott, Louisa May",
+    "file": "books/37106-little-women-or-meg-jo-beth-and-amy.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/37106"
+  },
+  {
+    "gutenberg_id": 64317,
+    "title": "The Great Gatsby",
+    "author": "Fitzgerald, F. Scott (Francis Scott)",
+    "file": "books/64317-the-great-gatsby.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/64317"
+  },
+  {
+    "gutenberg_id": 1260,
+    "title": "Jane Eyre: An Autobiography",
+    "author": "Brontë, Charlotte",
+    "file": "books/01260-jane-eyre-an-autobiography.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1260"
+  },
+  {
+    "gutenberg_id": 67979,
+    "title": "The Blue Castle: a novel",
+    "author": "Montgomery, L. M. (Lucy Maud)",
+    "file": "books/67979-the-blue-castle-a-novel.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/67979"
+  },
+  {
+    "gutenberg_id": 2554,
+    "title": "Crime and Punishment",
+    "author": "Dostoyevsky, Fyodor",
+    "file": "books/02554-crime-and-punishment.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2554"
+  },
+  {
+    "gutenberg_id": 16389,
+    "title": "The Enchanted April",
+    "author": "Von Arnim, Elizabeth",
+    "file": "books/16389-the-enchanted-april.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/16389"
+  },
+  {
+    "gutenberg_id": 174,
+    "title": "The Picture of Dorian Gray",
+    "author": "Wilde, Oscar",
+    "file": "books/00174-the-picture-of-dorian-gray.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/174"
+  },
+  {
+    "gutenberg_id": 1259,
+    "title": "Twenty years after",
+    "author": "Dumas, Alexandre",
+    "file": "books/01259-twenty-years-after.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1259"
+  },
+  {
+    "gutenberg_id": 5197,
+    "title": "My Life — Volume 1",
+    "author": "Wagner, Richard",
+    "file": "books/05197-my-life-volume-1.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/5197"
+  },
+  {
+    "gutenberg_id": 394,
+    "title": "Cranford",
+    "author": "Gaskell, Elizabeth Cleghorn",
+    "file": "books/00394-cranford.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/394"
+  },
+  {
+    "gutenberg_id": 2160,
+    "title": "The Expedition of Humphry Clinker",
+    "author": "Smollett, T. (Tobias)",
+    "file": "books/02160-the-expedition-of-humphry-clinker.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2160"
+  },
+  {
+    "gutenberg_id": 6761,
+    "title": "The Adventures of Ferdinand Count Fathom — Complete",
+    "author": "Smollett, T. (Tobias)",
+    "file": "books/06761-the-adventures-of-ferdinand-count-fathom-complet.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/6761"
+  },
+  {
+    "gutenberg_id": 16328,
+    "title": "Beowulf: An Anglo-Saxon Epic Poem",
+    "author": "Unknown Author",
+    "file": "books/16328-beowulf-an-anglo-saxon-epic-poem.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/16328"
+  },
+  {
+    "gutenberg_id": 4085,
+    "title": "The Adventures of Roderick Random",
+    "author": "Smollett, T. (Tobias)",
+    "file": "books/04085-the-adventures-of-roderick-random.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/4085"
+  },
+  {
+    "gutenberg_id": 6593,
+    "title": "History of Tom Jones, a Foundling",
+    "author": "Fielding, Henry",
+    "file": "books/06593-history-of-tom-jones-a-foundling.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/6593"
+  },
+  {
+    "gutenberg_id": 1080,
+    "title": "A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick",
+    "author": "Swift, Jonathan",
+    "file": "books/01080-a-modest-proposal-for-preventing-the-children-of-.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1080"
+  },
+  {
+    "gutenberg_id": 2542,
+    "title": "A Doll's House : a play",
+    "author": "Ibsen, Henrik",
+    "file": "books/02542-a-doll-s-house-a-play.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2542"
+  },
+  {
+    "gutenberg_id": 345,
+    "title": "Dracula",
+    "author": "Stoker, Bram",
+    "file": "books/00345-dracula.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/345"
+  },
+  {
+    "gutenberg_id": 844,
+    "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+    "author": "Wilde, Oscar",
+    "file": "books/00844-the-importance-of-being-earnest-a-trivial-comedy-.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/844"
+  },
+  {
+    "gutenberg_id": 76,
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Twain, Mark",
+    "file": "books/00076-adventures-of-huckleberry-finn.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/76"
+  },
+  {
+    "gutenberg_id": 98,
+    "title": "A Tale of Two Cities",
+    "author": "Dickens, Charles",
+    "file": "books/00098-a-tale-of-two-cities.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/98"
+  },
+  {
+    "gutenberg_id": 8492,
+    "title": "The King in Yellow",
+    "author": "Chambers, Robert W. (Robert William)",
+    "file": "books/08492-the-king-in-yellow.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/8492"
+  },
+  {
+    "gutenberg_id": 1661,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan",
+    "file": "books/01661-the-adventures-of-sherlock-holmes.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1661"
+  },
+  {
+    "gutenberg_id": 1184,
+    "title": "The Count of Monte Cristo",
+    "author": "Dumas, Alexandre",
+    "file": "books/01184-the-count-of-monte-cristo.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1184"
+  },
+  {
+    "gutenberg_id": 28054,
+    "title": "The Brothers Karamazov",
+    "author": "Dostoyevsky, Fyodor",
+    "file": "books/28054-the-brothers-karamazov.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/28054"
+  },
+  {
+    "gutenberg_id": 1952,
+    "title": "The Yellow Wallpaper",
+    "author": "Gilman, Charlotte Perkins",
+    "file": "books/01952-the-yellow-wallpaper.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1952"
+  },
+  {
+    "gutenberg_id": 7290,
+    "title": "韓詩外傳, Complete",
+    "author": "Han, Ying, active 150 B.C.",
+    "file": "books/07290--complete.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/7290"
+  },
+  {
+    "gutenberg_id": 1232,
+    "title": "The Prince",
+    "author": "Machiavelli, Niccolò",
+    "file": "books/01232-the-prince.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1232"
+  },
+  {
+    "gutenberg_id": 3207,
+    "title": "Leviathan",
+    "author": "Hobbes, Thomas",
+    "file": "books/03207-leviathan.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/3207"
+  },
+  {
+    "gutenberg_id": 1400,
+    "title": "Great Expectations",
+    "author": "Dickens, Charles",
+    "file": "books/01400-great-expectations.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1400"
+  },
+  {
+    "gutenberg_id": 5200,
+    "title": "Metamorphosis",
+    "author": "Kafka, Franz",
+    "file": "books/05200-metamorphosis.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/5200"
+  },
+  {
+    "gutenberg_id": 6271,
+    "title": "Embers, Complete",
+    "author": "Parker, Gilbert",
+    "file": "books/06271-embers-complete.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/6271"
+  },
+  {
+    "gutenberg_id": 2591,
+    "title": "Grimms' Fairy Tales",
+    "author": "Grimm, Jacob",
+    "file": "books/02591-grimms-fairy-tales.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2591"
+  },
+  {
+    "gutenberg_id": 36034,
+    "title": "White nights, and other stories",
+    "author": "Dostoyevsky, Fyodor",
+    "file": "books/36034-white-nights-and-other-stories.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/36034"
+  },
+  {
+    "gutenberg_id": 25344,
+    "title": "The Scarlet Letter",
+    "author": "Hawthorne, Nathaniel",
+    "file": "books/25344-the-scarlet-letter.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/25344"
+  },
+  {
+    "gutenberg_id": 205,
+    "title": "Walden, and On The Duty Of Civil Disobedience",
+    "author": "Thoreau, Henry David",
+    "file": "books/00205-walden-and-on-the-duty-of-civil-disobedience.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/205"
+  },
+  {
+    "gutenberg_id": 4300,
+    "title": "Ulysses",
+    "author": "Joyce, James",
+    "file": "books/04300-ulysses.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/4300"
+  },
+  {
+    "gutenberg_id": 74,
+    "title": "The Adventures of Tom Sawyer, Complete",
+    "author": "Twain, Mark",
+    "file": "books/00074-the-adventures-of-tom-sawyer-complete.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/74"
+  },
+  {
+    "gutenberg_id": 1998,
+    "title": "Thus Spake Zarathustra: A Book for All and None",
+    "author": "Nietzsche, Friedrich Wilhelm",
+    "file": "books/01998-thus-spake-zarathustra-a-book-for-all-and-none.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1998"
+  },
+  {
+    "gutenberg_id": 408,
+    "title": "The Souls of Black Folk",
+    "author": "Du Bois, W. E. B. (William Edward Burghardt)",
+    "file": "books/00408-the-souls-of-black-folk.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/408"
+  },
+  {
+    "gutenberg_id": 2600,
+    "title": "War and Peace",
+    "author": "Tolstoy, Leo, graf",
+    "file": "books/02600-war-and-peace.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2600"
+  },
+  {
+    "gutenberg_id": 45,
+    "title": "Anne of Green Gables",
+    "author": "Montgomery, L. M. (Lucy Maud)",
+    "file": "books/00045-anne-of-green-gables.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/45"
+  },
+  {
+    "gutenberg_id": 3206,
+    "title": "Moby Multiple Language Lists of Common Words",
+    "author": "Ward, Grady",
+    "file": "books/03206-moby-multiple-language-lists-of-common-words.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/3206"
+  },
+  {
+    "gutenberg_id": 7370,
+    "title": "Second Treatise of Government",
+    "author": "Locke, John",
+    "file": "books/07370-second-treatise-of-government.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/7370"
+  },
+  {
+    "gutenberg_id": 3296,
+    "title": "The Confessions of St. Augustine",
+    "author": "Augustine, of Hippo, Saint",
+    "file": "books/03296-the-confessions-of-st-augustine.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/3296"
+  },
+  {
+    "gutenberg_id": 120,
+    "title": "Treasure Island",
+    "author": "Stevenson, Robert Louis",
+    "file": "books/00120-treasure-island.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/120"
+  },
+  {
+    "gutenberg_id": 23,
+    "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+    "author": "Douglass, Frederick",
+    "file": "books/00023-narrative-of-the-life-of-frederick-douglass-an-am.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/23"
+  },
+  {
+    "gutenberg_id": 52205,
+    "title": "肉蒲團",
+    "author": "Li, Yu",
+    "file": "books/52205--.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/52205"
+  },
+  {
+    "gutenberg_id": 27673,
+    "title": "Oedipus King of Thebes: Translated into English Rhyming Verse with Explanatory Notes",
+    "author": "Sophocles",
+    "file": "books/27673-oedipus-king-of-thebes-translated-into-english-rh.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/27673"
+  },
+  {
+    "gutenberg_id": 45109,
+    "title": "The Enchiridion",
+    "author": "Epictetus",
+    "file": "books/45109-the-enchiridion.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/45109"
+  },
+  {
+    "gutenberg_id": 1727,
+    "title": "The Odyssey: Rendered into English prose for the use of those who cannot read the original",
+    "author": "Homer",
+    "file": "books/01727-the-odyssey-rendered-into-english-prose-for-the-u.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1727"
+  },
+  {
+    "gutenberg_id": 2680,
+    "title": "Meditations",
+    "author": "Marcus Aurelius, Emperor of Rome",
+    "file": "books/02680-meditations.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2680"
+  },
+  {
+    "gutenberg_id": 55,
+    "title": "The Wonderful Wizard of Oz",
+    "author": "Baum, L. Frank (Lyman Frank)",
+    "file": "books/00055-the-wonderful-wizard-of-oz.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/55"
+  },
+  {
+    "gutenberg_id": 1497,
+    "title": "The Republic",
+    "author": "Plato",
+    "file": "books/01497-the-republic.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1497"
+  },
+  {
+    "gutenberg_id": 45304,
+    "title": "The City of God, Volume I",
+    "author": "Augustine, of Hippo, Saint",
+    "file": "books/45304-the-city-of-god-volume-i.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/45304"
+  },
+  {
+    "gutenberg_id": 4363,
+    "title": "Beyond Good and Evil",
+    "author": "Nietzsche, Friedrich Wilhelm",
+    "file": "books/04363-beyond-good-and-evil.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/4363"
+  },
+  {
+    "gutenberg_id": 72679,
+    "title": "The lesser Key of Solomon, Goetia, the book of evil spirits : $b contains two hundred diagrams and seals for invocation and convocation of spirits, necromancy, witchcraft and black art",
+    "author": "Unknown Author",
+    "file": "books/72679-the-lesser-key-of-solomon-goetia-the-book-of-evi.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/72679"
+  },
+  {
+    "gutenberg_id": 244,
+    "title": "A Study in Scarlet",
+    "author": "Doyle, Arthur Conan",
+    "file": "books/00244-a-study-in-scarlet.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/244"
+  },
+  {
+    "gutenberg_id": 8800,
+    "title": "The divine comedy",
+    "author": "Dante Alighieri",
+    "file": "books/08800-the-divine-comedy.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/8800"
+  },
+  {
+    "gutenberg_id": 2148,
+    "title": "The Works of Edgar Allan Poe — Volume 2",
+    "author": "Poe, Edgar Allan",
+    "file": "books/02148-the-works-of-edgar-allan-poe-volume-2.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2148"
+  },
+  {
+    "gutenberg_id": 161,
+    "title": "Sense and Sensibility",
+    "author": "Austen, Jane",
+    "file": "books/00161-sense-and-sensibility.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/161"
+  },
+  {
+    "gutenberg_id": 15399,
+    "title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African: Written By Himself",
+    "author": "Equiano, Olaudah",
+    "file": "books/15399-the-interesting-narrative-of-the-life-of-olaudah-e.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/15399"
+  },
+  {
+    "gutenberg_id": 2852,
+    "title": "The Hound of the Baskervilles",
+    "author": "Doyle, Arthur Conan",
+    "file": "books/02852-the-hound-of-the-baskervilles.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2852"
+  },
+  {
+    "gutenberg_id": 829,
+    "title": "Gulliver's Travels into Several Remote Nations of the World",
+    "author": "Swift, Jonathan",
+    "file": "books/00829-gulliver-s-travels-into-several-remote-nations-of-.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/829"
+  },
+  {
+    "gutenberg_id": 7735,
+    "title": "Paul Clifford — Complete",
+    "author": "Lytton, Edward Bulwer Lytton, Baron",
+    "file": "books/07735-paul-clifford-complete.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/7735"
+  },
+  {
+    "gutenberg_id": 73887,
+    "title": "Modern ships of war",
+    "author": "Reed, Edward J. (Edward James), Sir",
+    "file": "books/73887-modern-ships-of-war.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/73887"
+  },
+  {
+    "gutenberg_id": 1399,
+    "title": "Anna Karenina",
+    "author": "Tolstoy, Leo, graf",
+    "file": "books/01399-anna-karenina.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1399"
+  },
+  {
+    "gutenberg_id": 25162,
+    "title": "池北偶談",
+    "author": "Wang, Shizhen",
+    "file": "books/25162--.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/25162"
+  },
+  {
+    "gutenberg_id": 1719,
+    "title": "The Ballad of the White Horse",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "file": "books/01719-the-ballad-of-the-white-horse.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1719"
+  },
+  {
+    "gutenberg_id": 41445,
+    "title": "Frankenstein; Or, The Modern Prometheus",
+    "author": "Shelley, Mary Wollstonecraft",
+    "file": "books/41445-frankenstein-or-the-modern-prometheus.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/41445"
+  },
+  {
+    "gutenberg_id": 219,
+    "title": "Heart of Darkness",
+    "author": "Conrad, Joseph",
+    "file": "books/00219-heart-of-darkness.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/219"
+  },
+  {
+    "gutenberg_id": 34901,
+    "title": "On Liberty",
+    "author": "Mill, John Stuart",
+    "file": "books/34901-on-liberty.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/34901"
+  },
+  {
+    "gutenberg_id": 47629,
+    "title": "Ang \"Filibusterismo\" (Karugtóng ng Noli Me Tangere)",
+    "author": "Rizal, José",
+    "file": "books/47629-ang-filibusterismo-karugt-ng-ng-noli-me-tangere.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/47629"
+  },
+  {
+    "gutenberg_id": 996,
+    "title": "Don Quixote",
+    "author": "Cervantes Saavedra, Miguel de",
+    "file": "books/00996-don-quixote.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/996"
+  },
+  {
+    "gutenberg_id": 46,
+    "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+    "author": "Dickens, Charles",
+    "file": "books/00046-a-christmas-carol-in-prose-being-a-ghost-story-of.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/46"
+  },
+  {
+    "gutenberg_id": 132,
+    "title": "The Art of War",
+    "author": "Sunzi, active 6th century B.C.",
+    "file": "books/00132-the-art-of-war.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/132"
+  },
+  {
+    "gutenberg_id": 30254,
+    "title": "The Romance of Lust: A classic Victorian erotic novel",
+    "author": "Anonymous",
+    "file": "books/30254-the-romance-of-lust-a-classic-victorian-erotic-no.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/30254"
+  },
+  {
+    "gutenberg_id": 6130,
+    "title": "The Iliad",
+    "author": "Homer",
+    "file": "books/06130-the-iliad.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/6130"
+  },
+  {
+    "gutenberg_id": 10676,
+    "title": "The Reign of Greed",
+    "author": "Rizal, José",
+    "file": "books/10676-the-reign-of-greed.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/10676"
+  },
+  {
+    "gutenberg_id": 16,
+    "title": "Peter Pan : $b [Peter and Wendy]",
+    "author": "Barrie, J. M. (James Matthew)",
+    "file": "books/00016-peter-pan-b-peter-and-wendy-.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/16"
+  },
+  {
+    "gutenberg_id": 52206,
+    "title": "隨園詩話",
+    "author": "Yuan, Mei",
+    "file": "books/52206--.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/52206"
+  },
+  {
+    "gutenberg_id": 42324,
+    "title": "Frankenstein; Or, The Modern Prometheus",
+    "author": "Shelley, Mary Wollstonecraft",
+    "file": "books/42324-frankenstein-or-the-modern-prometheus.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/42324"
+  },
+  {
+    "gutenberg_id": 45502,
+    "title": "How the Other Half Lives: Studies Among the Tenements of New York",
+    "author": "Riis, Jacob A. (Jacob August)",
+    "file": "books/45502-how-the-other-half-lives-studies-among-the-teneme.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/45502"
+  },
+  {
+    "gutenberg_id": 165,
+    "title": "McTeague: A Story of San Francisco",
+    "author": "Norris, Frank",
+    "file": "books/00165-mcteague-a-story-of-san-francisco.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/165"
+  },
+  {
+    "gutenberg_id": 1023,
+    "title": "Bleak House",
+    "author": "Dickens, Charles",
+    "file": "books/01023-bleak-house.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/1023"
+  },
+  {
+    "gutenberg_id": 135,
+    "title": "Les Misérables",
+    "author": "Hugo, Victor",
+    "file": "books/00135-les-mis-rables.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/135"
+  },
+  {
+    "gutenberg_id": 209,
+    "title": "The Turn of the Screw",
+    "author": "James, Henry",
+    "file": "books/00209-the-turn-of-the-screw.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/209"
+  },
+  {
+    "gutenberg_id": 19315,
+    "title": "The Poems of Giacomo Leopardi",
+    "author": "Leopardi, Giacomo",
+    "file": "books/19315-the-poems-of-giacomo-leopardi.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/19315"
+  },
+  {
+    "gutenberg_id": 2814,
+    "title": "Dubliners",
+    "author": "Joyce, James",
+    "file": "books/02814-dubliners.json",
+    "gutenberg_url": "https://www.gutenberg.org/ebooks/2814"
+  }
+]
