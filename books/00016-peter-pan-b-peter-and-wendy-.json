@@ -1,0 +1,577 @@
+{
+  "gutenberg_id": 16,
+  "title": "Peter Pan : $b [Peter and Wendy]",
+  "author": "Barrie, J. M. (James Matthew)",
+  "summary": "Peter Pan begins in the Darling household where Mrs. and Mr. Darling, with children Wendy, John, and Michael, keep an orderly nursery tended by Nana, a prim Newfoundland nurse-dog, and maid Liza. Wendy discovers a recurring name, Peter, sketched repeatedly across her mind; she believes Peter Pan visits at night, leaving unfamiliar skeleton leaves by the high nursery window. Mr. Darling dismisses such talk as nonsense, but Mrs. Darling is perplexed. The chapter describes the parents’ domestic routines, financial fussing, children’s imagined Neverlands, and the cozy, teasing tone that makes Peter’s impending intrusion feel both real and whimsical.",
+  "characters": [
+    {
+      "name": "Wendy Darling",
+      "age": "child (was two years old in an early memory; current age unspecified)",
+      "personality": "tidy, imaginative, nurturing, earnest",
+      "lifespan": "present in the household; fate not revealed in the provided text"
+    },
+    {
+      "name": "Mr. Darling (George)",
+      "age": "adult (middle-aged)",
+      "personality": "practical, fiscally minded, proud of position",
+      "lifespan": "present; fate not revealed in the provided text"
+    },
+    {
+      "name": "Mrs. Darling",
+      "age": "adult (middle-aged)",
+      "personality": "romantic-minded, affectionate, fond of order",
+      "lifespan": "present; fate not revealed in the provided text"
+    },
+    {
+      "name": "John Darling",
+      "age": "child",
+      "personality": "imaginative, somewhat serious (has a detailed Neverland)",
+      "lifespan": "present in the household; fate not revealed in the provided text"
+    },
+    {
+      "name": "Michael Darling",
+      "age": "child (very small)",
+      "personality": "playful, innocent",
+      "lifespan": "present in the household; fate not revealed in the provided text"
+    },
+    {
+      "name": "Nana",
+      "age": "adult (dog)",
+      "personality": "thorough, motherly, old-fashioned in remedies",
+      "lifespan": "present as the children’s nurse; fate not revealed in the provided text"
+    },
+    {
+      "name": "Liza",
+      "age": "adult (maid)",
+      "personality": "humble, diminutive in appearance, part of household service",
+      "lifespan": "present in the household; fate not revealed in the provided text"
+    },
+    {
+      "name": "Miss Fulsom",
+      "age": "adult",
+      "personality": "schoolmistress (runs the kindergarten where children attend)",
+      "lifespan": "mentioned as operator of the school; fate not revealed in the provided text"
+    },
+    {
+      "name": "Peter Pan",
+      "age": "childlike (not grown up)",
+      "personality": "cocky, mysterious, mischievous",
+      "lifespan": "mentioned as a nightly visitor; fate and full role not revealed in the provided text"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Kensington Gardens",
+      "latitude": 51.5069,
+      "longitude": -0.179
+    },
+    {
+      "name": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "perambulators",
+      "definition": "baby carriages; prams",
+      "context": "Nana peeps into perambulators in Kensington Gardens and follows nursemaids."
+    },
+    {
+      "word": "Brussels",
+      "definition": "referring to Brussels (type) as in Brussels sprout",
+      "context": "used in the phrase 'Brussels sprout' when Mrs. Darling kept accounts."
+    },
+    {
+      "word": "sprout",
+      "definition": "a small vegetable bud (Brussels sprout)",
+      "context": "mentioned as an item Mrs. Darling kept track of while totting up."
+    },
+    {
+      "word": "cauliflowers",
+      "definition": "large white-headed edible plant; used as an account entry",
+      "context": "whole cauliflowers dropped out of the ledger as Mrs. Darling drew babies."
+    },
+    {
+      "word": "innermost",
+      "definition": "most central or private",
+      "context": "the innermost box of Mrs. Darling's tiny-box metaphor for her secret."
+    },
+    {
+      "word": "box",
+      "definition": "a container; used metaphorically in the nested-box simile",
+      "context": "tiny boxes one within another describing Mrs. Darling's romantic mind."
+    },
+    {
+      "word": "stocks",
+      "definition": "financial securities or investments",
+      "context": "Mr. Darling boasts he knows about stocks and shares."
+    },
+    {
+      "word": "shares",
+      "definition": "units of stock or portions of ownership",
+      "context": "paired with 'stocks' in Mr. Darling's assumed expertise."
+    },
+    {
+      "word": "mumps",
+      "definition": "infectious disease used in household expense calculations",
+      "context": "Mr. Darling lists mumps as a potential cost when totalling expenses."
+    },
+    {
+      "word": "measles",
+      "definition": "infectious viral disease noted in budget estimates",
+      "context": "included by Mr. Darling among probable childhood illnesses and costs."
+    },
+    {
+      "word": "whooping-cough",
+      "definition": "pertussis, a childhood respiratory disease",
+      "context": "counted as a likely expense in Mr. Darling's calculations."
+    },
+    {
+      "word": "nurse",
+      "definition": "caregiver for children; here Nana acts as nurse",
+      "context": "the household employs a nurse; Nana is the nurse-dog caring for the children."
+    },
+    {
+      "word": "Newfoundland",
+      "definition": "a large dog breed originating from Newfoundland",
+      "context": "Nana is a prim Newfoundland dog engaged as the children's nurse."
+    },
+    {
+      "word": "kennel",
+      "definition": "a dog's shelter or sleeping place",
+      "context": "Nana's kennel was in the nursery."
+    },
+    {
+      "word": "rhubarb",
+      "definition": "a plant whose leaf was used as an old-fashioned remedy",
+      "context": "Nana believed in remedies like rhubarb leaf and scorned germs talk."
+    },
+    {
+      "word": "germs",
+      "definition": "microorganisms causing disease; 'new-fangled' concept in text",
+      "context": "mentioned as modern talk that Nana made sounds of contempt over."
+    },
+    {
+      "word": "footer",
+      "definition": "a child's clothing or event term; 'footer days' referenced",
+      "context": "On John's footer days Nana never forgot his sweater."
+    },
+    {
+      "word": "umbrella",
+      "definition": "rain protection device",
+      "context": "Nana usually carried an umbrella in her mouth in case of rain."
+    },
+    {
+      "word": "forms",
+      "definition": "benches where nurses sat in Miss Fulsom's school",
+      "context": "The nurses sat on forms in the school basement while Nana lay on the floor."
+    },
+    {
+      "word": "romps",
+      "definition": "boisterous, lively play sessions",
+      "context": "Describes the gaiety and dances in the Darling household."
+    },
+    {
+      "word": "midget",
+      "definition": "a very small person (used in describing Liza's appearance)",
+      "context": "Liza looked a midget in her long skirt and maid's cap."
+    },
+    {
+      "word": "pirouette",
+      "definition": "a spinning dance movement",
+      "context": "Mrs. Darling would pirouette so wildly that only her kiss could be seen."
+    },
+    {
+      "word": "kiss",
+      "definition": "a small affectionate gesture; here a visible mark on Mrs. Darling's mouth",
+      "context": "A conspicuous kiss remained on the right-hand corner of Mrs. Darling's mouth."
+    },
+    {
+      "word": "tidying",
+      "definition": "making orderly; used for mothers organizing children's minds",
+      "context": "Mrs. Darling tidies up her children's minds each night, repacking thoughts."
+    },
+    {
+      "word": "rummage",
+      "definition": "to search and sort through messily; used metaphorically",
+      "context": "Mothers 'rummage' in their children's minds to put things straight."
+    },
+    {
+      "word": "repacking",
+      "definition": "packing again into proper places",
+      "context": "Repacking children's thoughts into their proper places for next morning."
+    },
+    {
+      "word": "zigzag",
+      "definition": "having sharp turns or angles; used to describe lines on a child's mind map",
+      "context": "There are zigzag lines on a child's mind, likened to roads in the island."
+    },
+    {
+      "word": "coral",
+      "definition": "marine invertebrate forming reefs",
+      "context": "The Neverland map includes coral reefs along its shores."
+    },
+    {
+      "word": "reefs",
+      "definition": "submerged ridges of rock or coral",
+      "context": "Mentioned as part of the Neverland's seascape."
+    },
+    {
+      "word": "rakish-looking",
+      "definition": "having a jaunty, slightly disreputable appearance",
+      "context": "Used to describe clever-looking craft in the Neverland offing."
+    },
+    {
+      "word": "gnomes",
+      "definition": "mythical small creatures often associated with craft or thrift",
+      "context": "In the Neverland there are gnomes who are mostly tailors."
+    },
+    {
+      "word": "coracles",
+      "definition": "small rounded boats",
+      "context": "Children at play are forever beaching their coracles on magic shores."
+    },
+    {
+      "word": "lagoon",
+      "definition": "a shallow body of water separated from a larger sea",
+      "context": "John's Neverland had a lagoon with flamingoes flying over it."
+    },
+    {
+      "word": "flamingoes",
+      "definition": "long-legged pink wading birds",
+      "context": "John imagined flamingoes flying over his lagoon in Neverland."
+    },
+    {
+      "word": "wigwam",
+      "definition": "a dome-shaped Native American dwelling",
+      "context": "Michael's Neverland home is a wigwam."
+    },
+    {
+      "word": "hut",
+      "definition": "a small simple dwelling",
+      "context": "The island map includes a hut fast going to decay."
+    },
+    {
+      "word": "savages",
+      "definition": "term used in the text for indigenous or fierce people (period language)",
+      "context": "Savages appear among the adventures on Neverland shores."
+    },
+    {
+      "word": "lairs",
+      "definition": "dens or resting places of wild animals",
+      "context": "Neverland includes lonely lairs in its geography."
+    },
+    {
+      "word": "princes",
+      "definition": "royal males; appears among imagined characters",
+      "context": "The Neverland contains princes with six elder brothers."
+    },
+    {
+      "word": "elder",
+      "definition": "older in rank or age",
+      "context": "Used in reference to 'six elder brothers' of a prince."
+    },
+    {
+      "word": "needle-work",
+      "definition": "sewing or embroidery tasks",
+      "context": "Included among the miscellaneous items visible on a child's mind-map."
+    },
+    {
+      "word": "murders",
+      "definition": "homicides; mentioned as part of a chaotic child's mental map",
+      "context": "Murder appears among the assorted thoughts in a child's mind-map."
+    },
+    {
+      "word": "hangings",
+      "definition": "executions by hanging; part of vivid mental images",
+      "context": "Hangings are listed among drastic items on the child's mental map."
+    },
+    {
+      "word": "verbs",
+      "definition": "words that indicate actions or states",
+      "context": "The map even includes 'verbs that take the dative' as a child's worry."
+    },
+    {
+      "word": "dative",
+      "definition": "a grammatical case marking indirect objects",
+      "context": "Mentioned humorously among schoolish concerns on the mind-map."
+    },
+    {
+      "word": "chocolate",
+      "definition": "sweet confection; part of domestic delights",
+      "context": "Chocolate pudding day appears as a bright spot on the child's map."
+    },
+    {
+      "word": "pudding",
+      "definition": "a dessert; here referenced as a notable day",
+      "context": "Chocolate pudding day is a memorable thought for children."
+    },
+    {
+      "word": "braces",
+      "definition": "suspenders for trousers; a child's clothing issue",
+      "context": "Getting into braces is listed among childhood concerns on the map."
+    },
+    {
+      "word": "Neverland",
+      "definition": "an imaginary island of perpetual childhood",
+      "context": "The Neverland is the central imagined island of the children."
+    },
+    {
+      "word": "Neverlands",
+      "definition": "plural of Neverland; different children's versions",
+      "context": "The Neverlands vary; each child's Neverland has its own features."
+    },
+    {
+      "word": "snuggest",
+      "definition": "most snug or compact",
+      "context": "Of all delectable islands the Neverland is the snuggest and most compact."
+    },
+    {
+      "word": "sprawly",
+      "definition": "sprawling in an untidy or extensive way",
+      "context": "Contrasted with Neverland, which is not large and sprawly."
+    },
+    {
+      "word": "beaching",
+      "definition": "bringing a boat onto the shore",
+      "context": "Children at play are forever beaching their coracles."
+    },
+    {
+      "word": "night-lights",
+      "definition": "small lights used at night",
+      "context": "The two minutes before sleep make the Neverland real; that is why there are night-lights."
+    },
+    {
+      "word": "perplexing",
+      "definition": "puzzling or baffling",
+      "context": "The word 'Peter' is described as quite perplexing to Mrs. Darling."
+    },
+    {
+      "word": "scrawled",
+      "definition": "written or drawn in a careless or hurried way",
+      "context": "Wendy's mind is 'scrawled all over' with the name Peter."
+    },
+    {
+      "word": "cocky",
+      "definition": "self-assertive in an irritating way",
+      "context": "The name Peter had an oddly cocky appearance on the mind-map."
+    },
+    {
+      "word": "tolerant",
+      "definition": "showing willingness to allow the existence of opinions or behavior",
+      "context": "Wendy smiled a tolerant smile when mentioning Peter to her mother."
+    },
+    {
+      "word": "skeleton",
+      "definition": "a leaf reduced to veins; here 'skeleton leaves'",
+      "context": "Mrs. Darling examined skeleton leaves found on the nursery floor."
+    },
+    {
+      "word": "leaves",
+      "definition": "foliage; here found near the nursery window",
+      "context": "Skeleton leaves were found at the foot of the nursery window."
+    },
+    {
+      "word": "window",
+      "definition": "an opening in the wall; high nursery window mentioned",
+      "context": "Wendy thought Peter might come in by the nursery window."
+    },
+    {
+      "word": "nursery",
+      "definition": "room where young children are cared for",
+      "context": "Most action in the chapter centers on the Darling nursery."
+    },
+    {
+      "word": "romantic",
+      "definition": "characterized by idealism or sentimentality",
+      "context": "Mrs. Darling is described as having a romantic mind."
+    },
+    {
+      "word": "mocking",
+      "definition": "teasing in a contemptuous way",
+      "context": "Mrs. Darling had a sweet mocking mouth described in the opening."
+    },
+    {
+      "word": "conspicuous",
+      "definition": "clearly visible or attracting attention",
+      "context": "The kiss on Mrs. Darling's mouth was perfectly conspicuous."
+    },
+    {
+      "word": "slamming",
+      "definition": "shutting with force and noise",
+      "context": "Napoleon is humorously imagined trying to get the kiss and then slamming the door."
+    },
+    {
+      "word": "calculating",
+      "definition": "computing or figuring out numerically",
+      "context": "Mr. Darling sat calculating expenses with a pencil and paper."
+    },
+    {
+      "word": "expenses",
+      "definition": "costs or expenditures",
+      "context": "Mr. Darling calculates household expenses when deciding to keep Wendy."
+    },
+    {
+      "word": "imploringly",
+      "definition": "pleadingly or beseechingly",
+      "context": "Mrs. Darling looked at Mr. Darling imploringly when discussing finances."
+    },
+    {
+      "word": "prejudiced",
+      "definition": "bias in favor of something; partial",
+      "context": "Mrs. Darling was prejudiced in Wendy's favour."
+    },
+    {
+      "word": "grander",
+      "definition": "more impressive or noble",
+      "context": "Mr. Darling is described as the grander character compared to his wife."
+    },
+    {
+      "word": "gentlemen",
+      "definition": "men of social standing",
+      "context": "Many gentlemen ran to propose to Mrs. Darling when she was young."
+    },
+    {
+      "word": "cab",
+      "definition": "a hired carriage or taxi",
+      "context": "Mr. Darling took a cab and nipped in first to propose."
+    },
+    {
+      "word": "nipped",
+      "definition": "moved quickly or brusquely",
+      "context": "He 'nipped in' first and so got her hand in marriage."
+    },
+    {
+      "word": "propose",
+      "definition": "to make an offer of marriage",
+      "context": "Many ran to her house to propose to her; Mr. Darling arrived first."
+    },
+    {
+      "word": "gleefully",
+      "definition": "with joyful delight",
+      "context": "Mrs. Darling at first kept the books almost gleefully."
+    },
+    {
+      "word": "totting",
+      "definition": "adding up numbers; calculating sums",
+      "context": "Mrs. Darling was totting up and drawing pictures when she should have been accounting."
+    },
+    {
+      "word": "guesses",
+      "definition": "estimates or conjectures",
+      "context": "Some ledger entries were Mrs. Darling's guesses."
+    },
+    {
+      "word": "squeak",
+      "definition": "a narrow escape; figuratively used about Michael's narrow squeak",
+      "context": "Michael had an even narrower squeak when they decided to keep him."
+    },
+    {
+      "word": "charges",
+      "definition": "persons under one's care or responsibility",
+      "context": "Nana would respond if one of her charges made the slightest cry."
+    },
+    {
+      "word": "accompanied",
+      "definition": "went along with; in company",
+      "context": "The children were accompanied to school by their nurse."
+    },
+    {
+      "word": "genius",
+      "definition": "an exceptional natural ability",
+      "context": "Nana had a genius for knowing which coughs needed attention."
+    },
+    {
+      "word": "stocking",
+      "definition": "to wrap or pad (here 'stocking around your throat')",
+      "context": "Nana knew when to 'stocking around your throat' as a remedy."
+    },
+    {
+      "word": "contempt",
+      "definition": "scorn or disdain",
+      "context": "Nana made sounds of contempt over new-fangled germ talk."
+    },
+    {
+      "word": "nursemaids",
+      "definition": "female caretakers of children",
+      "context": "Careless nursemaids in the gardens were followed and reported by Nana."
+    },
+    {
+      "word": "escorting",
+      "definition": "accompanying someone as a companion or guardian",
+      "context": "Nana escorted the children to school, walking sedately by their side."
+    },
+    {
+      "word": "sedately",
+      "definition": "in a calm, dignified manner",
+      "context": "Nana walked sedately beside the children when they behaved well."
+    },
+    {
+      "word": "butting",
+      "definition": "pushing with the head or body; here used for nudging children into line",
+      "context": "Nana would butt the children back into line if they strayed."
+    },
+    {
+      "word": "strayed",
+      "definition": "wandered away from the proper place or direction",
+      "context": "Nana corrected the children if they strayed from the line."
+    },
+    {
+      "word": "allowed",
+      "definition": "permitted; given permission",
+      "context": "Liza was sometimes allowed to join the family dances."
+    },
+    {
+      "word": "gaiety",
+      "definition": "cheerful activity or festivity",
+      "context": "The gaiety of the family romps is described enthusiastically."
+    },
+    {
+      "word": "floor",
+      "definition": "the surface of a room on which one stands",
+      "context": "Nana lay on the floor while the nurses sat on forms in the school."
+    },
+    {
+      "word": "dash",
+      "definition": "a sudden quick movement",
+      "context": "Liza would sometimes make a dash at John's hair."
+    },
+    {
+      "word": "simpler",
+      "definition": "more plain or uncomplicated",
+      "context": "There never was a simpler happier family until Peter's coming."
+    },
+    {
+      "word": "nightly",
+      "definition": "occurring every night",
+      "context": "It is the nightly custom of every good mother to tidy children's minds."
+    },
+    {
+      "word": "drawers",
+      "definition": "compartments in furniture for storage; used in the tidying metaphor",
+      "context": "Tidying up a child's mind is likened to tidying drawers."
+    },
+    {
+      "word": "cheek",
+      "definition": "the side of the face; used in 'pressing this to her cheek'",
+      "context": "A mother might press a found thought to her cheek as if it were as nice as a kitten."
+    },
+    {
+      "word": "placed",
+      "definition": "put in a particular position",
+      "context": "Naughtiness and evil passions are 'placed at the bottom of your mind' when you wake."
+    },
+    {
+      "word": "beautifully",
+      "definition": "in a very attractive or pleasing way",
+      "context": "Children's prettier thoughts are 'beautifully aired' for the morning."
+    },
+    {
+      "word": "aired",
+      "definition": "exposed to fresh air; here meaning displayed or made ready",
+      "context": "The prettier thoughts are beautifully aired and ready for the child in the morning."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/16"
+}
