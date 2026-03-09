@@ -1,0 +1,623 @@
+{
+  "gutenberg_id": 8800,
+  "title": "The divine comedy",
+  "author": "Dante Alighieri",
+  "summary": "Dante, lost in a dark wood midway through his life, encounters three beasts that block his ascent. He meets the Roman poet Virgil, who explains that Beatrice in heaven sent him as Dante’s guide. Virgil promises to lead Dante through the infernal regions—where despairing souls suffer—and then through Purgatory, until a worthier spirit may escort him to Paradise. Along the way Dante sees tormented spirits, hears prophetic woes, and learns moral and theological lessons about justice, divine judgment, and human failings, the journey framing a spiritual quest from fear and hope, redemption and enduring poetic imagination.",
+  "characters": [
+    {
+      "name": "Dante",
+      "age": "about middle-aged (narrator)",
+      "personality": "introspective, fearful then resolute pilgrim",
+      "lifespan": "living pilgrim who journeys through Hell and Purgatory in search of salvation"
+    },
+    {
+      "name": "Virgil",
+      "age": "Roman-era adult (deceased, classical poet)",
+      "personality": "wise, eloquent, calm guide",
+      "lifespan": "a shade from classical antiquity dwelling among the suspended in Limbo; guides Dante through Hell and Purgatory but cannot enter Heaven"
+    },
+    {
+      "name": "Beatrice",
+      "age": "eternally blessed (appears heavenly)",
+      "personality": "compassionate, authoritative, heavenly intercessor",
+      "lifespan": "a blessed soul in Heaven who commissions Virgil to aid Dante"
+    },
+    {
+      "name": "Lucia",
+      "age": "heavenly messenger (ageless)",
+      "personality": "merciful, prompt to obey Beatrice",
+      "lifespan": "a heavenly spirit sent by Beatrice to assist Dante’s salvation"
+    },
+    {
+      "name": "Rachel",
+      "age": "biblical, ancient (deceased)",
+      "personality": "reverent, emblematic of contemplative life",
+      "lifespan": "a blessed biblical figure encountered or referenced among heavenly attendants"
+    },
+    {
+      "name": "Aeneas",
+      "age": "ancient Trojan hero (deceased)",
+      "personality": "pious, fated founder-figure (mentioned)",
+      "lifespan": "referenced as the classical traveler who visited the underworld; not an active presence in these excerpts"
+    },
+    {
+      "name": "Anchises",
+      "age": "ancient (deceased)",
+      "personality": "patriarchal, fatherly (mentioned)",
+      "lifespan": "father of Aeneas mentioned as subject of Virgil’s poem"
+    },
+    {
+      "name": "Silvius",
+      "age": "mythic (referenced)",
+      "personality": "lineal reference used in argument",
+      "lifespan": "mentioned as progeny lineage (Silvius’ sire referenced)"
+    },
+    {
+      "name": "Camilla",
+      "age": "ancient warrior (deceased)",
+      "personality": "valorized virgin warrior (mentioned)",
+      "lifespan": "named among famed fallen figures of Italy; referenced in prophecy"
+    },
+    {
+      "name": "Nisus",
+      "age": "ancient warrior (deceased)",
+      "personality": "valiant companion (mentioned)",
+      "lifespan": "named as one who fell for Italy in classical tales"
+    },
+    {
+      "name": "Euryalus",
+      "age": "ancient warrior (deceased)",
+      "personality": "faithful companion (mentioned)",
+      "lifespan": "named together with Nisus as fallen heroes"
+    },
+    {
+      "name": "Turnus",
+      "age": "ancient (deceased)",
+      "personality": "martial opponent in epic (mentioned)",
+      "lifespan": "referenced as a famed figure in Italian epic tradition"
+    },
+    {
+      "name": "Panther",
+      "age": "unspecified (allegorical beast)",
+      "personality": "nimble, alluring, obstructive",
+      "lifespan": "one of three allegorical beasts that impede Dante at the wood’s entrance"
+    },
+    {
+      "name": "Lion",
+      "age": "unspecified (allegorical beast)",
+      "personality": "proud, terrifying, hunger-mad",
+      "lifespan": "second beast encountered, intensifying Dante’s fear"
+    },
+    {
+      "name": "She-wolf",
+      "age": "unspecified (allegorical beast)",
+      "personality": "gaunt, ravenous, relentless",
+      "lifespan": "third beast symbolizing avarice or incontinence; forces Dante backward"
+    },
+    {
+      "name": "God (Almighty King)",
+      "age": "eternal",
+      "personality": "just, sovereign judge",
+      "lifespan": "supreme divine authority who ordains order and judgment"
+    },
+    {
+      "name": "Saint Peter",
+      "age": "apostolic, ancient (deceased)",
+      "personality": "guardian of ecclesiastical authority (mentioned)",
+      "lifespan": "referenced as associated with the gate and authority of the Church"
+    },
+    {
+      "name": "Paul",
+      "age": "apostolic, ancient (deceased)",
+      "personality": "apostolic exemplar (mentioned)",
+      "lifespan": "referenced as traveler to the heavens in scripture; used to contrast Dante’s worthiness"
+    },
+    {
+      "name": "Julius",
+      "age": "ancient Roman (deceased)",
+      "personality": "historical ruler (mentioned)",
+      "lifespan": "referenced in historical context of Rome’s power"
+    },
+    {
+      "name": "Augustus",
+      "age": "ancient Roman emperor (deceased)",
+      "personality": "revered ruler in text’s historical scene",
+      "lifespan": "mentioned as the era during which Virgil lived"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mantua (Mantuana)",
+      "latitude": 45.156399,
+      "longitude": 10.7914
+    },
+    {
+      "name": "Rome",
+      "latitude": 41.902783,
+      "longitude": 12.496366
+    },
+    {
+      "name": "Ilium (Troy, Hisarlik)",
+      "latitude": 39.9575,
+      "longitude": 26.2389
+    },
+    {
+      "name": "Feltre",
+      "latitude": 45.9156,
+      "longitude": 11.9335
+    },
+    {
+      "name": "Vatican City (St. Peter's area)",
+      "latitude": 41.902222,
+      "longitude": 12.453389
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "mortal",
+      "definition": "subject to death; human",
+      "context": "Opening line: 'In the midway of this our mortal life'"
+    },
+    {
+      "word": "astray",
+      "definition": "off the correct path; lost",
+      "context": "Dante describes himself: 'I found me in a gloomy wood, astray'"
+    },
+    {
+      "word": "gloomy",
+      "definition": "dark, dismal",
+      "context": "describes the wood: 'a gloomy wood'"
+    },
+    {
+      "word": "savage",
+      "definition": "ferocious, wild",
+      "context": "the forest is called 'how savage wild'"
+    },
+    {
+      "word": "robust",
+      "definition": "sturdy, strong in growth",
+      "context": "describing 'how robust and rough its growth'"
+    },
+    {
+      "word": "dismay",
+      "definition": "distress or alarm",
+      "context": "Dante's reaction: 'to remember only, my dismay Renew s'"
+    },
+    {
+      "word": "'scap'd",
+      "definition": "escaped (archaic contraction)",
+      "context": " 'Forespent with toiling, ’scap’d from sea to shore' "
+    },
+    {
+      "word": "forespent",
+      "definition": "exhausted; spent beforehand",
+      "context": "Dante: 'Forespent with toiling, ’scap’d from sea to shore'"
+    },
+    {
+      "word": "recomforted",
+      "definition": "restored in spirit or strength (archaic)",
+      "context": " 'My weary frame After short pause recomforted, again' "
+    },
+    {
+      "word": "panther",
+      "definition": "a spotted predatory cat (here allegorical)",
+      "context": "Dante meets 'a panther, nimble, light, And cover’d with a speckled skin'"
+    },
+    {
+      "word": "speckled",
+      "definition": "marked with small spots",
+      "context": "describing the panther's skin: 'speckled skin'"
+    },
+    {
+      "word": "matin",
+      "definition": "pertaining to morning (archaic)",
+      "context": " 'The hour was morning’s prime, and on his way Aloft the sun ascended with those stars' and 'the matin dawn' "
+    },
+    {
+      "word": "e'en",
+      "definition": "even; archaic contraction of 'even'",
+      "context": "used repeatedly, e.g., 'e'en to tell' and 'e'en so my spirit'"
+    },
+    {
+      "word": "chas'd",
+      "definition": "chased (archaic contraction)",
+      "context": " 'Soon that joy was chas'd,' describing how hope is driven away"
+    },
+    {
+      "word": "appall'd",
+      "definition": "appalled; struck with fear (archaic contraction)",
+      "context": "Dante is 'appall'd' at the sight of the she-wolf"
+    },
+    {
+      "word": "abash'd",
+      "definition": "embarrassed or ashamed (archaic contraction)",
+      "context": "Dante: 'I with front abash’d replied.' when meeting Virgil"
+    },
+    {
+      "word": "disconsolate",
+      "definition": "deeply unhappy or dejected",
+      "context": "describing the she-wolf's effect: 'many a land hath made Disconsolate ere now.'"
+    },
+    {
+      "word": "ravenous",
+      "definition": "extremely hungry; voracious",
+      "context": "describing the she-wolf: 'never sated is her ravenous will'"
+    },
+    {
+      "word": "accursed",
+      "definition": "cursed; damned",
+      "context": "the beast described as 'so bad and so accursed in her kind'"
+    },
+    {
+      "word": "’twixt",
+      "definition": "betwixt; between (archaic)",
+      "context": "prophecy: 'his land shall be The land ’twixt either Feltro.'"
+    },
+    {
+      "word": "Camilla",
+      "definition": "legendary virgin warrior (proper name)",
+      "context": "named in Virgil's prophecy: 'Camilla, virgin pure'"
+    },
+    {
+      "word": "Nisus",
+      "definition": "classical hero (proper name)",
+      "context": "listed among fallen Italian figures: 'Nisus, Euryalus'"
+    },
+    {
+      "word": "Euryalus",
+      "definition": "classical hero (proper name)",
+      "context": "paired with Nisus in reference: 'Nisus, Euryalus'"
+    },
+    {
+      "word": "Turnus",
+      "definition": "epic antagonist in Aeneid (proper name)",
+      "context": "referenced in Virgil's list of fallen heroes: 'and Turnus fell.'"
+    },
+    {
+      "word": "Anchises",
+      "definition": "father of Aeneas in Roman epic (proper name)",
+      "context": "Virgil introduces himself: 'I made Anchises’ upright son The subject of my song'"
+    },
+    {
+      "word": "Ilium",
+      "definition": "ancient name for Troy (proper noun)",
+      "context": "referenced: 'who came from Troy, When the flames prey’d on Ilium’s haughty towers.'"
+    },
+    {
+      "word": "Troy",
+      "definition": "ancient city; setting of the Aeneid",
+      "context": "mentioned in recounting Aeneas' departure from Troy"
+    },
+    {
+      "word": "Julius",
+      "definition": "Julius (as in Julius Caesar) referenced historically",
+      "context": "Virgil: 'when the power of Julius yet Was scarcely firm.'"
+    },
+    {
+      "word": "Augustus",
+      "definition": "Roman emperor mentioned as chronological marker",
+      "context": "Virgil: 'At Rome my life was past Beneath the mild Augustus'"
+    },
+    {
+      "word": "bard",
+      "definition": "poet (archaic or elevated term)",
+      "context": "Virgil is called 'A bard and made Anchises’ upright son The subject of my song'"
+    },
+    {
+      "word": "Mantuana",
+      "definition": "of Mantua; adjective form referencing Mantua (archaic form)",
+      "context": "Virgil's origin: 'born of Lombard parents, Mantuana both By country'"
+    },
+    {
+      "word": "Silvius",
+      "definition": "mythical name (proper noun); used in reference",
+      "context": "Canto II mentions 'Silvius’ sire' when arguing worthiness"
+    },
+    {
+      "word": "pond'ring",
+      "definition": "pondering; thinking (archaic contraction)",
+      "context": "Virgil: 'I for thy profit pond’ring now devise'"
+    },
+    {
+      "word": "empyreal",
+      "definition": "of the highest heaven; celestial (archaic/formal)",
+      "context": "the phrase 'heaven’s empyreal height' appears describing Heaven"
+    },
+    {
+      "word": "vouchsafe",
+      "definition": "to grant or bestow (archaic/formal)",
+      "context": "Dante's invocation: 'O Muses! O high genius! now vouchsafe Your aid!'"
+    },
+    {
+      "word": "magnanimous",
+      "definition": "generous in spirit; noble",
+      "context": "Dante addresses Virgil as 'that shade magnanimous'"
+    },
+    {
+      "word": "Muses",
+      "definition": "inspiration deities of poetry (classical reference)",
+      "context": "Dante calls: 'O Muses! O high genius! now vouchsafe Your aid!'"
+    },
+    {
+      "word": "genius",
+      "definition": "inspiration or guiding spirit (classical sense)",
+      "context": "invocation: 'O Muses! O high genius! now vouchsafe Your aid!'"
+    },
+    {
+      "word": "Rachel",
+      "definition": "biblical matriarch (proper name)",
+      "context": "Dante: 'Seated with Rachel, her of ancient days'"
+    },
+    {
+      "word": "Lucia",
+      "definition": "Saint Lucia; heavenly messenger (proper name)",
+      "context": "Beatrice sends 'Lucia, of all cruelty the foe' to assist Dante"
+    },
+    {
+      "word": "Beatrice",
+      "definition": "Dante's beloved and heavenly intercessor (proper name)",
+      "context": "Beatrice appears as the blessed lady who orders Dante's rescue"
+    },
+    {
+      "word": "Imbrown'd",
+      "definition": "made brown or darkened (archaic contraction)",
+      "context": " 'Now was the day departing, and the air, Imbrown’d with shadows...' "
+    },
+    {
+      "word": "toils",
+      "definition": "labors, struggles",
+      "context": " 'from their toils releas’d All animals on earth' "
+    },
+    {
+      "word": "tuneful",
+      "definition": "melodious; skillful in song",
+      "context": "Dante refers to poetic excellence: 'Glory and light of all the tuneful train!'"
+    },
+    {
+      "word": "succour",
+      "definition": "aid or assistance (archaic spelling of 'succor')",
+      "context": "Dante asks 'why is not thy succour lent To him...?'"
+    },
+    {
+      "word": "behest",
+      "definition": "command or urgent request (archaic)",
+      "context": "Dante: 'So hast dispos’d me to renew my voyage, That my first purpose fully is resum’d.' and later 'as she will’d, thus am I come' in response to a behest"
+    },
+    {
+      "word": "zeal",
+      "definition": "great energy or enthusiasm in pursuit",
+      "context": "Dante praises Virgil: 'with love immense Have conn’d it o'er. My master thou and guide!' showing zeal"
+    },
+    {
+      "word": "dame",
+      "definition": "lady (archaic/formal)",
+      "context": "Beatrice is called 'a dame, so blest And lovely'"
+    },
+    {
+      "word": "holy",
+      "definition": "sacred; consecrated",
+      "context": "refers to papal place: 'for the holy place, where sits Who to great Peter’s sacred chair succeeds.'"
+    },
+    {
+      "word": "unerring",
+      "definition": "not containing error; infallible",
+      "context": "Dante: 'which my unerring memory shall retrace.'"
+    },
+    {
+      "word": "angelically",
+      "definition": "in the manner of an angel; divinely",
+      "context": "Beatrice 'with gentle voice and soft Angelically tun’d her speech address’d'"
+    },
+    {
+      "word": "tun'd",
+      "definition": "tuned; harmonized (archaic contraction)",
+      "context": "Beatrice's speech 'Angelically tun’d her speech address’d'"
+    },
+    {
+      "word": "wherefore",
+      "definition": "for what reason (archaic/formal)",
+      "context": "Virgil asks 'wherefore to such perils past Return’st thou? wherefore not this pleasant mount Ascendest?'"
+    },
+    {
+      "word": "whence",
+      "definition": "from which place or source (archaic/formal)",
+      "context": "Beatrice: 'Those things alone Are to be fear’d, whence evil may proceed'"
+    },
+    {
+      "word": "forth",
+      "definition": "outward or onward (archaic/formal)",
+      "context": "Beatrice bids Virgil 'Speed now, And by thy eloquent persuasive tongue ... Assist him.' 'bid thee on this errand forth'"
+    },
+    {
+      "word": "thou",
+      "definition": "you (archaic singular)",
+      "context": "Frequent archaic address: 'Bard! thou who art my guide'"
+    },
+    {
+      "word": "thee",
+      "definition": "you (archaic object form)",
+      "context": "Virgil speaks to Dante: 'I commend him to thee.'"
+    },
+    {
+      "word": "thy",
+      "definition": "your (archaic possessive)",
+      "context": "used throughout: 'Thy soul is by vile fear assail’d'"
+    },
+    {
+      "word": "hath",
+      "definition": "has (archaic)",
+      "context": "common archaic form: 'For every vein and pulse throughout my frame She hath made tremble.'"
+    },
+    {
+      "word": "adjudges",
+      "definition": "renders a judgment; pronounces (formal)",
+      "context": "Virgil: 'He ... Adjudges me, and therefore hath decreed, That to his city none through me should come.'"
+    },
+    {
+      "word": "empire",
+      "definition": "a large political domain",
+      "context": "reference: 'Sith he of Rome, and of Rome’s empire wide'"
+    },
+    {
+      "word": "wail",
+      "definition": "a prolonged cry of grief",
+      "context": "Lucia asks 'Dost thou not hear how pitiful his wail' regarding Dante"
+    },
+    {
+      "word": "torrent",
+      "definition": "a strong and fast-moving stream of water",
+      "context": "image: 'the torrent flood, Swoln mightier than a sea, him struggling holds?'"
+    },
+    {
+      "word": "swoln",
+      "definition": "swollen; enlarged (archaic spelling)",
+      "context": " 'Swoln mightier than a sea' describing the flood"
+    },
+    {
+      "word": "whereat",
+      "definition": "at which; because of which (archaic/formal)",
+      "context": " 'whereat I felt Redoubled zeal to serve thee.'"
+    },
+    {
+      "word": "blest",
+      "definition": "blessed; fortunate (archaic spelling)",
+      "context": "Beatrice called 'a dame, so blest And lovely'"
+    },
+    {
+      "word": "virgin",
+      "definition": "a woman not married or sexually experienced; used honorifically",
+      "context": "reference to Camilla: 'Camilla, virgin pure'"
+    },
+    {
+      "word": "befell",
+      "definition": "happened (archaic past tense)",
+      "context": " 'Yet to discourse of what there good befell' opening line"
+    },
+    {
+      "word": "aye",
+      "definition": "ever; always (archaic)",
+      "context": "Canto III inscription: 'Through me among the people lost for aye.'"
+    },
+    {
+      "word": "inscrib'd",
+      "definition": "inscribed; written on (archaic contraction)",
+      "context": " 'Such characters in colour dim I mark’d Over a portal’s lofty arch inscrib’d:'"
+    },
+    {
+      "word": "mark'd",
+      "definition": "marked; observed (archaic contraction)",
+      "context": " 'Such characters ... I mark’d Over a portal’s lofty arch inscrib’d:'"
+    },
+    {
+      "word": "eternal",
+      "definition": "without end; everlasting",
+      "context": "inscription: 'Through me you pass into eternal pain:'"
+    },
+    {
+      "word": "supremest",
+      "definition": "highest in rank or authority (formal)",
+      "context": " 'Justice the founder of my fabric mov’d: To rear me was the task of power divine, Supremest wisdom, and primeval love.'"
+    },
+    {
+      "word": "justice",
+      "definition": "moral rightness and fairness; judicial principle",
+      "context": " 'Justice the founder of my fabric mov’d:'"
+    },
+    {
+      "word": "abandon",
+      "definition": "to desert; here used in sense 'give up' (formal)",
+      "context": "inscription: 'All hope abandon ye who enter here.'"
+    },
+    {
+      "word": "befriend",
+      "definition": "to act as a friend (archaic; not heavily used here)",
+      "context": "concept implied in petitionary addresses to Virgil and the ladies"
+    },
+    {
+      "word": "commend",
+      "definition": "to entrust; to entrust to care (formal/archaic)",
+      "context": "Beatrice: 'I commend him to thee.' Lucia is told by Beatrice to aid Dante"
+    },
+    {
+      "word": "assail'd",
+      "definition": "attacked or troubled (archaic contraction)",
+      "context": "Virgil: 'Thy soul is by vile fear assail’d'"
+    },
+    {
+      "word": "recoils",
+      "definition": "draws back in fear or disgust",
+      "context": " 'so overcasts a man, that he recoils From noblest resolution' "
+    },
+    {
+      "word": "unresolves",
+      "definition": "becomes unsteady in purpose (archaic formation)",
+      "context": " 'As one, who unresolves What he hath late resolv’d' "
+    },
+    {
+      "word": "resolv'd",
+      "definition": "resolved; determined (archaic contraction)",
+      "context": " 'What he hath late resolv’d' describing a vacillating person"
+    },
+    {
+      "word": "twilight",
+      "definition": "the soft light before sunrise or after sunset",
+      "context": " 'some false semblance in the twilight gloom.'"
+    },
+    {
+      "word": "shrieks",
+      "definition": "piercing cries; screams",
+      "context": "Virgil promises Dante 'where thou shalt hear despairing shrieks, and see Spirits of old tormented'"
+    },
+    {
+      "word": "invoke",
+      "definition": "to call upon (a deity or power); to appeal to",
+      "context": " 'Spirits of old tormented, who invoke A second death;'"
+    },
+    {
+      "word": "planet",
+      "definition": "a celestial body; here symbolic of a guiding star",
+      "context": " 'Already vested with that planet’s beam, Who leads all wanderers safe through every way.'"
+    },
+    {
+      "word": "wanderers",
+      "definition": "those who wander; travelers",
+      "context": " 'Who leads all wanderers safe through every way.'"
+    },
+    {
+      "word": "vein",
+      "definition": "a blood vessel; figuratively life or vigor",
+      "context": " 'For every vein and pulse throughout my frame She hath made tremble.'"
+    },
+    {
+      "word": "pulse",
+      "definition": "rhythmic beat of the heart; figurative life",
+      "context": "as above: 'For every vein and pulse throughout my frame' "
+    },
+    {
+      "word": "courteous",
+      "definition": "polite, well-mannered (archaic/formal usage)",
+      "context": "Lucia addresses Virgil: 'O courteous shade of Mantua!'"
+    },
+    {
+      "word": "enterprise",
+      "definition": "a bold undertaking; venture",
+      "context": "Dante speaks of the 'high enterprise' he contemplates"
+    },
+    {
+      "word": "T'",
+      "definition": "contraction of 'to' used poetically",
+      "context": " 'Into whose regions if thou then desire T' ascend, a spirit worthier than I Must lead thee' "
+    },
+    {
+      "word": "oft",
+      "definition": "often (archaic)",
+      "context": " 'when in my Master’s sight I stand, thy praise to him I oft will tell.'"
+    },
+    {
+      "word": "while",
+      "definition": "during the time that (archaic/common)",
+      "context": " 'While to the lower space with backward step I fell, my ken discern’d' "
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/8800"
+}
