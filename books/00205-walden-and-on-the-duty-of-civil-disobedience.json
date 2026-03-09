@@ -1,0 +1,534 @@
+{
+  "gutenberg_id": 205,
+  "title": "Walden, and On The Duty Of Civil Disobedience",
+  "author": "Thoreau, Henry David",
+  "summary": "In the opening of Walden Thoreau recounts living alone in a self-built cabin on Walden Pond, earning his living by manual labor and observing his neighbors’ lives. He critiques the needless burdens, inherited encumbrances, and blind obedience that turn men into machines, arguing for simplicity, self-reliance, and the preservation of life’s finer fruits. He contrasts frantic, debt-driven industry with a life tested by simple experiments, questions received wisdom, and invokes myth, scripture, and nature to urge readers to examine prejudices, cherish leisure for thought, and adopt new deeds befitting new people.",
+  "characters": [
+    {
+      "name": "Henry David Thoreau",
+      "age": "30s (author states he has lived some thirty years)",
+      "personality": "reflective, individualistic, critical of social conventions, advocate of simplicity",
+      "lifespan": "Narrator who lived two years and two months alone at Walden Pond before returning to civilized life (as described)"
+    },
+    {
+      "name": "townsmen / neighbors",
+      "age": "various / unspecified",
+      "personality": "busy, burdened by inherited property and conventional labor",
+      "lifespan": "Portrayed as leading lives of quiet desperation; no individual fate detailed"
+    },
+    {
+      "name": "young men (inheritors)",
+      "age": "young adults",
+      "personality": "overloaded with inherited farms and responsibilities",
+      "lifespan": "Depicted as constrained by property and obligations; specific fates not given"
+    },
+    {
+      "name": "a farmer (speaker about diet)",
+      "age": "unspecified adult",
+      "personality": "practical, conventional, believes animal food is necessary for bones",
+      "lifespan": "Used as an example of conventional belief; no personal fate described"
+    },
+    {
+      "name": "teamster",
+      "age": "unspecified adult",
+      "personality": "dutiful, occupied with caring for horses and market duties",
+      "lifespan": "Representative laborer enslaved by opinion and work; no individual fate given"
+    },
+    {
+      "name": "Squire Make-a-stir",
+      "age": "unspecified",
+      "personality": "symbolic of local interest or enterprise driving others",
+      "lifespan": "Mentioned as a figure for whom others toil; fictional/representative, no personal fate"
+    },
+    {
+      "name": "Wilberforce",
+      "age": "historical adult (referenced)",
+      "personality": "evoked as an emblem of reform (antislavery/advocacy) in passing",
+      "lifespan": "Referenced historically; not a participant in narrative"
+    },
+    {
+      "name": "Brahmins",
+      "age": "group (unspecified)",
+      "personality": "invoked as exotic exemplars of extreme penance",
+      "lifespan": "Referenced as cultural examples, not characters with fates in the text"
+    },
+    {
+      "name": "Sandwich Islanders",
+      "age": "group (unspecified)",
+      "personality": "referenced as distant peoples in comparison",
+      "lifespan": "Mentioned illustratively; no narrative fate given"
+    },
+    {
+      "name": "Iolas",
+      "age": "mythic / unspecified",
+      "personality": "mythic helper (Iolas/Iolaus) referenced in allusion",
+      "lifespan": "Mythological reference; no fate in book"
+    },
+    {
+      "name": "Deucalion",
+      "age": "mythic",
+      "personality": "mythic progenitor referenced in allusion",
+      "lifespan": "Mythological figure; used illustratively"
+    },
+    {
+      "name": "Pyrrha",
+      "age": "mythic",
+      "personality": "mythic progenitor referenced in allusion",
+      "lifespan": "Mythological figure; used illustratively"
+    },
+    {
+      "name": "Raleigh",
+      "age": "historical (referenced)",
+      "personality": "quoted for poetic phrasing",
+      "lifespan": "Referenced historically; not part of narrative"
+    },
+    {
+      "name": "the ladies of the land",
+      "age": "various / unspecified",
+      "personality": "portrayed as concerned with appearances and future provision",
+      "lifespan": "Collective example in critique of social habits; no individual fates"
+    },
+    {
+      "name": "minks and muskrats",
+      "age": "animals",
+      "personality": "wild creatures used to contrast human desperation with animal bravado",
+      "lifespan": "Natural inhabitants of the region; mentioned illustratively"
+    },
+    {
+      "name": "Solomon, Roman prætors, Hippocrates, Evelyn",
+      "age": "historical / classical references",
+      "personality": "invoked as authorities or examples from history and literature",
+      "lifespan": "Historical figures cited; not characters in the narrative"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Walden Pond",
+      "latitude": 42.4243,
+      "longitude": -71.2587
+    },
+    {
+      "name": "Concord, Massachusetts",
+      "latitude": 42.4603,
+      "longitude": -71.3489
+    },
+    {
+      "name": "Walden Woods (Concord area)",
+      "latitude": 42.4245,
+      "longitude": -71.259
+    },
+    {
+      "name": "Sandwich Islands (Hawaiian Islands, historical reference)",
+      "latitude": 21.3069,
+      "longitude": -157.8583
+    },
+    {
+      "name": "West Indies (general region referenced)",
+      "latitude": 18.1096,
+      "longitude": -77.2975
+    },
+    {
+      "name": "New England (region referenced)",
+      "latitude": 43,
+      "longitude": -71.5
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "obtrude",
+      "definition": "to force upon others; impose",
+      "context": "“I should not obtrude my affairs so much on the notice of my readers”"
+    },
+    {
+      "word": "impertinent",
+      "definition": "inappropriate or intrusive",
+      "context": "“Some would call impertinent” (inquiries of townsmen)"
+    },
+    {
+      "word": "sojourner",
+      "definition": "a temporary resident",
+      "context": "“I lived alone... and earned my living... I lived there two years and two months. At present I am a sojourner in civilized life again.”"
+    },
+    {
+      "word": "egotism",
+      "definition": "excessive reference to oneself",
+      "context": "“In most books, the I, or first person, is omitted; in this it will be retained; that, in respect to egotism, is the main difference.”"
+    },
+    {
+      "word": "pertinent",
+      "definition": "relevant or applicable",
+      "context": "“very natural and pertinent”"
+    },
+    {
+      "word": "kindred",
+      "definition": "relatives or those of similar nature",
+      "context": "“some such account as he would send to his kindred from a distant land”"
+    },
+    {
+      "word": "penance",
+      "definition": "punishment undergone to make amends",
+      "context": "“the inhabitants have appeared to me to be doing penance in a thousand remarkable ways.”"
+    },
+    {
+      "word": "Brahmins",
+      "definition": "members of the Hindu priestly caste (used illustratively)",
+      "context": "“What I have heard of Brahmins sitting exposed to four fires...”"
+    },
+    {
+      "word": "Sandwich",
+      "definition": "refers to the Sandwich Islands (old name for Hawaii)",
+      "context": "“the Chinese and Sandwich Islanders”"
+    },
+    {
+      "word": "exposed",
+      "definition": "left unprotected or revealed",
+      "context": "“sitting exposed to four fires”"
+    },
+    {
+      "word": "hydra’s",
+      "definition": "relating to the mythic many-headed serpent (possessive form)",
+      "context": "“as soon as one head is crushed, two spring up” of the hydra’s”"
+    },
+    {
+      "word": "caterpillars",
+      "definition": "the larval stage of butterflies/moths, used metaphorically",
+      "context": "“measuring with their bodies, like caterpillars, the breadth of vast empires”"
+    },
+    {
+      "word": "prætors",
+      "definition": "Roman judicial officials (old spelling with æ)",
+      "context": "“the Roman prætors have decided how often you may go into your neighbor’s land”"
+    },
+    {
+      "word": "Augean",
+      "definition": "relating to the Augean stables of myth, meaning extremely filthy",
+      "context": "“its Augean stables never cleansed”"
+    },
+    {
+      "word": "Iolas",
+      "definition": "mythic helper (Iolaus/Iolas), referenced figuratively",
+      "context": "“They have no friend Iolas to burn with a hot iron the root of the hydra’s head”"
+    },
+    {
+      "word": "Deucalion",
+      "definition": "mythological Greek survivor of a flood",
+      "context": "“It is said that Deucalion and Pyrrha created men by throwing stones”"
+    },
+    {
+      "word": "Pyrrha",
+      "definition": "mythological Greek figure, wife of Deucalion",
+      "context": "paired with Deucalion in the creation allusion"
+    },
+    {
+      "word": "sonorous",
+      "definition": "having a deep, resonant sound",
+      "context": "“Or, as Raleigh rhymes it in his sonorous way”"
+    },
+    {
+      "word": "slough",
+      "definition": "a swamp or figuratively a stagnant state; also a moral mire",
+      "context": "“a very ancient slough”"
+    },
+    {
+      "word": "æs",
+      "definition": "Latin term used in phrase 'æs alienum' (literally 'other's brass' / debt)",
+      "context": "“called by the Latins æs alienum”"
+    },
+    {
+      "word": "alienum",
+      "definition": "Latin word meaning 'of another', used in phrase 'æs alienum' (debt)",
+      "context": "“called by the Latins æs alienum”"
+    },
+    {
+      "word": "insolvent",
+      "definition": "unable to pay debts",
+      "context": "“dying today, insolvent”"
+    },
+    {
+      "word": "curry",
+      "definition": "to seek to gain favor by flattery (in phrase 'curry favor')",
+      "context": "“seeking to curry favor, to get custom”"
+    },
+    {
+      "word": "dilating",
+      "definition": "expanding or enlarging",
+      "context": "“contracting yourselves into a nutshell of civility or dilating into an atmosphere”"
+    },
+    {
+      "word": "atmosphere",
+      "definition": "a surrounding mood or environment",
+      "context": "used metaphorically in describing social behavior"
+    },
+    {
+      "word": "vaporous",
+      "definition": "thin, insubstantial, like vapor",
+      "context": "“an atmosphere of thin and vaporous generosity”"
+    },
+    {
+      "word": "cordials",
+      "definition": "restorative medicines or invigorating drinks",
+      "context": "“recruit him with our cordials”"
+    },
+    {
+      "word": "stereotyped",
+      "definition": "fixed, unvarying pattern",
+      "context": "“A stereotyped but unconscious despair is concealed”"
+    },
+    {
+      "word": "unconscious",
+      "definition": "not aware; unintentional",
+      "context": "paired with stereotyped in describing despair"
+    },
+    {
+      "word": "resignation",
+      "definition": "acceptance of something undesirable",
+      "context": "“What is called resignation is confirmed desperation.”"
+    },
+    {
+      "word": "despair",
+      "definition": "complete loss of hope",
+      "context": "“The mass of men lead lives of quiet desperation.”"
+    },
+    {
+      "word": "minks",
+      "definition": "small semi-aquatic mammals, used by Thoreau for imagery",
+      "context": "“consol[e] yourself with the bravery of minks and muskrats.”"
+    },
+    {
+      "word": "muskrats",
+      "definition": "rodent often found near ponds, used illustratively",
+      "context": "paired with minks in the same sentence"
+    },
+    {
+      "word": "ennui",
+      "definition": "a feeling of listlessness and dissatisfaction due to boredom",
+      "context": "“The very tedium and ennui which presume to have exhausted the variety and the joys of life”"
+    },
+    {
+      "word": "tedium",
+      "definition": "the state of being tedious or boring",
+      "context": "paired with ennui to describe life’s monotony"
+    },
+    {
+      "word": "catechism",
+      "definition": "a summary of principles often in question-and-answer form (religious)",
+      "context": "“When we consider what, to use the words of the catechism, is the chief end of man”"
+    },
+    {
+      "word": "apexes",
+      "definition": "plural of apex; highest points",
+      "context": "“The stars are the apexes of what wonderful triangles!”"
+    },
+    {
+      "word": "triangles",
+      "definition": "three-pointed geometric figures, used metaphorically",
+      "context": "“what wonderful triangles!”"
+    },
+    {
+      "word": "mansions",
+      "definition": "large homes or figurative dwellings of beings",
+      "context": "“What distant and different beings in the various mansions of the universe”"
+    },
+    {
+      "word": "mythology",
+      "definition": "a body of myths or myths collectively",
+      "context": "“History, Poetry, Mythology!”"
+    },
+    {
+      "word": "ripens",
+      "definition": "to mature or become ready (as fruit)",
+      "context": "“that the same sun which ripens my beans illumines at once a system of earths”"
+    },
+    {
+      "word": "plough",
+      "definition": "a farming implement for tilling soil (archaic spelling)",
+      "context": "“jerk him and his lumbering plough along”"
+    },
+    {
+      "word": "lumbering",
+      "definition": "moving heavily or clumsily",
+      "context": "describing the plough as lumbering"
+    },
+    {
+      "word": "fodder",
+      "definition": "food for livestock",
+      "context": "“His highest duty to fodder and water his horses!”"
+    },
+    {
+      "word": "teamster",
+      "definition": "a driver of a team of animals or vehicles",
+      "context": "“Look at the teamster on the highway”"
+    },
+    {
+      "word": "divinity",
+      "definition": "state of being divine or godlike",
+      "context": "“Talk of a divinity in man!”"
+    },
+    {
+      "word": "serfs",
+      "definition": "peasants bound to the land (used figuratively)",
+      "context": "“Who made them serfs of the soil?”"
+    },
+    {
+      "word": "tillage",
+      "definition": "the preparation of land for growing crops",
+      "context": "“one hundred acres of land, tillage, mowing, pasture”"
+    },
+    {
+      "word": "mowing",
+      "definition": "cutting grass or crops",
+      "context": "listed among farm labors"
+    },
+    {
+      "word": "wood-lot",
+      "definition": "a small area of woodland on a farm",
+      "context": "“one hundred acres of land, tillage, mowing, pasture, and wood-lot!”"
+    },
+    {
+      "word": "compost",
+      "definition": "decayed organic material used as fertilizer",
+      "context": "“The better part of the man is soon plowed into the soil for compost.”"
+    },
+    {
+      "word": "blundering",
+      "definition": "clumsy or careless",
+      "context": "“blind obedience to a blundering oracle”"
+    },
+    {
+      "word": "oracle",
+      "definition": "a priest or authority giving divine advice (here metaphorical)",
+      "context": "“a blundering oracle, throwing the stones over their heads”"
+    },
+    {
+      "word": "moth",
+      "definition": "a destructive insect; used in phrase 'moth and rust'",
+      "context": "“laying up treasures which moth and rust will corrupt”"
+    },
+    {
+      "word": "rust",
+      "definition": "decay or corrosion (used metaphorically)",
+      "context": "paired with moth as forces that corrupt treasures"
+    },
+    {
+      "word": "thieves",
+      "definition": "those who steal; used figuratively",
+      "context": "“which moth and rust will corrupt and thieves break through and steal.”"
+    },
+    {
+      "word": "rhyme",
+      "definition": "verse with corresponding sounds",
+      "context": "“Or, as Raleigh rhymes it in his sonorous way”"
+    },
+    {
+      "word": "hard-hearted",
+      "definition": "cruel or unfeeling",
+      "context": "Raleigh’s quoted line: “From thence our kind hard-hearted is”"
+    },
+    {
+      "word": "experiensque",
+      "definition": "Latin word in the quoted line (meaning 'and experienced')",
+      "context": "Latin couplet: “experiensque laborum”"
+    },
+    {
+      "word": "laborum",
+      "definition": "Latin genitive plural of 'labour' appearing in the quoted line",
+      "context": "Latin couplet from classical source"
+    },
+    {
+      "word": "documenta",
+      "definition": "Latin word meaning 'lessons' or 'documents' in the couplet",
+      "context": "“Et documenta damus quâ simus origine nati.”"
+    },
+    {
+      "word": "Inde",
+      "definition": "Latin 'from there', opening the quoted line",
+      "context": "beginning of the Latin quotation: “Inde genus durum sumus”"
+    },
+    {
+      "word": "genus",
+      "definition": "Latin for 'race' or 'kind'",
+      "context": "part of the Latin quotation"
+    },
+    {
+      "word": "durum",
+      "definition": "Latin 'hard' or 'bitter' in the quotation",
+      "context": "part of the Latin couplet quoted"
+    },
+    {
+      "word": "sumus",
+      "definition": "Latin 'we are' in the quotation",
+      "context": "“Inde genus durum sumus”"
+    },
+    {
+      "word": "damus",
+      "definition": "Latin 'we give' in the quoted couplet",
+      "context": "“Et documenta damus”"
+    },
+    {
+      "word": "quâ",
+      "definition": "Latin form 'qua' meaning 'by which' or 'in which'",
+      "context": "“quâ simus origine nati” in the Latin quotation"
+    },
+    {
+      "word": "simus",
+      "definition": "Latin subjunctive form 'we may be' (appears in the quotation)",
+      "context": "part of the Latin couplet"
+    },
+    {
+      "word": "origine",
+      "definition": "Latin for 'origin' used in the line",
+      "context": "“quâ simus origine nati”"
+    },
+    {
+      "word": "nati",
+      "definition": "Latin 'born' in the couplet",
+      "context": "final word of the Latin quotation"
+    },
+    {
+      "word": "peck",
+      "definition": "an old measure of dry volume (used figuratively)",
+      "context": "“Why should they eat their sixty acres, when man is condemned to eat only his peck of dirt?”"
+    },
+    {
+      "word": "dirt",
+      "definition": "earth or soil; used figuratively",
+      "context": "“his peck of dirt”"
+    },
+    {
+      "word": "chanticleer",
+      "definition": "a rooster, especially in fable; used poetically",
+      "context": "epigraph: “brag as lustily as chanticleer in the morning”"
+    },
+    {
+      "word": "brag",
+      "definition": "to boast loudly",
+      "context": "epigraph line about bragging to wake neighbors"
+    },
+    {
+      "word": "lustily",
+      "definition": "vigorously or loudly",
+      "context": "“brag as lustily as chanticleer”"
+    },
+    {
+      "word": "roost",
+      "definition": "a perch for birds; used metaphorically",
+      "context": "“as chanticleer in the morning, standing on his roost”"
+    },
+    {
+      "word": "fain",
+      "definition": "archaic for 'gladly' or 'willingly'",
+      "context": "“I would fain say something”"
+    },
+    {
+      "word": "Chinese",
+      "definition": "relating to China; used as an example",
+      "context": "“not so much concerning the Chinese and Sandwich Islanders”"
+    },
+    {
+      "word": "penance",
+      "definition": "punishment undergone to show repentance (duplicate sense entry)",
+      "context": "reiteration: inhabitants doing penance in many ways"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/205"
+}
