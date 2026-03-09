@@ -1,0 +1,610 @@
+{
+  "gutenberg_id": 42324,
+  "title": "Frankenstein; Or, The Modern Prometheus",
+  "author": "Shelley, Mary Wollstonecraft",
+  "summary": "Mary Shelley recounts the genesis of Frankenstein during the wet summer of 1816, when she, Percy Shelley, Lord Byron, and others challenged one another to write ghost stories. Influenced by German tales, conversations about the principle of life, Dr. Darwin’s vermicelli, and galvanism, she dreamed of a pale student reanimating a hideous corpse. Haunted by that vision, she resolved to write a narrative to thrill readers, beginning \"It was on a dreary night of November.\" Shelley emphasizes invention’s dependence on existing ideas, credits her husband’s encouragement, and explains stylistic revisions for the 1831 edition. She frames it as human passion exploration.",
+  "characters": [
+    {
+      "name": "Mary W. Shelley",
+      "age": "young girl when idea occurred; adult when publishing",
+      "personality": "imaginative, reflective, self-effacing",
+      "lifespan": "author of the work; composes introduction and preface; publishes revised 1831 edition"
+    },
+    {
+      "name": "Percy (her husband)",
+      "age": "adult",
+      "personality": "encouraging, cultivated, critical reader",
+      "lifespan": "present as inciter and adviser; referenced as companion the author will never see again"
+    },
+    {
+      "name": "Lord Byron",
+      "age": "adult",
+      "personality": "brilliant, poetic, provocative",
+      "lifespan": "resident near the Shelleys in Switzerland during 1816; participant in the storytelling challenge"
+    },
+    {
+      "name": "John William Polidori",
+      "age": "adult",
+      "personality": "ambitious but struggling storyteller",
+      "lifespan": "present during the gathering; attempted a tale (referred to as \"Poor Polidori\")"
+    },
+    {
+      "name": "Dr. Darwin (mentioned)",
+      "age": "adult (as discussed)",
+      "personality": "scientific, experimental (as discussed in conversation)",
+      "lifespan": "referenced for alleged experiment with vermicelli and discussions about life"
+    },
+    {
+      "name": "The pale student of unhallowed arts",
+      "age": "young student / man",
+      "personality": "ambitious, curious, horror-struck",
+      "lifespan": "creates and then is horrified by a reanimated corpse; awakens to find the creature at his bedside"
+    },
+    {
+      "name": "The hideous phantom / creature",
+      "age": "newly animated",
+      "personality": "hideous, grotesque, with yellow watery speculative eyes",
+      "lifespan": "brought to transient life by the student's experiment; exists as the central horrid vision"
+    },
+    {
+      "name": "The Inconstant Lover (story)",
+      "age": "n/a (character within a translated tale)",
+      "personality": "romantic/haunted (as described)",
+      "lifespan": "appears in the German tales that influenced the group"
+    },
+    {
+      "name": "The sinful founder (story)",
+      "age": "n/a (character within a translated tale)",
+      "personality": "miserable, fated",
+      "lifespan": "appears in the translated ghost stories; bestows deathly kiss upon younger sons"
+    },
+    {
+      "name": "The skull-headed lady (Polidori's idea)",
+      "age": "n/a (fictional)",
+      "personality": "sinful, punished",
+      "lifespan": "Polidori's fragmentary tale ends with her despatched to the tomb of the Capulets"
+    },
+    {
+      "name": "My childhood's companion and friend",
+      "age": "childhood peer",
+      "personality": "intimate, supportive (unnamed)",
+      "lifespan": "referred to by the author as an important early reader; unnamed in the excerpt"
+    },
+    {
+      "name": "The publishers",
+      "age": "organization",
+      "personality": "practical, editorial",
+      "lifespan": "commission the introduction and publish the Standard Novels edition"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Northern shores of the Tay (near Dundee), Scotland",
+      "latitude": 56.462,
+      "longitude": -2.9707
+    },
+    {
+      "name": "Dundee, Scotland (near the Tay)",
+      "latitude": 56.462,
+      "longitude": -2.9707
+    },
+    {
+      "name": "Scotland (general)",
+      "latitude": 56.4907,
+      "longitude": -4.2026
+    },
+    {
+      "name": "Switzerland (general; summer 1816)",
+      "latitude": 46.8182,
+      "longitude": 8.2275
+    },
+    {
+      "name": "The Alps (white high Alps; visible from the lake)",
+      "latitude": 45.8326,
+      "longitude": 6.8652
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "dilate",
+      "definition": "to speak or write at length; expand upon",
+      "context": "Mary describes being asked how she came to \"dilate upon\" so hideous an idea."
+    },
+    {
+      "word": "averse",
+      "definition": "having a strong dislike or opposition",
+      "context": "She writes that she is \"very averse to bringing myself forward in print.\""
+    },
+    {
+      "word": "intrusion",
+      "definition": "an unwelcome act of entering or imposing",
+      "context": "She refers to appearing in print as a \"personal intrusion.\""
+    },
+    {
+      "word": "scribbled",
+      "definition": "wrote hastily or carelessly",
+      "context": "She recalls that \"as a child I scribbled\" and wrote stories."
+    },
+    {
+      "word": "pastime",
+      "definition": "an activity done for enjoyment",
+      "context": "Her \"favourite pastime\" was to write stories during recreation."
+    },
+    {
+      "word": "recreation",
+      "definition": "leisure activity; play",
+      "context": "She mentions \"hours given me for recreation.\""
+    },
+    {
+      "word": "waking",
+      "definition": "occurring while awake (in contrast to sleeping dreams)",
+      "context": "She distinguishes her \"waking dreams\" from her writings."
+    },
+    {
+      "word": "dreams",
+      "definition": "series of thoughts or images in sleep or imaginative reverie",
+      "context": "She describes her \"dreams\" as more fantastic than her prose."
+    },
+    {
+      "word": "trains",
+      "definition": "a succession of thoughts",
+      "context": "She speaks of \"trains of thought\" following one another."
+    },
+    {
+      "word": "imaginary",
+      "definition": "existing only in the imagination",
+      "context": "Her \"imaginary incidents\" populated her waking hours."
+    },
+    {
+      "word": "fantastic",
+      "definition": "fanciful; extremely odd or imaginative",
+      "context": "Her dreams were \"at once more fantastic and agreeable than my writings.\""
+    },
+    {
+      "word": "agreeable",
+      "definition": "pleasant; enjoyable",
+      "context": "She calls some of her mental flights \"agreeable.\""
+    },
+    {
+      "word": "imitator",
+      "definition": "one who copies another's style",
+      "context": "She confesses she was a \"close imitator\" in early writing."
+    },
+    {
+      "word": "suggestions",
+      "definition": "ideas or proposals put forward",
+      "context": "She mentions \"suggestions of my own mind.\""
+    },
+    {
+      "word": "refuge",
+      "definition": "a place or state of shelter or protection",
+      "context": "Her dreams were \"my refuge when annoyed.\""
+    },
+    {
+      "word": "retrospection",
+      "definition": "the act of looking back on past events",
+      "context": "\"Blank and dreary on retrospection I call them;\" she writes of childhood places."
+    },
+    {
+      "word": "eyry",
+      "definition": "eagle's nest; elevated retreat (variant of eyrie/aery)",
+      "context": "She calls the shores \"the eyry of freedom.\""
+    },
+    {
+      "word": "unheeded",
+      "definition": "not noticed or paid attention to",
+      "context": "\"unheeded I could commune with the creatures of my fancy.\""
+    },
+    {
+      "word": "commune",
+      "definition": "to converse or interact intimately with",
+      "context": "She could \"commune with the creatures of my fancy.\""
+    },
+    {
+      "word": "fancy",
+      "definition": "imagination or whimsical notion",
+      "context": "She repeatedly refers to her \"fancy\" and its creations."
+    },
+    {
+      "word": "habitual",
+      "definition": "done regularly or repeatedly",
+      "context": "She notes her \"habitual residence\" on the northern shores of the Tay."
+    },
+    {
+      "word": "bleak",
+      "definition": "bare, desolate, cold",
+      "context": "She mentions \"the bleak sides of the woodless mountains.\""
+    },
+    {
+      "word": "woodless",
+      "definition": "without trees; treeless",
+      "context": "She describes \"woodless mountains\" near her childhood home."
+    },
+    {
+      "word": "compositions",
+      "definition": "creations or works of writing",
+      "context": "She calls her inventive mental flights her \"true compositions.\""
+    },
+    {
+      "word": "airy",
+      "definition": "light, delicate, or insubstantial",
+      "context": "She speaks of the \"airy flights of my imagination.\""
+    },
+    {
+      "word": "heroine",
+      "definition": "female protagonist",
+      "context": "She says \"I did not make myself the heroine of my tales.\""
+    },
+    {
+      "word": "romantic",
+      "definition": "idealized, adventurous, or emotionally charged",
+      "context": "She references \"romantic woes\" as unlikely to be her lot."
+    },
+    {
+      "word": "identity",
+      "definition": "the fact of being who one is",
+      "context": "She remarks upon \"my own identity\" when discussing herself in stories."
+    },
+    {
+      "word": "enrol",
+      "definition": "to register or enter in a list (British spelling enrol)",
+      "context": "Her husband urged her to \"enrol myself on the page of fame.\""
+    },
+    {
+      "word": "inciting",
+      "definition": "encouraging or urging on",
+      "context": "He was \"for ever inciting me to obtain literary reputation.\""
+    },
+    {
+      "word": "indifferent",
+      "definition": "having no particular interest or sympathy",
+      "context": "She says she has since become \"infinitely indifferent\" to fame."
+    },
+    {
+      "word": "travelling",
+      "definition": "journeying from place to place",
+      "context": "\"Travelling, and the cares of a family, occupied my time.\""
+    },
+    {
+      "word": "cultivated",
+      "definition": "refined, educated, or developed",
+      "context": "She contrasts her own mind with his \"far more cultivated mind.\""
+    },
+    {
+      "word": "neighbours",
+      "definition": "people living near another",
+      "context": "They \"became the neighbours of Lord Byron\" in Switzerland."
+    },
+    {
+      "word": "canto",
+      "definition": "a principal division of a long poem",
+      "context": "Byron was writing the \"third canto of Childe Harold.\""
+    },
+    {
+      "word": "clothed",
+      "definition": "dressed or covered",
+      "context": "Byron's lines are \"clothed in all the light and harmony of poetry.\""
+    },
+    {
+      "word": "ungenial",
+      "definition": "not genial; inhospitable or bleak",
+      "context": "She describes 1816 as a \"wet, ungenial summer.\""
+    },
+    {
+      "word": "incessant",
+      "definition": "continuing without pause or interruption",
+      "context": "\"incessant rain often confined us for days to the house.\""
+    },
+    {
+      "word": "translated",
+      "definition": "converted from one language into another",
+      "context": "She and company read \"volumes of ghost stories, translated from the German.\""
+    },
+    {
+      "word": "vermicelli",
+      "definition": "a thin pasta (used in anecdote about Dr. Darwin)",
+      "context": "Dr. Darwin supposedly preserved a piece of \"vermicelli\" that moved."
+    },
+    {
+      "word": "galvanism",
+      "definition": "the application of electricity to stimulate muscles; early electrical experimentation",
+      "context": "\"galvanism had given token of such things\" as reanimation."
+    },
+    {
+      "word": "re-animated",
+      "definition": "brought back to life",
+      "context": "She contemplates that \"a corpse would be re-animated.\""
+    },
+    {
+      "word": "component",
+      "definition": "one part of a larger whole",
+      "context": "She imagines \"the component parts of a creature\" manufactured together."
+    },
+    {
+      "word": "manufactured",
+      "definition": "made or assembled, especially industrially or artificially",
+      "context": "\"component parts of a creature might be manufactured, brought together.\""
+    },
+    {
+      "word": "vital",
+      "definition": "relating to life; essential to life",
+      "context": "Such parts might be \"endued with vital warmth.\""
+    },
+    {
+      "word": "warmth",
+      "definition": "heat or life-giving heat; figuratively vitality",
+      "context": "\"endued with vital warmth\" in speculative experiments."
+    },
+    {
+      "word": "witching",
+      "definition": "mysterious or magical; here meaning the late hour",
+      "context": "She mentions that \"Night waned upon this talk, and even the witching hour had gone by.\""
+    },
+    {
+      "word": "unbidden",
+      "definition": "not invited or requested; spontaneous",
+      "context": "\"My imagination, unbidden, possessed and guided me.\""
+    },
+    {
+      "word": "kneeling",
+      "definition": "bending the knee in submission or supplication",
+      "context": "She saw \"the pale student of unhallowed arts kneeling beside the thing he had put together.\""
+    },
+    {
+      "word": "unhallowed",
+      "definition": "not consecrated; sinful or profane",
+      "context": "The vision included a \"pale student of unhallowed arts.\""
+    },
+    {
+      "word": "phantasm",
+      "definition": "a ghost or apparition; an illusion",
+      "context": "She saw \"the hideous phantasm of a man stretched out.\""
+    },
+    {
+      "word": "stupendous",
+      "definition": "extremely impressive or large",
+      "context": "She warns against attempts to \"mock the stupendous mechanism of the Creator.\""
+    },
+    {
+      "word": "mechanism",
+      "definition": "a system of parts working together; the structure of something",
+      "context": "\"stupendous mechanism of the Creator of the world.\""
+    },
+    {
+      "word": "odious",
+      "definition": "extremely unpleasant; repulsive",
+      "context": "The artist would rush from his \"odious handywork.\""
+    },
+    {
+      "word": "handywork",
+      "definition": "work done by hand; creation",
+      "context": "\"odious handywork\" describes the cobbled-together creation."
+    },
+    {
+      "word": "cradle",
+      "definition": "a place or origin of something; here used metaphorically for the seat of life",
+      "context": "\"the cradle of life\" referring to the animated corpse."
+    },
+    {
+      "word": "horror",
+      "definition": "an intense feeling of fear, shock, or disgust",
+      "context": "She sought to \"awaken thrilling horror\" in the reader."
+    },
+    {
+      "word": "curdle",
+      "definition": "to cause to thicken or develop unpleasantly (figurative: make blood curdle)",
+      "context": "Her aim was to \"curdle the blood\" of readers."
+    },
+    {
+      "word": "quicken",
+      "definition": "to cause to speed up; here to make heartbeat faster",
+      "context": "\"quicken the beatings of the heart.\""
+    },
+    {
+      "word": "mortifying",
+      "definition": "causing embarrassment or shame",
+      "context": "\"I was forced to reply with a mortifying negative.\""
+    },
+    {
+      "word": "incapability",
+      "definition": "lack of ability or power",
+      "context": "She speaks of \"blank incapability of invention.\""
+    },
+    {
+      "word": "invocations",
+      "definition": "calls for help or inspiration",
+      "context": "\"when dull Nothing replies to our anxious invocations.\""
+    },
+    {
+      "word": "Sanchean",
+      "definition": "relating to Sancho (allusion); used as an adjectival reference to Sancho Panza-style phrase",
+      "context": "\"to speak in Sanchean phrase;\" she uses the allusion in discussing beginnings."
+    },
+    {
+      "word": "Hindoos",
+      "definition": "an archaic spelling of Hindus (people of India)",
+      "context": "\"The Hindoos give the world an elephant to support it\" in a metaphor she cites."
+    },
+    {
+      "word": "elephant",
+      "definition": "large mammal; used here in a cosmological metaphor",
+      "context": "She recounts the Hindoos' cosmological image of an \"elephant to support\" the world."
+    },
+    {
+      "word": "tortoise",
+      "definition": "a slow-moving land reptile; in the metaphor supporting the elephant",
+      "context": "The elephant is said to \"stand upon a tortoise.\""
+    },
+    {
+      "word": "Columbus",
+      "definition": "Christopher Columbus, used in the idiom about ingenuity",
+      "context": "She invokes the story of \"Columbus and his egg.\""
+    },
+    {
+      "word": "egg",
+      "definition": "the reproductive body of birds; used in the Columbus anecdote",
+      "context": "\"Columbus and his egg\" illustrates invention's nature."
+    },
+    {
+      "word": "novelist",
+      "definition": "one who writes novels",
+      "context": "\"the most humble novelist\" may claim a licence in fiction."
+    },
+    {
+      "word": "licence",
+      "definition": "freedom to deviate from strict rules (British spelling)",
+      "context": "She speaks of applying a \"licence\" to prose fiction."
+    },
+    {
+      "word": "appertain",
+      "definition": "to belong to or be connected with",
+      "context": "\"in the matters of discovery and invention that appertain to the imagination.\""
+    },
+    {
+      "word": "delineating",
+      "definition": "describing or portraying in detail",
+      "context": "She refers to \"delineating of human passions.\""
+    },
+    {
+      "word": "comprehensive",
+      "definition": "including much or covering broadly",
+      "context": "\"more comprehensive and commanding than any which ordinary relations can yield.\""
+    },
+    {
+      "word": "Iliad",
+      "definition": "Homer's epic poem (classical reference)",
+      "context": "She cites classical models like \"The Iliad.\""
+    },
+    {
+      "word": "Tempest",
+      "definition": "Shakespeare's play The Tempest (literary reference)",
+      "context": "She mentions \"Shakspeare, in the Tempest,\" as an example."
+    },
+    {
+      "word": "Midsummer",
+      "definition": "referring to \"A Midsummer Night's Dream\" by Shakespeare",
+      "context": "She references \"Midsummer Night's Dream\" among poetic models."
+    },
+    {
+      "word": "Milton",
+      "definition": "John Milton, author of Paradise Lost (literary reference)",
+      "context": "She cites \"Milton, in Paradise Lost,\" as another model."
+    },
+    {
+      "word": "Paradise",
+      "definition": "in context, part of the title \"Paradise Lost\"",
+      "context": "\"Milton, in Paradise Lost,\" provides an example of imaginative licence."
+    },
+    {
+      "word": "tragic",
+      "definition": "relating to tragedy or serious suffering",
+      "context": "She references \"the tragic poetry of Greece.\""
+    },
+    {
+      "word": "preface",
+      "definition": "introductory remarks at the beginning of a book",
+      "context": "She notes that her husband largely wrote the \"preface.\""
+    },
+    {
+      "word": "pale",
+      "definition": "light in color; wan; used to describe ghostly figures",
+      "context": "\"the pale student\" and \"the pale ghost\" appear in her retellings."
+    },
+    {
+      "word": "beaver",
+      "definition": "the visor of a helmet or piece of armour (archaic usage)",
+      "context": "A ghost is \"clothed...in complete armour, but with the beaver up.\""
+    },
+    {
+      "word": "Capulets",
+      "definition": "the Capulet family from Romeo and Juliet (proper noun used in anecdote)",
+      "context": "Polidori's fragment sends his skull-headed lady \"to the tomb of the Capulets.\""
+    },
+    {
+      "word": "fitful",
+      "definition": "occurring in irregular bursts; intermittent",
+      "context": "\"the moon's fitful beams\" illuminate the apparition."
+    },
+    {
+      "word": "avenue",
+      "definition": "a walkway or approach lined with trees",
+      "context": "A \"gloomy avenue\" is part of a translated tale she recalls."
+    },
+    {
+      "word": "bent",
+      "definition": "leaned or inclined (past tense of bend)",
+      "context": "\"Eternal sorrow sat upon his face as he bent down and kissed the forehead.\""
+    },
+    {
+      "word": "withered",
+      "definition": "shriveled or faded (as from loss of vitality)",
+      "context": "\"withered like flowers snapt upon the stalk.\""
+    },
+    {
+      "word": "snapt",
+      "definition": "archaic past tense of snap; broken off suddenly",
+      "context": "\"snapt upon the stalk\" describes the withering of the youths."
+    },
+    {
+      "word": "fragment",
+      "definition": "an incomplete piece or portion of a larger work",
+      "context": "Byron \"began a tale, a fragment of which he printed\" with Mazeppa."
+    },
+    {
+      "word": "platitude",
+      "definition": "a remark that is dull or lacking originality",
+      "context": "She notes the poets were \"annoyed by the platitude of prose.\""
+    },
+    {
+      "word": "uncongenial",
+      "definition": "not pleasant or sympathetic; unsuitable",
+      "context": "\"the uncongenial task\" of composing prose ghost stories for the poets."
+    },
+    {
+      "word": "busied",
+      "definition": "occupied oneself with an activity",
+      "context": "\"I busied myself to think of a story.\""
+    },
+    {
+      "word": "tiresome",
+      "definition": "boring or annoying through repetition",
+      "context": "She calls the task the \"tiresome unlucky ghost story.\""
+    },
+    {
+      "word": "vainly",
+      "definition": "without success; fruitlessly",
+      "context": "\"I thought and pondered--vainly.\""
+    },
+    {
+      "word": "blank",
+      "definition": "empty or void; here describing incapability",
+      "context": "\"blank incapability of invention\" when nothing comes."
+    },
+    {
+      "word": "horrid",
+      "definition": "causing horror or disgust",
+      "context": "She repeatedly uses \"horrid\" to describe the imagined creation."
+    },
+    {
+      "word": "bedside",
+      "definition": "the area beside a bed",
+      "context": "In her dream the \"horrid thing stands at his bedside.\""
+    },
+    {
+      "word": "curtains",
+      "definition": "hangings at a window or bed",
+      "context": "\"opening his curtains, and looking on him with yellow, watery...eyes.\""
+    },
+    {
+      "word": "watery",
+      "definition": "containing, resembling, or filled with water; here pale and wet-looking",
+      "context": "\"yellow, watery, but speculative eyes\" of the creature."
+    },
+    {
+      "word": "speculative",
+      "definition": "based on conjecture or theory rather than knowledge",
+      "context": "The creature is described as having \"speculative eyes.\""
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/42324"
+}
