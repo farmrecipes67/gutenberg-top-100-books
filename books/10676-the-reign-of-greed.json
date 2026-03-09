@@ -1,0 +1,669 @@
+{
+  "gutenberg_id": 10676,
+  "title": "The Reign of Greed",
+  "author": "Rizal, José",
+  "summary": "El Filibusterismo (The Reign of Greed) continues Noli Me Tangere’s tale of Spanish colonial Philippines. Juan Crisóstomo Ibarra returns from Europe to find his father dead and confronts clerical and governmental corruption. Betrayal, forged documents, and plots force Ibarra into exile; Maria Clara is coerced into a convent. Elias aids fugitives but dies; young Basilio suffers poverty and loss. Amid satire and social critique, Rizal depicts friars, local elites, and bureaucrats presiding over injustice, hypocrisy, and repression. The narrative follows diverse Manila types, pasquinades, conspiracies, and a simmering revolutionary mood that presages violent consequence and national awakening and resistance movements.",
+  "characters": [
+    {
+      "name": "Juan Crisostomo Ibarra",
+      "age": "early to mid-20s (estimated)",
+      "personality": "educated, idealistic, determined; seeks reform",
+      "lifespan": "Imprisoned, escapes; fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Maria Clara",
+      "age": "early 20s (estimated)",
+      "personality": "beautiful, accomplished, obedient, emotionally torn",
+      "lifespan": "Placed in a nunnery in the narrative excerpt"
+    },
+    {
+      "name": "Don Santiago de los Santos (Capitan Tiago)",
+      "age": "older adult (cacique)",
+      "personality": "wealthy local cacique, fearful of friars",
+      "lifespan": "Influences Maria Clara’s fate; further fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Padre Damaso",
+      "age": "older friar (middle-aged to elderly)",
+      "personality": "insolent, meddlesome, representative of abusive clergy",
+      "lifespan": "Central antagonist in backstory; fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Padre Salvi",
+      "age": "young (described as young and gloomy)",
+      "personality": "mysterious, sinister, manipulative",
+      "lifespan": "Plays a role in intrigue and Maria Clara’s fear; fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Elias",
+      "age": "adult (middle-aged, estimated)",
+      "personality": "outlaw, self-sacrificing, secret helper",
+      "lifespan": "Wounded and dies helping others; corpse burned on pyre in the excerpt"
+    },
+    {
+      "name": "Basilio",
+      "age": "boy (child)",
+      "personality": "suffering, loyal, resourceful",
+      "lifespan": "Survives in excerpt; helps with Elias’s funeral pyre; long-term fate not resolved here"
+    },
+    {
+      "name": "Doña Victorina",
+      "age": "middle-aged (estimated)",
+      "personality": "pretentious, obsessed with European manners",
+      "lifespan": "Appears as comic-social figure aboard steamer; fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Don Custodio",
+      "age": "older official (estimated)",
+      "personality": "indefatigable, officious, project-minded",
+      "lifespan": "Representative bureaucrat in the story; fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Ben-Zayb (Ibañez)",
+      "age": "adult (writer)",
+      "personality": "prolific, self-important journalist/author",
+      "lifespan": "Satirized in narrative; fate not resolved in provided excerpt"
+    },
+    {
+      "name": "The Captain (of the Tabo)",
+      "age": "well along in years (elderly)",
+      "personality": "kindly, experienced, cautious",
+      "lifespan": "Commands the steamer in Chapter I; fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Sailors / Helmsmen",
+      "age": "adults",
+      "personality": "practical, hardworking (many are Indians)",
+      "lifespan": "Work on the steamer; individual fates not detailed in excerpt"
+    },
+    {
+      "name": "Reverendos and Ilustrísimos",
+      "age": "clergy (honorific grouping)",
+      "personality": "high clerical officials, overseeing institutions",
+      "lifespan": "Mentioned as supervising construction metaphorically; specific fates not given"
+    },
+    {
+      "name": "Don Mariano Gomez",
+      "age": "85 (given in dedication)",
+      "personality": "portrayed as victim/martyr",
+      "lifespan": "Executed in Bagumbayan Field (dedication)"
+    },
+    {
+      "name": "Don José Burgos",
+      "age": "30 (given in dedication)",
+      "personality": "portrayed as victim/martyr",
+      "lifespan": "Executed in Bagumbayan Field (dedication)"
+    },
+    {
+      "name": "Don Jacinto Zamora",
+      "age": "35 (given in dedication)",
+      "personality": "portrayed as victim/martyr",
+      "lifespan": "Executed in Bagumbayan Field (dedication)"
+    },
+    {
+      "name": "Placido Penitente",
+      "age": "student (implied)",
+      "personality": "disciplined/pious student (as suggested by chapter title)",
+      "lifespan": "Appears in contents; specific fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Señor Pasta",
+      "age": "adult (implied)",
+      "personality": "comic or notable Manila type (from contents)",
+      "lifespan": "Listed in contents; fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Simoun",
+      "age": "adult (mysterious persona)",
+      "personality": "enigmatic; name used in contents and later chapters",
+      "lifespan": "Referenced in contents; his full role and fate not detailed in provided excerpt"
+    },
+    {
+      "name": "Tatakut",
+      "age": "character-name (implied adult)",
+      "personality": "named figure in contents (meaning 'fear' in Tagalog)",
+      "lifespan": "Listed in contents; fate not resolved in provided excerpt"
+    },
+    {
+      "name": "Juli",
+      "age": "young woman (implied)",
+      "personality": "notable minor character listed in contents",
+      "lifespan": "Listed in contents; fate not resolved in provided excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pasig River",
+      "latitude": 14.5865,
+      "longitude": 120.9842
+    },
+    {
+      "name": "La Laguna (province, Philippines)",
+      "latitude": 14.3333,
+      "longitude": 121.25
+    },
+    {
+      "name": "Manila",
+      "latitude": 14.5995,
+      "longitude": 120.9842
+    },
+    {
+      "name": "Laguna de Bay",
+      "latitude": 14.3333,
+      "longitude": 121.25
+    },
+    {
+      "name": "Bagumbayan Field (Rizal Park / Luneta)",
+      "latitude": 14.5845,
+      "longitude": 120.9785
+    },
+    {
+      "name": "Quiapo (Manila district)",
+      "latitude": 14.5958,
+      "longitude": 120.9887
+    },
+    {
+      "name": "Los Baños (town, Laguna)",
+      "latitude": 14.17,
+      "longitude": 121.2431
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "tabú",
+      "definition": "a small tub or wooden pail; source of the steamer's name",
+      "context": "Described as the object from which the steamer Tabo derived its name"
+    },
+    {
+      "word": "Tabo",
+      "definition": "proper name of the steamer in the narrative",
+      "context": "The steamer Tabo was laboriously ascending the Pasig"
+    },
+    {
+      "word": "Pasig",
+      "definition": "name of the river in Manila",
+      "context": "Ascending the tortuous course of the Pasig"
+    },
+    {
+      "word": "La Laguna",
+      "definition": "province in the Philippines",
+      "context": "Passengers toward the province of La Laguna"
+    },
+    {
+      "word": "steamer",
+      "definition": "a steam-powered ship or boat",
+      "context": "The steamer Tabo was laboriously ascending"
+    },
+    {
+      "word": "tortuous",
+      "definition": "full of twists and turns; winding",
+      "context": "Ascending the tortuous course of the Pasig"
+    },
+    {
+      "word": "salambaw",
+      "definition": "a Philippine fishing apparatus/platform",
+      "context": "She looks as though she would grind to bits the salambaw, insecure fishing apparatus"
+    },
+    {
+      "word": "karihan",
+      "definition": "local amphibian structures or small riverside constructions (as used in text)",
+      "context": "Against the amphibian structures, karihan, or wayside lunch-stands"
+    },
+    {
+      "word": "gumamelas",
+      "definition": "gumamela (hibiscus) flowers",
+      "context": "Amid gumamelas and other flowers"
+    },
+    {
+      "word": "bankas",
+      "definition": "small boats or outriggers (Filipino 'banca')",
+      "context": "Now she looks as though she would grind to bits the salambaw, ... bankas"
+    },
+    {
+      "word": "cascos",
+      "definition": "Spanish term for boats or skiffs; small craft",
+      "context": "Doña Victorina was hurling invectives against the cascos"
+    },
+    {
+      "word": "Indians",
+      "definition": "term used historically in the text for native inhabitants",
+      "context": "On the lower deck appear brown faces and black heads, types of Indians"
+    },
+    {
+      "word": "mestizos",
+      "definition": "people of mixed ancestry (Spanish/indigenous)",
+      "context": "Types of Indians, Chinese, and mestizos wedged in between bales"
+    },
+    {
+      "word": "awning",
+      "definition": "a canopy or cover providing shade",
+      "context": "Beneath an awning that protects them from the sun"
+    },
+    {
+      "word": "puro",
+      "definition": "Spanish/Filipino term for a pure cigar; used adjectivally",
+      "context": "Each with his puro cigar"
+    },
+    {
+      "word": "cigar",
+      "definition": "a roll of tobacco for smoking",
+      "context": "Each with his puro cigar, and gazing at the landscape"
+    },
+    {
+      "word": "Reverendos",
+      "definition": "Spanish honorific for reverends; clergy title",
+      "context": "Constructed, as she had been, under the inspection of Reverendos"
+    },
+    {
+      "word": "Ilustrísimos",
+      "definition": "Spanish honorific plural (literally 'most illustrious')",
+      "context": "Under the inspection of Reverendos and Ilustrísimos"
+    },
+    {
+      "word": "cacique",
+      "definition": "local political boss or chieftain",
+      "context": "A typical Filipino cacique, the predominant character fostered by the friar régime"
+    },
+    {
+      "word": "sacristan",
+      "definition": "a church officer who cares for the sacristy and sacred objects",
+      "context": "He was a sacristan in the convento"
+    },
+    {
+      "word": "convento",
+      "definition": "Spanish for convent; monastery complex",
+      "context": "Letters had been accidentally discovered in the convento"
+    },
+    {
+      "word": "nunnery",
+      "definition": "a convent for nuns",
+      "context": "She begged her supposed godfather to put her in a nunnery"
+    },
+    {
+      "word": "Bagumbayan",
+      "definition": "historical execution ground in Manila (now Luneta/Rizal Park)",
+      "context": "Executed in Bagumbayan Field on the 28th of February, 1872"
+    },
+    {
+      "word": "Capitan Tiago",
+      "definition": "honorific/title and name of Don Santiago de los Santos",
+      "context": "Don Santiago de los Santos, commonly known as 'Capitan Tiago'"
+    },
+    {
+      "word": "Fray",
+      "definition": "Spanish title for a friar",
+      "context": "Fray Damaso (Padre Damaso) appears in the narrative"
+    },
+    {
+      "word": "excommunicated",
+      "definition": "officially excluded from participation in the sacraments and services of the Church",
+      "context": "Ibarra is excommunicated"
+    },
+    {
+      "word": "pasquinades",
+      "definition": "satirical lampoons posted publicly (pasquinade)",
+      "context": "Chapter title and narrative element: Pasquinades"
+    },
+    {
+      "word": "La Ultima Razón",
+      "definition": "Spanish: 'The Last Reason'; chapter title",
+      "context": "Listed among chapter headings in the contents"
+    },
+    {
+      "word": "Sic itur ad astra",
+      "definition": "Latin phrase meaning 'Thus one goes to the stars'",
+      "context": "Epigraph heading for Chapter I"
+    },
+    {
+      "word": "stolid",
+      "definition": "calm, dependable, and showing little emotion",
+      "context": "An organism, stolid, imperfect yet unimpeachable"
+    },
+    {
+      "word": "unimpeachable",
+      "definition": "not able to be doubted or questioned; beyond reproach",
+      "context": "Stolid, imperfect yet unimpeachable"
+    },
+    {
+      "word": "pretensions",
+      "definition": "attempts to impress by affecting greater importance or merit",
+      "context": "Dirty in spite of her pretensions to whiteness"
+    },
+    {
+      "word": "majestic",
+      "definition": "having or showing impressive beauty or dignity",
+      "context": "Majestic and grave from her leisurely motion"
+    },
+    {
+      "word": "leisurely",
+      "definition": "acting or done at leisure; unhurried",
+      "context": "Majestic and grave from her leisurely motion"
+    },
+    {
+      "word": "corpulent",
+      "definition": "fat; obese",
+      "context": "Like a corpulent dame in a jammed throng"
+    },
+    {
+      "word": "helmsmen",
+      "definition": "persons who steer a ship",
+      "context": "Note the helmsmen were Indians"
+    },
+    {
+      "word": "indefatigable",
+      "definition": "incapable of being tired out; persistent",
+      "context": "An indefatigable Don Custodio"
+    },
+    {
+      "word": "prolific",
+      "definition": "producing many works; highly productive",
+      "context": "A prolific writer like Ben-Zayb"
+    },
+    {
+      "word": "Ben-Zayb",
+      "definition": "pen name/anagram of Ibañez; character in the novel",
+      "context": "A prolific writer like Ben-Zayb (anagram of Ibañez)"
+    },
+    {
+      "word": "Doña Victorina",
+      "definition": "female character name and title",
+      "context": "Doña Victorina, the only lady seated in the European group"
+    },
+    {
+      "word": "Don Custodio",
+      "definition": "male character name and title",
+      "context": "An indefatigable Don Custodio"
+    },
+    {
+      "word": "Elias",
+      "definition": "name of a mysterious outlaw character",
+      "context": "Elias, whose life he had accidentally saved"
+    },
+    {
+      "word": "Basilio",
+      "definition": "name of a boy who appears beside a corpse",
+      "context": "A boy named Basilio beside the corpse of his mother"
+    },
+    {
+      "word": "Juan Crisostomo Ibarra",
+      "definition": "full name of the protagonist formerly introduced in Noli Me Tangere",
+      "context": "Juan Crisostomo Ibarra is a young Filipino who returns from Europe"
+    },
+    {
+      "word": "Maria Clara",
+      "definition": "female protagonist, Ibarra's betrothed",
+      "context": "Maria Clara, the supposed daughter and only child of Don Santiago"
+    },
+    {
+      "word": "Padre Damaso",
+      "definition": "a Franciscan friar and antagonist",
+      "context": "A quarrel with the parish curate, a Franciscan friar named Padre Damaso"
+    },
+    {
+      "word": "Padre Salvi",
+      "definition": "a young Franciscan friar in the narrative",
+      "context": "Padre Salvi, for whom Maria Clara confesses to an instinctive dread"
+    },
+    {
+      "word": "Simoun",
+      "definition": "name/title appearing as a chapter heading (later identity in the novel)",
+      "context": "Listed in the contents as Chapter VII: Simoun"
+    },
+    {
+      "word": "Placido Penitente",
+      "definition": "proper name appearing in contents (student figure)",
+      "context": "Listed among chapter titles in the contents"
+    },
+    {
+      "word": "Señor Pasta",
+      "definition": "proper name appearing in contents",
+      "context": "Chapter XV: Señor Pasta"
+    },
+    {
+      "word": "Tatakut",
+      "definition": "proper name appearing in contents (Tagalog root meaning 'fear')",
+      "context": "Listed as chapter XXVIII: Tatakut"
+    },
+    {
+      "word": "Juli",
+      "definition": "proper name of a character listed in the contents",
+      "context": "Chapter XXX: Juli"
+    },
+    {
+      "word": "Quiapo",
+      "definition": "district in Manila",
+      "context": "The Quiapo Pair (chapter XVII)"
+    },
+    {
+      "word": "Cochero",
+      "definition": "coachman; Spanish term used as chapter title",
+      "context": "A Cochero’s Christmas Eve (chapter V)"
+    },
+    {
+      "word": "Cabesang",
+      "definition": "proper name used in contents (Cabesang Tales)",
+      "context": "Chapter IV: Cabesang Tales"
+    },
+    {
+      "word": "Arbiter",
+      "definition": "a judge or one with power to decide",
+      "context": "Chapter XX: The Arbiter"
+    },
+    {
+      "word": "afflictions",
+      "definition": "causes of pain or suffering",
+      "context": "Ben-Zayb’s Afflictions (chapter XXXVI)"
+    },
+    {
+      "word": "tardy",
+      "definition": "delayed; late",
+      "context": "Let these pages serve as a tardy wreath of dried leaves"
+    },
+    {
+      "word": "wreath",
+      "definition": "a ring-shaped arrangement of leaves or flowers as an honor or memorial",
+      "context": "Let these pages serve as a tardy wreath of dried leaves"
+    },
+    {
+      "word": "dried",
+      "definition": "having had moisture removed; preserved",
+      "context": "A tardy wreath of dried leaves over your unknown tombs"
+    },
+    {
+      "word": "martyrs",
+      "definition": "people killed for their beliefs or cause",
+      "context": "All the Philippines, by worshiping your memory and calling you martyrs"
+    },
+    {
+      "word": "worshiping",
+      "definition": "showing reverence and adoration",
+      "context": "All the Philippines, by worshiping your memory"
+    },
+    {
+      "word": "tutor",
+      "definition": "one who instructs or trains",
+      "context": "He had in his age become the tutor of a capricious, disobedient, and lazy boy"
+    },
+    {
+      "word": "silhouette",
+      "definition": "a dark shape or outline against a lighter background",
+      "context": "Her white silhouette throwing out great clouds of smoke"
+    },
+    {
+      "word": "smoke",
+      "definition": "visible vapor from combustion",
+      "context": "Her white silhouette throwing out great clouds of smoke"
+    },
+    {
+      "word": "whistle",
+      "definition": "a shrill sound-making device aboard the steamer",
+      "context": "The whistle shrieks at every moment"
+    },
+    {
+      "word": "shrieks",
+      "definition": "high-pitched piercing cries or sounds",
+      "context": "The whistle shrieks at every moment"
+    },
+    {
+      "word": "hoarse",
+      "definition": "having a rough or harsh voice",
+      "context": "Hoarse and commanding like a tyrant"
+    },
+    {
+      "word": "commanding",
+      "definition": "authoritative; giving orders",
+      "context": "Hoarse and commanding like a tyrant"
+    },
+    {
+      "word": "tyrant",
+      "definition": "a ruler who exercises power oppressively",
+      "context": "Hoarse and commanding like a tyrant who would rule by shouting"
+    },
+    {
+      "word": "bamboo",
+      "definition": "tall woody grass common in Asia",
+      "context": "Breezes rustle in the bending bamboo on its banks"
+    },
+    {
+      "word": "skeletons",
+      "definition": "frameworks or outlines resembling bones",
+      "context": "Resemble skeletons of giants saluting an antediluvian tortoise"
+    },
+    {
+      "word": "antediluvian",
+      "definition": "extremely old-fashioned; literally 'before the flood'",
+      "context": "Antediluvian tortoise"
+    },
+    {
+      "word": "tortoise",
+      "definition": "a slow-moving shelled reptile",
+      "context": "Antediluvian tortoise"
+    },
+    {
+      "word": "amphibian",
+      "definition": "able to operate both on land and in water; used figuratively for riverside structures",
+      "context": "Amphibian structures, karihan"
+    },
+    {
+      "word": "wayside",
+      "definition": "by the side of a road",
+      "context": "Wayside lunch-stands"
+    },
+    {
+      "word": "lunch-stands",
+      "definition": "small roadside places selling food",
+      "context": "Wayside lunch-stands, which amid gumamelas and other flowers"
+    },
+    {
+      "word": "channel",
+      "definition": "a marked route of water; navigable passage",
+      "context": "Following a sort of channel marked out in the river by tree-trunks"
+    },
+    {
+      "word": "tree-trunks",
+      "definition": "the main woody stems of trees",
+      "context": "A channel marked out in the river by tree-trunks"
+    },
+    {
+      "word": "sand-bar",
+      "definition": "a ridge of sand in a river or sea shallow area",
+      "context": "A sudden shock disturbs the passengers ... result of a collision with a sand-bar"
+    },
+    {
+      "word": "collision",
+      "definition": "an instance of two things striking each other",
+      "context": "Result of a collision with a sand-bar"
+    },
+    {
+      "word": "bales",
+      "definition": "bundles of goods, often for shipping",
+      "context": "Wedged in between bales of merchandise"
+    },
+    {
+      "word": "merchandise",
+      "definition": "goods to be bought and sold",
+      "context": "Wedged in between bales of merchandise and boxes"
+    },
+    {
+      "word": "chairs",
+      "definition": "seats for passengers",
+      "context": "Seated in comfortable chairs a few passengers"
+    },
+    {
+      "word": "landscape",
+      "definition": "the scenery visible from a place",
+      "context": "Gazing at the landscape apparently without heeding"
+    },
+    {
+      "word": "captain",
+      "definition": "the person in charge of a ship",
+      "context": "The captain was a man of kindly aspect"
+    },
+    {
+      "word": "sailors",
+      "definition": "persons employed on a ship",
+      "context": "An old sailor who in his youth had plunged into far vaster seas"
+    },
+    {
+      "word": "engineers",
+      "definition": "persons operating mechanical systems (on the steamer)",
+      "context": "The engineers Indians, Indians ninety-nine per cent"
+    },
+    {
+      "word": "passengers",
+      "definition": "people travelling on a vehicle",
+      "context": "A large crowd of passengers toward the province"
+    },
+    {
+      "word": "whiteness",
+      "definition": "quality of being white; used ironically about the steamer",
+      "context": "Dirty in spite of her pretensions to whiteness"
+    },
+    {
+      "word": "genuinely",
+      "definition": "authentically; truly",
+      "context": "Indeed, the happy steamer was genuinely Filipino!"
+    },
+    {
+      "word": "Filipino",
+      "definition": "relating to the Philippines or its people",
+      "context": "Indeed, the happy steamer was genuinely Filipino!"
+    },
+    {
+      "word": "progressive",
+      "definition": "favoring or promoting progress",
+      "context": "A steamer that was not a steamer at all, an organism... which, when it wished to pose as being rankly progressive"
+    },
+    {
+      "word": "pose",
+      "definition": "to present an appearance intended to impress",
+      "context": "When it wished to pose as being rankly progressive"
+    },
+    {
+      "word": "inspection",
+      "definition": "the act of examining something closely",
+      "context": "Constructed under the inspection of Reverendos and Ilustrísimos"
+    },
+    {
+      "word": "sparkle",
+      "definition": "to give off small flashes of light",
+      "context": "Bathed in the sunlight of a morning that made the waters of the river sparkle"
+    },
+    {
+      "word": "rustle",
+      "definition": "to make a soft, muffled crackling sound",
+      "context": "The breezes rustle in the bending bamboo"
+    },
+    {
+      "word": "dread",
+      "definition": "great fear or apprehension",
+      "context": "Maria Clara confesses to an instinctive dread of Padre Salvi"
+    },
+    {
+      "word": "ball",
+      "definition": "a formal dance or social gathering",
+      "context": "On the evening when Capitan Tiago gives a ball in his Manila house"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/10676"
+}
