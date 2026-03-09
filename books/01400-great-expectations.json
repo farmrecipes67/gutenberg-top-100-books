@@ -1,0 +1,574 @@
+{
+  "gutenberg_id": 1400,
+  "title": "Great Expectations",
+  "author": "Dickens, Charles",
+  "summary": "Orphaned boy Pip narrates his youth in a bleak marsh country beside the river and sea. While mourning at family tombstones he is accosted by a fearsome escaped convict who forces him to promise to bring food and a file, threatening death. Terrified, Pip returns to his household: stern sister Mrs. Joe Gargery, her mild blacksmith husband Joe, and the forge. Mrs. Joe rules with a cane called Tickler. Pip’s childish imaginings and graveyard impressions shape his understanding of family, danger, and obligation, setting a tone of fear, dependency, and strange encounters that define his early life and memory too.",
+  "characters": [
+    {
+      "name": "Philip 'Pip' Pirrip",
+      "age": "child (about 7, estimated from narration)",
+      "personality": "timid, imaginative, impressionable narrator",
+      "lifespan": "alive in narration; raised by sister and Joe; threatened by a convict in early childhood"
+    },
+    {
+      "name": "Mrs. Joe Gargery",
+      "age": "more than twenty years older than Pip (est. late 20s–40s)",
+      "personality": "harsh, domineering, proud of having 'brought Pip up by hand'",
+      "lifespan": "alive in excerpt; Wilson guardian who rules household with Tickler (cane)"
+    },
+    {
+      "name": "Joe Gargery",
+      "age": "adult (est. 30s–40s)",
+      "personality": "mild, good-natured, simple, kind blacksmith",
+      "lifespan": "alive in excerpt; Pip's gentle protector and blacksmith husband of Mrs. Joe"
+    },
+    {
+      "name": "Unnamed Fearful Convict (iron on his leg)",
+      "age": "adult",
+      "personality": "violent, threatening, desperate, commanding",
+      "lifespan": "alive in excerpt; menaces Pip in churchyard, demands food and a file, then limps away into marshes"
+    },
+    {
+      "name": "Unnamed Young Convict (hidden with the fearful man)",
+      "age": "young adult",
+      "personality": "implied dangerous and stealthy (described by the fearful man)",
+      "lifespan": "present in excerpt as concealed companion; fate not revealed in provided text"
+    },
+    {
+      "name": "Philip Pirrip (father, on tombstone)",
+      "age": "deceased (adult at death)",
+      "personality": "represented only by tombstone and child's imagination",
+      "lifespan": "dead; buried in churchyard"
+    },
+    {
+      "name": "Georgiana (mother, on tombstone)",
+      "age": "deceased",
+      "personality": "known only through tombstone inscription",
+      "lifespan": "dead; buried beside her husband"
+    },
+    {
+      "name": "Alexander (brother)",
+      "age": "infant (deceased)",
+      "personality": "mentioned as one of five little brothers",
+      "lifespan": "died in infancy; commemorated by lozenge-shaped stones"
+    },
+    {
+      "name": "Bartholomew (brother)",
+      "age": "infant (deceased)",
+      "personality": "mentioned as one of five little brothers",
+      "lifespan": "died in infancy; commemorated by lozenge-shaped stones"
+    },
+    {
+      "name": "Abraham (brother)",
+      "age": "infant (deceased)",
+      "personality": "mentioned as one of five little brothers",
+      "lifespan": "died in infancy; commemorated by lozenge-shaped stones"
+    },
+    {
+      "name": "Tobias (brother)",
+      "age": "infant (deceased)",
+      "personality": "mentioned as one of five little brothers",
+      "lifespan": "died in infancy; commemorated by lozenge-shaped stones"
+    },
+    {
+      "name": "Roger (brother)",
+      "age": "infant (deceased)",
+      "personality": "mentioned as one of five little brothers",
+      "lifespan": "died in infancy; commemorated by lozenge-shaped stones"
+    }
+  ],
+  "locations": [],
+  "unusual_words": [
+    {
+      "word": "Pirrip",
+      "definition": "family surname (uncommon proper noun)",
+      "context": "My father's family name being Pirrip"
+    },
+    {
+      "word": "Pip",
+      "definition": "nickname derived from Philip",
+      "context": "So, I called myself Pip"
+    },
+    {
+      "word": "lozenges",
+      "definition": "small diamond-shaped stones",
+      "context": "five little stone lozenges, each about a foot and a half long"
+    },
+    {
+      "word": "alder-trees",
+      "definition": "a type of tree (alder), hyphenated",
+      "context": "on the flat in-shore among the alder-trees and pollards"
+    },
+    {
+      "word": "pollards",
+      "definition": "trees cut back to promote dense growth (pollarded trees)",
+      "context": "among the alder-trees and pollards"
+    },
+    {
+      "word": "shivers",
+      "definition": "shivers meaning a trembling bundle or fit",
+      "context": "small bundle of shivers growing afraid"
+    },
+    {
+      "word": "nettles",
+      "definition": "stinging plants",
+      "context": "this bleak place overgrown with nettles"
+    },
+    {
+      "word": "marshes",
+      "definition": "wetlands; salt marsh country",
+      "context": "Ours was the marsh country"
+    },
+    {
+      "word": "dikes",
+      "definition": "embankments or drainage channels",
+      "context": "intersected with dikes and mounds and gates"
+    },
+    {
+      "word": "mounds",
+      "definition": "raised earth forms or graves",
+      "context": "intersected with dikes and mounds and gates"
+    },
+    {
+      "word": "churchyard",
+      "definition": "yard surrounding a church, often with graves",
+      "context": "this bleak place overgrown with nettles was the churchyard"
+    },
+    {
+      "word": "tombstone",
+      "definition": "grave marker stone",
+      "context": "on the authority of his tombstone"
+    },
+    {
+      "word": "lair",
+      "definition": "den or resting place (here, of the sea as 'savage lair')",
+      "context": "distant savage lair from which the wind was rushing"
+    },
+    {
+      "word": "porch",
+      "definition": "entrance area of the church",
+      "context": "a man started up from among the graves at the side of the church porch"
+    },
+    {
+      "word": "gibbet",
+      "definition": "gallows or structure for hanging/displaying criminals",
+      "context": "the other, a gibbet, with some chains hanging to it"
+    },
+    {
+      "word": "beacon",
+      "definition": "a navigation marker, often a light or post",
+      "context": "the beacon by which the sailors steered"
+    },
+    {
+      "word": "weathercock",
+      "definition": "a wind vane shaped like a rooster",
+      "context": "he made the church go head over heels... I saw the steeple under my feet"
+    },
+    {
+      "word": "ha'",
+      "definition": "dialect contraction of 'have' used colloquially",
+      "context": "what fat cheeks you ha' got"
+    },
+    {
+      "word": "han't",
+      "definition": "dialect contraction meaning 'haven't' or 'have not'",
+      "context": "and if I han't half a mind to't!"
+    },
+    {
+      "word": "to't",
+      "definition": "dialect contraction meaning 'to it'",
+      "context": "if I han't half a mind to't!"
+    },
+    {
+      "word": "wittles",
+      "definition": "dialect form of 'victuals' (food)",
+      "context": "And you know what wittles is?"
+    },
+    {
+      "word": "file",
+      "definition": "metal file (tool) requested by the convict",
+      "context": "You get me a file."
+    },
+    {
+      "word": "Pint",
+      "definition": "dialectal pronunciation of 'point' (imperative)",
+      "context": "Pint out the place!"
+    },
+    {
+      "word": "wain",
+      "definition": "archaic form of 'vain' in this text",
+      "context": "It is in wain for a boy to attempt to hide himself"
+    },
+    {
+      "word": "pecooliar",
+      "definition": "dialect/phonetic spelling of 'peculiar'",
+      "context": "has a secret way pecooliar to himself"
+    },
+    {
+      "word": "Angel",
+      "definition": "capitalized exclamation in dialect, used ironically",
+      "context": "in comparison with which young man I am a Angel"
+    },
+    {
+      "word": "limped",
+      "definition": "walked unevenly due to injury",
+      "context": "who limped, and shivered, and glared, and growled"
+    },
+    {
+      "word": "smothered",
+      "definition": "covered or suffocated in mud",
+      "context": "had been soaked in water, and smothered in mud"
+    },
+    {
+      "word": "flints",
+      "definition": "hard stones that can cut or spark",
+      "context": "cut by flints"
+    },
+    {
+      "word": "briars",
+      "definition": "thorny bushes or brambles",
+      "context": "torn by briars"
+    },
+    {
+      "word": "ravenously",
+      "definition": "with great hunger or voracity",
+      "context": "he ate the bread ravenously"
+    },
+    {
+      "word": "shuddering",
+      "definition": "shivering strongly from cold or fear",
+      "context": "he hugged his shuddering body in both his arms"
+    },
+    {
+      "word": "alonger",
+      "definition": "dialect for 'alongside' or 'along with'",
+      "context": "And is that your father alonger your mother?"
+    },
+    {
+      "word": "wery",
+      "definition": "dialect spelling of 'very'",
+      "context": "I find it wery hard to hold that young man off"
+    },
+    {
+      "word": "a-coming",
+      "definition": "dialect form meaning 'coming'",
+      "context": "she's a-coming! Get behind the door"
+    },
+    {
+      "word": "Tickler",
+      "definition": "name given to a cane used for corporal punishment",
+      "context": "Tickler was a wax-ended piece of cane"
+    },
+    {
+      "word": "Ram-paged",
+      "definition": "hyphenated slang for 'rampaged' (violent outburst)",
+      "context": "She Ram-paged out. That's what she did"
+    },
+    {
+      "word": "jack-towel",
+      "definition": "household towel used in the story",
+      "context": "have the jack-towel betwixt you"
+    },
+    {
+      "word": "connubial",
+      "definition": "relating to marriage or married life",
+      "context": "I often served as a connubial missile"
+    },
+    {
+      "word": "impregnable",
+      "definition": "impossible to pass through or pierce",
+      "context": "a square impregnable bib in front"
+    },
+    {
+      "word": "bib",
+      "definition": "covering for the chest, here part of an apron",
+      "context": "a square impregnable bib in front"
+    },
+    {
+      "word": "flaxen",
+      "definition": "yellowish pale (describing hair)",
+      "context": "Joe was a fair man, with curls of flaxen hair"
+    },
+    {
+      "word": "Dutch",
+      "definition": "pertaining to the Netherlands, here used in 'Dutch clock'",
+      "context": "glancing up at the Dutch clock"
+    },
+    {
+      "word": "chimney",
+      "definition": "the fireplace area of a home",
+      "context": "sitting in the chimney corner"
+    },
+    {
+      "word": "stool",
+      "definition": "a small seat",
+      "context": "I said, from my stool, crying and rubbing myself"
+    },
+    {
+      "word": "tickled",
+      "definition": "bruised or marked by repeated blows (Dickens's phrasing)",
+      "context": "worn smooth by collision with my tickled frame"
+    },
+    {
+      "word": "sot",
+      "definition": "archaic past of 'sit' used as 'sot down' (sat down)",
+      "context": "She sot down, and she got up"
+    },
+    {
+      "word": "whimpered",
+      "definition": "whined or cried softly",
+      "context": "I whimpered, 'I don't know.'"
+    },
+    {
+      "word": "missile",
+      "definition": "projectile; here Pip thrown like a missile",
+      "context": "I often served as a connubial missile"
+    },
+    {
+      "word": "forge",
+      "definition": "blacksmith's workshop",
+      "context": "Joe's forge adjoined our house"
+    },
+    {
+      "word": "blacksmith",
+      "definition": "worker in metal, Joe's trade",
+      "context": "wife of Joe Gargery, the blacksmith"
+    },
+    {
+      "word": "betwixt",
+      "definition": "archaic word meaning 'between'",
+      "context": "have the jack-towel betwixt you"
+    },
+    {
+      "word": "fret",
+      "definition": "worry or vexation",
+      "context": "wear me away with fret and fright and worrit"
+    },
+    {
+      "word": "worrit",
+      "definition": "dialectal 'worry'",
+      "context": "fret and fright and worrit"
+    },
+    {
+      "word": "stamping",
+      "definition": "treading angrily with the foot",
+      "context": "Where have you been, you young monkey? said Mrs. Joe, stamping her foot"
+    },
+    {
+      "word": "trembling",
+      "definition": "shaking from fear",
+      "context": "trembling while he ate the bread"
+    },
+    {
+      "word": "sore",
+      "definition": "painful or injured (as 'sore feet')",
+      "context": "picking his way with his sore feet"
+    },
+    {
+      "word": "steeple",
+      "definition": "church tower",
+      "context": "I saw the steeple under my feet"
+    },
+    {
+      "word": "pins",
+      "definition": "small sharp objects used to fasten fabric",
+      "context": "stuck full of pins and needles"
+    },
+    {
+      "word": "needles",
+      "definition": "sharp sewing implements",
+      "context": "stuck full of pins and needles"
+    },
+    {
+      "word": "glared",
+      "definition": "stared fiercely",
+      "context": "who limped, and shivered, and glared, and growled"
+    },
+    {
+      "word": "growled",
+      "definition": "uttered in a low, angry voice",
+      "context": "who limped, and shivered, and glared, and growled"
+    },
+    {
+      "word": "chattered",
+      "definition": "teeth knocking together from cold or fear",
+      "context": "whose teeth chattered in his head"
+    },
+    {
+      "word": "chin",
+      "definition": "part of face grabbed by convict",
+      "context": "as he seized me by the chin"
+    },
+    {
+      "word": "lips",
+      "definition": "mouth edges noted when the man licked them",
+      "context": "what fat cheeks you ha' got,' said the man, licking his lips"
+    },
+    {
+      "word": "Christian",
+      "definition": "given name indicating baptismal name",
+      "context": "and my Christian name Philip"
+    },
+    {
+      "word": "infant",
+      "definition": "very young child",
+      "context": "my infant tongue could make of both names nothing longer"
+    },
+    {
+      "word": "explicit",
+      "definition": "clearly stated or detailed",
+      "context": "nothing longer or more explicit than Pip"
+    },
+    {
+      "word": "Gargery",
+      "definition": "family surname of Joe and Mrs. Joe",
+      "context": "Mrs. Joe Gargery"
+    },
+    {
+      "word": "authority",
+      "definition": "evidence or justification (here: the tombstone)",
+      "context": "I give Pirrip as my father's family name, on the authority of his tombstone"
+    },
+    {
+      "word": "married",
+      "definition": "joined in marriage",
+      "context": "Mrs. Joe Gargery, who married the blacksmith"
+    },
+    {
+      "word": "likeness",
+      "definition": "picture or resemblance",
+      "context": "and never saw any likeness of either of them"
+    },
+    {
+      "word": "photographs",
+      "definition": "pictures made by early photographic process",
+      "context": "for their days were long before the days of photographs"
+    },
+    {
+      "word": "fancies",
+      "definition": "imaginings or whimsical thoughts",
+      "context": "my first fancies regarding what they were like"
+    },
+    {
+      "word": "unreasonably",
+      "definition": "in an irrational manner",
+      "context": "my first fancies... were unreasonably derived from their tombstones"
+    },
+    {
+      "word": "derived",
+      "definition": "formed or inferred from",
+      "context": "were unreasonably derived from their tombstones"
+    },
+    {
+      "word": "stout",
+      "definition": "sturdy or thickset",
+      "context": "gave me an odd idea that he was a square, stout, dark man"
+    },
+    {
+      "word": "curly",
+      "definition": "having curls (of hair)",
+      "context": "with curly black hair"
+    },
+    {
+      "word": "inscription",
+      "definition": "words carved on a tombstone",
+      "context": "From the character and turn of the inscription"
+    },
+    {
+      "word": "trousers-pockets",
+      "definition": "hyphenated phrase describing pockets in trousers",
+      "context": "born on their backs with their hands in their trousers-pockets"
+    },
+    {
+      "word": "indebted",
+      "definition": "owing or ascribing to something",
+      "context": "I am indebted for a belief I religiously entertained"
+    },
+    {
+      "word": "religiously",
+      "definition": "with devout or immoderate zeal",
+      "context": "I am indebted for a belief I religiously entertained"
+    },
+    {
+      "word": "existence",
+      "definition": "state of being alive",
+      "context": "had never taken them out in this state of existence"
+    },
+    {
+      "word": "dark",
+      "definition": "dim or lacking light (as 'dark flat wilderness')",
+      "context": "the dark flat wilderness beyond the churchyard"
+    },
+    {
+      "word": "flat",
+      "definition": "level or even (landscape)",
+      "context": "the dark flat wilderness beyond the churchyard"
+    },
+    {
+      "word": "horizontal",
+      "definition": "parallel to the horizon; level lines",
+      "context": "The marshes were just a long black horizontal line then"
+    },
+    {
+      "word": "savage",
+      "definition": "fierce or wild (here describing the lair)",
+      "context": "the distant savage lair from which the wind was rushing"
+    },
+    {
+      "word": "bundle",
+      "definition": "a small wrapped group (here of shivers)",
+      "context": "the small bundle of shivers growing afraid of it all"
+    },
+    {
+      "word": "ugly",
+      "definition": "unpleasant to look at",
+      "context": "like an unhooped cask upon a pole,—an ugly thing when you were near it"
+    },
+    {
+      "word": "picking",
+      "definition": "carefully choosing steps or way",
+      "context": "picking his way among the nettles"
+    },
+    {
+      "word": "stepping-places",
+      "definition": "stones placed for stepping across marsh",
+      "context": "stones dropped into the marshes here and there, for stepping-places"
+    },
+    {
+      "word": "sailors",
+      "definition": "people who navigate ships",
+      "context": "the beacon by which the sailors steered"
+    },
+    {
+      "word": "pirate",
+      "definition": "sea robber, mentioned as once held by gibbet's chains",
+      "context": "which had once held a pirate"
+    },
+    {
+      "word": "Battery",
+      "definition": "named low Battery (place) used as meeting spot",
+      "context": "You bring the lot to me, at that old Battery over yonder"
+    },
+    {
+      "word": "yonder",
+      "definition": "over there (archaic/dialect)",
+      "context": "at that old Battery over yonder"
+    },
+    {
+      "word": "heart",
+      "definition": "vital organ used metaphorically as threat",
+      "context": "or I'll have your heart and liver out"
+    },
+    {
+      "word": "liver",
+      "definition": "internal organ referenced in threat",
+      "context": "your heart and your liver shall be tore out"
+    },
+    {
+      "word": "seized",
+      "definition": "grabbed suddenly",
+      "context": "as he seized me by the chin"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1400"
+}
