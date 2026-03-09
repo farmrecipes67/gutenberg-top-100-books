@@ -1,0 +1,639 @@
+{
+  "gutenberg_id": 1727,
+  "title": "The Odyssey: Rendered into English prose for the use of those who cannot read the original",
+  "author": "Homer",
+  "summary": "The Odyssey recounts Ulysses’ long return from Troy to his home at Ithaca. Held by Calypso and buffeted by gods, especially Poseidon, he wanders widely, suffers many woes, and loses his companions when they offend the gods. Athena and other immortals intercede; Hermes and the Phaeacians aid his voyage. Parallelly, at home Penelope and Telemachus confront suitors and wait for news. The poem interweaves Ulysses’ narrated adventures, divine councils, and human vengeance (Aegisthus slain by Orestes). Butler’s prose rendering clarifies episodes, classical references, and textual relations with the Iliad while preserving epic scope and vivid narrative voice rich in digression.",
+  "characters": [
+    {
+      "name": "Odysseus (Ulysses)",
+      "age": "middle-aged (estimated)",
+      "personality": "resourceful, cunning, suffering hero; longing for home",
+      "lifespan": "survives long wanderings, held by Calypso, ultimately returns to Ithaca"
+    },
+    {
+      "name": "Penelope",
+      "age": "middle-aged (estimated)",
+      "personality": "faithful, patient, prudent",
+      "lifespan": "awaits Odysseus at home, fends off suitors"
+    },
+    {
+      "name": "Telemachus",
+      "age": "young adult (estimated)",
+      "personality": "evolving, dutiful son seeking news of his father",
+      "lifespan": "travels to seek information (Pylos episode), helps restore order at home"
+    },
+    {
+      "name": "Athene (Athena)",
+      "age": "ageless (goddess)",
+      "personality": "compassionate, strategic divine patron of Odysseus",
+      "lifespan": "immortal; intercedes on Odysseus's behalf among the gods"
+    },
+    {
+      "name": "Zeus",
+      "age": "ageless (god)",
+      "personality": "supreme, deliberative, arbiter among gods",
+      "lifespan": "immortal; presides over divine councils concerning Odysseus"
+    },
+    {
+      "name": "Poseidon",
+      "age": "ageless (god)",
+      "personality": "wrathful, vengeful toward Odysseus",
+      "lifespan": "immortal; hinders Odysseus' return (storms, hostility)"
+    },
+    {
+      "name": "Calypso",
+      "age": "ageless nymph (estimated)",
+      "personality": "bewitching, desirous, holding Odysseus captive",
+      "lifespan": "keeps Odysseus on her isle until the gods order his release"
+    },
+    {
+      "name": "Nausicaa",
+      "age": "young (princess youth)",
+      "personality": "courteous, hospitable; identified by Butler with the poet in preface",
+      "lifespan": "helps Odysseus when he reaches the Phaeacians (Phaeacian episode)"
+    },
+    {
+      "name": "Hermes",
+      "age": "ageless (god)",
+      "personality": "messenger, clear-sighted, obedient to Zeus",
+      "lifespan": "delivers divine commands (warns Aegisthus; aids Odysseus indirectly)"
+    },
+    {
+      "name": "Aegisthus",
+      "age": "adult (estimated)",
+      "personality": "treacherous, reckless",
+      "lifespan": "takes Agamemnon's wife and murders Agamemnon; is later slain by Orestes (explicitly mentioned)"
+    },
+    {
+      "name": "Orestes",
+      "age": "young adult (estimated)",
+      "personality": "vengeful, dutiful son",
+      "lifespan": "slays Aegisthus to avenge Agamemnon (explicitly mentioned)"
+    },
+    {
+      "name": "Helios (Hyperion)",
+      "age": "ageless (god)",
+      "personality": "sun-god, vengeful when offended",
+      "lifespan": "withdraws crew's day of return after they slaughter his cattle (mentioned)"
+    },
+    {
+      "name": "Agamemnon",
+      "age": "adult (king)",
+      "personality": "kingly, tragic victim",
+      "lifespan": "returned from Troy and was murdered by Aegisthus (recounted)"
+    },
+    {
+      "name": "Argives",
+      "age": "group (warriors of Greece)",
+      "personality": "collective (Greek coalition at Troy)",
+      "lifespan": "participants in the Trojan expedition (mentioned)"
+    },
+    {
+      "name": "Phaeacians",
+      "age": "people (seafaring folk)",
+      "personality": "helpful, hospitable seafarers",
+      "lifespan": "aid Odysseus in returning home (Phaeacian episode referenced)"
+    },
+    {
+      "name": "Argos",
+      "age": "dog (implied)",
+      "personality": "faithful (contextual reference)",
+      "lifespan": "referenced in relation to Hermes and slayer imagery (mentioned in translation)"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Trapani, Sicily",
+      "latitude": 38.0179,
+      "longitude": 12.5139
+    },
+    {
+      "name": "Ithaca (Ithaki), Greece",
+      "latitude": 38.3646,
+      "longitude": 20.7084
+    },
+    {
+      "name": "Lipari (Aeolian) Islands, Italy (approximate center)",
+      "latitude": 38.467,
+      "longitude": 14.963
+    },
+    {
+      "name": "Strait of Messina, Italy",
+      "latitude": 38.1939,
+      "longitude": 15.554
+    },
+    {
+      "name": "Pantelleria (Pantellaria), Italy",
+      "latitude": 36.8316,
+      "longitude": 11.9663
+    },
+    {
+      "name": "Pylos (ancient Pylos), Greece",
+      "latitude": 36.9156,
+      "longitude": 21.6945
+    },
+    {
+      "name": "Troy (Hisarlik), Turkey",
+      "latitude": 39.9576,
+      "longitude": 26.2389
+    },
+    {
+      "name": "Mount Olympus, Greece (traditional)",
+      "latitude": 40.0856,
+      "longitude": 22.358
+    },
+    {
+      "name": "British Museum, London (referenced in preface)",
+      "latitude": 51.5194,
+      "longitude": -0.127
+    },
+    {
+      "name": "Leipsic (Leipzig), Germany (referenced edition)",
+      "latitude": 51.3397,
+      "longitude": 12.3731
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "supplement",
+      "definition": "an addition to complete or enhance",
+      "context": "Preface: 'This translation is intended to supplement a work entitled \"The Authoress of the Odyssey\"'"
+    },
+    {
+      "word": "authoress",
+      "definition": "archaic term for a female author",
+      "context": "Title and Preface: 'The Authoress of the Odyssey'"
+    },
+    {
+      "word": "unwieldy",
+      "definition": "difficult to manage or handle because of size or complexity",
+      "context": "Preface: 'without making it unwieldy'"
+    },
+    {
+      "word": "epitomised",
+      "definition": "summarised or condensed",
+      "context": "Preface: 'I therefore epitomised my translation'"
+    },
+    {
+      "word": "contentions",
+      "definition": "points asserted in an argument",
+      "context": "Preface: 'the two main points...contentions'"
+    },
+    {
+      "word": "rejoinder",
+      "definition": "a reply, especially a sharp or witty one",
+      "context": "Preface: 'appeared (without rejoinder) in the \"Athenaeum\"'"
+    },
+    {
+      "word": "Athenaeum",
+      "definition": "name of a literary periodical (proper noun)",
+      "context": "Preface: referenced periodical where arguments were published"
+    },
+    {
+      "word": "acquiesce",
+      "definition": "to accept or submit passively",
+      "context": "Preface: 'I shall not...pretend to think that scholars generally acquiesce'"
+    },
+    {
+      "word": "construe",
+      "definition": "interpret (a text) grammatically or logically",
+      "context": "Preface: 'departed from strict construe'"
+    },
+    {
+      "word": "exigencies",
+      "definition": "urgent needs or requirements",
+      "context": "Preface: 'the exigencies of readable prose'"
+    },
+    {
+      "word": "periplus",
+      "definition": "sailing around; a navigational circumnavigation record",
+      "context": "Preface: 'the voyages...solve themselves into a periplus of the island'"
+    },
+    {
+      "word": "Trapani",
+      "definition": "a town on the west coast of Sicily (proper noun)",
+      "context": "Preface: location Butler claims as source of the poem"
+    },
+    {
+      "word": "Phaeacian",
+      "definition": "relating to the Phaeacians (mythical people)",
+      "context": "Table of contents / Preface: 'the Phaeacian episode'"
+    },
+    {
+      "word": "Ithaca",
+      "definition": "island home of Odysseus (proper noun)",
+      "context": "Preface and translation: Odysseus's home"
+    },
+    {
+      "word": "Lipari",
+      "definition": "group of Aeolian islands off Sicily (proper noun)",
+      "context": "Preface: 'via the Lipari islands'"
+    },
+    {
+      "word": "Messina",
+      "definition": "city/strait near northeastern Sicily (proper noun)",
+      "context": "Preface: 'the Straits of Messina'"
+    },
+    {
+      "word": "Pantellaria",
+      "definition": "island (Pantelleria) between Sicily and Tunisia",
+      "context": "Preface: 'and the island of Pantellaria'"
+    },
+    {
+      "word": "Nausicaa",
+      "definition": "Phaeacian princess (proper noun)",
+      "context": "Dedication / Preface mentions Nausicaa as the poet's self-introduction"
+    },
+    {
+      "word": "Muse",
+      "definition": "divine inspirer of poets (classical reference)",
+      "context": "Opening lines: 'Tell me, Muse, of that man...'"
+    },
+    {
+      "word": "sacked",
+      "definition": "plundered or destroyed (a city)",
+      "context": "Translation: 'after he had sacked the sacred citadel of Troy'"
+    },
+    {
+      "word": "citadel",
+      "definition": "fortified stronghold",
+      "context": "Translation: 'the sacred citadel of Troy'"
+    },
+    {
+      "word": "yea",
+      "definition": "archaic yes / indeed",
+      "context": "Translation: 'yea, and many the woes he suffered...'"
+    },
+    {
+      "word": "woes",
+      "definition": "great sorrow or distress",
+      "context": "Translation: 'many the woes he suffered in his heart on the deep'"
+    },
+    {
+      "word": "striving",
+      "definition": "struggling or making great efforts",
+      "context": "Translation: 'striving to win his own life and the return of his company'"
+    },
+    {
+      "word": "perished",
+      "definition": "died or were destroyed",
+      "context": "Translation: 'they perished, fools, who devoured the oxen of Helios'"
+    },
+    {
+      "word": "Helios",
+      "definition": "the sun-god (proper noun)",
+      "context": "Translation: 'the oxen of Helios Hyperion'"
+    },
+    {
+      "word": "Hyperion",
+      "definition": "epithet/alternate name associated with Helios",
+      "context": "Translation: 'Helios Hyperion'"
+    },
+    {
+      "word": "hecatomb",
+      "definition": "a large-scale sacrifice (literally 100 animals)",
+      "context": "Translation: 'to receive his hecatomb of bulls and rams'"
+    },
+    {
+      "word": "rams",
+      "definition": "male sheep, used here in sacrificial sense",
+      "context": "Translation: 'hecatomb of bulls and rams'"
+    },
+    {
+      "word": "Olympian",
+      "definition": "relating to Mount Olympus or the gods",
+      "context": "Translation: 'halls of Olympian Zeus'"
+    },
+    {
+      "word": "Cronides",
+      "definition": "epithet of Zeus, son of Cronus",
+      "context": "Translation: 'our father Cronides, throned in the highest'"
+    },
+    {
+      "word": "Aegisthus",
+      "definition": "mortal who killed Agamemnon (proper noun)",
+      "context": "Translation and Preface: recounted as slain by Orestes"
+    },
+    {
+      "word": "Orestes",
+      "definition": "son of Agamemnon; avenger (proper noun)",
+      "context": "Translation: 'the son of Atreus shall be avenged at the hand of Orestes'"
+    },
+    {
+      "word": "avenged",
+      "definition": "took vengeance for a wrong",
+      "context": "Translation: 'shall be avenged at the hand of Orestes'"
+    },
+    {
+      "word": "grey-eyed",
+      "definition": "epithet of Athena (poetic descriptor)",
+      "context": "Translation: 'the goddess, grey-eyed Athene'"
+    },
+    {
+      "word": "goddess",
+      "definition": "female deity",
+      "context": "Translation: numerous references, e.g., 'the goddess, grey-eyed Athene'"
+    },
+    {
+      "word": "woodland",
+      "definition": "covered with woods; forested",
+      "context": "Translation: 'a woodland isle, and therein a goddess hath her habitation'"
+    },
+    {
+      "word": "upholds",
+      "definition": "supports or sustains",
+      "context": "Translation: 'himself upholds the tall pillars which keep earth and sky asunder'"
+    },
+    {
+      "word": "pillars",
+      "definition": "upright supports; figurative supports of the world",
+      "context": "Translation: 'the tall pillars which keep earth and sky asunder'"
+    },
+    {
+      "word": "guileful",
+      "definition": "deceitful or cunning",
+      "context": "Translation: 'ever with soft and guileful tales she is wooing him'"
+    },
+    {
+      "word": "wooing",
+      "definition": "courtship or attempting to gain affection",
+      "context": "Translation: 'wooing him to forgetfulness of Ithaca'"
+    },
+    {
+      "word": "forgetfulness",
+      "definition": "state of being forgotten or forgetting",
+      "context": "Translation: 'forgetfulness of Ithaca'"
+    },
+    {
+      "word": "yearning",
+      "definition": "intense longing",
+      "context": "Translation: 'But Odysseus yearning to see...hath a desire to die'"
+    },
+    {
+      "word": "Argives",
+      "definition": "Greek warriors from Argos; term for Greeks at Troy",
+      "context": "Translation: 'by the ships of the Argives make thee free offering of sacrifice'"
+    },
+    {
+      "word": "sacrifice",
+      "definition": "ritual offering to a deity",
+      "context": "Translation: 'make thee free offering of sacrifice in the wide Trojan land'"
+    },
+    {
+      "word": "Iliadic",
+      "definition": "relating to the Iliad",
+      "context": "Preface: 'Iliadic passages' (discussion of parallels)"
+    },
+    {
+      "word": "Odyssean",
+      "definition": "relating to the Odyssey",
+      "context": "Preface: 'an \"Iliad\" marked with all the Odyssean passages'"
+    },
+    {
+      "word": "scholasticised",
+      "definition": "made overly academic or pedantic",
+      "context": "Preface: 'hopelessly scholasticised'"
+    },
+    {
+      "word": "underlined",
+      "definition": "marked by a line under text",
+      "context": "Preface: 'I have given...with the Iliadic passages underlined'"
+    },
+    {
+      "word": "marginal",
+      "definition": "placed in the margins (notes)",
+      "context": "Preface: 'with marginal references'"
+    },
+    {
+      "word": "intermission",
+      "definition": "a pause or break in continuity",
+      "context": "Preface: 'thence without intermission to the middle of line 187...'"
+    },
+    {
+      "word": "scheme",
+      "definition": "an organized plan or arrangement",
+      "context": "Preface: 'original scheme was abandoned'"
+    },
+    {
+      "word": "resumed",
+      "definition": "began again after interruption",
+      "context": "Preface: 'and not resumed till Ulysses wakes...'"
+    },
+    {
+      "word": "abounds",
+      "definition": "exists in great numbers or quantities",
+      "context": "Preface: 'The \"Odyssey\" (as every one knows) abounds in passages borrowed from the \"Iliad\"'"
+    },
+    {
+      "word": "demonstrably",
+      "definition": "capable of being shown or proven",
+      "context": "Preface: 'was demonstrably written from one single neighbourhood'"
+    },
+    {
+      "word": "equitably",
+      "definition": "in a fair and impartial manner",
+      "context": "Preface: 'is hardly dealing equitably by them'"
+    },
+    {
+      "word": "MS",
+      "definition": "manuscript (abbreviation)",
+      "context": "Preface: 'referred to in MS.'"
+    },
+    {
+      "word": "marked",
+      "definition": "indicated or annotated",
+      "context": "Preface: 'an \"Iliad\" marked with all the Odyssean passages'"
+    },
+    {
+      "word": "inference",
+      "definition": "a conclusion drawn from evidence",
+      "context": "Preface: 'draw the only inference that common sense can draw'"
+    },
+    {
+      "word": "Continent",
+      "definition": "mainland Europe (capitalized usage)",
+      "context": "Preface: 'on the Continent that at present enjoy considerable reputations'"
+    },
+    {
+      "word": "reputations",
+      "definition": "general estimation of something's quality",
+      "context": "Preface: 'enjoy considerable reputations'"
+    },
+    {
+      "word": "over-saturation",
+      "definition": "excessive saturation; too much influence",
+      "context": "Preface: 'arise from over-saturation with the \"Iliad\"'"
+    },
+    {
+      "word": "development",
+      "definition": "progression or unfolding",
+      "context": "Preface: 'development of the poem in the writer's mind'"
+    },
+    {
+      "word": "pp",
+      "definition": "abbreviation for pages (plural)",
+      "context": "Preface: 'pp. 251-261 of \"The Authoress of the Odyssey\"'"
+    },
+    {
+      "word": "briefly",
+      "definition": "in a concise manner",
+      "context": "Preface: 'Briefly, the \"Odyssey\" consists of two distinct poems'"
+    },
+    {
+      "word": "Return",
+      "definition": "here, the Return of Ulysses (title/section)",
+      "context": "Preface: 'The Return of Ulysses'"
+    },
+    {
+      "word": "Leipsic",
+      "definition": "archaic/variant spelling of Leipzig (city)",
+      "context": "Preface: 'Leipsic Teubner edition'"
+    },
+    {
+      "word": "Teubner",
+      "definition": "publishing house name (proper noun)",
+      "context": "Preface: 'Teubner edition of 894'"
+    },
+    {
+      "word": "stops",
+      "definition": "punctuation marks",
+      "context": "Preface: 'Stops are things of such far more recent date than the \"Odyssey\"'"
+    },
+    {
+      "word": "bethought",
+      "definition": "thought (archaic past tense)",
+      "context": "Translation: 'for he bethought him in his heart of noble Aegisthus'"
+    },
+    {
+      "word": "slayer",
+      "definition": "one who kills",
+      "context": "Translation: 'Hermes the keen-sighted, the slayer of Argos'"
+    },
+    {
+      "word": "keen-sighted",
+      "definition": "sharp-sighted; discerning",
+      "context": "Translation: 'Hermes the keen-sighted'"
+    },
+    {
+      "word": "estate",
+      "definition": "state of life or position",
+      "context": "Translation: 'so soon as he shall come to man's estate'"
+    },
+    {
+      "word": "spake",
+      "definition": "spoke (archaic)",
+      "context": "Translation: 'So spake Hermes...'"
+    },
+    {
+      "word": "Athene",
+      "definition": "alternate form of Athena (proper noun)",
+      "context": "Translation: 'grey-eyed Athene'"
+    },
+    {
+      "word": "thence",
+      "definition": "from that place or source",
+      "context": "Preface: 'thence without intermission to the middle of line 187'"
+    },
+    {
+      "word": "wherefore",
+      "definition": "for what reason; why",
+      "context": "Translation: 'Wherefore wast thou then so wroth with him, O Zeus?'"
+    },
+    {
+      "word": "wroth",
+      "definition": "angry (archaic)",
+      "context": "Translation: 'wast thou then so wroth with him, O Zeus?'"
+    },
+    {
+      "word": "sore",
+      "definition": "greatly; severely (archaic adverbial use)",
+      "context": "Translation: 'though he desired it sore'"
+    },
+    {
+      "word": "slew",
+      "definition": "killed (past tense)",
+      "context": "Translation: 'whom the son of Agamemnon, far-famed Orestes, slew'"
+    },
+    {
+      "word": "far-famed",
+      "definition": "renowned; widely celebrated",
+      "context": "Translation: 'far-famed Orestes'"
+    },
+    {
+      "word": "hath",
+      "definition": "has (archaic)",
+      "context": "Translation: 'hath he paid one price for all.'"
+    },
+    {
+      "word": "thou",
+      "definition": "you (archaic)",
+      "context": "Translation: frequent use, e.g., 'declare thou even unto us'"
+    },
+    {
+      "word": "thee",
+      "definition": "you (object case, archaic)",
+      "context": "Translation: 'As for thee, thine heart regardeth it not at all'"
+    },
+    {
+      "word": "thine",
+      "definition": "your (archaic)",
+      "context": "Translation: 'thine heart regardeth it not at all'"
+    },
+    {
+      "word": "unto",
+      "definition": "to (archaic preposition)",
+      "context": "Translation: 'declare thou even unto us'"
+    },
+    {
+      "word": "Argos",
+      "definition": "proper noun used in translation (place/dog reference)",
+      "context": "Translation: 'Hermes the keen-sighted, the slayer of Argos'"
+    },
+    {
+      "word": "Hermes",
+      "definition": "messenger god (proper noun)",
+      "context": "Translation: 'Hermes the keen-sighted...'"
+    },
+    {
+      "word": "Immortals",
+      "definition": "the gods (capitalized, poetic)",
+      "context": "Translation: 'So spake Hermes, yet he prevailed not on the heart of Aegisthus... among the Immortals'"
+    },
+    {
+      "word": "startling",
+      "definition": "surprising or shocking",
+      "context": "Preface: 'first of these somewhat startling contentions'"
+    },
+    {
+      "word": "presumably",
+      "definition": "by reasonable assumption",
+      "context": "Preface: 'and hence presumably by one person only'"
+    },
+    {
+      "word": "puzzles",
+      "definition": "perplexities or difficulties",
+      "context": "Preface: 'many puzzles of the \"Odyssey\" cease to puzzle him'"
+    },
+    {
+      "word": "climax",
+      "definition": "turning point or highest tension",
+      "context": "Preface: 'with a climax for which no-one has asked her'"
+    },
+    {
+      "word": "continued",
+      "definition": "carried on; persisted",
+      "context": "Preface: 'This poem begins... is continued to the end of Book iv.'"
+    },
+    {
+      "word": "reprinted",
+      "definition": "printed again",
+      "context": "Preface: 'I have also reprinted the paragraphs explanatory of the plan'"
+    },
+    {
+      "word": "appendix",
+      "definition": "supplementary material at end of a book",
+      "context": "Preface: 'In an appendix I have also reprinted...'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1727"
+}
