@@ -1,0 +1,617 @@
+{
+  "gutenberg_id": 72679,
+  "title": "The lesser Key of Solomon, Goetia, the book of evil spirits : $b contains two hundred diagrams and seals for invocation and convocation of spirits, necromancy, witchcraft and black art",
+  "author": "Unknown Author",
+  "summary": "The Lesser Key of Solomon: Goetia presents a translated grimoire of ceremonial magic, listing invocations, seals, diagrams, and rites for summoning spirits. The editor frames the text with Rosicrucian prefaces, Latin and Greek invocations, and theoretical commentary on magical phenomena as provoked brain-states. It blends archaic names, divine names, and ritual formulas (the Bornless One) with editorial notes invoking historical occult figures and controversies. Practical ceremonial elements—circles, names, perfumes, symbols—are described alongside philosophical interpretations linking Qabalah, Akasa, and psychological mechanisms. The work serves both as a manual for talismanic operations and a speculative defense of magical efficacy and ritual theory.",
+  "characters": [
+    {
+      "name": "King Solomon",
+      "age": "ancient/legendary",
+      "personality": "authoritative archetypal magician and king, invoked as originator of the grimoire",
+      "lifespan": "legendary figure; presented as source of the texts, no narrative fate given"
+    },
+    {
+      "name": "G. H. Fra. D.D.C.F.",
+      "age": "adult (translator/editorial persona)",
+      "personality": "learned, devoted Rosicrucian translator who began the edition",
+      "lifespan": "described as having succumbed to assaults by occult forces; no further fate narrated"
+    },
+    {
+      "name": "Secret Chief (Rosicrucian Order)",
+      "age": "ageless/occult office",
+      "personality": "authority figure who ordered the translation and issuance",
+      "lifespan": "institutional; acts as commissioning power in the preface"
+    },
+    {
+      "name": "Mr. Aleister Crowley",
+      "age": "adult (referred to as poet and magician)",
+      "personality": "skilled student of magical lore and kabbalist, called to complete the work",
+      "lifespan": "invited to complete the edition; no further fate detailed in the excerpt"
+    },
+    {
+      "name": "Mr. A. E. Waite",
+      "age": "adult (critic and occult writer)",
+      "personality": "critic referenced in a footnote regarding Rosicrucian authenticity",
+      "lifespan": "mentioned only in critical commentary; no personal fate given"
+    },
+    {
+      "name": "L. W. de Laurence",
+      "age": "adult (publisher/editor)",
+      "personality": "editor/publisher presenting the edition and protective copyright notices",
+      "lifespan": "publisher of the volume; no narrative fate"
+    },
+    {
+      "name": "Mosheh (Mosheh Thy Prophet)",
+      "age": "ancient/prophetic",
+      "personality": "prophetic voice invoked in the Preliminary Invocation, authoritative spiritual figure",
+      "lifespan": "presented as a prophetic persona; no further narrative fate"
+    },
+    {
+      "name": "Osorronophris",
+      "age": "immortal/divine",
+      "personality": "a divine-born name invoked as the Bornless One, ineffable and terrible",
+      "lifespan": "divine, eternal; invoked repeatedly rather than having a narrative fate"
+    },
+    {
+      "name": "S.V.A.",
+      "age": "unknown/occult",
+      "personality": "named as an evil adept or superior involved in occult intrigue",
+      "lifespan": "mentioned as having imposed upon the translator; fate unclear"
+    },
+    {
+      "name": "H.",
+      "age": "unknown/occult",
+      "personality": "another adept or occult figure implicated in the preface controversy",
+      "lifespan": "referenced only in relation to the translator's disappearance; no fate given"
+    },
+    {
+      "name": "R.R.",
+      "age": "unknown/occult",
+      "personality": "mysterious person appointed to complete secret work, mentioned briefly",
+      "lifespan": "named as a confidential successor; no narrative fate"
+    },
+    {
+      "name": "D.D.C.F.",
+      "age": "adult (same initials as translator persona)",
+      "personality": "abbreviated persona representing the translator's title or order",
+      "lifespan": "mentioned in preface context; no narrative fate"
+    },
+    {
+      "name": "Cimieries",
+      "age": "immortal/spirital",
+      "personality": "named spirit exemplar used in the text to illustrate mental faculties",
+      "lifespan": "presented as a spirit corresponding to a mental function; no fate"
+    },
+    {
+      "name": "The Four Great Princes",
+      "age": "primordial/immortal",
+      "personality": "grouped occult entities acting against the translator in the anecdote",
+      "lifespan": "collective antagonists in the preface anecdote; no narrative fate"
+    }
+  ],
+  "locations": [
+    {
+      "name": "The British Museum, London",
+      "latitude": 51.519413,
+      "longitude": -0.126957
+    },
+    {
+      "name": "London, England (general reference)",
+      "latitude": 51.507351,
+      "longitude": -0.127758
+    },
+    {
+      "name": "Cairo, Egypt (referenced as Aegyptius / Egypt)",
+      "latitude": 30.04442,
+      "longitude": 31.235712
+    },
+    {
+      "name": "Chicago, Illinois, USA (publisher location)",
+      "latitude": 41.878113,
+      "longitude": -87.629799
+    },
+    {
+      "name": "Jerusalem (Ishrael, prophets of Ishrael)",
+      "latitude": 31.768319,
+      "longitude": 35.21371
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Goetia",
+      "definition": "A grimoire or book of evocation of spirits",
+      "context": "Title of the work, 'Goetia' describing the book of evil spirits"
+    },
+    {
+      "word": "Lemegeton",
+      "definition": "Alternate name for the Lesser Key, a collection of demonological texts",
+      "context": "Referred to as 'FIRST BOOK of the Lemegeton' in the preface"
+    },
+    {
+      "word": "Talismanic",
+      "definition": "Relating to talismans or magical amulets",
+      "context": "Used in the preface describing access for students of talismanic magic"
+    },
+    {
+      "word": "Ceremonial",
+      "definition": "Pertaining to formal ritual procedures",
+      "context": "Repeated descriptor: 'Ceremonial Magic' and ritual elements"
+    },
+    {
+      "word": "Necromancy",
+      "definition": "Magic involving communication with the dead",
+      "context": "Listed in title as a subject of the book"
+    },
+    {
+      "word": "Convocation",
+      "definition": "A calling together or assembly, here of spirits",
+      "context": "Title references 'invocation and convocation of spirits'"
+    },
+    {
+      "word": "Invocation",
+      "definition": "The act of calling upon a deity or spirit",
+      "context": "Numerous invocations and preliminary ritual texts"
+    },
+    {
+      "word": "Qabalistic",
+      "definition": "Relating to Qabalah/Kabbalah mystical tradition",
+      "context": "Appears in discussion of arcana and magical interpretation"
+    },
+    {
+      "word": "Skryer",
+      "definition": "One who scryies or divines appearances, a seer",
+      "context": "Mentioned as 'a competent Skryer' investigating the translator's house"
+    },
+    {
+      "word": "Hermetic",
+      "definition": "Relating to esoteric alchemy or Hermetic tradition",
+      "context": "Refers to translator's 'Hermetic Mul.' in preface"
+    },
+    {
+      "word": "Rota",
+      "definition": "A wheel or circle; here an occult decision-making device",
+      "context": "The text: 'withdrawing Ourselves, and consulting the Rota'"
+    },
+    {
+      "word": "Gebhurah",
+      "definition": "Qabalistic Sephirah Gevurah (severity/strength) variant spelling",
+      "context": "Used in an occult sentence in the preface"
+    },
+    {
+      "word": "Bittul",
+      "definition": "Hebrew/Qabalistic concept of nullification (bittul)",
+      "context": "Appears with Gebhurah: 'Rex Bittul' in preface"
+    },
+    {
+      "word": "Achurajim",
+      "definition": "Obscure term used in Latin/Qabalistic phrase in preface",
+      "context": "Appears in the phrase 'Achurajim Patris et Matris'"
+    },
+    {
+      "word": "Indigitatur",
+      "definition": "Latin: is named or designated",
+      "context": "Used in preface: 'hoc indigitatur'"
+    },
+    {
+      "word": "Ex",
+      "definition": "Latin preposition meaning 'from' used in motto",
+      "context": "Part of the phrase 'Ex Deo Nascimur' in the preface"
+    },
+    {
+      "word": "Deo",
+      "definition": "Latin for 'God'",
+      "context": "Part of preface motto 'Ex Deo Nascimur'"
+    },
+    {
+      "word": "Nascimur",
+      "definition": "Latin: 'we are born'",
+      "context": "Finalized motto 'Ex Deo Nascimur' in preface"
+    },
+    {
+      "word": "Per",
+      "definition": "Latin preposition meaning 'through' used in motto",
+      "context": "Appears in 'Per S.S. Reviviscimus'"
+    },
+    {
+      "word": "Jesu",
+      "definition": "Latin form of Jesus",
+      "context": "Appears in the motto 'In Jesu Morimur'"
+    },
+    {
+      "word": "Reviviscimus",
+      "definition": "Latin: 'we revive' or 'we live again'",
+      "context": "Used in the closing motto of the preface"
+    },
+    {
+      "word": "Alf",
+      "definition": "Arabic word meaning 'thousand', here part of the Arabic title",
+      "context": "Appears in 'Alf Laylah wa Laylah' when comparing magical texts"
+    },
+    {
+      "word": "Laylah",
+      "definition": "Arabic for 'night', part of the Arabic title mentioned",
+      "context": "Used in phrase 'Alf Laylah wa Laylah' (Thousand and One Nights)"
+    },
+    {
+      "word": "Ishrael",
+      "definition": "Variant spelling of Israel used in the invocation",
+      "context": "Referenced as 'Prophets of Ishrael' in Preliminary Invocation"
+    },
+    {
+      "word": "Mosheh",
+      "definition": "Hebrew form of Moses, invoked as prophet",
+      "context": "Used in the invocation: 'I am Mosheh Thy Prophet'"
+    },
+    {
+      "word": "Osorronophris",
+      "definition": "An occult/demonic or divine name used in invocation",
+      "context": "Repeated as a primary divine name in the Preliminary Invocation"
+    },
+    {
+      "word": "Jäbas",
+      "definition": "Occult divine name appearing in the invocation",
+      "context": "Listed among names invoked: 'Thou art Jäbas'"
+    },
+    {
+      "word": "Jäpōs",
+      "definition": "Another divine name used in the prayers",
+      "context": "Appears as 'Thou art Jäpōs' in Preliminary Invocation"
+    },
+    {
+      "word": "Paphrō",
+      "definition": "Obscure prophetic or title form appearing with Osorronophris",
+      "context": "Used in 'I am the Angel of Paphrō Osorronophris'"
+    },
+    {
+      "word": "Akasa",
+      "definition": "Sanskrit term for 'ether' or space used in philosophical discussion",
+      "context": "Used when discussing Akasa as equivalent to infinite space"
+    },
+    {
+      "word": "Chitakasa",
+      "definition": "Occult-Hinduized term relating to inner ether or mind-space",
+      "context": "Mentioned as 'Chitakasa' situated in the 'Third Eye'"
+    },
+    {
+      "word": "Cimieries",
+      "definition": "Name of a spirit used illustratively (variant spelling)",
+      "context": "Referentially mentioned: 'The Spirit Cimieries teaches logic'"
+    },
+    {
+      "word": "Arogogorobraō",
+      "definition": "A long occult name used in an invocation",
+      "context": "Part of the Preliminary Invocation: 'Arogogorobraō: Sothou:'"
+    },
+    {
+      "word": "Sothou",
+      "definition": "Invoked divine/occult syllable/name",
+      "context": "Follows Arogogorobraō in the invocation lines"
+    },
+    {
+      "word": "Modoriō",
+      "definition": "Occult name appearing in the ritual invocations",
+      "context": "Appears in sequence 'Modoriō: Phalarthaō: Döö:'"
+    },
+    {
+      "word": "Phalarthaō",
+      "definition": "A ritual name/syllable in the invocation",
+      "context": "Included in the preliminary litany of names"
+    },
+    {
+      "word": "Döö",
+      "definition": "An unusual vocalization/name in the invocatory formula",
+      "context": "Used as part of the string 'Döö: Apé, The Bornless One'"
+    },
+    {
+      "word": "Apé",
+      "definition": "Short divine-syllable in invocation",
+      "context": "Appears joined to 'Döö' in the invocation"
+    },
+    {
+      "word": "Roubriaō",
+      "definition": "A further magical name in the invocation series",
+      "context": "Listed among other names in the Preliminary Invocation"
+    },
+    {
+      "word": "Mariōdam",
+      "definition": "Another ritual name in the invocatory text",
+      "context": "Appears in the list 'Roubriaō: Mariōdam: Balbnabaoth'"
+    },
+    {
+      "word": "Balbnabaoth",
+      "definition": "Occult/demonic name used in the litany",
+      "context": "Listed with other long ritual names"
+    },
+    {
+      "word": "Assalonai",
+      "definition": "Ancient-sounding invocatory name",
+      "context": "Included among the invoked names in the Preliminary Invocation"
+    },
+    {
+      "word": "Aphniaō",
+      "definition": "Invocatory name/syllable",
+      "context": "Used in the list of names in the invocation"
+    },
+    {
+      "word": "Thoteth",
+      "definition": "Name reminiscent of Thoth; used in the invocation",
+      "context": "Listed as one of the invoked names"
+    },
+    {
+      "word": "Abrasar",
+      "definition": "Repeated ritual name in the invocations",
+      "context": "Appears multiple times in invocation strings"
+    },
+    {
+      "word": "Aëöōü",
+      "definition": "A nonce vocalization in the magical litany",
+      "context": "Appears among the strange names in the invocation"
+    },
+    {
+      "word": "Ischure",
+      "definition": "An unusual name in the invocation, possibly derived from Ishtar",
+      "context": "Used as 'Ischure, Mighty and Bornless One!'"
+    },
+    {
+      "word": "Basum",
+      "definition": "Name or syllable in the invocatory sequence",
+      "context": "Included in the recited names 'Abaōth: Basum: Isak:'"
+    },
+    {
+      "word": "Isak",
+      "definition": "Variant of Isaac used as an invocatory name",
+      "context": "Listed with Basum and Sabaoth in the invocation"
+    },
+    {
+      "word": "Sabaoth",
+      "definition": "Hebrew plural of 'hosts', used as divine epithet",
+      "context": "Appears in 'Sabaoth: Iao:' being invoked as Lord of the Gods"
+    },
+    {
+      "word": "Iao",
+      "definition": "Theurgical name of God used in ritual magic",
+      "context": "Appears repeatedly, e.g., 'Iao: Sabao' in the text"
+    },
+    {
+      "word": "Ma",
+      "definition": "Short invocatory syllable used in the formulas",
+      "context": "Begins a clause: 'Ma: Barraiō: Jōēl: Kotha:'"
+    },
+    {
+      "word": "Barraiō",
+      "definition": "Another ritual name in sequence",
+      "context": "Appears with Jōēl and others in invocation lines"
+    },
+    {
+      "word": "Jōēl",
+      "definition": "Variant of the prophet Joel used as an invoked name",
+      "context": "Part of the list 'Barraiō: Jōēl: Kotha'"
+    },
+    {
+      "word": "Kotha",
+      "definition": "Obscure invocatory name",
+      "context": "Included in the invocation list"
+    },
+    {
+      "word": "Athorēbalō",
+      "definition": "A long ritual name used in ceremony",
+      "context": "Appears in 'Athorēbalō: Abraoth' sequence"
+    },
+    {
+      "word": "Abraoth",
+      "definition": "Divine-sounding name in invocation",
+      "context": "Paired with Athorēbalō in the formula"
+    },
+    {
+      "word": "Aōth",
+      "definition": "Sacred syllable used in the litany",
+      "context": "Appears in the short repeated formula 'Aōth: Abaōth: Basum'"
+    },
+    {
+      "word": "Abaōth",
+      "definition": "Variation of 'Sabaoth' appearing as a sacred name",
+      "context": "Used in the invocations as a powerful epithet"
+    },
+    {
+      "word": "Ieou",
+      "definition": "A vocalized divine name in the litany",
+      "context": "Appears in the sequence 'Ieou: Pūr: Iou: Pūr'"
+    },
+    {
+      "word": "Pūr",
+      "definition": "Unusual syllable/name in invocation",
+      "context": "Paired with Ieou and Iou in the recitation"
+    },
+    {
+      "word": "Iaōt",
+      "definition": "Another divine name with diacritics used in ritual",
+      "context": "Listed with similar sacred names 'Iaōt: Iaeō'"
+    },
+    {
+      "word": "Iaeō",
+      "definition": "Variant theurgic name appearing in the litany",
+      "context": "Follows Iaōt in the invocation strings"
+    },
+    {
+      "word": "Ioou",
+      "definition": "A vocal name employed in the ceremony",
+      "context": "Included in the sequence of divine syllables"
+    },
+    {
+      "word": "Sabriam",
+      "definition": "Obscure ritual name appearing in invocation",
+      "context": "Occurs in the lines 'Abrasar: Sabriam: Do: Uu'"
+    },
+    {
+      "word": "Do",
+      "definition": "Short invocatory syllable",
+      "context": "Used among other short syllables in the invocation"
+    },
+    {
+      "word": "Uu",
+      "definition": "Vocalic invocatory element",
+      "context": "Listed alongside 'Do' and other syllables"
+    },
+    {
+      "word": "Adonaie",
+      "definition": "Variant of 'Adonai', a Hebrew name of God",
+      "context": "Appears in the string 'Adonaie: Ede: Edu'"
+    },
+    {
+      "word": "Ede",
+      "definition": "Short obscure term or syllable in the litany",
+      "context": "Used with 'Adonaie' and 'Edu' in the invocation"
+    },
+    {
+      "word": "Edu",
+      "definition": "Another short invocatory syllable",
+      "context": "Paired with 'Ede' and 'Adonaie'"
+    },
+    {
+      "word": "Angelos",
+      "definition": "Greek for 'angels', used in the phrase 'Angelos ton Theon'",
+      "context": "Appears in the invocation as 'Angelos ton Theon'"
+    },
+    {
+      "word": "Aniaia",
+      "definition": "Obscure vocalized name in the litany",
+      "context": "Included among the invocatory names 'Aniaia Lai: Gaia'"
+    },
+    {
+      "word": "Lai",
+      "definition": "Short invocatory syllable appearing with Aniaia",
+      "context": "Follows 'Aniaia' in the invocation"
+    },
+    {
+      "word": "Gaia",
+      "definition": "Name of earth goddess used as a divine word in invocation",
+      "context": "Appears as 'Gaia: Ape: Diathanna Thorun'"
+    },
+    {
+      "word": "Ape",
+      "definition": "Short invocatory term in the litany",
+      "context": "Appears in 'Ape: Diathanna Thorun'"
+    },
+    {
+      "word": "Diathanna",
+      "definition": "Obscure ritual name in invocation",
+      "context": "Paired with 'Thorun' in the invocation"
+    },
+    {
+      "word": "Thorun",
+      "definition": "Another invoked name or syllable",
+      "context": "Completes the phrase 'Diathanna Thorun'"
+    },
+    {
+      "word": "Bornless",
+      "definition": "Title 'Bornless One' meaning ineffably divine",
+      "context": "Used repeatedly: 'The Bornless One' in the Preliminary Invocation"
+    },
+    {
+      "word": "Alf Laylah wa Laylah",
+      "definition": "Arabic title 'Thousand Nights and a Night' (One Thousand and One Nights)",
+      "context": "Referenced as a cultural classic compared to the Bible"
+    },
+    {
+      "word": "Burton",
+      "definition": "Reference to Richard Burton, translator of Arabian Nights",
+      "context": "Mentioned when discussing comparative classics"
+    },
+    {
+      "word": "Herbert",
+      "definition": "Proper name (Herbert Spencer referenced)",
+      "context": "Appears in reference to Herbert Spencer's ideas"
+    },
+    {
+      "word": "Spencer",
+      "definition": "Surname of philosopher Herbert Spencer",
+      "context": "Cited in philosophical discussion about phenomena and brain changes"
+    },
+    {
+      "word": "Phenomenal",
+      "definition": "Relating to phenomena, appearances",
+      "context": "Used in philosophical argument about perception and illusion"
+    },
+    {
+      "word": "Akasa",
+      "definition": "Sanskrit 'ether' (duplicate entry of the concept)",
+      "context": "Discussed alongside Chitakasa as the perceived cosmic medium"
+    },
+    {
+      "word": "Chitakasa",
+      "definition": "Occult term for inner ether localized in the 'Third Eye' (duplicate concept)",
+      "context": "Mentioned as located in the 'Third Eye'"
+    },
+    {
+      "word": "Smatterer",
+      "definition": "A person with superficial knowledge",
+      "context": "Used pejoratively: 'Every smatterer, every expert in psychology'"
+    },
+    {
+      "word": "Philistine",
+      "definition": "Uncultured critic (used metaphorically)",
+      "context": "Used to describe critics of magical literature"
+    },
+    {
+      "word": "Citadel",
+      "definition": "Fortified stronghold, used metaphorically for the science of magic",
+      "context": "Appears as 'citadel of his science'"
+    },
+    {
+      "word": "Sublime",
+      "definition": "Elevated, awe-inspiring",
+      "context": "Refers to 'sublime truths' hidden under seemingly vile ritual forms"
+    },
+    {
+      "word": "Ecstasy",
+      "definition": "State of trance or rapture",
+      "context": "Mentioned among possible effects of ceremonial magic"
+    },
+    {
+      "word": "Tetragammaton",
+      "definition": "A term referencing the four-letter divine name (Tetragrammaton)",
+      "context": "Appears as 'Oculi Tetragammaton' in the preface"
+    },
+    {
+      "word": "Patris",
+      "definition": "Latin: 'of the father', used in phrase 'Patris et Matris'",
+      "context": "Occurs in Latin/Qabalistic phrasing in the preface"
+    },
+    {
+      "word": "Matris",
+      "definition": "Latin: 'of the mother', paired with Patris",
+      "context": "Used in the preface occult phrase 'Patris et Matris'"
+    },
+    {
+      "word": "Arcana",
+      "definition": "Mysteries or secret knowledge",
+      "context": "Used when discussing the surrendering of fraternity arcana"
+    },
+    {
+      "word": "S.V.A.",
+      "definition": "Occult initialism used to name a mysterious adept",
+      "context": "Appears in footnotes and preface as an imposing superior"
+    },
+    {
+      "word": "D.D.C.F.",
+      "definition": "Initialism for the translator/editorial persona",
+      "context": "Used throughout the preface as part of G. H. Fra.'s signature"
+    },
+    {
+      "word": "R.R.",
+      "definition": "Initialism of a person appointed to secret tasks",
+      "context": "Named as the one to complete secret work 'in secret'"
+    },
+    {
+      "word": "Firmament",
+      "definition": "The heavens or sky, a classical cosmological term",
+      "context": "Used in invocations: 'every Spirit of the Firmament and of the Ether'"
+    },
+    {
+      "word": "Phenomena",
+      "definition": "Observable events or appearances",
+      "context": "Used in philosophical discussion about sense-impressions and magic"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/72679"
+}
