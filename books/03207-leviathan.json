@@ -1,0 +1,623 @@
+{
+  "gutenberg_id": 3207,
+  "title": "Leviathan",
+  "author": "Hobbes, Thomas",
+  "summary": "Thomas Hobbes presents human beings as sense-driven, imaginative, and passionate creatures whose fear of violent death leads them to contract together. By mutual covenant they create an artificial person, the Leviathan or commonwealth, whose sovereign functions as artificial soul. Magistrates, laws, rewards, and punishments correspond to a body’s members and nerves, securing peace. Hobbes develops the psychology of perception, speech, reason, and the laws of nature, and argues for absolute authority to prevent civil war. He examines government types, succession, ecclesiastical power, and the relation of religion to state order, warning against sedition and doctrinal confusion to preserve social stability.",
+  "characters": [
+    {
+      "name": "Thomas Hobbes",
+      "age": "62 (in 1651)",
+      "personality": "Analytic, polemical, systematic philosopher and author",
+      "lifespan": "Author and narrator of the treatise; survives as the text's voice"
+    },
+    {
+      "name": "Mr. Francis Godolphin",
+      "age": "adult (contemporary to Hobbes)",
+      "personality": "Honoured dedicatee, courteous and esteemed",
+      "lifespan": "Recipient of the dedication; mentioned in the Preface"
+    },
+    {
+      "name": "Mr. Sidney Godolphin",
+      "age": "deceased at time of dedication",
+      "personality": "Praised as virtuous and exemplary",
+      "lifespan": "Referred to in the dedication as deceased and honoured"
+    },
+    {
+      "name": "God (the Artificer)",
+      "age": "timeless",
+      "personality": "Creator and governor of nature, invoked as ultimate maker",
+      "lifespan": "Eternal; invoked as the natural Artificer of the world"
+    },
+    {
+      "name": "Leviathan (the Commonwealth)",
+      "age": "artificial / newly instituted by covenant",
+      "personality": "Powerful, artificial personification of the state",
+      "lifespan": "Constructed by covenant; endures while the commonwealth stands"
+    },
+    {
+      "name": "The Sovereign (artificial soul)",
+      "age": "dependant on the covenant",
+      "personality": "Authoritative, commanding, source of unity and motion in the state",
+      "lifespan": "Maintains life of the commonwealth while obeyed"
+    },
+    {
+      "name": "Magistrates",
+      "age": "adult officials",
+      "personality": "Executive, judicial officers; instruments of sovereign will",
+      "lifespan": "Serve under the sovereign within the commonwealth"
+    },
+    {
+      "name": "Counsellors",
+      "age": "mature advisers",
+      "personality": "Advisory, memory-like function for the state",
+      "lifespan": "Function as long as the commonwealth requires counsel"
+    },
+    {
+      "name": "Particular Members / Subjects",
+      "age": "varied (all ages)",
+      "personality": "Individual citizens driven by passions and reason",
+      "lifespan": "Contribute to and are protected by the commonwealth while it exists"
+    },
+    {
+      "name": "Nature",
+      "age": "timeless",
+      "personality": "Described as the art by which God made and governs the world",
+      "lifespan": "Ongoing; used as explanatory principle in the text"
+    },
+    {
+      "name": "Our Blessed Saviour",
+      "age": "historic / eternal in theological role",
+      "personality": "Religious figure discussed in relation to Christian commonwealth",
+      "lifespan": "Referred to in theological chapters and Christian-political analysis"
+    },
+    {
+      "name": "Abraham",
+      "age": "antique / biblical",
+      "personality": "Patriarch cited in discussion of kingdom rights",
+      "lifespan": "Appears as scriptural example in church-state chapters"
+    },
+    {
+      "name": "Moses",
+      "age": "antique / biblical",
+      "personality": "Lawgiver cited regarding rights and authority",
+      "lifespan": "Appears as scriptural example in theological discussion"
+    },
+    {
+      "name": "High Priests",
+      "age": "biblical office",
+      "personality": "Religious authorities discussed in relation to political rights",
+      "lifespan": "Discussed historically and doctrinally in the book"
+    },
+    {
+      "name": "Kings of Judah",
+      "age": "biblical / historical",
+      "personality": "Monarchs used as examples for royal rights and authority",
+      "lifespan": "Historic actors invoked in theological-political chapters"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Malmesbury, Wiltshire, England",
+      "latitude": 51.585,
+      "longitude": -2.054
+    },
+    {
+      "name": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "St. Paul's Churchyard (London, printer's location)",
+      "latitude": 51.5138,
+      "longitude": -0.0984
+    },
+    {
+      "name": "Capitoline Hill (Roman Capitol), Rome, Italy",
+      "latitude": 41.8925,
+      "longitude": 12.4823
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Artificall",
+      "definition": "Archaic spelling of artificial; made by art or human design",
+      "context": "Used to describe the constructed 'Artificiall Man' (the commonwealth)"
+    },
+    {
+      "word": "Automata",
+      "definition": "Self-moving machines or mechanisms",
+      "context": "Compares natural life to 'Automata' and watch-like mechanisms"
+    },
+    {
+      "word": "Leviathan",
+      "definition": "Biblical sea monster; here the title and metaphor for the state",
+      "context": "Title and central metaphor: the commonwealth as a great sea-beast/artificial person"
+    },
+    {
+      "word": "Common-wealth",
+      "definition": "A political community founded for common good (hyphenated archaic form)",
+      "context": "Used as the principal institutional object Hobbes describes"
+    },
+    {
+      "word": "CIVITAS",
+      "definition": "Latin for city or state",
+      "context": "Given in parentheses to translate commonwealth"
+    },
+    {
+      "word": "ECCLESIASTICAL",
+      "definition": "Pertaining to the church or clergy",
+      "context": "Part of the book's extended subtitle"
+    },
+    {
+      "word": "CIVILL",
+      "definition": "Archaic spelling of civil, relating to citizens or the state",
+      "context": "Appears in the subtitle describing civil power"
+    },
+    {
+      "word": "Artificer",
+      "definition": "Maker or skilled creator; here God as creator",
+      "context": "God is called the Artificer who made the natural man"
+    },
+    {
+      "word": "Soveraignty",
+      "definition": "Archaic spelling of sovereignty; supreme authority",
+      "context": "Describes the sovereign as the artificial soul of the commonwealth"
+    },
+    {
+      "word": "Magistrates",
+      "definition": "Public officials who administer law",
+      "context": "Described as artificial joints of the commonwealth-body"
+    },
+    {
+      "word": "Judicature",
+      "definition": "Administration of justice; judiciary",
+      "context": "Used to label parts of the state apparatus"
+    },
+    {
+      "word": "Execution",
+      "definition": "Enforcement of laws and judgments",
+      "context": "Listed among functions of magistrates and officers"
+    },
+    {
+      "word": "Joynts",
+      "definition": "Archaic spelling of joints, parts connecting a body",
+      "context": "Used in the bodily metaphor for magistrates and officers"
+    },
+    {
+      "word": "Wheeles",
+      "definition": "Archaic spelling of wheels; mechanical parts enabling motion",
+      "context": "Used in the machine metaphor (wheels of a watch)"
+    },
+    {
+      "word": "Nerves",
+      "definition": "Literal bodily nerves; metaphorically means instruments of motion",
+      "context": "Rewards and punishments are compared to nerves moving the body"
+    },
+    {
+      "word": "Businesse",
+      "definition": "Archaic spelling of business; public concern or activity",
+      "context": "Refers to the commonwealth's purpose: 'its Businesse'"
+    },
+    {
+      "word": "Counsellors",
+      "definition": "Advisers or counselors to the sovereign",
+      "context": "Compared to memory in the artificial commonwealth"
+    },
+    {
+      "word": "Memory",
+      "definition": "Faculty of retaining and recalling knowledge",
+      "context": "Metaphorically assigned to counsellors in the state"
+    },
+    {
+      "word": "Equity",
+      "definition": "Fairness or justice in the application of law",
+      "context": "Described as an artificial reason and will"
+    },
+    {
+      "word": "Lawes",
+      "definition": "Archaic plural of laws",
+      "context": "Used in headings and text discussing civil law"
+    },
+    {
+      "word": "Concord",
+      "definition": "Agreement, harmony among members of the state",
+      "context": "Named as health of the commonwealth"
+    },
+    {
+      "word": "Sedition",
+      "definition": "Conduct inciting rebellion against authority",
+      "context": "Described as a disease weakening the body politic"
+    },
+    {
+      "word": "Sicknesse",
+      "definition": "Archaic spelling of sickness or illness",
+      "context": "Metaphor for state disorder; sedition causes sicknesse"
+    },
+    {
+      "word": "Civill War",
+      "definition": "Armed conflict between factions within a state",
+      "context": "Analogized to death of the body politic"
+    },
+    {
+      "word": "Pacts",
+      "definition": "Agreements or treaties; here foundational covenants",
+      "context": "Pacts and covenants form the body politic"
+    },
+    {
+      "word": "Covenants",
+      "definition": "Formal agreements creating mutual obligations",
+      "context": "Central mechanism by which the commonwealth is built"
+    },
+    {
+      "word": "Fiat",
+      "definition": "A formal decree or 'let it be done' (Latin)",
+      "context": "Compared to God's 'Let Us Make Man' in creation metaphor"
+    },
+    {
+      "word": "Nosce Teipsum",
+      "definition": "Variant of Latin 'Nosce te ipsum' ('know thyself')",
+      "context": "Quoted in the Introduction: 'Nosce Teipsum, Read Thy Self'"
+    },
+    {
+      "word": "Nature",
+      "definition": "The natural order; God's workmanship",
+      "context": "Defined as the art by which God made and governs the world"
+    },
+    {
+      "word": "Art",
+      "definition": "Human skill or craft; imitation of nature",
+      "context": "Contrasted with natural creation to explain the artificial commonwealth"
+    },
+    {
+      "word": "Inhaerent",
+      "definition": "Archaic spelling of inhere; to be inherent or innate",
+      "context": "Used describing virtues shining 'inhaerent' in Sidney Godolphin"
+    },
+    {
+      "word": "Perspicuously",
+      "definition": "Clearly and plainly; with perspicuity",
+      "context": "Hobbes promises to set down his reading 'orderly, and perspicuously'"
+    },
+    {
+      "word": "Singly",
+      "definition": "One by one; individually",
+      "context": "Chapter I: 'Concerning the Thoughts of man, I will consider them first Singly...'"
+    },
+    {
+      "word": "Trayne",
+      "definition": "Archaic spelling of train (sequence or series)",
+      "context": "Used in the phrase 'in Trayne, or dependance upon one another'"
+    },
+    {
+      "word": "Apparence",
+      "definition": "Archaic spelling of appearance",
+      "context": "Used describing mental representations: 'every one a Representation or Apparence'"
+    },
+    {
+      "word": "Object",
+      "definition": "That toward which perception or thought is directed",
+      "context": "Appears discussing the objects that produce mental apparences"
+    },
+    {
+      "word": "Accident",
+      "definition": "An attribute or quality that is not essential",
+      "context": "Used philosophically: 'some quality, or other Accident of a body without us'"
+    },
+    {
+      "word": "Sense",
+      "definition": "Perception via the senses; origin of all conceptions",
+      "context": "Chapter I begins by establishing sense as origin of thought"
+    },
+    {
+      "word": "Tast",
+      "definition": "Archaic spelling of taste (sense of taste)",
+      "context": "Listed among senses: 'as in the Tast and Touch'"
+    },
+    {
+      "word": "Touch",
+      "definition": "Sense of tactile perception",
+      "context": "Paired with taste as an immediate pressure on organs"
+    },
+    {
+      "word": "Eares",
+      "definition": "Archaic spelling of ears",
+      "context": "Mentioned among organs receiving external impressions"
+    },
+    {
+      "word": "Smelling",
+      "definition": "Sense of smell",
+      "context": "Listed among senses such as seeing and hearing"
+    },
+    {
+      "word": "Seeing",
+      "definition": "Sense of sight",
+      "context": "Included in list of mediate senses"
+    },
+    {
+      "word": "Brain",
+      "definition": "Anatomical organ; seat of perception in Hobbes' physiology",
+      "context": "External pressures are transmitted inward to the Brain and Heart"
+    },
+    {
+      "word": "Heart",
+      "definition": "Physiological organ; considered origin of motion in Hobbes' account",
+      "context": "The heart's endeavour produces the fancy of outward matter"
+    },
+    {
+      "word": "Organ",
+      "definition": "A bodily instrument or sense organ",
+      "context": "Pressure on the organ proper to each sense"
+    },
+    {
+      "word": "Pressure",
+      "definition": "Physical force exerted by external bodies",
+      "context": "External bodies press organs to produce sense"
+    },
+    {
+      "word": "Endeavour",
+      "definition": "An effort or striving (archaic spelling preserved)",
+      "context": "Heart's counter-pressure or 'endeavour' to deliver itself"
+    },
+    {
+      "word": "Seeming",
+      "definition": "Appearance or appearance of a thing",
+      "context": "This 'Seeming, or Fancy' constitutes mental representation"
+    },
+    {
+      "word": "Fancy",
+      "definition": "Imagination or mental image",
+      "context": "Used interchangeably with seeming for impressions of objects"
+    },
+    {
+      "word": "Begotten",
+      "definition": "Caused or produced (often used for generation)",
+      "context": "Concepts are 'begotten upon the organs of Sense'"
+    },
+    {
+      "word": "Organs",
+      "definition": "Plural form of organ; bodily instruments",
+      "context": "Sense is produced by external bodies acting on organs"
+    },
+    {
+      "word": "Conception",
+      "definition": "Formation of an idea or notion",
+      "context": "Hobbes: 'there is no conception in a mans mind, which hath not at first... been begotten upon the organs of Sense'"
+    },
+    {
+      "word": "Mind",
+      "definition": "Mental faculty or thinking subject",
+      "context": "Used as seat of conception and imagination"
+    },
+    {
+      "word": "Parts",
+      "definition": "Constituent elements of a whole",
+      "context": "Thoughts may be begotten totally or by parts"
+    },
+    {
+      "word": "Originall",
+      "definition": "Archaic spelling of original",
+      "context": "Refers to the original source of perceptions: 'The originall of them all'"
+    },
+    {
+      "word": "Consequences",
+      "definition": "Logical or sequential outcomes; train of ideas",
+      "context": "Chapter title: 'OF THE CONSEQUENCES OR TRAIN OF IMAGINATIONS'"
+    },
+    {
+      "word": "Imagination",
+      "definition": "Mental faculty for forming images or ideas",
+      "context": "Discussed as derivable from sensation"
+    },
+    {
+      "word": "Speech",
+      "definition": "Use of language to communicate",
+      "context": "Chapter about the origin and use of speech"
+    },
+    {
+      "word": "Reason",
+      "definition": "Faculty of logical thought and inference",
+      "context": "Chapter title: 'OF REASON AND SCIENCE'"
+    },
+    {
+      "word": "Science",
+      "definition": "Systematized knowledge",
+      "context": "Paired with reason in chapter headings"
+    },
+    {
+      "word": "Voluntary",
+      "definition": "Done by will or choice",
+      "context": "Appears in 'VOLUNTARY MOTIONS' chapter heading"
+    },
+    {
+      "word": "Motions",
+      "definition": "Movements or impulses; physical or mental",
+      "context": "Discussed as internal beginnings of action (passions)"
+    },
+    {
+      "word": "Passions",
+      "definition": "Strong emotions or drives",
+      "context": "Central to Hobbes' psychology and political theory"
+    },
+    {
+      "word": "Expressed",
+      "definition": "Made clear; manifested",
+      "context": "Used regarding how passions are shown by speeches"
+    },
+    {
+      "word": "Ends",
+      "definition": "Goals or purposes",
+      "context": "Chapter on 'ENDS OR RESOLUTIONS OF DISCOURSE'"
+    },
+    {
+      "word": "Resolutions",
+      "definition": "Determinations or conclusions",
+      "context": "Treated as outcomes of discourse"
+    },
+    {
+      "word": "Vertues",
+      "definition": "Archaic spelling of virtues",
+      "context": "Chapter title: 'OF THE VERTUES, COMMONLY CALLED INTELLECTUALL'"
+    },
+    {
+      "word": "Intellectuall",
+      "definition": "Archaic spelling of intellectual",
+      "context": "Used in the heading on intellectual virtues"
+    },
+    {
+      "word": "Defects",
+      "definition": "Failings or shortcomings",
+      "context": "Opposites of virtues discussed in the text"
+    },
+    {
+      "word": "Subjects",
+      "definition": "Those under sovereign authority",
+      "context": "Chapter headings deal with liberty and duties of subjects"
+    },
+    {
+      "word": "Knowledge",
+      "definition": "Awareness or understanding gained by experience or study",
+      "context": "One of the several subjects of knowledge Hobbes outlines"
+    },
+    {
+      "word": "Power",
+      "definition": "Ability or capacity to act or command",
+      "context": "Discussed as a key political and moral concept"
+    },
+    {
+      "word": "Worth",
+      "definition": "Value or merit",
+      "context": "Appears in chapter heading on 'POWER, WORTH, DIGNITY, HONOUR'"
+    },
+    {
+      "word": "Dignity",
+      "definition": "State of being worthy of respect",
+      "context": "Grouped with worth and honour in content headings"
+    },
+    {
+      "word": "Honour",
+      "definition": "High respect or esteem; archaic spelling preserved elsewhere as HONOR’D",
+      "context": "Used in dedication and chapter headings regarding reputation"
+    },
+    {
+      "word": "Worthinesse",
+      "definition": "Archaic form of worthiness; deservingness",
+      "context": "Used in dedication praising Sidney Godolphin's worthinesse"
+    },
+    {
+      "word": "Difference",
+      "definition": "Distinction or variation",
+      "context": "Appears in heading 'OF THE DIFFERENCE OF MANNERS'"
+    },
+    {
+      "word": "Manners",
+      "definition": "Customs, habits, or modes of behavior",
+      "context": "Discussed as part of human variability"
+    },
+    {
+      "word": "Religion",
+      "definition": "Belief and worship relating to divine",
+      "context": "Treated as a subject and in relation to civil power"
+    },
+    {
+      "word": "Naturall",
+      "definition": "Archaic spelling of natural",
+      "context": "Used repeatedly in chapter headings and text"
+    },
+    {
+      "word": "Condition",
+      "definition": "State or circumstance",
+      "context": "Used in heading 'OF THE NATURALL CONDITION OF MANKIND...'"
+    },
+    {
+      "word": "Mankind",
+      "definition": "Human beings collectively",
+      "context": "Central referent of Hobbes' political analysis"
+    },
+    {
+      "word": "Felicity",
+      "definition": "Happiness or blessedness",
+      "context": "Used in phrase 'their felicity and misery'"
+    },
+    {
+      "word": "Misery",
+      "definition": "Great suffering or unhappiness",
+      "context": "Contrasted with felicity in natural condition chapter"
+    },
+    {
+      "word": "Contract",
+      "definition": "Formal agreement creating obligations",
+      "context": "Foundational concept for the creation of the commonwealth"
+    },
+    {
+      "word": "Persons",
+      "definition": "Individual human agents or legal persons",
+      "context": "Used in chapter heading 'OF PERSONS, AUTHORS, AND THINGS PERSONATED'"
+    },
+    {
+      "word": "Authors",
+      "definition": "Creators or originators (literal or legal)",
+      "context": "Appears in the same chapter heading concerning personation"
+    },
+    {
+      "word": "Personated",
+      "definition": "Archaic form of personated or personified",
+      "context": "Used in chapter heading about persons and what they represent"
+    },
+    {
+      "word": "Causes",
+      "definition": "Origins or reasons for events",
+      "context": "Chapter headings include 'OF THE CAUSES, GENERATION, AND DEFINITION'"
+    },
+    {
+      "word": "Generation",
+      "definition": "Process of origin or creation",
+      "context": "Appears in the contents describing generation of commonwealth"
+    },
+    {
+      "word": "Definition",
+      "definition": "A statement of the meaning of a term",
+      "context": "Used where Hobbes sets down conceptual definitions"
+    },
+    {
+      "word": "Succession",
+      "definition": "Order of inheriting authority",
+      "context": "Treated in chapters on kinds of commonwealth and succession"
+    },
+    {
+      "word": "Dominion",
+      "definition": "Territorial rule or sovereignty",
+      "context": "Discussed in chapters on dominion paternal and despotic"
+    },
+    {
+      "word": "Paternall",
+      "definition": "Archaic spelling of paternal; relating to a father",
+      "context": "Used in heading 'OF DOMINION PATERNALL, AND DESPOTICALL'"
+    },
+    {
+      "word": "Despoticall",
+      "definition": "Archaic spelling of despotic; tyrannical rule",
+      "context": "Paired with paternal dominion in contents"
+    },
+    {
+      "word": "Liberty",
+      "definition": "Freedom from arbitrary restraint",
+      "context": "Addressed in chapter 'OF THE LIBERTY OF SUBJECTS'"
+    },
+    {
+      "word": "Systemes",
+      "definition": "Archaic spelling of systems",
+      "context": "Used in heading 'OF SYSTEMES SUBJECT, POLITICALL, AND PRIVATE'"
+    },
+    {
+      "word": "Politicall",
+      "definition": "Archaic spelling of political",
+      "context": "Used in chapter headings regarding political systems"
+    },
+    {
+      "word": "Publique",
+      "definition": "Archaic spelling of public",
+      "context": "Used in relation to public ministers in state apparatus"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/3207"
+}
