@@ -1,0 +1,620 @@
+{
+  "gutenberg_id": 55,
+  "title": "The Wonderful Wizard of Oz",
+  "author": "Baum, L. Frank (Lyman Frank)",
+  "summary": "Dorothy, a young girl on the Kansas prairie, is swept away by a cyclone to the marvelous Land of Oz. Her house falls on the Wicked Witch of the East, freeing the Munchkins. Welcomed by the Good Witch of the North, Dorothy begins a journey along the Yellow Brick Road toward the Emerald City to ask the Great Wizard Oz to return her home. She meets companions—a living Scarecrow, a Tin Woodman, and a Cowardly Lion—each seeking a gift from Oz. Together they face dangers, including the Wicked Witch of the West, and ultimately confront the Wizard’s surprising truth revelation.",
+  "characters": [
+    {
+      "name": "Dorothy Gale",
+      "age": "child (young girl)",
+      "personality": "curious, brave, kindly and homesick",
+      "lifespan": "survives the adventures and is returned home to Kansas"
+    },
+    {
+      "name": "Uncle Henry",
+      "age": "middle-aged (adult)",
+      "personality": "stern, hardworking, solemn",
+      "lifespan": "remains in Kansas with Aunt Em; survives"
+    },
+    {
+      "name": "Aunt Em",
+      "age": "middle-aged (adult)",
+      "personality": "sober, anxious, practical",
+      "lifespan": "remains in Kansas with Uncle Henry; survives"
+    },
+    {
+      "name": "Toto",
+      "age": "dog (juvenile/adult)",
+      "personality": "playful, loyal, mischievous",
+      "lifespan": "survives and returns home with Dorothy"
+    },
+    {
+      "name": "Munchkins",
+      "age": "varied (adult community)",
+      "personality": "grateful, cheerful, small-statured people",
+      "lifespan": "freed from bondage after Wicked Witch of the East is killed"
+    },
+    {
+      "name": "Witch of the North (Good Witch)",
+      "age": "elderly",
+      "personality": "kind, gentle, protective",
+      "lifespan": "lives and aids Dorothy early in her journey"
+    },
+    {
+      "name": "Wicked Witch of the East",
+      "age": "adult",
+      "personality": "oppressive, cruel (described as wicked)",
+      "lifespan": "killed when Dorothy's house falls on her"
+    },
+    {
+      "name": "Wicked Witch of the West",
+      "age": "adult",
+      "personality": "vengeful, powerful antagonist",
+      "lifespan": "confronted and defeated during Dorothy's quest"
+    },
+    {
+      "name": "Oz (the Great Wizard)",
+      "age": "adult (wizard figure)",
+      "personality": "enigmatic, authoritative, ultimately revealed as a humbug",
+      "lifespan": "exposed as an ordinary man masquerading as a wizard; later departs"
+    },
+    {
+      "name": "Scarecrow",
+      "age": "animated figure (no clear human age)",
+      "personality": "earnest, good-humored, believes he lacks a brain",
+      "lifespan": "accompanies Dorothy and is granted a form of wisdom"
+    },
+    {
+      "name": "Tin Woodman",
+      "age": "created/manufactured adult figure",
+      "personality": "gentle, sentimental, believes he lacks a heart",
+      "lifespan": "joins Dorothy's party and seeks a heart; survives"
+    },
+    {
+      "name": "Cowardly Lion",
+      "age": "adult beast",
+      "personality": "timid despite appearance, seeking courage",
+      "lifespan": "becomes courageous and survives; later becomes king of beasts"
+    },
+    {
+      "name": "Winged Monkeys",
+      "age": "creatures/servants",
+      "personality": "mischievous, powerful air-creatures bound by magic",
+      "lifespan": "serve under magical constraint; instrumental in events"
+    },
+    {
+      "name": "Queen of the Field Mice",
+      "age": "creature monarch",
+      "personality": "small but brave and helpful",
+      "lifespan": "helps rescue allies; survives the events"
+    },
+    {
+      "name": "The Great Humbug",
+      "age": "adult (con-man)",
+      "personality": "blustering, theatrical, ultimately revealed as fraudulent",
+      "lifespan": "exposed by Dorothy's party; remains alive but unmasked"
+    },
+    {
+      "name": "Guardian of the Gates",
+      "age": "adult official",
+      "personality": "ceremonial, watchful",
+      "lifespan": "serves at the Emerald City gates during Dorothy's visit"
+    },
+    {
+      "name": "Glinda (Good Witch of the South)",
+      "age": "adult (powerful witch)",
+      "personality": "benevolent, wise, powerful",
+      "lifespan": "grants Dorothy’s wish and aids in returning her home"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Kansas, United States",
+      "latitude": 38.5,
+      "longitude": -98
+    },
+    {
+      "name": "Chicago, Illinois, United States",
+      "latitude": 41.878113,
+      "longitude": -87.629799
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "garret",
+      "definition": "a top-floor or attic room",
+      "context": "\"There was no garret at all\" — describing the small Kansas house."
+    },
+    {
+      "word": "cellar",
+      "definition": "an underground room; here a 'cyclone cellar'",
+      "context": "\"a cyclone cellar\" — a small hole dug in the ground for shelter."
+    },
+    {
+      "word": "cyclone",
+      "definition": "a large, powerful, rotating storm",
+      "context": "the storm that carries Dorothy's house to Oz."
+    },
+    {
+      "word": "whirlwind",
+      "definition": "a rapidly rotating column of air; similar to cyclone",
+      "context": "used in describing the storm that lifts the house."
+    },
+    {
+      "word": "sward",
+      "definition": "an expanse of short grass; greensward means a grassy patch",
+      "context": "\"lovely patches of greensward\" in the Land of Oz."
+    },
+    {
+      "word": "luscious",
+      "definition": "deliciously attractive, richly appealing",
+      "context": "applied to the fruits on the trees Dorothy sees."
+    },
+    {
+      "word": "plumage",
+      "definition": "a bird's feathers collectively",
+      "context": "\"birds with rare and brilliant plumage\" near Dorothy's house."
+    },
+    {
+      "word": "murmuring",
+      "definition": "a soft, low, continuous sound",
+      "context": "the little brook 'murmuring' as it flows by."
+    },
+    {
+      "word": "tinkled",
+      "definition": "made a light, ringing sound like small bells",
+      "context": "the little bells on the Munchkins' hats 'tinkled'."
+    },
+    {
+      "word": "sorceress",
+      "definition": "a female practitioner of magic; witch",
+      "context": "Dorothy is addressed as 'most noble Sorceress' by Munchkins."
+    },
+    {
+      "word": "bondage",
+      "definition": "forced servitude; oppression",
+      "context": "the Munchkins were held in 'bondage' by the Wicked Witch of the East."
+    },
+    {
+      "word": "shod",
+      "definition": "fitted with shoes",
+      "context": "the dead witch's feet were 'shod in silver shoes'."
+    },
+    {
+      "word": "pleats",
+      "definition": "folds in cloth, especially in garments",
+      "context": "the Witch of the North's white gown 'hung in pleats'."
+    },
+    {
+      "word": "glistened",
+      "definition": "shone with a soft reflected light",
+      "context": "stars on the witch's gown 'glistened in the sun'."
+    },
+    {
+      "word": "gaunt",
+      "definition": "lean and haggard, especially because of suffering or age",
+      "context": "Aunt Em was described as 'thin and gaunt'."
+    },
+    {
+      "word": "whirled",
+      "definition": "spun or rotated rapidly",
+      "context": "the house 'whirled around' in the cyclone."
+    },
+    {
+      "word": "whistling",
+      "definition": "making a high-pitched sound as wind passes",
+      "context": "a 'sharp whistling in the air' announced the storm."
+    },
+    {
+      "word": "ripples",
+      "definition": "small waves or undulations",
+      "context": "they 'saw ripples in the grass' before the storm."
+    },
+    {
+      "word": "twinkled",
+      "definition": "shone with a flickering light",
+      "context": "Toto's small black eyes 'twinkled' merrily."
+    },
+    {
+      "word": "wee",
+      "definition": "very small; tiny (dialectal)",
+      "context": "Toto's 'funny, wee nose'."
+    },
+    {
+      "word": "silky",
+      "definition": "having a smooth, fine texture like silk",
+      "context": "Toto described as having 'long silky hair'."
+    },
+    {
+      "word": "howled",
+      "definition": "made a prolonged, wailing cry (wind's sound)",
+      "context": "the wind 'howled horribly' around the house."
+    },
+    {
+      "word": "jar",
+      "definition": "a sudden jolt or shock",
+      "context": "Dorothy awakened by a 'shock' or 'jar' when the house landed."
+    },
+    {
+      "word": "swaying",
+      "definition": "moving slowly back and forth",
+      "context": "the 'swaying floor' of the house in the cyclone."
+    },
+    {
+      "word": "cradle",
+      "definition": "a device for rocking or soothing; used metaphorically",
+      "context": "Dorothy felt 'rocked gently, like a baby in a cradle.'"
+    },
+    {
+      "word": "trap",
+      "definition": "a hinged or removable cover (part of 'trap door')",
+      "context": "the family used a 'trap door' to reach the cyclone cellar."
+    },
+    {
+      "word": "trapdoor",
+      "definition": "a door set in a floor or ceiling",
+      "context": "\"the trap door in the middle of the floor\" leading to the cellar."
+    },
+    {
+      "word": "ladder",
+      "definition": "a series of rungs or steps for climbing",
+      "context": "a 'ladder' led down into the cyclone cellar."
+    },
+    {
+      "word": "prairies",
+      "definition": "large open areas of grassland",
+      "context": "Dorothy 'lived in the midst of the great Kansas prairies.'"
+    },
+    {
+      "word": "rusty",
+      "definition": "corroded or dulled by rust; here describing appearance",
+      "context": "a 'rusty looking cookstove' in the little house."
+    },
+    {
+      "word": "cookstove",
+      "definition": "a stove used for cooking",
+      "context": "the single 'cookstove' furnishing the house."
+    },
+    {
+      "word": "cupboard",
+      "definition": "a cabinet for storing dishes or food",
+      "context": "the small house contained 'a cupboard for the dishes'."
+    },
+    {
+      "word": "Munchkins",
+      "definition": "a people who live in the eastern part of Oz (proper noun coined by Baum)",
+      "context": "the Munchkins greet Dorothy after the house lands."
+    },
+    {
+      "word": "bells",
+      "definition": "small ringing instruments; decorative on hats",
+      "context": "the little bells around the brims of Munchkin hats 'tinkled'."
+    },
+    {
+      "word": "brims",
+      "definition": "the projecting edges of hats",
+      "context": "bells around the 'brims' of their round hats."
+    },
+    {
+      "word": "beards",
+      "definition": "facial hair on men",
+      "context": "two of the men had 'beards', as observed by Dorothy."
+    },
+    {
+      "word": "wrinkled",
+      "definition": "creased (usually of skin or cloth) from age or wear",
+      "context": "the little woman's face was 'covered with wrinkles'."
+    },
+    {
+      "word": "noble",
+      "definition": "having outstanding qualities; here used in address",
+      "context": "\"You are welcome, most noble Sorceress\" the Munchkins say."
+    },
+    {
+      "word": "freed",
+      "definition": "set free from slavery or oppression",
+      "context": "the Munchkins were 'set free' after the Eastern witch's death."
+    },
+    {
+      "word": "silver",
+      "definition": "a shiny gray-white metal; used to describe shoes",
+      "context": "the dead witch's feet were 'shod in silver shoes.'"
+    },
+    {
+      "word": "beam",
+      "definition": "a long, sturdy piece of timber used in construction",
+      "context": "the house rested on a 'great beam' under which the witch's feet protruded."
+    },
+    {
+      "word": "block",
+      "definition": "a large piece of wood or stone",
+      "context": "a 'block of wood' under the corner of the house."
+    },
+    {
+      "word": "grateful",
+      "definition": "showing appreciation for kindness",
+      "context": "the Munchkins 'are so grateful' to Dorothy for freeing them."
+    },
+    {
+      "word": "brook",
+      "definition": "a small stream",
+      "context": "a 'small brook' was near Dorothy's landing place."
+    },
+    {
+      "word": "banks",
+      "definition": "sloping land beside a river or stream",
+      "context": "the brook ran 'between green banks.'"
+    },
+    {
+      "word": "gorgeous",
+      "definition": "magnificently beautiful",
+      "context": "there were 'banks of gorgeous flowers' all about."
+    },
+    {
+      "word": "flowers",
+      "definition": "the seed-bearing part of a plant, often colorful",
+      "context": "flowers lined the land of Oz in Dorothy's first view."
+    },
+    {
+      "word": "brilliant",
+      "definition": "very bright or vivid in color",
+      "context": "birds with 'brilliant plumage' fluttered nearby."
+    },
+    {
+      "word": "sang",
+      "definition": "gave musical voice; past tense of sing",
+      "context": "the birds 'sang and fluttered in the trees.'"
+    },
+    {
+      "word": "fluttered",
+      "definition": "moved lightly and quickly; flapped",
+      "context": "birds 'fluttered' in the trees and bushes."
+    },
+    {
+      "word": "stately",
+      "definition": "dignified and impressive in appearance",
+      "context": "the trees were described as 'stately trees'."
+    },
+    {
+      "word": "fruits",
+      "definition": "the seed-bearing parts of plants, edible",
+      "context": "trees bearing 'rich and luscious fruits.'"
+    },
+    {
+      "word": "messenger",
+      "definition": "a person sent to carry information",
+      "context": "the Munchkins sent a 'swift messenger' to the Witch of the North."
+    },
+    {
+      "word": "Wicked",
+      "definition": "evil or morally wrong; used in proper names",
+      "context": "the 'Wicked Witch of the East' is named in the text."
+    },
+    {
+      "word": "Witch",
+      "definition": "a woman believed to have magic powers",
+      "context": "multiple witches (good and wicked) are central figures."
+    },
+    {
+      "word": "Oz",
+      "definition": "the magical land and the name of its Wizard",
+      "context": "Dorothy travels to the Land of Oz to find its great wizard."
+    },
+    {
+      "word": "Wizard",
+      "definition": "a man who claims to use magic; here the Great Wizard of Oz",
+      "context": "the 'Great Wizard' is sought in the Emerald City."
+    },
+    {
+      "word": "Humbug",
+      "definition": "a deceptive or false claim; imposture",
+      "context": "the Wizard's theatricality called 'the Great Humbug' in the book."
+    },
+    {
+      "word": "Scarecrow",
+      "definition": "a figure of a person set to scare birds, brought to life in Oz",
+      "context": "the living Scarecrow joins Dorothy's journey."
+    },
+    {
+      "word": "Tin Woodman",
+      "definition": "a tin-made man who is animated and seeks a heart",
+      "context": "the 'Tin Woodman' is rescued and becomes a companion."
+    },
+    {
+      "word": "Cowardly Lion",
+      "definition": "a lion character who seeks courage",
+      "context": "named in the Table of Contents and appears as companion."
+    },
+    {
+      "word": "Toto",
+      "definition": "a small black dog; Dorothy's pet",
+      "context": "Toto 'made Dorothy laugh' and accompanies her everywhere."
+    },
+    {
+      "word": "Dorothy",
+      "definition": "the central child protagonist of the story",
+      "context": "Dorothy is carried to Oz by the cyclone and seeks to return home."
+    },
+    {
+      "word": "Uncle Henry",
+      "definition": "Dorothy's guardian in Kansas; a farmer",
+      "context": "mentioned as living with Dorothy on the Kansas prairie."
+    },
+    {
+      "word": "Aunt Em",
+      "definition": "Dorothy's aunt and housewife in Kansas",
+      "context": "Aunt Em is described as thin, gaunt, and seldom smiling."
+    },
+    {
+      "word": "Gale",
+      "definition": "Dorothy's family name (Dorothy Gale)",
+      "context": "appears in bibliographic/subject listings associated with the character."
+    },
+    {
+      "word": "Kansas",
+      "definition": "a real U.S. state and Dorothy's home",
+      "context": "Dorothy 'lived in the midst of the great Kansas prairies.'"
+    },
+    {
+      "word": "Chicago",
+      "definition": "city where the author placed the dedication/date",
+      "context": "L. Frank Baum signs the introduction 'Chicago, April, 1900.'"
+    },
+    {
+      "word": "Quadlings",
+      "definition": "inhabitants of the southern region of Oz (proper noun)",
+      "context": "the 'Country of the Quadlings' listed in the Table of Contents."
+    },
+    {
+      "word": "Queen",
+      "definition": "a female monarch or leader",
+      "context": "the 'Queen of the Field Mice' appears in Chapter IX."
+    },
+    {
+      "word": "mice",
+      "definition": "small rodents; here the Field Mice have a queen",
+      "context": "a colony of mice assist in a rescue in the story."
+    },
+    {
+      "word": "Guardian",
+      "definition": "a protector or keeper of a gate or place",
+      "context": "the 'Guardian of the Gates' appears at the Emerald City."
+    },
+    {
+      "word": "Emerald",
+      "definition": "a precious green gemstone; also used to name the Emerald City",
+      "context": "the 'Emerald City of Oz' where the Wizard resides."
+    },
+    {
+      "word": "balloon",
+      "definition": "a large bag that rises when filled with gas; used for travel",
+      "context": "used by the Wizard in Chapter XVII, 'How the Balloon Was Launched.'"
+    },
+    {
+      "word": "winged",
+      "definition": "having wings",
+      "context": "the 'Winged Monkeys' are described in Chapter XIV."
+    },
+    {
+      "word": "fighting",
+      "definition": "engaging in battle or combat",
+      "context": "'Attacked by the Fighting Trees' is Chapter XIX."
+    },
+    {
+      "word": "China",
+      "definition": "porcelain; used as a proper name for a fantastical region",
+      "context": "'The Dainty China Country' is a chapter title."
+    },
+    {
+      "word": "dainty",
+      "definition": "delicately small and pretty",
+      "context": "used to describe the delicate 'China Country.'"
+    },
+    {
+      "word": "King",
+      "definition": "male monarch; the Lion becomes 'King of Beasts'",
+      "context": "Chapter XXI describes the Lion's status."
+    },
+    {
+      "word": "Glinda",
+      "definition": "the Good Witch of the South (proper name)",
+      "context": "Glinda 'grants Dorothy’s wish' in Chapter XXIII."
+    },
+    {
+      "word": "South",
+      "definition": "direction and region; Glinda is Witch of the South",
+      "context": "'Away to the South' is a chapter heading."
+    },
+    {
+      "word": "poppy",
+      "definition": "a flowering plant; poppies can be soporific in the story",
+      "context": "'The Deadly Poppy Field' is a peril Dorothy's party encounters."
+    },
+    {
+      "word": "field",
+      "definition": "an open area of land",
+      "context": "used in several chapter titles, e.g., 'Deadly Poppy Field.'"
+    },
+    {
+      "word": "rescue",
+      "definition": "to save from danger",
+      "context": "multiple chapters are titled 'The Rescue' referring to saving characters."
+    },
+    {
+      "word": "discovery",
+      "definition": "finding or learning something previously unknown",
+      "context": "'The Discovery of Oz, the Terrible' is a chapter heading."
+    },
+    {
+      "word": "terrible",
+      "definition": "causing fear or dread; used in chapter title",
+      "context": "the chapter 'The Discovery of Oz, the Terrible' reveals truths."
+    },
+    {
+      "word": "magic",
+      "definition": "the use of supernatural powers",
+      "context": "central to the world-building and the Wizard's apparent abilities."
+    },
+    {
+      "word": "launched",
+      "definition": "set in motion or sent off (as a balloon)",
+      "context": "chapter 'How the Balloon Was Launched' describes the event."
+    },
+    {
+      "word": "home",
+      "definition": "the place one belongs or where one lives",
+      "context": "Dorothy's primary wish is to return 'Home Again' (chapter XXIV)."
+    },
+    {
+      "word": "sorcery",
+      "definition": "the practice of magic or conjuring",
+      "context": "discussed in the book when witches and wizards are mentioned."
+    },
+    {
+      "word": "manifestly",
+      "definition": "clearly evident or obvious",
+      "context": "used in the Introduction describing tales 'manifestly unreal.'"
+    },
+    {
+      "word": "folklore",
+      "definition": "traditional beliefs, customs, and stories of a community",
+      "context": "the Introduction situates the book in relation to 'folklore.'"
+    },
+    {
+      "word": "genie",
+      "definition": "a supernatural being from folklore, often granting wishes",
+      "context": "the Introduction references 'genie' as an old tale figure."
+    },
+    {
+      "word": "stereotyped",
+      "definition": "repeated and unvarying; conventional",
+      "context": "the Introduction criticizes 'stereotyped genie, dwarf and fairy.'"
+    },
+    {
+      "word": "dwarf",
+      "definition": "a mythical small-statured person; mentioned in the Introduction",
+      "context": "listed among old fairy-tale figures in the Introduction."
+    },
+    {
+      "word": "blood-curdling",
+      "definition": "horrifying; chilling",
+      "context": "the Introduction notes older tales included 'blood-curdling incidents.'"
+    },
+    {
+      "word": "heartaches",
+      "definition": "emotional pains or sorrows",
+      "context": "the Introduction states the modern tale leaves out 'heartaches.'"
+    },
+    {
+      "word": "nightmares",
+      "definition": "disturbing dreams causing fear",
+      "context": "the Introduction promises to exclude 'heartaches and nightmares.'"
+    },
+    {
+      "word": "comrade",
+      "definition": "companion or close friend",
+      "context": "the dedication reads 'My good friend & comrade My Wife.'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/55"
+}
