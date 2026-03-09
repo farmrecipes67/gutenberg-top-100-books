@@ -1,0 +1,624 @@
+{
+  "gutenberg_id": 145,
+  "title": "Middlemarch",
+  "author": "Eliot, George",
+  "summary": "Dorothea Brooke, a young, idealistic woman at Tipton Grange, seeks a noble purpose beyond provincial life. Educated and passionate, she fears frivolity and yearns for a spiritual or intellectual mission, like Saint Theresa’s historic fervor. Her sensible sister Celia and their indulgent uncle, Mr. Brooke, contrast with Dorothea’s seriousness. Local society regards her eccentric; Sir James Chettam and others visit. The arrival of the scholarly, wealthy Reverend Edward Casaubon excites expectation. George Eliot frames Dorothea’s ardor as emblematic of earnest women whose grand impulses often clash with limited social opportunities and domestic realities in small English towns, and moral perplexities.",
+  "characters": [
+    {
+      "name": "Dorothea (Miss Brooke)",
+      "age": "not yet twenty",
+      "personality": "idealistic, ardent, serious, religiously inclined, intellectually hungry",
+      "lifespan": "Fate not revealed in provided excerpt"
+    },
+    {
+      "name": "Celia Brooke",
+      "age": "late teens (younger sister)",
+      "personality": "amiable, practical, more worldly-minded than Dorothea",
+      "lifespan": "Fate not revealed in provided excerpt"
+    },
+    {
+      "name": "Mr. Brooke (their uncle)",
+      "age": "nearly sixty",
+      "personality": "acquiescent, rambling in opinions, benevolent but parsimonious",
+      "lifespan": "Lives at Tipton Grange; fate not revealed in provided excerpt"
+    },
+    {
+      "name": "Sir James Chettam",
+      "age": "unspecified adult (gentleman)",
+      "personality": "respectable local baronet; social suitor figure",
+      "lifespan": "Fate not revealed in provided excerpt"
+    },
+    {
+      "name": "Reverend Edward Casaubon",
+      "age": "unspecified (described as a learned man)",
+      "personality": "profoundly learned, scholarly, wealthy, reserved in county reputation",
+      "lifespan": "Arrives as a guest; fate not revealed in provided excerpt"
+    },
+    {
+      "name": "Mrs. Cadwallader (the Rector's wife)",
+      "age": "unspecified",
+      "personality": "socially observant, represents local opinion",
+      "lifespan": "Fate not revealed in provided excerpt"
+    },
+    {
+      "name": "The Rector",
+      "age": "unspecified",
+      "personality": "local clergyman figure implicit in society",
+      "lifespan": "Fate not revealed in provided excerpt"
+    },
+    {
+      "name": "Saint Theresa (Teresa of Avila, referenced)",
+      "age": "as a child (in the anecdote), later saintly foundress",
+      "personality": "passionate, idealistic, seeking epic religious life",
+      "lifespan": "In the anecdote she later founds/reforms a religious order (as told in the prelude)"
+    },
+    {
+      "name": "Theresa's brother (unnamed)",
+      "age": "still smaller brother (child)",
+      "personality": "briefly mentioned companion in the pilgrimage anecdote",
+      "lifespan": "Not further described in provided excerpt"
+    },
+    {
+      "name": "Ancient Puritan gentleman (ancestor of the Brookes)",
+      "age": "historical ancestor",
+      "personality": "served under Cromwell, later conformed",
+      "lifespan": "Survived political troubles and became proprietor, as described in excerpt"
+    },
+    {
+      "name": "Admiral / clergyman forefathers (unnamed)",
+      "age": "ancestors (historical)",
+      "personality": "referenced to indicate respectable lineage",
+      "lifespan": "Mentioned as part of family background; no further fate in excerpt"
+    },
+    {
+      "name": "Hooker (Richard Hooker, referenced)",
+      "age": "historical figure referenced",
+      "personality": "theologian example Dorothea admires",
+      "lifespan": "Historical figure referenced; not active in the story"
+    },
+    {
+      "name": "John Milton (referenced)",
+      "age": "historical figure referenced",
+      "personality": "example of a great man Dorothea would gladly endure in marriage",
+      "lifespan": "Historical figure referenced; not active in the story"
+    },
+    {
+      "name": "Pascal (referenced)",
+      "age": "historical figure referenced",
+      "personality": "author whose Pensees Dorothea knows",
+      "lifespan": "Historical figure referenced; not active in the story"
+    },
+    {
+      "name": "Jeremy Taylor (referenced)",
+      "age": "historical figure referenced",
+      "personality": "author known to Dorothea",
+      "lifespan": "Historical figure referenced; not active in the story"
+    },
+    {
+      "name": "Mr. Peel (referenced)",
+      "age": "historical/political figure referenced",
+      "personality": "used as contemporary political reference in local discussion",
+      "lifespan": "Referenced only; not a character in excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Ávila (Avila), Spain",
+      "latitude": 40.6565,
+      "longitude": -4.7006
+    },
+    {
+      "name": "Lausanne, Switzerland",
+      "latitude": 46.5197,
+      "longitude": 6.6323
+    },
+    {
+      "name": "Tipton (Tipton Grange / parish), England",
+      "latitude": 52.5278,
+      "longitude": -2.0636
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "martyrdom",
+      "definition": "the suffering of death or persecution for a cause or belief",
+      "context": "Used in the prelude and first chapters describing child-pilgrimage and Dorothea's tendency toward sacrificial zeal"
+    },
+    {
+      "word": "Avila",
+      "definition": "a Spanish city (Ávila), historically associated with Saint Theresa",
+      "context": "Named in the Prelude as the town from which the child Theresa and her brother set out"
+    },
+    {
+      "word": "fawns",
+      "definition": "young deer; used metaphorically for naive children",
+      "context": "Describes the little children as 'wide-eyed and helpless-looking as two fawns' in the prelude"
+    },
+    {
+      "word": "child-pilgrimage",
+      "definition": "a pilgrimage undertaken by children; hyphenated compound",
+      "context": "Describes Theresa’s early attempt to seek martyrdom"
+    },
+    {
+      "word": "uncles",
+      "definition": "male relatives who act as guardians",
+      "context": "The children were turned back by 'uncles' in the pilgrimage anecdote"
+    },
+    {
+      "word": "epos",
+      "definition": "an epic; a long heroic poem or grand scope of action",
+      "context": "The prelude says Theresa 'found her epos' in reforming a religious order"
+    },
+    {
+      "word": "many-volumed",
+      "definition": "consisting of many volumes; multi-volume",
+      "context": "Used to describe 'many-volumed romances of chivalry' in the prelude"
+    },
+    {
+      "word": "chivalry",
+      "definition": "the medieval knightly system or ideals of heroism and courtly behavior",
+      "context": "Mentioned among the romances that inspired Theresa's imagination"
+    },
+    {
+      "word": "illimitable",
+      "definition": "without limits; boundless",
+      "context": "Describes the 'illimitable satisfaction' Theresa sought"
+    },
+    {
+      "word": "rapturous",
+      "definition": "characterized by intense pleasure or joy",
+      "context": "Appears in phrase 'rapturous consciousness of life beyond self' in the prelude"
+    },
+    {
+      "word": "self-despair",
+      "definition": "intense despair about one's own nature or condition",
+      "context": "Used in the prelude describing an inner conflict reconciled by grand purpose"
+    },
+    {
+      "word": "sacred",
+      "definition": "regarded with reverence; holy",
+      "context": "Applied to the poet who would celebrate Theresa's passion"
+    },
+    {
+      "word": "dim",
+      "definition": "faint or obscure",
+      "context": "Describes 'dim lights and tangled circumstance' that obscure later Theresas"
+    },
+    {
+      "word": "tangled",
+      "definition": "involved in complications; confused",
+      "context": "Used as 'tangled circumstance' in the prelude"
+    },
+    {
+      "word": "ardently",
+      "definition": "with intense devotion or enthusiasm",
+      "context": "Describes how later characters 'ardently' desire to shape thought and deed"
+    },
+    {
+      "word": "coherent",
+      "definition": "logical and consistent; forming a unified whole",
+      "context": "Refers to a 'coherent social faith' lacking for ardent souls"
+    },
+    {
+      "word": "ardor",
+      "definition": "enthusiasm or passion",
+      "context": "Used to describe the fervent feeling in later Theresas"
+    },
+    {
+      "word": "yearning",
+      "definition": "a deep, often melancholy longing",
+      "context": "Describes the 'common yearning of womanhood' contrasted with ideals"
+    },
+    {
+      "word": "extravagance",
+      "definition": "excessive or unreasonable behavior or spending",
+      "context": "Used to show how feminine ardor may be condemned as 'extravagance'"
+    },
+    {
+      "word": "blundering",
+      "definition": "making clumsy or stupid mistakes",
+      "context": "Refers to lives that appear to others as 'mere inconsistency and formlessness'"
+    },
+    {
+      "word": "inconvenient",
+      "definition": "causing trouble or difficulty",
+      "context": "Describes the 'inconvenient indefiniteness' of women's natures"
+    },
+    {
+      "word": "indefiniteness",
+      "definition": "lack of clear limits, detail, or definition",
+      "context": "Applied to the feminine nature's variability in the prelude"
+    },
+    {
+      "word": "Supreme",
+      "definition": "highest in rank or authority; often capitalized for deity",
+      "context": "Used in 'Supreme Power' when discussing creation of natures"
+    },
+    {
+      "word": "certitude",
+      "definition": "absolute certainty or conviction",
+      "context": "Used in the assertion that social lot might be treated with 'scientific certitude'"
+    },
+    {
+      "word": "coiffure",
+      "definition": "a hairstyle; hair arrangement",
+      "context": "Mentioned to contrast sameness of women's outward appearance"
+    },
+    {
+      "word": "cygnet",
+      "definition": "a young swan",
+      "context": "Metaphorically used: 'Here and there a cygnet is reared uneasily among the ducklings'"
+    },
+    {
+      "word": "oary-footed",
+      "definition": "having feet like oars; an archaic metaphor for a different kind of creature",
+      "context": "Describes the 'oary-footed kind' with which a cygnet does not find fellowship"
+    },
+    {
+      "word": "foundress",
+      "definition": "a female founder of an institution or order",
+      "context": "Used of later-born Theresas who may be 'foundress of nothing'"
+    },
+    {
+      "word": "hindrances",
+      "definition": "obstacles that impede progress",
+      "context": "Describes how loving heart-beats are 'dispersed among hindrances'"
+    },
+    {
+      "word": "Theresa",
+      "definition": "proper name (Saint Theresa) used as an archetype",
+      "context": "Central example in the prelude of a passionate, ideal nature"
+    },
+    {
+      "word": "Pensees",
+      "definition": "the title of Pascal's collected thoughts (French: Pensées)",
+      "context": "Dorothea knows passages of 'Pascal’s Pensees' by heart"
+    },
+    {
+      "word": "Pascal",
+      "definition": "Blaise Pascal, French philosopher and author of the Pensees",
+      "context": "Referenced as an author whose works Dorothea has memorized"
+    },
+    {
+      "word": "Taylor",
+      "definition": "Jeremy Taylor, a religious writer",
+      "context": "Dorothea knows passages of 'Jeremy Taylor' by heart"
+    },
+    {
+      "word": "impressiveness",
+      "definition": "the quality of making a strong impression; dignity",
+      "context": "Describes Miss Brooke's appearance 'impressiveness' enhanced by plain dress"
+    },
+    {
+      "word": "frippery",
+      "definition": "showy or unnecessary ornamentation in dress",
+      "context": "Used to describe feminine fashion that Miss Brooke scorns"
+    },
+    {
+      "word": "huckster’s",
+      "definition": "belonging to a small-scale petty trader; of a hawker",
+      "context": "Phrase 'frippery as the ambition of a huckster’s daughter' criticizes ostentation"
+    },
+    {
+      "word": "drapery",
+      "definition": "cloths or garments; ornamental folds of fabric",
+      "context": "Used when criticizing 'artificial protrusions of drapery' in fashion"
+    },
+    {
+      "word": "promiscuous",
+      "definition": "mixed or varied without order; here meaning varied education",
+      "context": "Describes the sisters' education as 'narrow and promiscuous' (varied in type)"
+    },
+    {
+      "word": "acquiescent",
+      "definition": "willing to accept or passively consent",
+      "context": "Describes the uncle's temper as 'acquiescent'"
+    },
+    {
+      "word": "rambling",
+      "definition": "talking or moving in an aimless, digressive way",
+      "context": "Mr. Brooke is said to have 'contracted a too rambling habit of mind'"
+    },
+    {
+      "word": "glutinously",
+      "definition": "in a sticky or glue-like manner; used metaphorically for clinging vagueness",
+      "context": "Phrase 'most glutinously indefinite minds' appears describing mental vagueness"
+    },
+    {
+      "word": "snuff-box",
+      "definition": "a small box holding snuff (powdered tobacco)",
+      "context": "Mr. Brooke is watchful about retaining his 'snuff-box' despite laxity elsewhere"
+    },
+    {
+      "word": "abeyance",
+      "definition": "a state of temporary disuse or suspension",
+      "context": "Puritan energy in Mr. Brooke is described as 'in abeyance' while glowing in Dorothea"
+    },
+    {
+      "word": "clergyman",
+      "definition": "a Christian religious leader or minister",
+      "context": "Used to indicate the family's respectable forefathers included 'a clergyman'"
+    },
+    {
+      "word": "Puritan",
+      "definition": "a member of a 16th–17th-century Protestant reform movement; here used historically",
+      "context": "An ancestor is described as a 'Puritan gentleman' who served under Cromwell"
+    },
+    {
+      "word": "marriageable",
+      "definition": "suitable in age or status for marriage",
+      "context": "Dorothea is called a 'marriageable girl' with prospects"
+    },
+    {
+      "word": "piety",
+      "definition": "devotion to religious duties and practices",
+      "context": "Dorothea's plain dress is linked to her religious 'piety'"
+    },
+    {
+      "word": "retractations",
+      "definition": "acts of taking back statements or recanting",
+      "context": "Says Dorothea is likely to 'make retractations' and yet incur martyrdom"
+    },
+    {
+      "word": "Apostles",
+      "definition": "early followers of Christ; used as a temporal reference",
+      "context": "Dorothea prays 'as if she thought herself living in the time of the Apostles'"
+    },
+    {
+      "word": "Papist",
+      "definition": "a (often derogatory) term for a Roman Catholic",
+      "context": "Dorothea's fasting whims are likened to 'a Papist'"
+    },
+    {
+      "word": "parish",
+      "definition": "a local church district or community",
+      "context": "Dorothea wants some lofty conception that might include 'the parish of Tipton'"
+    },
+    {
+      "word": "Tipton",
+      "definition": "place name used for the parish and Grange in the novel",
+      "context": "The 'parish of Tipton' and 'Tipton Grange' are central local settings"
+    },
+    {
+      "word": "Loamshire",
+      "definition": "a fictional county name in the novel",
+      "context": "The northeastern corner of 'Loamshire' is mentioned as the local social circuit"
+    },
+    {
+      "word": "Grange",
+      "definition": "a country house or farm estate",
+      "context": "The sisters live at 'Tipton Grange' with their uncle"
+    },
+    {
+      "word": "Sir",
+      "definition": "a title for a knight or baronet",
+      "context": "Appears in 'Sir James Chettam' describing a local baronet"
+    },
+    {
+      "word": "baronet",
+      "definition": "a hereditary title in British nobility below baron",
+      "context": "Sir James Chettam is referred to as a baronet and possible suitor"
+    },
+    {
+      "word": "Hooker",
+      "definition": "Richard Hooker, Anglican theologian referenced",
+      "context": "Dorothea imagines she would have accepted the 'judicious Hooker' as husband"
+    },
+    {
+      "word": "Milton",
+      "definition": "John Milton, the poet referenced by Dorothea",
+      "context": "Dorothea says she would accept 'John Milton when his blindness had come on'"
+    },
+    {
+      "word": "Hebrew",
+      "definition": "the ancient Semitic language; here used as an example of scholarly study",
+      "context": "Dorothea imagines a delightful marriage where a husband could teach her 'even Hebrew'"
+    },
+    {
+      "word": "matrimony",
+      "definition": "the state of being married",
+      "context": "Discussed in Dorothea's naive ideas about marriage and who she would marry"
+    },
+    {
+      "word": "Dorothea",
+      "definition": "proper name of Miss Brooke",
+      "context": "Primary heroine introduced in Book I"
+    },
+    {
+      "word": "Celia",
+      "definition": "proper name of Dorothea's sister",
+      "context": "Celia is described as more common-sense and amiable"
+    },
+    {
+      "word": "Brooke",
+      "definition": "family surname (Mr. Brooke, Miss Brooke)",
+      "context": "Used for the uncle and the sisters' family identity"
+    },
+    {
+      "word": "uncle",
+      "definition": "a male guardian relative",
+      "context": "Their bachelor uncle and guardian is the head of the household"
+    },
+    {
+      "word": "benevolent",
+      "definition": "well-meaning and kindly",
+      "context": "Mr. Brooke is said to act with 'benevolent intentions'"
+    },
+    {
+      "word": "estate",
+      "definition": "landed property or assets producing income",
+      "context": "Mr. Brooke's estate is discussed as part of family fortune"
+    },
+    {
+      "word": "rental",
+      "definition": "income from rented property; annual yield",
+      "context": "Mr. Brooke's estate is described as 'worth about three thousand a-year—a rental...'"
+    },
+    {
+      "word": "plutocracy",
+      "definition": "government or society ruled by the wealthy",
+      "context": "Used to contrast provincial wealth with later gilded plutocracy"
+    },
+    {
+      "word": "genteel",
+      "definition": "refined, polite, or respectable in manner",
+      "context": "Describes the standards of 'genteel life' in the county"
+    },
+    {
+      "word": "coquetry",
+      "definition": "flirtatious behavior or adornment",
+      "context": "Celia's dress had 'a shade of coquetry' compared with Dorothea's plainness"
+    },
+    {
+      "word": "trimmings",
+      "definition": "decorative additions to clothing",
+      "context": "Used to describe small differences in the sisters' dress"
+    },
+    {
+      "word": "gimp",
+      "definition": "a narrow ornamental trim or braid used in clothing",
+      "context": "Mentioned among 'gimp and artificial protrusions of drapery' that Dorothea scorns"
+    },
+    {
+      "word": "protrusions",
+      "definition": "things that stick out from a surface",
+      "context": "Describes artificial protrusions in fashionable dress"
+    },
+    {
+      "word": "indulgence",
+      "definition": "a pleasure or luxury enjoyed despite qualms",
+      "context": "Riding is called an 'indulgence' Dorothea allows herself"
+    },
+    {
+      "word": "pagan",
+      "definition": "relating to non-Christian or pre-Christian beliefs; here meaning sensuous",
+      "context": "Dorothea admits she enjoys riding 'in a pagan sensuous way'"
+    },
+    {
+      "word": "sensuous",
+      "definition": "relating to sensory pleasure",
+      "context": "Describes Dorothea's enjoyment of riding"
+    },
+    {
+      "word": "renouncing",
+      "definition": "formally giving up or abandoning",
+      "context": "Dorothea looks forward to 'renouncing' riding and other pleasures"
+    },
+    {
+      "word": "amiable",
+      "definition": "pleasant and friendly",
+      "context": "Used of Celia as 'amiable and innocent-looking'"
+    },
+    {
+      "word": "venerating",
+      "definition": "regarding with great respect or reverence",
+      "context": "Dorothea feels 'venerating expectation' about Casaubon"
+    },
+    {
+      "word": "lustre",
+      "definition": "brightness or glory; here British spelling of 'luster'",
+      "context": "Casaubon is described as a man 'of wealth enough to give lustre to his piety'"
+    },
+    {
+      "word": "Reverend",
+      "definition": "a title for ordained clergy",
+      "context": "Casaubon is introduced as 'the Reverend Edward Casaubon'"
+    },
+    {
+      "word": "Casaubon",
+      "definition": "proper name of the learned clergyman",
+      "context": "A noted man of profound learning mentioned as visiting the Grange"
+    },
+    {
+      "word": "profound",
+      "definition": "very great or intense; deep in knowledge",
+      "context": "Casaubon is described as a man 'of profound learning'"
+    },
+    {
+      "word": "learning",
+      "definition": "acquired knowledge or scholarship",
+      "context": "Casaubon's scholarly reputation is emphasized"
+    },
+    {
+      "word": "suitor",
+      "definition": "a man who courts a woman with intent to marry",
+      "context": "Sir James is treated as a possible 'suitor' for one of the sisters"
+    },
+    {
+      "word": "insistence",
+      "definition": "a demand or firm assertion",
+      "context": "Dorothea's 'insistence on regulating life' is noted as obstructive to typical matches"
+    },
+    {
+      "word": "Bedlam",
+      "definition": "an asylum for the mentally ill; used metaphorically for chaos",
+      "context": "Dorothea's preoccupation with fashion is called an occupation for 'Bedlam'"
+    },
+    {
+      "word": "theoretic",
+      "definition": "pertaining to theory rather than practice",
+      "context": "Dorothea's mind is described as 'theoretic' and yearning for lofty conceptions"
+    },
+    {
+      "word": "solicitudes",
+      "definition": "anxieties or concerns",
+      "context": "The 'solicitudes of feminine fashion' are dismissed by Dorothea"
+    },
+    {
+      "word": "stature",
+      "definition": "height or social/mental standing",
+      "context": "Used to describe Miss Brooke's physical 'stature and bearing'"
+    },
+    {
+      "word": "inwardly",
+      "definition": "in one's mind or heart; privately",
+      "context": "Dorothea 'inwardly' debates Sir James' suitability for Celia"
+    },
+    {
+      "word": "judicious",
+      "definition": "having, showing, or done with good judgment",
+      "context": "Dorothea imagines a marriage to 'the judicious Hooker' as ideal"
+    },
+    {
+      "word": "wretched",
+      "definition": "deeply unhappy or unfortunate; pitiable",
+      "context": "Dorothea imagines saving Hooker 'from that wretched mistake he made in matrimony'"
+    },
+    {
+      "word": "fellowship",
+      "definition": "companionship or partnership",
+      "context": "Dorothea's cautious view of matrimonial 'fellowship' is noted"
+    },
+    {
+      "word": "lunatics",
+      "definition": "insane persons (archaic term)",
+      "context": "The text notes 'if any lunatics were at large, one might know and avoid them'"
+    },
+    {
+      "word": "conquests",
+      "definition": "achievements by overcoming obstacles; here social gains",
+      "context": "Listed among 'the social conquests of a brilliant girl' in the prelude"
+    },
+    {
+      "word": "Rector",
+      "definition": "a clergyman in charge of a parish",
+      "context": "Mrs. Cadwallader is identified as 'the Rector’s wife' in local society"
+    },
+    {
+      "word": "homage",
+      "definition": "public honor or respect",
+      "context": "Dorothea 'did not at all dislike her new authority, with the homage that belonged to it'"
+    },
+    {
+      "word": "horseback",
+      "definition": "on a horse; riding",
+      "context": "Many men thought Dorothea 'bewitching when she was on horseback'"
+    },
+    {
+      "word": "Tipton Grange",
+      "definition": "the family country house/estate where the sisters live",
+      "context": "The sisters have recently come to live at 'Tipton Grange' with their uncle"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/145"
+}
