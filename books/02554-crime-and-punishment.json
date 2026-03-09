@@ -1,0 +1,586 @@
+{
+  "gutenberg_id": 2554,
+  "title": "Crime and Punishment",
+  "author": "Dostoyevsky, Fyodor",
+  "summary": "Rodion Raskolnikov, a proud but impoverished ex-student in St. Petersburg, wanders feverishly through squalid streets, tormented by isolation, hypochondria, and daring fantasies. Crushed by debt and conscience, he broods, rehearsing a rash exploit and fretting over trivial details that might betray him. He avoids his landlady, notes the city’s filth and stench, and obsesses about conspicuous rags and a ruined hat. Driven to a nervous blankness, he makes his way to the pawnbroker’s tenement for a tentative reconnaissance. There he meets a wary, withered old woman who admits him into a dim room lit by the setting sun silently waiting.",
+  "characters": [
+    {
+      "name": "Raskolnikov",
+      "age": "early 20s (estimated)",
+      "personality": "introspective, proud, isolated, nervous, prone to grandiose fantasies",
+      "lifespan": "Present in the excerpt; planning a risky exploit; ultimate fate not revealed here"
+    },
+    {
+      "name": "Old woman (the pawnbroker)",
+      "age": "about 60 (described)",
+      "personality": "diminutive, withered, wary, malignant-eyed, officious",
+      "lifespan": "Present in the excerpt; admits Raskolnikov into her room; further fate not shown"
+    },
+    {
+      "name": "Landlady",
+      "age": "middle-aged (unspecified)",
+      "personality": "practical, nagging, exacting (provides garret, dinners, attendance)",
+      "lifespan": "Present as a figure Raskolnikov fears meeting; no further fate given"
+    },
+    {
+      "name": "German clerk (moving out)",
+      "age": "unspecified",
+      "personality": "briefly noted tenant leaving the fourth floor",
+      "lifespan": "Mentioned as vacating a flat; no further role in excerpt"
+    },
+    {
+      "name": "Drunken man",
+      "age": "unspecified",
+      "personality": "boorish, loud (shouts and points at Raskolnikov)",
+      "lifespan": "Appears briefly in the street insulting Raskolnikov; no further fate"
+    },
+    {
+      "name": "Porters",
+      "age": "various",
+      "personality": "busy, practical (engaged in moving furniture)",
+      "lifespan": "Present in the stairwell; no further role shown"
+    },
+    {
+      "name": "Door-keepers",
+      "age": "various",
+      "personality": "functional, unimposing (employed on the building)",
+      "lifespan": "Referenced as staff of the tenement; no fate detailed"
+    },
+    {
+      "name": "Tenement residents (tailors, locksmiths, cooks, petty clerks, girls)",
+      "age": "various",
+      "personality": "mixed working-class types forming the neighborhood milieu",
+      "lifespan": "Described as inhabitants; individual fates not provided in excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Saint Petersburg, Russia",
+      "latitude": 59.9343,
+      "longitude": 30.3351
+    },
+    {
+      "name": "Hay Market (Sennaya Square), St. Petersburg",
+      "latitude": 59.9268,
+      "longitude": 30.3608
+    },
+    {
+      "name": "Semyonovsky Square (historic, St. Petersburg)",
+      "latitude": 59.9398,
+      "longitude": 30.347
+    },
+    {
+      "name": "Siberia (region referenced in preface)",
+      "latitude": 60,
+      "longitude": 105
+    },
+    {
+      "name": "Moscow, Russia",
+      "latitude": 55.7558,
+      "longitude": 37.6173
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "garret",
+      "definition": "a top-floor or attic room, especially a small dismal one",
+      "context": "Raskolnikov leaves the garret in which he lodges"
+    },
+    {
+      "word": "S.",
+      "definition": "abbreviated place-name initial used in the text",
+      "context": "He lodged in S. Place (abbreviated place name)"
+    },
+    {
+      "word": "Place",
+      "definition": "term used as part of an abbreviated address in the book",
+      "context": "Reference: S. Place where the garret is located"
+    },
+    {
+      "word": "K.",
+      "definition": "abbreviated name initial of a bridge/place in the narrative",
+      "context": "He walked slowly towards K. bridge"
+    },
+    {
+      "word": "bridge",
+      "definition": "a structure carrying a pathway over an obstacle; here a named location",
+      "context": "He headed toward K. bridge"
+    },
+    {
+      "word": "landlady",
+      "definition": "a woman who rents lodgings or rooms",
+      "context": "The landlady who provided him with garret, dinners, and attendance"
+    },
+    {
+      "word": "cupboard",
+      "definition": "a small enclosed storage place; used to describe the garret's size",
+      "context": "His garret was more like a cupboard than a room"
+    },
+    {
+      "word": "attendance",
+      "definition": "in this context, the domestic services provided with lodging",
+      "context": "The landlady provided garret, dinners, and attendance"
+    },
+    {
+      "word": "hypochondria",
+      "definition": "excessive preoccupation with one's health; a nervous condition",
+      "context": "He was verging on hypochondria"
+    },
+    {
+      "word": "irritable",
+      "definition": "easily annoyed or provoked",
+      "context": "He had been in an overstrained irritable condition"
+    },
+    {
+      "word": "verging",
+      "definition": "approaching or close to a boundary or state",
+      "context": "verging on hypochondria"
+    },
+    {
+      "word": "axiom",
+      "definition": "a self-evident truth or widely accepted saying",
+      "context": "‘that’s an axiom’ he thought"
+    },
+    {
+      "word": "monologues",
+      "definition": "extended speeches or soliloquies by a single person",
+      "context": "He had been chattering in monologues"
+    },
+    {
+      "word": "Jack the Giant-killer",
+      "definition": "reference to the fairy-tale hero used as a mental image",
+      "context": "He thought ... of Jack the Giant-killer"
+    },
+    {
+      "word": "plaster",
+      "definition": "building material covering walls; used to evoke urban imagery",
+      "context": "The plaster, scaffolding, bricks, and dust all about him"
+    },
+    {
+      "word": "scaffolding",
+      "definition": "temporary structures used in building work",
+      "context": "The plaster, scaffolding, bricks, and dust all about him"
+    },
+    {
+      "word": "stench",
+      "definition": "a strong, unpleasant smell",
+      "context": "that special Petersburg stench"
+    },
+    {
+      "word": "pot-houses",
+      "definition": "small taverns or alehouses (archaic/colloquial term)",
+      "context": "The insufferable stench from the pot-houses"
+    },
+    {
+      "word": "waggon",
+      "definition": "an alternative spelling of 'wagon' (a cart or vehicle)",
+      "context": "a drunken man ... was being taken somewhere in a huge waggon"
+    },
+    {
+      "word": "dray",
+      "definition": "a low, strong cart for heavy loads, usually pulled by horses",
+      "context": "dragged by a heavy dray horse"
+    },
+    {
+      "word": "bawling",
+      "definition": "shouting or crying out loudly",
+      "context": "suddenly shouted at him ... bawling at the top of his voice"
+    },
+    {
+      "word": "hatter",
+      "definition": "one who makes or sells hats; used as an insult here",
+      "context": "‘Hey there, German hatter’ the drunken man bawled"
+    },
+    {
+      "word": "Zimmerman’s",
+      "definition": "a proper name (maker/brand) referenced for a hat",
+      "context": "It was a tall round hat from Zimmerman’s"
+    },
+    {
+      "word": "brimless",
+      "definition": "without a brim (edge of a hat)",
+      "context": "a tall round hat ... brimless and bent on one side"
+    },
+    {
+      "word": "bespattered",
+      "definition": "spattered over with spots or splashes (dirt, mud)",
+      "context": "rusty with age, all torn and bespattered"
+    },
+    {
+      "word": "conspicuous",
+      "definition": "easily seen or noticed; attracting attention",
+      "context": "one should be as little conspicuous as possible"
+    },
+    {
+      "word": "trifles",
+      "definition": "things of little importance; petty matters",
+      "context": "Trifles, trifles are what matter!"
+    },
+    {
+      "word": "prevaricate",
+      "definition": "to speak or act evasively; to lie or avoid truth",
+      "context": "to rack his brains for excuses, to prevaricate, to lie"
+    },
+    {
+      "word": "rehearsal",
+      "definition": "a practice or trial performance; here a tentative run-through",
+      "context": "he was positively going now for a ‘rehearsal’ of his project"
+    },
+    {
+      "word": "exploit",
+      "definition": "a daring or heroic act",
+      "context": "he had begun to look upon this ‘hideous’ dream as an exploit"
+    },
+    {
+      "word": "den",
+      "definition": "a lair or secluded room; used for a cramped living space",
+      "context": "lying for days together in my den thinking"
+    },
+    {
+      "word": "Hay Market",
+      "definition": "the marketplace (Hay Market) referenced in the quarter",
+      "context": "Owing to the proximity of the Hay Market"
+    },
+    {
+      "word": "Petersburg",
+      "definition": "short for St. Petersburg, the city setting",
+      "context": "types so various were to be seen in the streets of Petersburg"
+    },
+    {
+      "word": "canal",
+      "definition": "an artificial waterway; houses looked onto the canal",
+      "context": "This huge house on one side looked on to the canal"
+    },
+    {
+      "word": "courtyards",
+      "definition": "open spaces enclosed by buildings",
+      "context": "there was a continual coming and going through the two gates and in the two courtyards"
+    },
+    {
+      "word": "tenements",
+      "definition": "multi-occupancy urban dwellings, often small and crowded",
+      "context": "This house was let out in tiny tenements"
+    },
+    {
+      "word": "porters",
+      "definition": "people employed to carry luggage or move goods",
+      "context": "his progress was barred by some porters who were engaged in moving furniture"
+    },
+    {
+      "word": "clerk",
+      "definition": "an office worker; here a German clerk is moving out",
+      "context": "the flat had been occupied by a German clerk"
+    },
+    {
+      "word": "bell",
+      "definition": "a small device that rings, used as a door signal",
+      "context": "He rang the bell of the old woman’s flat. The bell gave a faint tinkle"
+    },
+    {
+      "word": "tinkle",
+      "definition": "a light ringing sound",
+      "context": "The bell gave a faint tinkle as though it were made of tin"
+    },
+    {
+      "word": "landing",
+      "definition": "the area at the top or bottom of a staircase",
+      "context": "seeing a number of people on the landing, she grew bolder"
+    },
+    {
+      "word": "entry",
+      "definition": "an entrance area or small vestibule",
+      "context": "He stepped into the dark entry"
+    },
+    {
+      "word": "partitioned",
+      "definition": "divided by a partition or barrier",
+      "context": "the dark entry, which was partitioned off from the tiny kitchen"
+    },
+    {
+      "word": "geraniums",
+      "definition": "a common garden plant with showy flowers",
+      "context": "The little room had geraniums and muslin curtains"
+    },
+    {
+      "word": "muslin",
+      "definition": "a lightweight cotton fabric used for curtains",
+      "context": "geraniums and muslin curtains in the windows"
+    },
+    {
+      "word": "setting",
+      "definition": "the act of setting; here used with 'sun' to describe light",
+      "context": "brightly lighted up at that moment by the setting sun"
+    },
+    {
+      "word": "sun",
+      "definition": "the star providing daylight; used for imagery",
+      "context": "brightly lighted up ... by the setting sun"
+    },
+    {
+      "word": "diminutive",
+      "definition": "very small in stature",
+      "context": "She was a diminutive, withered up old woman of sixty"
+    },
+    {
+      "word": "withered",
+      "definition": "shriveled or shrunken as if dried up",
+      "context": "a diminutive, withered up old woman of sixty"
+    },
+    {
+      "word": "malignant",
+      "definition": "having an evil or harmful disposition; spiteful",
+      "context": "sharp malignant eyes"
+    },
+    {
+      "word": "grizzled",
+      "definition": "having streaks of gray in the hair; graying",
+      "context": "somewhat grizzled hair"
+    },
+    {
+      "word": "kerchief",
+      "definition": "a square of cloth used as a head covering",
+      "context": "she wore no kerchief over it"
+    },
+    {
+      "word": "flannel",
+      "definition": "a soft woven fabric often used in clothing or rags",
+      "context": "Round her thin long neck ... was knotted some sort of flannel rag"
+    },
+    {
+      "word": "mangy",
+      "definition": "in poor condition; shabby or scabby (originally disease-related)",
+      "context": "there hung ... a mangy fur cape"
+    },
+    {
+      "word": "cape",
+      "definition": "a sleeveless outer garment draped over the shoulders",
+      "context": "a mangy fur cape, yellow with age"
+    },
+    {
+      "word": "coughed",
+      "definition": "past tense of cough; to expel air from the lungs noisily",
+      "context": "The old woman coughed and groaned at every instant"
+    },
+    {
+      "word": "groaned",
+      "definition": "uttered a low sound of pain or annoyance",
+      "context": "The old woman coughed and groaned at every instant"
+    },
+    {
+      "word": "hen’s",
+      "definition": "possessive form referring to a hen (used in a simile)",
+      "context": "her thin long neck, which looked like a hen’s leg"
+    },
+    {
+      "word": "colourless",
+      "definition": "lacking color; pale",
+      "context": "her colourless, somewhat grizzled hair"
+    },
+    {
+      "word": "penal",
+      "definition": "relating to punishment or penalties, often by law",
+      "context": "then followed four years of penal servitude"
+    },
+    {
+      "word": "servitude",
+      "definition": "the state of being subject to forced labor or slavery",
+      "context": "four years of penal servitude"
+    },
+    {
+      "word": "scaffold",
+      "definition": "a raised wooden platform used for executions historically",
+      "context": "taken out to the Semyonovsky Square to be shot ... brought back upon the scaffold"
+    },
+    {
+      "word": "commuted",
+      "definition": "reduced a legal penalty to a less severe one",
+      "context": "The sentence was commuted to hard labour"
+    },
+    {
+      "word": "hard",
+      "definition": "difficult or severe; used here as part of 'hard labour'",
+      "context": "commuted to hard labour"
+    },
+    {
+      "word": "labour",
+      "definition": "work, often forced work in penal contexts",
+      "context": "commuted to hard labour"
+    },
+    {
+      "word": "epilepsy",
+      "definition": "a neurological disorder characterized by seizures",
+      "context": "he suffered for the rest of his life from epilepsy"
+    },
+    {
+      "word": "disciplinary",
+      "definition": "relating to punishment and discipline",
+      "context": "he served in a disciplinary battalion"
+    },
+    {
+      "word": "battalion",
+      "definition": "a large military unit or group of soldiers",
+      "context": "some years of service in a disciplinary battalion"
+    },
+    {
+      "word": "forbidden",
+      "definition": "prohibited by authority; not allowed",
+      "context": "his journal ‘Vremya’, which was forbidden by the Censorship"
+    },
+    {
+      "word": "censorship",
+      "definition": "control of information or suppression by authorities",
+      "context": "forbidden by the Censorship"
+    },
+    {
+      "word": "Fourier",
+      "definition": "proper name (utopian socialist, referenced in preface)",
+      "context": "a little group ... met together to read Fourier and Proudhon"
+    },
+    {
+      "word": "Proudhon",
+      "definition": "proper name (political philosopher, referenced in preface)",
+      "context": "a little group ... met together to read Fourier and Proudhon"
+    },
+    {
+      "word": "accused",
+      "definition": "charged with an offense",
+      "context": "He was accused of 'taking part in conversations against the censorship'"
+    },
+    {
+      "word": "condemned",
+      "definition": "declared guilty and given punishment",
+      "context": "he was condemned to death"
+    },
+    {
+      "word": "execution",
+      "definition": "the carrying out of a death sentence",
+      "context": "taken out to the Semyonovsky Square to be shot"
+    },
+    {
+      "word": "arrested",
+      "definition": "taken into custody by authorities",
+      "context": "In 1849 he was arrested"
+    },
+    {
+      "word": "prisoners",
+      "definition": "people detained or confined",
+      "context": "one of the prisoners, Grigoryev, went mad"
+    },
+    {
+      "word": "Semyonovsky",
+      "definition": "proper name of a square (historic site in St. Petersburg)",
+      "context": "taken out to the Semyonovsky Square to be shot"
+    },
+    {
+      "word": "unbound",
+      "definition": "released from restraints; untied",
+      "context": "Thereupon we were bound in threes ... Suddenly the troops beat a tattoo, we were unbound"
+    },
+    {
+      "word": "acclamations",
+      "definition": "loud and enthusiastic approval or praise",
+      "context": "His first story ... was received with acclamations"
+    },
+    {
+      "word": "celebrity",
+      "definition": "a famous person; public recognition",
+      "context": "the shy, unknown youth found himself instantly something of a celebrity"
+    },
+    {
+      "word": "rack",
+      "definition": "to agonize or strain the mind",
+      "context": "to rack his brains for excuses"
+    },
+    {
+      "word": "tremulously",
+      "definition": "in a trembling manner",
+      "context": "he stopped suddenly and clutched tremulously at his hat"
+    },
+    {
+      "word": "overwrought",
+      "definition": "in an agitated, over-excited state",
+      "context": "his nerves were terribly overstrained by now"
+    },
+    {
+      "word": "scowl",
+      "definition": "an angry or sullen frown",
+      "context": "which made him scowl and feel ashamed"
+    },
+    {
+      "word": "fastidiousness",
+      "definition": "excessive attention to detail or cleanliness",
+      "context": "in spite of all the fastidiousness of youth"
+    },
+    {
+      "word": "preponderance",
+      "definition": "the predominance or majority of something",
+      "context": "the preponderance of the trading and working class population"
+    },
+    {
+      "word": "revolting",
+      "definition": "extremely unpleasant; disgusting",
+      "context": "completed the revolting misery of the picture"
+    },
+    {
+      "word": "misery",
+      "definition": "a state of great suffering and unhappiness",
+      "context": "completed the revolting misery of the picture"
+    },
+    {
+      "word": "refined",
+      "definition": "cultured or polished in manner or appearance",
+      "context": "an expression of the profoundest disgust gleamed in the young man’s refined face"
+    },
+    {
+      "word": "tangle",
+      "definition": "a confused or complicated state",
+      "context": "his ideas were sometimes in a tangle"
+    },
+    {
+      "word": "tremor",
+      "definition": "a small shake or trembling",
+      "context": "With a sinking heart and a nervous tremor"
+    },
+    {
+      "word": "cowardice",
+      "definition": "lack of bravery; timidity",
+      "context": "It’s because I chatter that I do nothing. Or perhaps it is that I chatter because I do nothing. I’ve learned to chatter this last month, lying for days together in my den thinking... Why am I going there now? Am I capable of _that_? ... that’s an axiom. It would be interesting to know what it is men are most afraid of. Taking a new step, uttering a new word is what they fear most...."
+    },
+    {
+      "word": "pestering",
+      "definition": "annoying or nagging persistently",
+      "context": "to pestering demands for payment"
+    },
+    {
+      "word": "haste",
+      "definition": "quickness of motion; urgency",
+      "context": "Raskolnikov made haste to mutter"
+    },
+    {
+      "word": "disconcerted",
+      "definition": "disturbed or unsettled; thrown into confusion",
+      "context": "a little disconcerted and surprised at the old woman’s mistrust"
+    },
+    {
+      "word": "mistrust",
+      "definition": "lack of trust or suspicion",
+      "context": "a gleam of mistrust came into her eyes"
+    },
+    {
+      "word": "inquiringly",
+      "definition": "in a questioning or curious manner",
+      "context": "the old woman eyed her visitor with evident distrust through the crack, and nothing could be seen but her little eyes, glittering in the darkness"
+    },
+    {
+      "word": "faint",
+      "definition": "weak or slight in strength or intensity",
+      "context": "The bell gave a faint tinkle"
+    },
+    {
+      "word": "sick",
+      "definition": "affected by illness or discomfort",
+      "context": "He had a sick, frightened feeling"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2554"
+}
