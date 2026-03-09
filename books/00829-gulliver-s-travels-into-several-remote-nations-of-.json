@@ -1,0 +1,687 @@
+{
+  "gutenberg_id": 829,
+  "title": "Gulliver's Travels into Several Remote Nations of the World",
+  "author": "Swift, Jonathan",
+  "summary": "Lemuel Gulliver, a surgeon and voyager, narrates travels prepared for publication by his cousin Sympson. After study at Emanuel and Leyden and service on ships including the Swallow and Antelope, he recounts voyages to strange lands. The publisher frames the papers; Gulliver’s letter protests editorial cuts, defends veracity, and complains that his satire did not reform English manners. He describes humanlike Yahoos and rational Houyhnhnms, political innuendo and domestic details: marriage to Mary Burton, masters Bates and Prichard, and retirement near Newark. The opening chapter begins Gulliver’s fourth sea voyage, ending with a shipwreck en route to the East Indies.",
+  "characters": [
+    {
+      "name": "Lemuel Gulliver",
+      "age": "middle-aged (estimated)",
+      "personality": "observant, earnest, candid narrator with satirical purpose",
+      "lifespan": "survives voyages; retired near Newark; keeps two degenerate Houyhnhnms in his stable (per letter)"
+    },
+    {
+      "name": "Richard Sympson",
+      "age": "adult",
+      "personality": "publisher/editorial intermediary, cautious",
+      "lifespan": "alive; holds custody of Gulliver's papers and published them"
+    },
+    {
+      "name": "Captain William Prichard",
+      "age": "adult",
+      "personality": "ship captain, master of the Antelope",
+      "lifespan": "commanded the Antelope on voyage from Bristol (May 4, 1699)"
+    },
+    {
+      "name": "Captain Abraham Pannel",
+      "age": "adult",
+      "personality": "ship captain, earlier employer of Gulliver",
+      "lifespan": "master of the Swallow during Gulliver's earlier service"
+    },
+    {
+      "name": "Mr. James Bates",
+      "age": "adult",
+      "personality": "eminent surgeon, mentor to Gulliver",
+      "lifespan": "died two years after Gulliver's marriage (stated in text)"
+    },
+    {
+      "name": "Mrs. Mary Burton",
+      "age": "adult",
+      "personality": "Gulliver's wife, dutiful",
+      "lifespan": "married Gulliver and provided a portion; alive at time of earlier events"
+    },
+    {
+      "name": "Mr. Edmund Burton",
+      "age": "adult",
+      "personality": "hosier, father-in-law to Gulliver",
+      "lifespan": "mentioned as guardian of family funds; fate not specified"
+    },
+    {
+      "name": "Uncle John",
+      "age": "adult",
+      "personality": "helpful relative",
+      "lifespan": "assisted Gulliver financially; further fate not given"
+    },
+    {
+      "name": "Cousin Dampier",
+      "age": "adult",
+      "personality": "traveller/editorial model (referenced)",
+      "lifespan": "referenced as example for arranging travel writings"
+    },
+    {
+      "name": "Queen Anne",
+      "age": "deceased (by narration)",
+      "personality": "revered in text ('most pious and glorious memory')",
+      "lifespan": "historical monarch referenced as deceased"
+    },
+    {
+      "name": "Lord of Godolphin",
+      "age": "adult",
+      "personality": "political minister referenced",
+      "lifespan": "mentioned as minister during Queen Anne's reign; fate not given"
+    },
+    {
+      "name": "Lord of Oxford",
+      "age": "adult",
+      "personality": "political minister referenced",
+      "lifespan": "mentioned as minister during Queen Anne's reign; fate not given"
+    },
+    {
+      "name": "The Houyhnhnms",
+      "age": "various",
+      "personality": "rational, virtuous, horse-like race",
+      "lifespan": "inhabit Houyhnhnmland; central to Gulliver's later reflections"
+    },
+    {
+      "name": "The Yahoos",
+      "age": "various",
+      "personality": "brutish, uncivilized humans used satirically",
+      "lifespan": "present in Gulliver's accounts and used as a foil to Houyhnhnms"
+    },
+    {
+      "name": "Two degenerate Houyhnhnms",
+      "age": "adult (animals)",
+      "personality": "less perfect examples of their kind, instructive",
+      "lifespan": "kept by Gulliver in his stable; source of some comfort"
+    },
+    {
+      "name": "Gulliver's father",
+      "age": "adult (at time of Gulliver's youth)",
+      "personality": "landed small estate owner in Nottinghamshire",
+      "lifespan": "supported Gulliver's early education; further fate unspecified"
+    },
+    {
+      "name": "Gulliver's four brothers",
+      "age": "various (younger/older brothers)",
+      "personality": "family members (not individually detailed)",
+      "lifespan": "mentioned only as siblings; no further fate given"
+    },
+    {
+      "name": "The printer",
+      "age": "adult",
+      "personality": "careless (said to have confounded times and dates)",
+      "lifespan": "responsible for errors in publication according to Gulliver"
+    },
+    {
+      "name": "The carrier",
+      "age": "adult",
+      "personality": "courier (mentioned in correspondence)",
+      "lifespan": "used to send libels and pamphlets weekly (referenced only)"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Nottinghamshire, England",
+      "latitude": 52.9548,
+      "longitude": -1.1581
+    },
+    {
+      "name": "Newark (Newark-on-Trent), Nottinghamshire, England",
+      "latitude": 53.0827,
+      "longitude": -0.7995
+    },
+    {
+      "name": "Banbury, Oxfordshire, England",
+      "latitude": 52.0629,
+      "longitude": -1.3398
+    },
+    {
+      "name": "Emanuel College (Cambridge), England",
+      "latitude": 52.2053,
+      "longitude": 0.1182
+    },
+    {
+      "name": "Leyden (Leiden), Netherlands",
+      "latitude": 52.1601,
+      "longitude": 4.497
+    },
+    {
+      "name": "Old Jewry (City of London), England",
+      "latitude": 51.5146,
+      "longitude": -0.085
+    },
+    {
+      "name": "Newgate Street (London), England",
+      "latitude": 51.5154,
+      "longitude": -0.1032
+    },
+    {
+      "name": "Wapping (London), England",
+      "latitude": 51.5082,
+      "longitude": -0.0637
+    },
+    {
+      "name": "Bristol, England",
+      "latitude": 51.4545,
+      "longitude": -2.5879
+    },
+    {
+      "name": "Levant (representative central point, Eastern Mediterranean)",
+      "latitude": 34,
+      "longitude": 35
+    },
+    {
+      "name": "East Indies (representative point, maritime SE Asia)",
+      "latitude": 0,
+      "longitude": 110
+    },
+    {
+      "name": "South Sea (historical South Pacific, representative point)",
+      "latitude": 0,
+      "longitude": -160
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Houyhnhnm",
+      "definition": "fictional rational horse-like species",
+      "context": "named as Gulliver's master-species in his letter and travels"
+    },
+    {
+      "word": "Yahoo",
+      "definition": "fictional brutish human-like creature",
+      "context": "used repeatedly as a satirical term for bestial humans"
+    },
+    {
+      "word": "Yahoos",
+      "definition": "plural of Yahoo; brutish people",
+      "context": "Gulliver complains that Yahoos govern the herd in his letter"
+    },
+    {
+      "word": "Houyhnhnmland",
+      "definition": "land of the Houyhnhnms (fictional)",
+      "context": "mentioned as the country where Houyhnhnms live"
+    },
+    {
+      "word": "Lilliput",
+      "definition": "fictional island of tiny people",
+      "context": "title of Part I: voyage to Lilliput"
+    },
+    {
+      "word": "Brobdingrag",
+      "definition": "alternate spelling of Brobdingnag (fictional)",
+      "context": "Gulliver notes correct spelling should be Brobdingrag"
+    },
+    {
+      "word": "Brobdingnag",
+      "definition": "fictional land of giants",
+      "context": "listed among Gulliver's voyages"
+    },
+    {
+      "word": "Laputa",
+      "definition": "fictional flying island",
+      "context": "named in contents as a voyage destination"
+    },
+    {
+      "word": "Balnibarbi",
+      "definition": "fictional territory associated with Laputa",
+      "context": "listed in contents as visited by Gulliver"
+    },
+    {
+      "word": "Glubbdubdrib",
+      "definition": "fictional island of necromancers",
+      "context": "appears in the table of contents"
+    },
+    {
+      "word": "Luggnagg",
+      "definition": "fictional island name",
+      "context": "named among voyage destinations in the contents"
+    },
+    {
+      "word": "Redriff",
+      "definition": "historic place name (Rotherhithe), London district",
+      "context": "Gulliver lived in Redriff before retiring near Newark"
+    },
+    {
+      "word": "Newark",
+      "definition": "town in Nottinghamshire, England",
+      "context": "Gulliver purchased land and retired near Newark"
+    },
+    {
+      "word": "Nottinghamshire",
+      "definition": "English county",
+      "context": "Gulliver's father's small estate lay in Nottinghamshire"
+    },
+    {
+      "word": "Banbury",
+      "definition": "town in Oxfordshire, England",
+      "context": "monuments of the Gullivers observed in Banbury churchyard"
+    },
+    {
+      "word": "Emanuel",
+      "definition": "Emanuel College, Cambridge",
+      "context": "Gulliver entered Emanuel College at fourteen"
+    },
+    {
+      "word": "Cambridge",
+      "definition": "university town in England",
+      "context": "site of Emanuel College where Gulliver studied"
+    },
+    {
+      "word": "Leyden",
+      "definition": "Leiden, Dutch university town",
+      "context": "Gulliver studied physic at Leyden"
+    },
+    {
+      "word": "Swallow",
+      "definition": "name of a ship",
+      "context": "Gulliver was surgeon to the Swallow under Captain Pannel"
+    },
+    {
+      "word": "Antelope",
+      "definition": "name of a ship",
+      "context": "Gulliver sailed as surgeon on the Antelope under Prichard"
+    },
+    {
+      "word": "Abraham",
+      "definition": "personal name",
+      "context": "Captain Abraham Pannel named as commander of the Swallow"
+    },
+    {
+      "word": "Pannel",
+      "definition": "surname (Captain Pannel)",
+      "context": "appears as Captain Abraham Pannel of the Swallow"
+    },
+    {
+      "word": "Prichard",
+      "definition": "surname (Captain Prichard)",
+      "context": "Captain William Prichard commanded the Antelope"
+    },
+    {
+      "word": "Bates",
+      "definition": "surname (Mr. Bates, surgeon)",
+      "context": "Mr. James Bates was Gulliver's master and mentor"
+    },
+    {
+      "word": "Mary",
+      "definition": "personal name",
+      "context": "Mrs. Mary Burton married Gulliver"
+    },
+    {
+      "word": "Burton",
+      "definition": "surname (family of Gulliver's wife)",
+      "context": "Mrs. Mary Burton daughter of Mr. Edmund Burton"
+    },
+    {
+      "word": "Edmund",
+      "definition": "personal name",
+      "context": "Mr. Edmund Burton, hosier and Mary Burton's father"
+    },
+    {
+      "word": "Old Jewry",
+      "definition": "street/district in the City of London",
+      "context": "Gulliver took part of a small house in the Old Jewry"
+    },
+    {
+      "word": "Newgate-street",
+      "definition": "street in London",
+      "context": "Mr. Edmund Burton's hosier business was in Newgate-street"
+    },
+    {
+      "word": "Wapping",
+      "definition": "district in London by the Thames",
+      "context": "Gulliver moved to Wapping hoping for sailor clients"
+    },
+    {
+      "word": "Bristol",
+      "definition": "port city in England",
+      "context": "voyage to South Sea set sail from Bristol (May 4, 1699)"
+    },
+    {
+      "word": "Levant",
+      "definition": "Eastern Mediterranean region",
+      "context": "Gulliver made voyages into the Levant"
+    },
+    {
+      "word": "East Indies",
+      "definition": "maritime Southeast Asia region (historical)",
+      "context": "Gulliver mentions passage from thence to the East Indies"
+    },
+    {
+      "word": "South Sea",
+      "definition": "historical term for South Pacific or southern seas",
+      "context": "the Antelope voyage was to the South Sea"
+    },
+    {
+      "word": "Sympson",
+      "definition": "surname (publisher Richard Sympson)",
+      "context": "publisher to the reader and Gulliver's cousin Sympson"
+    },
+    {
+      "word": "Dampier",
+      "definition": "surname (cousin Dampier referenced)",
+      "context": "cousin Dampier cited as an example in arranging travels"
+    },
+    {
+      "word": "Godolphin",
+      "definition": "surname/title of a minister",
+      "context": "lord of Godolphin referenced as a chief minister"
+    },
+    {
+      "word": "Oxford",
+      "definition": "title/name of a lord/minister",
+      "context": "lord of Oxford referenced as minister in Queen Anne's reign"
+    },
+    {
+      "word": "innuendo",
+      "definition": "suggestive insinuation",
+      "context": "publisher afraid of printing anything resembling an innuendo"
+    },
+    {
+      "word": "interpolator",
+      "definition": "one who inserts material into a text",
+      "context": "Gulliver accuses Sympson or an interpolator of changes"
+    },
+    {
+      "word": "veracity",
+      "definition": "truthfulness",
+      "context": "Gulliver praised for veracity; proverb among neighbours"
+    },
+    {
+      "word": "circumstantial",
+      "definition": "full of incidental detail",
+      "context": "publisher criticizes author as a little too circumstantial"
+    },
+    {
+      "word": "perused",
+      "definition": "read carefully",
+      "context": "the publisher says he has perused the papers three times"
+    },
+    {
+      "word": "concourse",
+      "definition": "gathering or crowd",
+      "context": "Gulliver grew weary of the concourse of curious people"
+    },
+    {
+      "word": "proverb",
+      "definition": "common saying",
+      "context": "Gulliver's veracity had become a proverb among his neighbours"
+    },
+    {
+      "word": "academy",
+      "definition": "institution of learning or projects",
+      "context": "Gulliver mentions the academy of projectors"
+    },
+    {
+      "word": "projectors",
+      "definition": "schemers or inventors of schemes (18th-century)",
+      "context": "the academy of projectors is referenced in the letter"
+    },
+    {
+      "word": "Smithfield",
+      "definition": "area in London famous for markets and public spectacles",
+      "context": "imagery: 'Smithfield blazing with pyramids of law books'"
+    },
+    {
+      "word": "pyramids",
+      "definition": "stacked heaps (figurative)",
+      "context": "used metaphorically of stacks of law books in Smithfield"
+    },
+    {
+      "word": "levees",
+      "definition": "formal assemblies or receptions (royal)",
+      "context": "Gulliver imagines levees of great ministers thoroughly swept"
+    },
+    {
+      "word": "pleaders",
+      "definition": "lawyers who plead cases",
+      "context": "Gulliver imagines pleaders honest and modest"
+    },
+    {
+      "word": "physicians",
+      "definition": "medical doctors (term 'physic' used elsewhere)",
+      "context": "Gulliver imagines physicians banished in his satirical reforms"
+    },
+    {
+      "word": "female",
+      "definition": "women or feminine",
+      "context": "reference to 'female Yahoos abounding in virtue' in satirical list"
+    },
+    {
+      "word": "cotton",
+      "definition": "material (here used satirically as diet)",
+      "context": "satirical punishment: 'eat nothing but their own cotton'"
+    },
+    {
+      "word": "ink",
+      "definition": "writing fluid",
+      "context": "satirical punishment: 'quench their thirst with their own ink'"
+    },
+    {
+      "word": "neighing",
+      "definition": "sound made by horses",
+      "context": "Gulliver prefers the neighing of his Houyhnhnms to human praise"
+    },
+    {
+      "word": "stable",
+      "definition": "building for housing horses",
+      "context": "Gulliver keeps two degenerate Houyhnhnms in his stable"
+    },
+    {
+      "word": "degenerate",
+      "definition": "declined from former standard",
+      "context": "applies to two Houyhnhnms kept by Gulliver"
+    },
+    {
+      "word": "carrier",
+      "definition": "courier who delivers letters and parcels",
+      "context": "Gulliver complains his carrier brings libels weekly"
+    },
+    {
+      "word": "libels",
+      "definition": "defamatory publications",
+      "context": "carrier brings 'libels, and keys, and reflections, and memoirs'"
+    },
+    {
+      "word": "keys",
+      "definition": "decoding guides or explanatory keys (to satirical works)",
+      "context": "listed among pamphlets and slanders carried about"
+    },
+    {
+      "word": "reflections",
+      "definition": "critical remarks or essays",
+      "context": "appears in list of writings attacking Gulliver's book"
+    },
+    {
+      "word": "memoirs",
+      "definition": "personal accounts or histories",
+      "context": "listed among publications appearing about Gulliver's travels"
+    },
+    {
+      "word": "second parts",
+      "definition": "sequels or follow-up pamphlets",
+      "context": "Gulliver complains of 'second parts' being published"
+    },
+    {
+      "word": "confound",
+      "definition": "to confuse or mix up",
+      "context": "Gulliver accuses the printer of confounding times and dates"
+    },
+    {
+      "word": "longitudes",
+      "definition": "geographic coordinate east/west",
+      "context": "publisher omitted passages on variations and longitudes"
+    },
+    {
+      "word": "latitudes",
+      "definition": "geographic coordinate north/south",
+      "context": "publisher omitted detailed latitudes from manuscript"
+    },
+    {
+      "word": "sea-language",
+      "definition": "maritime jargon or sailors' dialect",
+      "context": "Gulliver defends his sea-language as learned from old mariners"
+    },
+    {
+      "word": "mariners",
+      "definition": "seamen or sailors",
+      "context": "Gulliver learned sea-language from the oldest mariners"
+    },
+    {
+      "word": "dialect",
+      "definition": "regional variety of language",
+      "context": "Gulliver notes sea and land dialects differ and change"
+    },
+    {
+      "word": "shipwrecked",
+      "definition": "suffered the destruction of a ship at sea",
+      "context": "chapter summary says Gulliver is shipwrecked and swims for his life"
+    },
+    {
+      "word": "swims",
+      "definition": "to move through water",
+      "context": "Gulliver 'swims for his life' after shipwreck"
+    },
+    {
+      "word": "apprentice",
+      "definition": "person bound to a master to learn a trade",
+      "context": "Gulliver was bound apprentice to Mr. James Bates"
+    },
+    {
+      "word": "surgeon",
+      "definition": "medical practitioner and ship's surgeon",
+      "context": "Gulliver served as surgeon on several ships"
+    },
+    {
+      "word": "navigation",
+      "definition": "art or science of directing a ship's course",
+      "context": "Gulliver studied navigation as useful for travel"
+    },
+    {
+      "word": "mathematics",
+      "definition": "study of numbers and quantities",
+      "context": "Gulliver learned mathematics useful to travellers"
+    },
+    {
+      "word": "physic",
+      "definition": "older term for medicine",
+      "context": "Gulliver studied physic at Leyden"
+    },
+    {
+      "word": "voyage",
+      "definition": "journey by sea",
+      "context": "Gulliver undertook several voyages mentioned in the narrative"
+    },
+    {
+      "word": "portion",
+      "definition": "dowry or sum of money given at marriage",
+      "context": "Gulliver received four hundred pounds as a portion on marriage"
+    },
+    {
+      "word": "hosier",
+      "definition": "seller/manufacturer of stockings and hosiery",
+      "context": "Mr. Edmund Burton is described as a hosier in Newgate-street"
+    },
+    {
+      "word": "Fetter Lane",
+      "definition": "street in London",
+      "context": "Gulliver moved from the Old Jewry to Fetter Lane"
+    },
+    {
+      "word": "May 4, 1699",
+      "definition": "specific historical departure date",
+      "context": "the Antelope set sail from Bristol on May 4, 1699"
+    },
+    {
+      "word": "candid",
+      "definition": "open and honest",
+      "context": "Gulliver appeals to 'judicious and candid readers'"
+    },
+    {
+      "word": "judicious",
+      "definition": "having good judgment",
+      "context": "Gulliver appeals to judicious readers to correct the text"
+    },
+    {
+      "word": "detestable",
+      "definition": "hateful or abhorrent",
+      "context": "Gulliver calls the reversed sight of Yahoos carried by Houyhnhnms detestable"
+    },
+    {
+      "word": "monstrous",
+      "definition": "shockingly hideous or frightful",
+      "context": "used to describe the sight Gulliver wishes to avoid"
+    },
+    {
+      "word": "reformations",
+      "definition": "acts of reform or improvement",
+      "context": "Gulliver lists reforms he hoped his book would produce"
+    },
+    {
+      "word": "virtue",
+      "definition": "moral excellence",
+      "context": "Gulliver hopes female Yahoos might abound in virtue"
+    },
+    {
+      "word": "upright",
+      "definition": "honest and just",
+      "context": "Gulliver hopes judges learned and upright in his satire"
+    },
+    {
+      "word": "modest",
+      "definition": "humble or reserved in behavior",
+      "context": "Gulliver imagines pleaders honest and modest"
+    },
+    {
+      "word": "tincture",
+      "definition": "a slight trace or mixture",
+      "context": "Gulliver hopes pleaders might have some tincture of common sense"
+    },
+    {
+      "word": "entreaties",
+      "definition": "earnest pleas or requests",
+      "context": "Gulliver says he was prevailed on by entreaties to publish"
+    },
+    {
+      "word": "renounce",
+      "definition": "formally give up",
+      "context": "Gulliver renounces any inserted material attributed to him"
+    },
+    {
+      "word": "innumerable",
+      "definition": "too many to count",
+      "context": "publisher struck out innumerable passages on winds and tides"
+    },
+    {
+      "word": "blazing",
+      "definition": "burning brightly; figuratively conspicuous",
+      "context": "phrase 'Smithfield blazing with pyramids of law books' used satirically"
+    },
+    {
+      "word": "publisher",
+      "definition": "one who issues printed works",
+      "context": "The Publisher addresses the reader in the opening preface"
+    },
+    {
+      "word": "reader",
+      "definition": "person reading the work",
+      "context": "phrase 'The Publisher to the Reader' introduces the volume"
+    },
+    {
+      "word": "author",
+      "definition": "writer of the travels (Gulliver)",
+      "context": "Gulliver is repeatedly referenced as 'the author' of the travels"
+    },
+    {
+      "word": "master",
+      "definition": "teacher or employer",
+      "context": "Mr. Bates is called Gulliver's master; ship masters are named"
+    },
+    {
+      "word": "neighbours",
+      "definition": "people living nearby",
+      "context": "Gulliver is said to be in good esteem among his neighbours at Redriff"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/829"
+}
