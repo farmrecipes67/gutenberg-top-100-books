@@ -1,0 +1,531 @@
+{
+  "gutenberg_id": 2852,
+  "title": "The Hound of the Baskervilles",
+  "author": "Doyle, Arthur Conan",
+  "summary": "Sherlock Holmes and Dr. Watson investigate the legend of a diabolical hound haunting the Baskerville family on Dartmoor. Dr. James Mortimer seeks Holmes’s help after Sir Charles Baskerville’s mysterious death and the arrival of Sir Henry, the new heir. Watson is sent to protect Sir Henry at Baskerville Hall and to observe local suspects: the secretive Stapletons, the Barrymores, and strange moorland figures. The case weaves folklore, a treacherous mire, an escaped convict, and scientific deduction. Holmes’s remote manipulations culminate in revealing a human plot to exploit the legend with a savage hound as instrument of murder and moral reckoning.",
+  "characters": [
+    {
+      "name": "Sherlock Holmes",
+      "age": "approx. 40s",
+      "personality": "brilliant, analytical, aloof, highly observant",
+      "lifespan": "survives; solves the case and exposes the perpetrators"
+    },
+    {
+      "name": "Dr. John H. Watson",
+      "age": "approx. 30s–40s",
+      "personality": "loyal, practical, courageous, compassionate",
+      "lifespan": "survives; acts as Holmes’s agent on Dartmoor and narrates events"
+    },
+    {
+      "name": "Dr. James Mortimer",
+      "age": "late 20s–30s (young in practice)",
+      "personality": "gentle, scientific, absent‑minded but earnest",
+      "lifespan": "survives; brings the case to Holmes and assists the investigation"
+    },
+    {
+      "name": "Sir Charles Baskerville",
+      "age": "elderly (deceased at story start)",
+      "personality": "wealthy, reclusive, impressionable to fear",
+      "lifespan": "dead before main action; found dead on the moor under mysterious circumstances"
+    },
+    {
+      "name": "Sir Henry Baskerville",
+      "age": "young man (heir)",
+      "personality": "brave, somewhat impulsive, good‑natured",
+      "lifespan": "survives after being protected; targeted by the plot"
+    },
+    {
+      "name": "Mr. Stapleton (Jack Stapleton)",
+      "age": "middle‑aged",
+      "personality": "scientific, charming, secretive, manipulative",
+      "lifespan": "dies (perishes on the moor / in the Grimpen Mire) after his scheme is uncovered"
+    },
+    {
+      "name": "Beryl Stapleton (Beryl Vandeleur)",
+      "age": "young woman",
+      "personality": "timid, constrained, truth‑bearing witness",
+      "lifespan": "survives; reveals critical information about Stapleton"
+    },
+    {
+      "name": "Mr. Barrymore",
+      "age": "middle‑aged",
+      "personality": "duty‑bound, furtive, domestically loyal",
+      "lifespan": "survives; his secret signaling and connection to the escaped convict are exposed"
+    },
+    {
+      "name": "Mrs. Barrymore",
+      "age": "middle‑aged",
+      "personality": "sombre, secretive, loyal to household ties",
+      "lifespan": "survives; implicated in aiding the escaped convict and later revealed"
+    },
+    {
+      "name": "Selden (the convict)",
+      "age": "adult",
+      "personality": "dangerous, desperate, murderous past",
+      "lifespan": "dies on the moor (killed during events on the moor)"
+    },
+    {
+      "name": "Laura Lyons",
+      "age": "young woman",
+      "personality": "vulnerable, entangled in others’ schemes",
+      "lifespan": "survives; provides testimony important to the case"
+    },
+    {
+      "name": "Sir Hugo Baskerville",
+      "age": "ancestral figure (legendary)",
+      "personality": "cruel, rakish (in the family legend)",
+      "lifespan": "dead (legendary ancestor whose curse is recounted)"
+    },
+    {
+      "name": "Cartwright (Baker Street boy)",
+      "age": "teenage boy",
+      "personality": "energetic, obedient, useful messenger",
+      "lifespan": "survives; assists Watson under Holmes’s orders"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Dartmoor, Devon, England",
+      "latitude": 50.533333,
+      "longitude": -3.933333
+    },
+    {
+      "name": "Grimpen Mire (fictional area on Dartmoor, referred in book)",
+      "latitude": 50.53,
+      "longitude": -3.92
+    },
+    {
+      "name": "Baskerville Hall (fictional, on the moor)",
+      "latitude": 50.535,
+      "longitude": -3.94
+    },
+    {
+      "name": "Merripit House (fictional, Merripit is on the moor)",
+      "latitude": 50.54,
+      "longitude": -3.915
+    },
+    {
+      "name": "Charing Cross Hospital (London, referenced in directory)",
+      "latitude": 51.5136,
+      "longitude": -0.226
+    },
+    {
+      "name": "Haslemere / Hindhead (signature location of author in book front matter)",
+      "latitude": 51.075,
+      "longitude": -0.707
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Penang",
+      "definition": "an island in Malaysia; used here in the name of a cane style",
+      "context": "‘Penang lawyer’—type of bulbous-headed walking-stick"
+    },
+    {
+      "word": "ferrule",
+      "definition": "a metal cap or band on the end of a stick or tool",
+      "context": "the thick-iron ferrule of the visitor’s stick is worn down"
+    },
+    {
+      "word": "bulbous",
+      "definition": "rounded and swollen in shape",
+      "context": "bulbous-headed, describing the cane’s handle"
+    },
+    {
+      "word": "dolichocephalic",
+      "definition": "having a long, narrow skull",
+      "context": "Holmes notes Mortimer’s ‘dolichocephalic’ skull"
+    },
+    {
+      "word": "supra-orbital",
+      "definition": "located above the eye socket",
+      "context": "refers to well-marked supra-orbital development on Holmes"
+    },
+    {
+      "word": "parietal",
+      "definition": "relating to the parietal bone/region of the skull",
+      "context": "Mortimer wishes to run his finger along Holmes’s parietal fissure"
+    },
+    {
+      "word": "fissure",
+      "definition": "a narrow opening or crack, here in skull anatomy",
+      "context": "parietal fissure mentioned in anthropological jest"
+    },
+    {
+      "word": "atavism",
+      "definition": "reversion to an ancestral type; biological throwback",
+      "context": "Mortimer’s essay on ‘Some Freaks of Atavism’"
+    },
+    {
+      "word": "antennæ",
+      "definition": "plural of antenna, sensory appendages of insects; used metaphorically",
+      "context": "Mortimer’s fingers are compared to the antennæ of an insect"
+    },
+    {
+      "word": "Jackson prize",
+      "definition": "a named academic or medical prize (historical reference)",
+      "context": "Mortimer is said to have won the Jackson prize for Comparative Pathology"
+    },
+    {
+      "word": "atavistic",
+      "definition": "pertaining to atavism; showing ancestral traits",
+      "context": "used in discussing pathological reversion in Mortimer’s work"
+    },
+    {
+      "word": "dolichocephaly",
+      "definition": "condition of having a long skull",
+      "context": "related to the description of skull shape"
+    },
+    {
+      "word": "anthropological",
+      "definition": "relating to anthropology, the study of humans",
+      "context": "a cast of Holmes’s skull ‘would be an ornament to any anthropological museum’"
+    },
+    {
+      "word": "mischievous",
+      "definition": "playfully annoying or teasing",
+      "context": "Holmes gives a mischievous smile at Watson’s deductions"
+    },
+    {
+      "word": "asperity",
+      "definition": "harshness or sharpness of manner or temper",
+      "context": "Holmes answers with some asperity when Mortimer names the ‘first’ expert"
+    },
+    {
+      "word": "fulsome",
+      "definition": "excessively flattering or insincere",
+      "context": "Mortimer says it is not his intention to be fulsome when praising Holmes"
+    },
+    {
+      "word": "convex",
+      "definition": "curving outward; a convex lens bulges outward",
+      "context": "Holmes examines the cane with a convex lens"
+    },
+    {
+      "word": "conducting",
+      "definition": "here: transmitting or channeling (metaphorically of light)",
+      "context": "Watson is ‘a conductor of light’ for Holmes’s deductions"
+    },
+    {
+      "word": "reassuring",
+      "definition": "giving confidence or comfort",
+      "context": "the cane is described as dignified, solid, and reassuring"
+    },
+    {
+      "word": "dabbler",
+      "definition": "one who engages superficially in an activity",
+      "context": "Mortimer calls himself a dabbler in science"
+    },
+    {
+      "word": "peering",
+      "definition": "looking with concentration, often from a forward posture",
+      "context": "Mortimer walks with a forward thrust of his head and an air of peering benevolence"
+    },
+    {
+      "word": "dolichocephaly",
+      "definition": "synonym of dolichocephalic condition; long-headedness",
+      "context": "part of anthropological observations in the dialogue"
+    },
+    {
+      "word": "mire",
+      "definition": "a stretch of swampy or boggy ground",
+      "context": "the Grimpen Mire is a treacherous bog on the moor"
+    },
+    {
+      "word": "moorland",
+      "definition": "open, uncultivated upland country",
+      "context": "strange moorland figures are observed on Dartmoor"
+    },
+    {
+      "word": "tor",
+      "definition": "a rocky hill or peak on moorland",
+      "context": "chapter titles and scenes reference ‘the man on the tor’"
+    },
+    {
+      "word": "Grimpen",
+      "definition": "name of the fictional mire/area on Dartmoor",
+      "context": "Mortimer’s practice is listed as Grimpen, Dartmoor"
+    },
+    {
+      "word": "Merripit",
+      "definition": "place name in the novel (Merripit House)",
+      "context": "the Stapletons of Merripit House are important figures on the moor"
+    },
+    {
+      "word": "Baskerville",
+      "definition": "family name central to the novel’s plot",
+      "context": "Baskerville Hall, Sir Henry, and the family curse"
+    },
+    {
+      "word": "curfew",
+      "definition": "a regulation requiring people to remain indoors at specified times (archaic sense)",
+      "context": "used in period atmosphere though not a central term"
+    },
+    {
+      "word": "testimonial",
+      "definition": "a gift or token of esteem presented to honor someone",
+      "context": "the cane is described as a testimonial from colleagues"
+    },
+    {
+      "word": "county",
+      "definition": "administrative region; used in reference to county practice",
+      "context": "Mortimer a country practitioner for parishes on Dartmoor"
+    },
+    {
+      "word": "parish",
+      "definition": "a small administrative district typically centered on a church",
+      "context": "Mortimer is medical officer for several parishes"
+    },
+    {
+      "word": "mystery",
+      "definition": "an event or situation difficult to explain",
+      "context": "the book is a detective mystery centered on strange deaths"
+    },
+    {
+      "word": "testament",
+      "definition": "a proof or tribute; similar to testimonial",
+      "context": "used to describe the presentation to Mortimer"
+    },
+    {
+      "word": "home‑made (lighting of cigarette)",
+      "definition": "made by one’s self; here, Mortimer rolls his own cigarettes",
+      "context": "Holmes notes Mortimer makes his own cigarettes"
+    },
+    {
+      "word": "mild",
+      "definition": "gentle in manner",
+      "context": "Mortimer blinks through his glasses in mild astonishment"
+    },
+    {
+      "word": "benevolence",
+      "definition": "charitable nature; kindness",
+      "context": "Mortimer’s air of peering benevolence"
+    },
+    {
+      "word": "reconstruction",
+      "definition": "rebuilding or re-creating; here, deductive reconstruction of a man from an object",
+      "context": "Holmes asks Watson to reconstruct the visitor by examining the stick"
+    },
+    {
+      "word": "conclusions",
+      "definition": "deductions or inferences",
+      "context": "Holmes critiques Watson’s conclusions from the stick"
+    },
+    {
+      "word": "inference",
+      "definition": "a conclusion reached on evidence and reasoning",
+      "context": "Holmes draws several inferences from the cane"
+    },
+    {
+      "word": "gratuitous",
+      "definition": "given or done free of charge, or uncalled for",
+      "context": "used in tone though not necessarily exact phrasing in chapter; reflective of Holmes’s style"
+    },
+    {
+      "word": "manner",
+      "definition": "a way in which something is done or happens",
+      "context": "Mortimer’s manner is described as peering and benevolent"
+    },
+    {
+      "word": "ester",
+      "definition": "chemical term (rare in general literature); appears in medical context",
+      "context": "Mortimer’s medical background brings technical vocabulary into dialogue"
+    },
+    {
+      "word": "Lancet",
+      "definition": "a prominent medical journal",
+      "context": "Mortimer authored an essay in the Lancet"
+    },
+    {
+      "word": "psychology",
+      "definition": "the scientific study of the mind and behavior",
+      "context": "Mortimer wrote ‘Do We Progress?’ in a Journal of Psychology"
+    },
+    {
+      "word": "directory",
+      "definition": "a book listing professionals and their details",
+      "context": "Watson consults the Medical Directory to identify Mortimer"
+    },
+    {
+      "word": "M.R.C.S.",
+      "definition": "Member of the Royal College of Surgeons (medical qualification)",
+      "context": "Mortimer is listed as M.R.C.S."
+    },
+    {
+      "word": "staff",
+      "definition": "the body of persons employed by an organization; in hospitals, senior surgeons form the staff",
+      "context": "Holmes reasons Mortimer could not have been on the hospital staff"
+    },
+    {
+      "word": "house-surgeon",
+      "definition": "a junior doctor employed in a hospital",
+      "context": "Mortimer served as a house-surgeon at Charing Cross Hospital"
+    },
+    {
+      "word": "consulting practice",
+      "definition": "a medical practice serving patients as a consultant",
+      "context": "Mortimer left hopes of a consulting practice when he married"
+    },
+    {
+      "word": "serial",
+      "definition": "occurring in a sequence; used in period narration",
+      "context": "Holmes’s adventures were often published in serial form"
+    },
+    {
+      "word": "humble",
+      "definition": "modest or low in status",
+      "context": "Mortimer describes himself as a humble M.R.C.S."
+    },
+    {
+      "word": "revelation",
+      "definition": "a surprising disclosure of previously unknown information",
+      "context": "Watson and Holmes receive revelations about the visitor from the cane"
+    },
+    {
+      "word": "ring",
+      "definition": "an impression or trace; here, the ring of a dog's owner on the cane",
+      "context": "Holmes sees ‘the ring of its owner’ and the dog itself on the doorstep"
+    },
+    {
+      "word": "conductor",
+      "definition": "one who transmits or channels something (metaphorically: Watson conducts Holmes’s genius)",
+      "context": "Holmes praises Watson as a conductor of light"
+    },
+    {
+      "word": "genius",
+      "definition": "extraordinary intellectual power",
+      "context": "Holmes’s own genius contrasted with Watson’s stimulating influence"
+    },
+    {
+      "word": "altar",
+      "definition": "sacred table in religious rites (archaic imagery)",
+      "context": "used metaphorically in descriptive passages"
+    },
+    {
+      "word": "somnolent",
+      "definition": "sleepy; drowsy (rare)",
+      "context": "Victorian narration occasionally uses such descriptors for atmosphere"
+    },
+    {
+      "word": "moral",
+      "definition": "relating to principles of right and wrong",
+      "context": "the final outcome includes moral reckoning"
+    },
+    {
+      "word": "physician",
+      "definition": "a medical doctor",
+      "context": "Mortimer’s role in the parishes and hospital work"
+    },
+    {
+      "word": "parsimony",
+      "definition": "extreme unwillingness to spend; frugality (archaic literary term)",
+      "context": "occasional Victorian usage in describing characters’ temperaments"
+    },
+    {
+      "word": "reprove",
+      "definition": "to reprimand or criticize gently",
+      "context": "Holmes reproves Watson lightly for earlier accounts"
+    },
+    {
+      "word": "eminence",
+      "definition": "high rank or reputation",
+      "context": "Holmes is discussed as an eminent practical man of affairs"
+    },
+    {
+      "word": "practical",
+      "definition": "concerned with actual doing rather than theory",
+      "context": "Mortimer contrasts the scientific and practical approaches"
+    },
+    {
+      "word": "luminous",
+      "definition": "radiant or enlightening; used metaphorically",
+      "context": "Holmes says Watson is not luminous but conducts light"
+    },
+    {
+      "word": "scintillating",
+      "definition": "sparkling or remarkably clever",
+      "context": "used of conversation or wit in Victorian narration"
+    },
+    {
+      "word": "obliquely",
+      "definition": "not in a direct way; slanting",
+      "context": "Holmes often reasons obliquely from small facts to large conclusions"
+    },
+    {
+      "word": "repose",
+      "definition": "peaceful rest or composure",
+      "context": "used in description of rooms or characters’ manner"
+    },
+    {
+      "word": "stipulation",
+      "definition": "a condition or requirement specified in an agreement",
+      "context": "applies to appointments or conditions in dialogues"
+    },
+    {
+      "word": "brisk",
+      "definition": "quick and energetic",
+      "context": "descriptive of movement or speech"
+    },
+    {
+      "word": "instrument",
+      "definition": "a means by which something is effected",
+      "context": "the hound is used as the instrument of murder"
+    },
+    {
+      "word": "vicinity",
+      "definition": "the area near or surrounding a place",
+      "context": "descriptions of the moor and its vicinity to Baskerville Hall"
+    },
+    {
+      "word": "tract",
+      "definition": "an expanse of land",
+      "context": "used for stretches of the moor"
+    },
+    {
+      "word": "ominous",
+      "definition": "suggesting that something bad is going to happen",
+      "context": "atmospheric descriptions of gloom over the moor"
+    },
+    {
+      "word": "spectre",
+      "definition": "a ghost or visible incorporeal spirit",
+      "context": "the hound or family curse is described in spectre-like language"
+    },
+    {
+      "word": "reputation",
+      "definition": "beliefs about someone's character or standing",
+      "context": "Baskerville family reputation under the shadow of legend"
+    },
+    {
+      "word": "skein",
+      "definition": "a tangled or complicated arrangement (literary usage)",
+      "context": "the plot’s skein of deception is unraveled"
+    },
+    {
+      "word": "culminate",
+      "definition": "to reach a climax or point of highest development",
+      "context": "Holmes’s manipulations culminate in exposing the plot"
+    },
+    {
+      "word": "diabolical",
+      "definition": "devilish or fiendish",
+      "context": "used to describe the supposed hound or scheme"
+    },
+    {
+      "word": "recondite",
+      "definition": "little known; abstruse",
+      "context": "Victorian narratives sometimes employ to describe arcane knowledge"
+    },
+    {
+      "word": "adjacent",
+      "definition": "next to or adjoining something else",
+      "context": "used in mapping houses and lands on the moor"
+    },
+    {
+      "word": "eccentricity",
+      "definition": "unusual or odd behavior",
+      "context": "certain locals display eccentricities observed by Watson"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2852"
+}
