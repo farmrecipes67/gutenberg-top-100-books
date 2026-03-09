@@ -1,0 +1,642 @@
+{
+  "gutenberg_id": 16328,
+  "title": "Beowulf: An Anglo-Saxon Epic Poem",
+  "author": "Unknown Author",
+  "summary": "Beowulf tells how Hrothgar, king of the Danes, builds the great mead-hall Heorot, which is terrorized for years by the monster Grendel. Beowulf, a Geatish hero and nephew of King Higelac, sails with followers to Dane-land, confronts Grendel, and mortally wounds him in hand-to-hand combat. Grendel’s mother later attacks; Beowulf dives to her watery lair and slays her, bringing trophies home. He returns to Geatland, becomes king, and after fifty years faces a fire‑breathing dragon. Although he and the dragon die, Beowulf’s valor, generosity, and fame endure in a solemn national funeral. It emphasizes joy, loyalty, gratitude, gift-giving, and mourning.",
+  "characters": [
+    {
+      "name": "Beowulf",
+      "age": "young adult (~30s) at first; aged (~70s) at death",
+      "personality": "brave, generous, honorable, loyal leader",
+      "lifespan": "Arrives to aid Hrothgar, kills Grendel and Grendel's mother, returns home, becomes king of the Geats, rules fifty years, dies fighting the dragon."
+    },
+    {
+      "name": "Hrothgar",
+      "age": "aged king (elderly)",
+      "personality": "generous, grateful, wise, lamenting elder",
+      "lifespan": "Ruler of the Danes who builds Heorot; receives Beowulf's aid and gifts; survives the immediate tale and mourns departures."
+    },
+    {
+      "name": "Grendel",
+      "age": "unknown (monster)",
+      "personality": "jealous, murderous, ferocious",
+      "lifespan": "Terrorizes Heorot for years; attacked by Beowulf and mortally wounded, retreats to his lair and dies."
+    },
+    {
+      "name": "Grendel's Mother",
+      "age": "unknown (monster)",
+      "personality": "vengeful, fierce, protective",
+      "lifespan": "Avenges her son by attacking Heorot, is pursued by Beowulf into her underwater den and slain by him."
+    },
+    {
+      "name": "Scyld",
+      "age": "elder statesman (founder-king figure)",
+      "personality": "venerable, foundational king",
+      "lifespan": "Introduced in 'The Life and Death of Scyld' as an early Danish king whose reign and successors are recounted."
+    },
+    {
+      "name": "Scyldings (the Danes)",
+      "age": "all ages (people/group)",
+      "personality": "loyal retainers, celebratory, community-focused",
+      "lifespan": "People of Hrothgar who suffer Grendel's depredations and celebrate Beowulf's victories."
+    },
+    {
+      "name": "Higelac",
+      "age": "middle-aged king during Beowulf's return",
+      "personality": "noble lord, kin to Beowulf",
+      "lifespan": "King of the Geats who receives Beowulf on his return; Beowulf later succeeds in rulership among the Geats."
+    },
+    {
+      "name": "Unferth",
+      "age": "adult warrior/courtier",
+      "personality": "skeptical, taunting, envious but present in court",
+      "lifespan": "Taunts Beowulf at Heorot and is later silenced by him; remains a court figure."
+    },
+    {
+      "name": "Wiglaf",
+      "age": "young kinsman (young adult)",
+      "personality": "loyal, steadfast, courageous",
+      "lifespan": "Stands with Beowulf in the final fight against the dragon, rebukes fleeing warriors, survives after Beowulf's death."
+    },
+    {
+      "name": "Finn",
+      "age": "adult leader in the scop's song",
+      "personality": "warlike, involved in feud",
+      "lifespan": "Character in the Scop's song and Finn episode recited during the banquet; central to that digression."
+    },
+    {
+      "name": "Hnæf",
+      "age": "warrior (mentioned in song)",
+      "personality": "heroic figure in song",
+      "lifespan": "Figure in the Finn episode and Scop's song recited at the feast."
+    },
+    {
+      "name": "Scop (the bard/poet)",
+      "age": "adult performer",
+      "personality": "storyteller, singer of songs",
+      "lifespan": "Sings the Finn episode and other lays during the banquet at Heorot."
+    },
+    {
+      "name": "Hrothgar's favorite counsellor",
+      "age": "adult advisor",
+      "personality": "trusted, valued by Hrothgar",
+      "lifespan": "Seized and killed by Grendel's mother in revenge, prompting Beowulf's quest to the lair."
+    },
+    {
+      "name": "The Two Queens",
+      "age": "adult (queens of courts mentioned)",
+      "personality": "dignified, ceremonial, figures of courtly presence",
+      "lifespan": "Appear in the narrative as royal women associated with courts (unnamed in provided text)."
+    },
+    {
+      "name": "The Dragon",
+      "age": "ancient beast",
+      "personality": "vengeful, fire‑spewing, guardian of a hoard",
+      "lifespan": "Harasses Geatland late in Beowulf's reign; fights Beowulf, both die in the encounter."
+    },
+    {
+      "name": "Thanes/Retainers",
+      "age": "various adults",
+      "personality": "warriors, loyal but fallible",
+      "lifespan": "Serve their lords in hall and battle; many are killed by Grendel or desert in dragon fight."
+    },
+    {
+      "name": "Fourteen Companions (Beowulf's chosen men)",
+      "age": "adult warriors",
+      "personality": "loyal followers, seafarers",
+      "lifespan": "Accompany Beowulf to Dane-land; participate in the adventure at Heorot."
+    },
+    {
+      "name": "The Messenger of Death",
+      "age": "narrating figure",
+      "personality": "reflective, retrospective",
+      "lifespan": "Provides retrospection and commentary later in the poem (as titled in contents)."
+    },
+    {
+      "name": "The Dead Foes (group)",
+      "age": "n/a",
+      "personality": "enemies of the hero",
+      "lifespan": "Referenced among trophies and in the aftermath of battles."
+    }
+  ],
+  "locations": [
+    {
+      "name": "Denmark (Dane-land)",
+      "latitude": 55.6761,
+      "longitude": 12.5683
+    },
+    {
+      "name": "Geatland (region of the Geats, southern Sweden / Götaland)",
+      "latitude": 57.5,
+      "longitude": 14
+    },
+    {
+      "name": "North Sea (the sea traversed by Beowulf to Dane-land)",
+      "latitude": 56,
+      "longitude": -2
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "venerable",
+      "definition": "worthy of respect due to age or dignity",
+      "context": "Used in preface describing the 'venerable epic'."
+    },
+    {
+      "word": "epic",
+      "definition": "long narrative poem about heroic deeds",
+      "context": "Describes the poem 'Beowulf' as an epic."
+    },
+    {
+      "word": "cadences",
+      "definition": "rhythmic flow of sounds in language",
+      "context": "Translator discusses the cadences used to render Anglo-Saxon verse."
+    },
+    {
+      "word": "anacrusis",
+      "definition": "an initial unstressed syllable(s) before the first strong beat",
+      "context": "Mentioned as a metrical device allowed in the translation."
+    },
+    {
+      "word": "alliteration",
+      "definition": "repetition of initial consonant sounds in nearby words",
+      "context": "Discussed as a key feature of Anglo-Saxon poetry used in translation."
+    },
+    {
+      "word": "end-rhyme",
+      "definition": "rhyme at the ends of lines",
+      "context": "Translator notes occasional use of end-rhyme."
+    },
+    {
+      "word": "internal rhyme",
+      "definition": "rhyme within a line of verse",
+      "context": "Translator notes sporadic internal rhyme in the original."
+    },
+    {
+      "word": "rime-giver",
+      "definition": "term used for the element that supplies alliteration in half-verses",
+      "context": "Gummere's 'rime-giver' is discussed regarding alliteration rules."
+    },
+    {
+      "word": "archaism",
+      "definition": "a word or style from an earlier period retained for effect",
+      "context": "Translator sought an archaic flavor in diction."
+    },
+    {
+      "word": "archaic",
+      "definition": "old-fashioned or ancient in style",
+      "context": "Used to describe certain words chosen for the translation."
+    },
+    {
+      "word": "layman",
+      "definition": "non-specialist or ordinary reader",
+      "context": "Translator mentions laymen in reference to earlier prose translations."
+    },
+    {
+      "word": "mead-hall",
+      "definition": "communal hall where warriors drank mead and feasted",
+      "context": "Hrothgar's great mead-hall Heorot is central to the story."
+    },
+    {
+      "word": "palace",
+      "definition": "magnificent residence of a sovereign",
+      "context": "Heorot is described as a palace in which Hrothgar feasts his liegemen."
+    },
+    {
+      "word": "liegemen",
+      "definition": "vassals or loyal retainers of a lord",
+      "context": "Hrothgar hopes to feast his liegemen in Heorot."
+    },
+    {
+      "word": "presents",
+      "definition": "gifts bestowed by a lord upon followers",
+      "context": "Hrothgar's hopes to give presents to his retainers."
+    },
+    {
+      "word": "Grendel",
+      "definition": "name of the monster antagonist",
+      "context": "Central monster who attacks Heorot."
+    },
+    {
+      "word": "fen-dwelling",
+      "definition": "a dwelling in a marsh or bog",
+      "context": "Grendel is said to live in a fen-dwelling."
+    },
+    {
+      "word": "march-stepper",
+      "definition": "poetic epithet for a creature that strides; 'march' walker",
+      "context": "Used in the story to characterize Grendel's gait."
+    },
+    {
+      "word": "thane",
+      "definition": "a noble or warrior in Anglo-Saxon society",
+      "context": "Thanes are carried off by Grendel."
+    },
+    {
+      "word": "vassals",
+      "definition": "subordinate followers bound to a lord",
+      "context": "Used to describe those serving Hrothgar."
+    },
+    {
+      "word": "Dane-land",
+      "definition": "Denmark; land of the Danes",
+      "context": "Beowulf sails to Dane-land to help Hrothgar."
+    },
+    {
+      "word": "Beowulf",
+      "definition": "name of the poem's hero",
+      "context": "Hero of the epic who comes to aid Hrothgar."
+    },
+    {
+      "word": "Geats",
+      "definition": "the people of Geatland (Beowulf's people)",
+      "context": "Beowulf is a Geat, nephew of King Higelac."
+    },
+    {
+      "word": "Higelac",
+      "definition": "king of the Geats, Beowulf's uncle",
+      "context": "Receives Beowulf on his return."
+    },
+    {
+      "word": "liegelord",
+      "definition": "a sovereign or lord to whom others owe allegiance",
+      "context": "Beowulf is offered as next liegelord among Hrothgar's vassals."
+    },
+    {
+      "word": "wardship",
+      "definition": "responsibility for protecting or guarding",
+      "context": "Hrothgar gives wardship of his palace to Beowulf for the night."
+    },
+    {
+      "word": "Heorot",
+      "definition": "name of Hrothgar's mead-hall",
+      "context": "Central meeting place attacked by Grendel."
+    },
+    {
+      "word": "hand-grip",
+      "definition": "a grasp with the hand; decisive grip in combat",
+      "context": "Beowulf and Grendel fight trusting to strength and hand-grip."
+    },
+    {
+      "word": "shoulder",
+      "definition": "part of the body; used narratively",
+      "context": "Beowulf tears Grendel's shoulder from its socket."
+    },
+    {
+      "word": "howling",
+      "definition": "a loud mournful cry",
+      "context": "Grendel retreats howling with pain."
+    },
+    {
+      "word": "dawn",
+      "definition": "early morning",
+      "context": "At early dawn warriors flock to Heorot after the battle."
+    },
+    {
+      "word": "glee",
+      "definition": "joyousness or merriment",
+      "context": "The hall's glee runs high after Grendel's defeat."
+    },
+    {
+      "word": "counsellors",
+      "definition": "advisors to the king",
+      "context": "One of Hrothgar's favorite counsellors is carried off by Grendel's mother."
+    },
+    {
+      "word": "den",
+      "definition": "lair or lair-like dwelling of a wild creature",
+      "context": "Grendel and his mother have dens beneath the water."
+    },
+    {
+      "word": "sea-bottom",
+      "definition": "the floor of the sea",
+      "context": "Beowulf meets Grendel's mother near the sea-bottom."
+    },
+    {
+      "word": "trophies",
+      "definition": "objects taken as spoils of victory",
+      "context": "Beowulf brings Grendel's head and other trophies to the hall."
+    },
+    {
+      "word": "hoard",
+      "definition": "stored treasure or wealth",
+      "context": "A hoard is connected with the dragon episode."
+    },
+    {
+      "word": "dragon",
+      "definition": "mythical fire-breathing beast",
+      "context": "A dragon later harasses Beowulf's land and fights him."
+    },
+    {
+      "word": "pyre",
+      "definition": "a heap of combustible material for burning a corpse",
+      "context": "A great funeral-pyre is built to burn Beowulf's body."
+    },
+    {
+      "word": "memorial-barrow",
+      "definition": "a burial mound raised as a memorial",
+      "context": "A barrow is built to mark Beowulf's burial site."
+    },
+    {
+      "word": "Scop",
+      "definition": "Anglo-Saxon bard or poet",
+      "context": "The Scop sings the Finn song at the banquet."
+    },
+    {
+      "word": "Finn",
+      "definition": "figure whose story is told by the Scop",
+      "context": "The Finn episode is recited during the banquet."
+    },
+    {
+      "word": "Hnæf",
+      "definition": "character in the Finn episode",
+      "context": "Named in the Scop's Song included in the banquet."
+    },
+    {
+      "word": "Unferth",
+      "definition": "a Danish courtier who taunts Beowulf",
+      "context": "Unferth challenges Beowulf's reputation and is later silenced."
+    },
+    {
+      "word": "Wiglaf",
+      "definition": "Beowulf's loyal kinsman and companion",
+      "context": "Wiglaf aids Beowulf in the final battle against the dragon."
+    },
+    {
+      "word": "Scyld",
+      "definition": "early Danish king introduced in the poem",
+      "context": "The Life and Death of Scyld is the opening section."
+    },
+    {
+      "word": "Scyldings",
+      "definition": "the dynasty or people of Scyld (Danes)",
+      "context": "Used as a term for Hrothgar's people."
+    },
+    {
+      "word": "Hrothgar",
+      "definition": "king of the Danes, builder of Heorot",
+      "context": "Hrothgar rules the Danes and is aided by Beowulf."
+    },
+    {
+      "word": "successor",
+      "definition": "one who follows another in office",
+      "context": "Scyld's successors are discussed early in the poem."
+    },
+    {
+      "word": "epitomized",
+      "definition": "summarized or presented as an epitome",
+      "context": "The translator calls the poem an epitomized history of Teutonic life."
+    },
+    {
+      "word": "Teutonic",
+      "definition": "relating to Germanic peoples",
+      "context": "The poem is described as history of the Teutonic races."
+    },
+    {
+      "word": "pre-Alfredian",
+      "definition": "relating to the period before King Alfred",
+      "context": "The translator situates the poem in pre-Alfredian eras."
+    },
+    {
+      "word": "cæsural",
+      "definition": "relating to a caesura, a metrical pause in verse",
+      "context": "No two accented syllables are brought together except sometimes after a cæsural pause."
+    },
+    {
+      "word": "thesis",
+      "definition": "stressed part in metrical terms (here: stress of a foot)",
+      "context": "The translator allows as much thesis and anacrusis as fits cadence."
+    },
+    {
+      "word": "parallelisms",
+      "definition": "repetition of similar grammatical structures",
+      "context": "Parallelisms of the original have been preserved in the translation."
+    },
+    {
+      "word": "emendations",
+      "definition": "critic's corrections or proposed textual changes",
+      "context": "Translator occasionally adds his own conjectural emendations."
+    },
+    {
+      "word": "stabreimend",
+      "definition": "German term for alliterative verse ('stave-rhymed')",
+      "context": "Used in bibliography to describe Ettmuller's translation."
+    },
+    {
+      "word": "Epopée",
+      "definition": "French for 'epic'",
+      "context": "Botkine's French translation titled 'Beowulf. Epopée Anglo-Saxonne'."
+    },
+    {
+      "word": "Heyne-Socin",
+      "definition": "reference to the Heyne-Socin text edition",
+      "context": "The translation follows the Heyne-Socin text and glossary."
+    },
+    {
+      "word": "Sievers",
+      "definition": "name of a scholar (Sievers) associated with metrical types",
+      "context": "Sievers's metrical types are discussed regarding translation choices."
+    },
+    {
+      "word": "stresses",
+      "definition": "accented beats in a verse line",
+      "context": "Anglo-Saxon verse's four stresses are retained in the translation."
+    },
+    {
+      "word": "Wielder",
+      "definition": "one who wields (used poetically as an epithet)",
+      "context": "Example 'Wielder of Glory' appears in illustrating parallelism."
+    },
+    {
+      "word": "co-operation",
+      "definition": "working together",
+      "context": "Translator asks for the sympathy and co-operation of readers."
+    },
+    {
+      "word": "lament",
+      "definition": "to express grief or sorrow",
+      "context": "Hrothgar weeps and laments at Beowulf's departure."
+    },
+    {
+      "word": "treasures",
+      "definition": "valuable gifts or riches",
+      "context": "Hrothgar pours treasures into Beowulf's lap as rewards."
+    },
+    {
+      "word": "conjecture",
+      "definition": "a speculative emendation or hypothesis",
+      "context": "Translator sometimes adds his own conjecture to editorial notes."
+    },
+    {
+      "word": "Glory",
+      "definition": "renown or praise (used as epithet)",
+      "context": "Used in parallel epithets in the translation examples."
+    },
+    {
+      "word": "anger",
+      "definition": "wrath or ire",
+      "context": "Grendel is said to bear 'God's anger' in his attacks."
+    },
+    {
+      "word": "ruthlessly",
+      "definition": "without pity or compassion",
+      "context": "Thanes are ruthlessly carried off and devoured by Grendel."
+    },
+    {
+      "word": "persecutes",
+      "definition": "harasses or oppresses repeatedly",
+      "context": "Grendel persecutes Hrothgar and his vassals for twelve years."
+    },
+    {
+      "word": "fell",
+      "definition": "deadly or fierce (poetic adjective)",
+      "context": "Beowulf resolves to crush the fell monster."
+    },
+    {
+      "word": "deliverer",
+      "definition": "one who saves or rescues",
+      "context": "Hrothgar lavishes gifts upon his deliverer, Beowulf."
+    },
+    {
+      "word": "lap",
+      "definition": "folds of cloth or metaphorical lap where gifts are placed",
+      "context": "Treasures are poured into Beowulf's lap."
+    },
+    {
+      "word": "prowess",
+      "definition": "exceptional bravery or skill in battle",
+      "context": "Beowulf's prowess is lauded in the closing tribute."
+    },
+    {
+      "word": "generosity",
+      "definition": "quality of being generous",
+      "context": "Beowulf's generosity is praised after his death."
+    },
+    {
+      "word": "measure",
+      "definition": "metrical pattern or rhythm",
+      "context": "Translator claims to reproduce Anglo-Saxon measure in modern form."
+    },
+    {
+      "word": "glowing",
+      "definition": "ardent or enthusiastic (figurative)",
+      "context": "The poem closes with a glowing tribute to Beowulf."
+    },
+    {
+      "word": "retainers",
+      "definition": "followers or household warriors",
+      "context": "Hrothgar feasts his retainers in Heorot."
+    },
+    {
+      "word": "kingdom",
+      "definition": "realm or domain of a king",
+      "context": "Beowulf becomes king of the Geats and rules his kingdom."
+    },
+    {
+      "word": "harried",
+      "definition": "plagued or troubled persistently",
+      "context": "Beowulf's neighborhood is woefully harried by the dragon."
+    },
+    {
+      "word": "fire-spewing",
+      "definition": "breathing or emitting fire",
+      "context": "Describes the dragon as fire-spewing."
+    },
+    {
+      "word": "parting",
+      "definition": "the act of departing or farewell",
+      "context": "There is sorrow at parting when Beowulf leaves Dane-land."
+    },
+    {
+      "word": "funeral-pyre",
+      "definition": "a pyre for burning a corpse",
+      "context": "A great funeral-pyre is built to burn Beowulf's body."
+    },
+    {
+      "word": "flock",
+      "definition": "to gather in a crowd",
+      "context": "Warriors flock to Heorot at the dawn after Grendel's defeat."
+    },
+    {
+      "word": "banquet",
+      "definition": "a lavish feast",
+      "context": "Many sections of the poem describe banquets and feasting."
+    },
+    {
+      "word": "reminiscences",
+      "definition": "reflections on past events",
+      "context": "Sections titled 'Reminiscences' recount past deeds."
+    },
+    {
+      "word": "tribute",
+      "definition": "formal expression of praise or homage",
+      "context": "The poem ends with a tribute to Beowulf's virtues."
+    },
+    {
+      "word": "bitter",
+      "definition": "harsh or resentful in tone",
+      "context": "Wiglaf's bitter taunts are mentioned in contents."
+    },
+    {
+      "word": "taunts",
+      "definition": "insults or jeers intended to provoke",
+      "context": "Wiglaf's bitter taunts are part of the aftermath."
+    },
+    {
+      "word": "plunders",
+      "definition": "to pillage or take by force",
+      "context": "Wiglaf plunders the dragon's den after the fight."
+    },
+    {
+      "word": "messenger",
+      "definition": "one who delivers news or information",
+      "context": "Sections titled 'The Messenger of Death' and 'The Messenger's Retrospect' appear."
+    },
+    {
+      "word": "retrospect",
+      "definition": "a review or contemplation of past events",
+      "context": "The messenger offers a retrospect of events."
+    },
+    {
+      "word": "burning",
+      "definition": "the act of setting a body afire for funeral rites",
+      "context": "The burning of Beowulf is a named section."
+    },
+    {
+      "word": "Addenda",
+      "definition": "supplementary material added at the end",
+      "context": "Addenda appears as a section in the contents."
+    },
+    {
+      "word": "Preface",
+      "definition": "introductory remarks by the translator",
+      "context": "The book includes a substantial Preface explaining translation choices."
+    },
+    {
+      "word": "Bibliography",
+      "definition": "a list of sources and translations",
+      "context": "A bibliography of translations is provided."
+    },
+    {
+      "word": "Glossary",
+      "definition": "a list explaining proper names and terms",
+      "context": "A Glossary of Proper Names is included in the book."
+    },
+    {
+      "word": "Abbreviations",
+      "definition": "shortened forms of words or names",
+      "context": "An 'ABBREVIATIONS USED IN THE NOTES' section lists scholarly abbreviations."
+    },
+    {
+      "word": "Latin",
+      "definition": "the classical language of ancient Rome",
+      "context": "Some earlier translations and notes reference Latin translations."
+    },
+    {
+      "word": "blank-verse",
+      "definition": "unrhymed iambic pentameter used in English verse",
+      "context": "Conybeare's and other translations included passages in blank-verse."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/16328"
+}
