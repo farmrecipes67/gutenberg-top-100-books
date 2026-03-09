@@ -1,0 +1,655 @@
+{
+  "gutenberg_id": 244,
+  "title": "A Study in Scarlet",
+  "author": "Doyle, Arthur Conan",
+  "summary": "A wounded army surgeon, Dr. John H. Watson, returns from the Afghan war to London convalescent and impoverished. Seeking lodgings, he reunites with an acquaintance, Stamford, who introduces him to the brilliant but eccentric chemist Sherlock Holmes. Holmes demonstrates his forensic methods — notably a reagent test for blood — and invites Watson to share rooms in Baker Street. Watson, intrigued, narrates Holmes’s singular habits, experiments with poisons and chemicals, and his passion for exact knowledge, setting the scene for their partnership and forthcoming investigations.",
+  "characters": [
+    {
+      "name": "John H. Watson",
+      "age": "30s–40s (estimated)",
+      "personality": "steady, observant, medically trained, reflective narrator",
+      "lifespan": "Wounded in the Afghan campaign, convalescent and returned to England; alive and narrating events in London in the provided text"
+    },
+    {
+      "name": "Sherlock Holmes",
+      "age": "late 20s–30s (estimated)",
+      "personality": "highly analytical, eccentric, scientific, passionate about exact knowledge and forensic methods",
+      "lifespan": "Active and living in London, experimenting and taking lodgings; fate beyond excerpt not revealed here"
+    },
+    {
+      "name": "Stamford",
+      "age": "late 20s–30s (estimated)",
+      "personality": "sociable, practical, hospital dresser who introduces Watson to Holmes",
+      "lifespan": "Alive and working at the hospital in the excerpt; further fate not revealed in provided text"
+    },
+    {
+      "name": "Murray",
+      "age": "adult (estimated)",
+      "personality": "devoted and courageous orderly",
+      "lifespan": "Saved Watson after Maiwand by carrying him to safety; alive in the provided narrative"
+    },
+    {
+      "name": "Von Bischoff",
+      "age": "unspecified",
+      "personality": "referenced historically as a criminal case example",
+      "lifespan": "Mentioned as a case that would have had decisive evidence if Holmes's test existed; no concrete fate given in excerpt"
+    },
+    {
+      "name": "Mason (of Bradford)",
+      "age": "unspecified",
+      "personality": "referenced criminal example",
+      "lifespan": "Mentioned as a case in which Holmes’s test would have been decisive; fate not detailed in provided text"
+    },
+    {
+      "name": "Muller",
+      "age": "unspecified",
+      "personality": "referenced criminal example",
+      "lifespan": "Mentioned among cases relevant to the test; fate not specified in the excerpt"
+    },
+    {
+      "name": "Lefevre (of Montpellier)",
+      "age": "unspecified",
+      "personality": "referenced criminal example",
+      "lifespan": "Mentioned as an instance where the new test would have mattered; no further fate given in provided text"
+    },
+    {
+      "name": "Samson (of New Orleans)",
+      "age": "unspecified",
+      "personality": "referenced criminal example",
+      "lifespan": "Listed among cases that the reagent would have decided; fate not detailed in the excerpt"
+    },
+    {
+      "name": "John Rance",
+      "age": "unspecified",
+      "personality": "named in table of contents (appearance implied later)",
+      "lifespan": "Fate and role not revealed in the provided excerpt"
+    },
+    {
+      "name": "Tobias Gregson",
+      "age": "unspecified",
+      "personality": "named in table of contents (implied police figure)",
+      "lifespan": "Fate and role not revealed in the provided excerpt"
+    },
+    {
+      "name": "John Ferrier",
+      "age": "unspecified",
+      "personality": "named in table of contents (appears in Part II)",
+      "lifespan": "Fate and role not revealed in the provided excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Netley (Netley, Hampshire, England)",
+      "latitude": 50.9,
+      "longitude": -1.32
+    },
+    {
+      "name": "Candahar (Kandahar, Afghanistan)",
+      "latitude": 31.6289,
+      "longitude": 65.7372
+    },
+    {
+      "name": "Bombay (Mumbai, India)",
+      "latitude": 19.076,
+      "longitude": 72.8777
+    },
+    {
+      "name": "Peshawar (Pakistan)",
+      "latitude": 34.0151,
+      "longitude": 71.5249
+    },
+    {
+      "name": "Portsmouth (England)",
+      "latitude": 50.8198,
+      "longitude": -1.088
+    },
+    {
+      "name": "Strand (London, England)",
+      "latitude": 51.511,
+      "longitude": -0.116
+    },
+    {
+      "name": "Holborn (London, England)",
+      "latitude": 51.517,
+      "longitude": -0.1183
+    },
+    {
+      "name": "Baker Street (London, England)",
+      "latitude": 51.5237,
+      "longitude": -0.1585
+    },
+    {
+      "name": "Maiwand (Afghanistan)",
+      "latitude": 31.6,
+      "longitude": 66.3
+    },
+    {
+      "name": "Frankfort (Frankfurt am Main, Germany)",
+      "latitude": 50.1109,
+      "longitude": 8.6821
+    },
+    {
+      "name": "Bradford (England)",
+      "latitude": 53.795,
+      "longitude": -1.7594
+    },
+    {
+      "name": "Montpellier (France)",
+      "latitude": 43.6108,
+      "longitude": 3.8772
+    },
+    {
+      "name": "New Orleans (Louisiana, USA)",
+      "latitude": 29.9511,
+      "longitude": -90.0715
+    },
+    {
+      "name": "Berkshires (England - county/regimental reference)",
+      "latitude": 51.4167,
+      "longitude": -1.1
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Reminiscences",
+      "definition": "Written recollections or memoirs.",
+      "context": "Header: 'Being a reprint from the Reminiscences of John H. Watson.'"
+    },
+    {
+      "word": "Netley",
+      "definition": "Place name (Netley Hospital area in Hampshire).",
+      "context": "Watson proceeded to Netley to go through the course prescribed for surgeons."
+    },
+    {
+      "word": "prescribed",
+      "definition": "Ordered or laid down as a rule or course.",
+      "context": "The course prescribed for surgeons in the army at Netley."
+    },
+    {
+      "word": "Fusiliers",
+      "definition": "A type of infantry regiment (historical British regimental name).",
+      "context": "Attached to the Fifth Northumberland Fusiliers as Assistant Surgeon."
+    },
+    {
+      "word": "Jezail",
+      "definition": "A long Afghan musket or rifle (historical weapon).",
+      "context": "Struck on the shoulder by a Jezail bullet at the battle of Maiwand."
+    },
+    {
+      "word": "subclavian",
+      "definition": "Anatomical term referring to beneath the clavicle; subclavian artery.",
+      "context": "The bullet grazed the subclavian artery."
+    },
+    {
+      "word": "Ghazis",
+      "definition": "Warriors or fighters, often used for Muslim fighters in historical conflicts.",
+      "context": "He would have fallen into the hands of the murderous Ghazis."
+    },
+    {
+      "word": "pack-horse",
+      "definition": "A horse used for carrying packs or loads.",
+      "context": "Murray threw Watson across a pack-horse to bring him to the British lines."
+    },
+    {
+      "word": "enteric",
+      "definition": "Relating to the intestine; here 'enteric fever' (typhoid).",
+      "context": "Watson was struck down by enteric fever in the hospital at Peshawar."
+    },
+    {
+      "word": "convalescent",
+      "definition": "Recovering health after illness.",
+      "context": "When at last I came to myself and became convalescent."
+    },
+    {
+      "word": "emaciated",
+      "definition": "Abnormally thin or weak, especially because of illness.",
+      "context": "I was so weak and emaciated that a medical board determined..."
+    },
+    {
+      "word": "board",
+      "definition": "A committee or group convened for official decisions (here: medical board).",
+      "context": "A medical board determined that not a day should be lost in sending me back to England."
+    },
+    {
+      "word": "dispatched",
+      "definition": "Sent off or away promptly.",
+      "context": "I was dispatched, accordingly, in the troopship 'Orontes.'"
+    },
+    {
+      "word": "troopship",
+      "definition": "A ship used to transport soldiers.",
+      "context": "Sent home in the troopship 'Orontes.'"
+    },
+    {
+      "word": "Orontes",
+      "definition": "Name of the troopship mentioned in the narrative.",
+      "context": "Watson was dispatched in the troopship 'Orontes.'"
+    },
+    {
+      "word": "kith",
+      "definition": "Friends, acquaintances; used in the phrase 'neither kith nor kin.'",
+      "context": "I had neither kith nor kin in England."
+    },
+    {
+      "word": "kin",
+      "definition": "Family or relatives.",
+      "context": "I had neither kith nor kin in England."
+    },
+    {
+      "word": "gravitated",
+      "definition": "Moved toward or was drawn to (figurative).",
+      "context": "Under such circumstances, I naturally gravitated to London."
+    },
+    {
+      "word": "cesspool",
+      "definition": "A sump or pit for sewage; used figuratively as a place of moral filth.",
+      "context": "London, that great cesspool into which all the loungers and idlers of the Empire are irresistibly drained."
+    },
+    {
+      "word": "loungers",
+      "definition": "People who idle or loiter.",
+      "context": "Into which all the loungers and idlers of the Empire are irresistibly drained."
+    },
+    {
+      "word": "idlers",
+      "definition": "Persons who avoid work; idle people.",
+      "context": "All the loungers and idlers of the Empire are irresistibly drained into London."
+    },
+    {
+      "word": "Strand",
+      "definition": "A street/area in central London.",
+      "context": "Staying for some time at a private hotel in the Strand."
+    },
+    {
+      "word": "comfortless",
+      "definition": "Devoid of comfort; cheerless.",
+      "context": "Leading a comfortless, meaningless existence."
+    },
+    {
+      "word": "shillings",
+      "definition": "Former British coin/currency unit; monetary reference in the text.",
+      "context": "An income of eleven shillings and sixpence a day."
+    },
+    {
+      "word": "sixpence",
+      "definition": "A former British coin worth six pence.",
+      "context": "An income of eleven shillings and sixpence a day."
+    },
+    {
+      "word": "Criterion",
+      "definition": "Proper name of an establishment (Criterion Bar).",
+      "context": "I was standing at the Criterion Bar when someone tapped me on the shoulder."
+    },
+    {
+      "word": "hansom",
+      "definition": "A two-wheeled horse-drawn carriage (historical).",
+      "context": "We started off together in a hansom."
+    },
+    {
+      "word": "Stamford",
+      "definition": "Personal name of Watson's old acquaintance introduced in the text.",
+      "context": "Young Stamford, who had been a dresser under me at Barts."
+    },
+    {
+      "word": "dresser",
+      "definition": "Medical attendant assisting in hospital operations and dressings.",
+      "context": "Stamford had been a dresser under me at Barts."
+    },
+    {
+      "word": "Barts",
+      "definition": "Colloquial name for St Bartholomew's Hospital (hospital in London).",
+      "context": "Stamford had been a dresser under me at Barts."
+    },
+    {
+      "word": "exuberance",
+      "definition": "Full of energy, enthusiasm or high spirits.",
+      "context": "In the exuberance of my joy, I asked him to lunch with me."
+    },
+    {
+      "word": "lath",
+      "definition": "A thin strip of wood; here in the simile 'thin as a lath.'",
+      "context": "You are as thin as a lath and as brown as a nut."
+    },
+    {
+      "word": "lodgings",
+      "definition": "Rooms rented for living; lodgings or accommodation.",
+      "context": "Looking for lodgings, trying to solve the problem of comfortable rooms at a reasonable price."
+    },
+    {
+      "word": "Holborn",
+      "definition": "District in central London (location name).",
+      "context": "I asked him to lunch with me at the Holborn."
+    },
+    {
+      "word": "desultory",
+      "definition": "Lacking a plan, purpose, or enthusiasm; scattered.",
+      "context": "His studies are very desultory and eccentric."
+    },
+    {
+      "word": "eccentric",
+      "definition": "Unconventional or slightly strange behavior or character.",
+      "context": "He is a little queer in his ideas—an enthusiast in some branches of science."
+    },
+    {
+      "word": "out-of-the-way",
+      "definition": "Unusual or uncommon; rare.",
+      "context": "He has amassed a lot of out-of-the-way knowledge."
+    },
+    {
+      "word": "dissecting-rooms",
+      "definition": "Rooms used for anatomical dissection (medical).",
+      "context": "Beating the subjects in the dissecting-rooms to verify bruises after death."
+    },
+    {
+      "word": "arched",
+      "definition": "Constructed with a curved shape; arched passage mentioned in the hospital.",
+      "context": "A low arched passage branched away from it and led to the chemical laboratory."
+    },
+    {
+      "word": "laboratory",
+      "definition": "A room or building equipped for scientific experiments.",
+      "context": "We made our way down the long corridor which led to the chemical laboratory."
+    },
+    {
+      "word": "lofty",
+      "definition": "Of imposing height; elevated in style or tone.",
+      "context": "This was a lofty chamber, lined and littered with countless bottles."
+    },
+    {
+      "word": "retorts",
+      "definition": "Laboratory glassware used for distillation or chemical reactions.",
+      "context": "The tables bristled with retorts, test-tubes, and little Bunsen lamps."
+    },
+    {
+      "word": "test-tubes",
+      "definition": "Small glass tubes used for chemical tests and experiments.",
+      "context": "Tables bristled with retorts, test-tubes, and little Bunsen lamps."
+    },
+    {
+      "word": "Bunsen",
+      "definition": "Type of laboratory burner (Bunsen lamp) used in chemistry.",
+      "context": "Little Bunsen lamps, with their blue flickering flames."
+    },
+    {
+      "word": "re-agent",
+      "definition": "An older hyphenated form of 'reagent' — a substance used to cause a chemical reaction for testing.",
+      "context": "I’ve found a re-agent which is precipitated by hæmoglobin, and by nothing else."
+    },
+    {
+      "word": "hæmoglobin",
+      "definition": "Alternate/older spelling of 'hemoglobin,' the red blood pigment.",
+      "context": "A re-agent which is precipitated by hæmoglobin, and by nothing else."
+    },
+    {
+      "word": "precipitated",
+      "definition": "To cause a substance to be deposited in solid form from a solution.",
+      "context": "A brownish dust was precipitated to the bottom of the glass jar."
+    },
+    {
+      "word": "mahogany",
+      "definition": "A deep brownish-red color; comparison for solution color.",
+      "context": "The contents assumed a dull mahogany colour."
+    },
+    {
+      "word": "Guiacum",
+      "definition": "Refers to guaiacum/guaiac test, an older chemical test for blood.",
+      "context": "The old Guiacum test was very clumsy and uncertain."
+    },
+    {
+      "word": "medico-legal",
+      "definition": "Pertaining to medical aspects in legal contexts.",
+      "context": "It is the most practical medico-legal discovery for years."
+    },
+    {
+      "word": "infallible",
+      "definition": "Incapable of error; absolutely dependable.",
+      "context": "Don’t you see that it gives us an infallible test for blood stains."
+    },
+    {
+      "word": "Von",
+      "definition": "Noble/formative particle in German surnames (as in Von Bischoff).",
+      "context": "There was the case of Von Bischoff at Frankfort last year."
+    },
+    {
+      "word": "Frankfort",
+      "definition": "Alternative spelling of Frankfurt (German city).",
+      "context": "The case of Von Bischoff at Frankfort last year."
+    },
+    {
+      "word": "Mason",
+      "definition": "Surname used in the example 'Mason of Bradford.'",
+      "context": "Then there was Mason of Bradford."
+    },
+    {
+      "word": "Bradford",
+      "definition": "City in England mentioned in Holmes's list of cases.",
+      "context": "Mason of Bradford mentioned among criminal cases."
+    },
+    {
+      "word": "Muller",
+      "definition": "Surname used among Holmes's list of criminal cases.",
+      "context": "The notorious Muller was listed as an example."
+    },
+    {
+      "word": "Lefevre",
+      "definition": "Surname (French) used in a cited case.",
+      "context": "Lefevre of Montpellier cited as an example case."
+    },
+    {
+      "word": "Montpellier",
+      "definition": "City in southern France mentioned in the list of cases.",
+      "context": "Lefevre of Montpellier is referenced."
+    },
+    {
+      "word": "Samson",
+      "definition": "Surname used in the example 'Samson of New Orleans.'",
+      "context": "Samson of New Orleans mentioned among notable cases."
+    },
+    {
+      "word": "New Orleans",
+      "definition": "City in Louisiana, USA, cited in the list of cases.",
+      "context": "Samson of New Orleans was referenced."
+    },
+    {
+      "word": "plaster",
+      "definition": "A small adhesive bandage or piece of sticking plaster.",
+      "context": "Sticking a small piece of plaster over the prick on his finger."
+    },
+    {
+      "word": "bodkin",
+      "definition": "A small, pointed instrument or dagger; here used to prick a finger.",
+      "context": "He dug a long bodkin into his finger to draw blood."
+    },
+    {
+      "word": "pipette",
+      "definition": "A laboratory instrument used to transfer small volumes of liquid.",
+      "context": "He drew off the resulting drop of blood in a chemical pipette."
+    },
+    {
+      "word": "litre",
+      "definition": "Metric unit of volume (British spelling 'litre').",
+      "context": "I add this small quantity of blood to a litre of water."
+    },
+    {
+      "word": "brownish",
+      "definition": "Somewhat brown in color.",
+      "context": "A brownish dust was precipitated to the bottom of the glass jar."
+    },
+    {
+      "word": "corpuscles",
+      "definition": "Minute cells, here referring to blood corpuscles (red cells).",
+      "context": "The microscopic examination for blood corpuscles was described as clumsy."
+    },
+    {
+      "word": "valueless",
+      "definition": "Having no value or use.",
+      "context": "The microscopic examination is valueless if the stains are a few hours old."
+    },
+    {
+      "word": "prick",
+      "definition": "A small puncture or the act of puncturing (here of a finger).",
+      "context": "Sticking a small piece of plaster over the prick on his finger."
+    },
+    {
+      "word": "dabble",
+      "definition": "To take part superficially or casually in an activity.",
+      "context": "I dabble with poisons a good deal, Holmes says."
+    },
+    {
+      "word": "poisons",
+      "definition": "Substances that can cause harm or death when introduced into the body.",
+      "context": "Holmes remarks that he dabbles with poisons."
+    },
+    {
+      "word": "mottled",
+      "definition": "Marked with spots or smears of color.",
+      "context": "His hand was mottled over with pieces of plaster and discoloured with strong acids."
+    },
+    {
+      "word": "discoloured",
+      "definition": "Having lost or changed color, stained.",
+      "context": "Discoloured with strong acids, Holmes's hands showed evidence of his experiments."
+    },
+    {
+      "word": "acids",
+      "definition": "Chemical substances that are corrosive or reactive, used in experiments.",
+      "context": "His hands were discoloured with strong acids."
+    },
+    {
+      "word": "dumps",
+      "definition": "A depressed or low mood ('get in the dumps').",
+      "context": "I get in the dumps at times, and don't open my mouth for days on end."
+    },
+    {
+      "word": "three-legged",
+      "definition": "Having three legs, here describing a stool.",
+      "context": "Stamford sat on a high three-legged stool."
+    },
+    {
+      "word": "tobacco",
+      "definition": "Leaf product used for smoking; smell mentioned as a consideration for lodgings.",
+      "context": "You don't mind the smell of strong tobacco, I hope?"
+    },
+    {
+      "word": "ship's",
+      "definition": "Possessive form referencing a ship (Watson smokes 'ship's').",
+      "context": "I always smoke 'ship's' myself."
+    },
+    {
+      "word": "quarters",
+      "definition": "Living accommodations or rooms.",
+      "context": "I was making up my mind to leave the hotel and to take up my quarters elsewhere."
+    },
+    {
+      "word": "Baker Street",
+      "definition": "A street in London, location of the lodgings Holmes mentions.",
+      "context": "Holmes: 'I have my eye on a suite in Baker Street.'"
+    },
+    {
+      "word": "applauding",
+      "definition": "Expressing approval by clapping hands.",
+      "context": "He put his hand over his heart and bowed as if to some applauding crowd."
+    },
+    {
+      "word": "conjured",
+      "definition": "Summoned into being, as by imagination or magic.",
+      "context": "He bowed as if to some applauding crowd conjured up by his imagination."
+    },
+    {
+      "word": "police",
+      "definition": "Law enforcement; referenced indirectly in Holmes's 'Police News of the Past.'",
+      "context": "Holmes jokes about starting a paper 'Police News of the Past.'"
+    },
+    {
+      "word": "calendar",
+      "definition": "Here used metaphorically ('walking calendar of crime').",
+      "context": "You seem to be a walking calendar of crime, Stamford quips."
+    },
+    {
+      "word": "bruises",
+      "definition": "Areas of discolored skin resulting from injury.",
+      "context": "To verify how far bruises may be produced after death."
+    },
+    {
+      "word": "verify",
+      "definition": "To make sure or demonstrate the truth of something.",
+      "context": "Beating the subjects to verify how far bruises may be produced after death."
+    },
+    {
+      "word": "subjects",
+      "definition": "People or corpses used in dissection or experiment; here the bodies in dissecting-rooms.",
+      "context": "Beating the subjects in the dissecting-rooms to verify bruises."
+    },
+    {
+      "word": "littered",
+      "definition": "Covered or scattered with objects in a disorderly way.",
+      "context": "A lofty chamber, lined and littered with countless bottles."
+    },
+    {
+      "word": "countless",
+      "definition": "Too many to be counted; innumerable.",
+      "context": "Lined and littered with countless bottles."
+    },
+    {
+      "word": "microscopic",
+      "definition": "Extremely small; here referring to microscopic examination.",
+      "context": "The microscopic examination for blood corpuscles is described as valueless after some hours."
+    },
+    {
+      "word": "examination",
+      "definition": "Careful inspection or analysis.",
+      "context": "Microscopic examination for blood corpuscles discussed as a test."
+    },
+    {
+      "word": "inexpressible",
+      "definition": "Impossible to express adequately in words.",
+      "context": "It is not easy to express the inexpressible, Stamford says."
+    },
+    {
+      "word": "mealy-mouthed",
+      "definition": "Indecisive or unwilling to speak plainly; euphemistic.",
+      "context": "Don't be mealy-mouthed about it, Stamford warns Watson regarding Holmes."
+    },
+    {
+      "word": "vegetable",
+      "definition": "Relating to plants; part of the term 'vegetable alkaloid.'",
+      "context": "A little pinch of the latest vegetable alkaloid."
+    },
+    {
+      "word": "alkaloid",
+      "definition": "A naturally occurring organic compound, often with pronounced physiological effects; can be poisonous.",
+      "context": "A pinch of the latest vegetable alkaloid used hypothetically to test effects."
+    },
+    {
+      "word": "malevolence",
+      "definition": "Desire to harm or see others suffer; ill will.",
+      "context": "Not out of malevolence, you understand, but simply out of a spirit of inquiry."
+    },
+    {
+      "word": "bizarre",
+      "definition": "Very unusual or strange.",
+      "context": "When it comes to beating the subjects in the dissecting-rooms with a stick, it is certainly taking rather a bizarre shape."
+    },
+    {
+      "word": "amassed",
+      "definition": "Collected or accumulated over time.",
+      "context": "He has amassed a lot of out-of-the-way knowledge."
+    },
+    {
+      "word": "astonish",
+      "definition": "To surprise or amaze greatly.",
+      "context": "Out-of-the-way knowledge which would astonish his professors."
+    },
+    {
+      "word": "chuckling",
+      "definition": "Laughing quietly or to oneself.",
+      "context": "Holmes said, chuckling to himself, when Watson asked how he knew about Afghanistan."
+    },
+    {
+      "word": "features",
+      "definition": "Facial characteristics or expressions.",
+      "context": "Had he discovered a gold mine, greater delight could not have shone upon his features."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/244"
+}
