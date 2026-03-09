@@ -1,0 +1,582 @@
+{
+  "gutenberg_id": 7735,
+  "title": "Paul Clifford — Complete",
+  "author": "Lytton, Edward Bulwer Lytton, Baron",
+  "summary": "On stormy London streets a world of circumstance and consequence is traced: a sick woman raves in a low lodging while a dialect messenger, Dummie, scrambles for a Bible; landlady Mrs. Margery, a butcher, a cobbler, and other lowly figures populate the scene. The Prefaces explain the book’s purpose: to attack vicious prison discipline and a sanguinary penal code, to contrast fashionable and vulgar vice, and to plea for social reform. The narrative will follow a robber-hero (Paul Clifford) whose fate is set against that of William Brandon, exposing law, sympathy, and social causation.",
+  "characters": [
+    {
+      "name": "Dummie",
+      "age": "adult (estimated 20s–40s)",
+      "personality": "loyal, plain-spoken, dialect-speaking errand-bearer; bumbling but earnest",
+      "lifespan": "appears tending the sick Judy in the lodging; fate not revealed in the provided excerpt"
+    },
+    {
+      "name": "Mrs. Margery",
+      "age": "middle-aged (estimated 40s–60s)",
+      "personality": "landlady, practical, peevish and blunt",
+      "lifespan": "hosts the scene in Thames Court; fate not revealed in the provided excerpt"
+    },
+    {
+      "name": "Judy",
+      "age": "young woman (estimated late teens–30s)",
+      "personality": "sick, raving and near death in the lodging",
+      "lifespan": "described as raving and dying in the room; ultimate fate not further described in the excerpt"
+    },
+    {
+      "name": "Mother Bussblone",
+      "age": "older woman (estimated 40s–60s)",
+      "personality": "shopkeeperly, practical; a local source for goods",
+      "lifespan": "mentioned as a shop Dummie visited; fate not revealed in the provided excerpt"
+    },
+    {
+      "name": "Master Talkins",
+      "age": "adult (estimated 30s–50s)",
+      "personality": "cobbler who preaches, sententious and sharp-tongued",
+      "lifespan": "refuses to supply a Bible to Dummie; fate not revealed in the excerpt"
+    },
+    {
+      "name": "The Sturdy Butcher",
+      "age": "adult (estimated 30s–50s)",
+      "personality": "blunt, coarse, with dry humour (offers a book of plays instead of a Bible)",
+      "lifespan": "appears as a local tradesman; fate not revealed in the provided excerpt"
+    },
+    {
+      "name": "Paul Clifford",
+      "age": "young adult (unspecified in excerpt)",
+      "personality": "the novel’s robber-hero; presented in preface as morally complex, product of circumstance",
+      "lifespan": "portrayed as an outlaw whose destiny contrasts with William Brandon; in the preface he is indicated to face the law (at the convict's bar)"
+    },
+    {
+      "name": "William Brandon",
+      "age": "middle-aged (unspecified)",
+      "personality": "honoured father, dispenser of the law; a foil to Paul Clifford",
+      "lifespan": "contrasted with Paul Clifford; portrayed in the preface as later sitting on the seat of justice opposite Clifford at the bar"
+    },
+    {
+      "name": "Crabbe",
+      "age": "poet (quoted)",
+      "personality": "grim moral observer (quoted opening stanza)",
+      "lifespan": "quoted at the book’s opening; not a dramatic character in the narrative"
+    }
+  ],
+  "locations": [
+    {
+      "name": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "River Thames (central London)",
+      "latitude": 51.5079,
+      "longitude": -0.0877
+    },
+    {
+      "name": "Newgate (site of former Newgate Prison, central London)",
+      "latitude": 51.5156,
+      "longitude": -0.103
+    },
+    {
+      "name": "Clifton (Bristol), England",
+      "latitude": 51.4545,
+      "longitude": -2.6324
+    },
+    {
+      "name": "Kenilworth (Kenelworth in the preface), Warwickshire, England",
+      "latitude": 52.3428,
+      "longitude": -1.5828
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "penal",
+      "definition": "relating to punishment or the legal system of penalties",
+      "context": "Used in the preface criticizing 'penal institutions' and their defects."
+    },
+    {
+      "word": "discipline",
+      "definition": "system of rules and instruction, here prison regulation",
+      "context": "In the preface as 'prison-discipline' describing institutional practices."
+    },
+    {
+      "word": "sanguinary",
+      "definition": "involving bloodshed or death; bloodthirsty",
+      "context": "Preface criticizes a 'sanguinary criminal code' (i.e., severe capital punishments)."
+    },
+    {
+      "word": "tyro",
+      "definition": "a beginner or novice",
+      "context": "Preface: the 'tyro learns from the felons in the prison-yard.'"
+    },
+    {
+      "word": "felons",
+      "definition": "persons convicted of serious crimes",
+      "context": "Used in preface about corrupting the boy by example from 'felons in the prison-yard.'"
+    },
+    {
+      "word": "prison-yard",
+      "definition": "the enclosed exercise area of a prison",
+      "context": "Mentioned as the place where the novice learns crime by example."
+    },
+    {
+      "word": "mob",
+      "definition": "a crowd, often disorderly or violent; here the execution spectators",
+      "context": "Preface: 'the mob gather round the drop at Newgate.'"
+    },
+    {
+      "word": "drop",
+      "definition": "colloquial for the gallows trapdoor; place of execution",
+      "context": "Appears in 'the drop at Newgate' describing the execution mechanism."
+    },
+    {
+      "word": "Newgate",
+      "definition": "historical prison in London known for executions",
+      "context": "Referenced repeatedly as the site of execution and condemned cell."
+    },
+    {
+      "word": "gallows",
+      "definition": "a wooden frame for executions by hanging",
+      "context": "Used to describe the ultimate penalty dispensed by the penal code."
+    },
+    {
+      "word": "satire",
+      "definition": "literary work criticizing folly or vice through wit or irony",
+      "context": "Preface: the book is described as a 'satire on the short cut' to the gallows."
+    },
+    {
+      "word": "travesty",
+      "definition": "a distorted, exaggerated, or grotesque imitation",
+      "context": "Preface explains 'a semi-burlesque or travesty in the earlier chapters.'"
+    },
+    {
+      "word": "semi-burlesque",
+      "definition": "partly comic parody or exaggerated imitation",
+      "context": "Used in preface to describe tone of early chapters."
+    },
+    {
+      "word": "cant",
+      "definition": "hypocritical or sanctimonious talk; jargon of a social group",
+      "context": "Preface contrasts the 'slang' of vulgar vice with the 'cant' of fashionable vice."
+    },
+    {
+      "word": "Tomlinsoniana",
+      "definition": "title of supplementary essays attached to the edition",
+      "context": "Preface mentions 'Supplementary Essays, entitled “Tomlinsoniana.”'"
+    },
+    {
+      "word": "corollaries",
+      "definition": "consequences or deductions that follow logically",
+      "context": "Tomlinsoniana contains 'corollaries to various problems suggested in the Novel.'"
+    },
+    {
+      "word": "philanthropy",
+      "definition": "concern for human welfare; charitable acts",
+      "context": "Preface 1848 references conflicting feelings between 'philanthropy' and 'imagination.'"
+    },
+    {
+      "word": "circumstance",
+      "definition": "conditions or factors that influence events or behavior",
+      "context": "Preface emphasizes the 'Philosophy of Circumstance' shaping lives."
+    },
+    {
+      "word": "ignominy",
+      "definition": "public shame or disgrace",
+      "context": "Preface: 'A child who is cradled in ignominy' is corrupted."
+    },
+    {
+      "word": "contaminated",
+      "definition": "made impure or corrupted",
+      "context": "Preface: minds 'contaminated in infancy' by bad example."
+    },
+    {
+      "word": "academy",
+      "definition": "here used ironically for an institution of learning; 'the House of Correction' called an academy",
+      "context": "Preface: 'his academy is the House of Correction.'"
+    },
+    {
+      "word": "prowls",
+      "definition": "moves around stealthily or restlessly, like a predator",
+      "context": "Preface: 'it prowls near our homes' describing the metaphorical wild beast of corrupted youth."
+    },
+    {
+      "word": "self-defence",
+      "definition": "protection of oneself, sometimes by lethal means",
+      "context": "Preface: society kills the beast 'in self-defence.'"
+    },
+    {
+      "word": "foresign",
+      "definition": "an older/rare form meaning sign or token in advance; presage",
+      "context": "Preface uses 'a foresign of a coming change' to indicate literature prefiguring reform."
+    },
+    {
+      "word": "immutable",
+      "definition": "unchangeable; fixed",
+      "context": "Preface: 'immutable laws which proportion the rewards of labour.'"
+    },
+    {
+      "word": "prerogatives",
+      "definition": "exclusive rights or privileges",
+      "context": "Preface: the author reflects on 'prerogatives... of Art.'"
+    },
+    {
+      "word": "metaphysics",
+      "definition": "branch of philosophy dealing with first principles and abstract matters",
+      "context": "Preface: 'unsatisfactory as all metaphysics' in discussion of moral questions."
+    },
+    {
+      "word": "serener",
+      "definition": "more calm or clear; comparative of 'serene'",
+      "context": "Preface: author seeks to 'look on the practical world through the serener one of the ideal.'"
+    },
+    {
+      "word": "ardour",
+      "definition": "intense feeling or passion; enthusiasm",
+      "context": "Preface 1848: 'generous ardour of our early youth' motivating the novel."
+    },
+    {
+      "word": "repose",
+      "definition": "rest or sleep; tranquility",
+      "context": "Opening poem: 'who press the downy couch' and the idea of repose is invoked."
+    },
+    {
+      "word": "torrents",
+      "definition": "heavy flows of water; downpours",
+      "context": "Chapter I: 'the rain fell in torrents' describing the stormy night."
+    },
+    {
+      "word": "obscurest",
+      "definition": "most remote, hidden, or unknown",
+      "context": "Chapter I: 'Through one of the obscurest quarters of London' setting the scene."
+    },
+    {
+      "word": "quartier",
+      "definition": "French for quarter or district; used here to indicate a neighborhood",
+      "context": "Chapter I: 'appearance of the quartier in which they were situated.'"
+    },
+    {
+      "word": "alehouse",
+      "definition": "an inn or tavern where ale is served",
+      "context": "Chapter I: 'an inn or alehouse' describes the lodging used by Mrs. Margery."
+    },
+    {
+      "word": "rotundity",
+      "definition": "roundness of form; plumpness",
+      "context": "Chapter I: landlady endowed 'with a comely rotundity of face and person.'"
+    },
+    {
+      "word": "pish",
+      "definition": "an exclamation of contempt or dismissal",
+      "context": "Mrs. Margery exclaims 'Pish, you fool!' when interrupting Dummie."
+    },
+    {
+      "word": "vill",
+      "definition": "dialectal form of 'will' (speaking accent)",
+      "context": "Dummie's speech rendered in dialect: 'vy, it is no use desaving me. You knows you has only stepped...' includes 'vill'."
+    },
+    {
+      "word": "sarvice",
+      "definition": "dialectal spelling of 'service' (i.e., at your service)",
+      "context": "Butcher says, 'it is quite at your sarvice!' in Dummie's dialectical account."
+    },
+    {
+      "word": "desaving",
+      "definition": "dialectal form of 'deceiving' or 'misleading'",
+      "context": "Mrs. Margery accuses Dummie of 'desaving' her when he pretends to have fetched the book."
+    },
+    {
+      "word": "boosing-ken",
+      "definition": "dialect for 'boozing-ken'—a tavern or drinking den",
+      "context": "Dummie says he stepped 'from my boosing-ken to another.'"
+    },
+    {
+      "word": "vent",
+      "definition": "dialect for 'went'",
+      "context": "Dummie: 'I vent first to Mother Bussblone's'—dialectal narration of his errands."
+    },
+    {
+      "word": "whiners",
+      "definition": "in this context likely street singers or troupers (dialect usage)",
+      "context": "Dummie: 'chops the whiners morning and evening to the young ladies' describing Mother Bussblone's wares."
+    },
+    {
+      "word": "axes",
+      "definition": "dialectal form of 'asks'",
+      "context": "Dummie says 'I axes there for a Bible', reflecting his spoken accent."
+    },
+    {
+      "word": "vay",
+      "definition": "dialect spelling of 'way'",
+      "context": "Dummie recounts 'mayhap you'll be a getting it at Master Talkins'... 'over the vay.'"
+    },
+    {
+      "word": "hover",
+      "definition": "dialectal preposition 'over' (used as 'hover the vay')",
+      "context": "Dummie says 'So I goes hover the vay' in his dialectal explanation."
+    },
+    {
+      "word": "Companion to the Halter",
+      "definition": "title of a cheaply bound book; 'Halter' evokes hanging/gallows",
+      "context": "Butcher offers 'a “Companion to the Halter,”' a darkly humorous substitute for a Bible."
+    },
+    {
+      "word": "Master Talkins",
+      "definition": "proper name; the cobbler character who also 'preaches'",
+      "context": "Mentioned in Dummie's account as 'the cobbler as preaches.'"
+    },
+    {
+      "word": "cobbler",
+      "definition": "a shoemaker; tradesman",
+      "context": "Master Talkins is identified as a cobbler who also preaches."
+    },
+    {
+      "word": "bound",
+      "definition": "stitched or covered as a book",
+      "context": "Butcher 'has a book of plays bound for all the world just like'un.'"
+    },
+    {
+      "word": "farthing",
+      "definition": "a small coin; here a cheap candle priced to match a farthing",
+      "context": "The 'farthing candle' provides flickering light in the lodging."
+    },
+    {
+      "word": "sooty",
+      "definition": "covered with soot; blackened by smoke",
+      "context": "A 'sooty grate' and corresponding gloom are described around the hearth."
+    },
+    {
+      "word": "grate",
+      "definition": "fireplace framework; part of a hearth",
+      "context": "The 'sooty grate' holds the low fire in the lodging's hearth."
+    },
+    {
+      "word": "hob",
+      "definition": "the flat shelf at the back or side of a fireplace where pots may be heated",
+      "context": "On the hob 'hissed “the still small voice” of an iron kettle.'"
+    },
+    {
+      "word": "deal",
+      "definition": "a timber (often softwood) used for simple furniture; 'deal table' is a plain board table",
+      "context": "A 'round deal table' in the room supports vials and a cracked cup."
+    },
+    {
+      "word": "vials",
+      "definition": "small glass bottles, typically for medicine or chemicals",
+      "context": "On the table were two vials among other household items."
+    },
+    {
+      "word": "cracked",
+      "definition": "having a split or break; damaged",
+      "context": "A 'cracked cup' is noted among the room's sparse utensils."
+    },
+    {
+      "word": "mutilated",
+      "definition": "damaged or maimed; here furniture in poor repair",
+      "context": "Two or three 'mutilated chairs' are mentioned as part of the lodging's squalor."
+    },
+    {
+      "word": "grotesque",
+      "definition": "comically or repulsively ugly or distorted",
+      "context": "Figures and grotesque characters had been traced on the whitewashed walls."
+    },
+    {
+      "word": "sable",
+      "definition": "black; used poetically to describe color",
+      "context": "Wall drawings rendered in 'sable outline' by a smoked stick."
+    },
+    {
+      "word": "Satan",
+      "definition": "the personification of evil; the devil",
+      "context": "Portraits of Satan 'such as he is accustomed to be drawn' decorate the walls."
+    },
+    {
+      "word": "embellishments",
+      "definition": "decorative details or additions",
+      "context": "The wall-pictures 'received embellishments from portraits of Satan.'"
+    },
+    {
+      "word": "grimness",
+      "definition": "stern or forbidding quality; gloom",
+      "context": "The farthing candle 'gave a sort of grimness and menace' to the wall drawings."
+    },
+    {
+      "word": "menace",
+      "definition": "a threat or something threatening",
+      "context": "The candlelight imparted a 'menace' to the grotesque wall portraits."
+    },
+    {
+      "word": "rattling",
+      "definition": "making a rapid succession of short, sharp noises",
+      "context": "A 'violent gust' swept up the streets, 'rattling along the house-tops.'"
+    },
+    {
+      "word": "agitating",
+      "definition": "stirring or disturbing vigorously",
+      "context": "The gust was 'fiercely agitating the scanty flame of the lamps.'"
+    },
+    {
+      "word": "scanty",
+      "definition": "meager or insufficient in amount",
+      "context": "The 'scanty flame of the lamps' struggled against darkness."
+    },
+    {
+      "word": "lamps",
+      "definition": "light sources; street lamps",
+      "context": "The lamps' scanty flame is described in the stormy night scene."
+    },
+    {
+      "word": "nest",
+      "definition": "a place populated by similar inhabitants; used pejoratively for a cluster of dwellings",
+      "context": "Dummie soon came to 'a nest of low and dingy buildings.'"
+    },
+    {
+      "word": "dingy",
+      "definition": "gloomy and drab; dirty-looking",
+      "context": "Describes the 'low and dingy buildings' of Thames Court."
+    },
+    {
+      "word": "haunts",
+      "definition": "places frequently visited by particular people or creatures",
+      "context": "The quarter contains 'haunts little loved by the gentlemen of the police.'"
+    },
+    {
+      "word": "wending",
+      "definition": "going or traveling in a specified direction",
+      "context": "Opening line: 'a man... was wending his solitary way.'"
+    },
+    {
+      "word": "solitary",
+      "definition": "alone; isolated",
+      "context": "The man is described as 'wending his solitary way' through the storm."
+    },
+    {
+      "word": "inquiry",
+      "definition": "a request for information; seeking an item or fact",
+      "context": "Dummie 'tended inquiry for some article' in the quarter's shops."
+    },
+    {
+      "word": "correspondent",
+      "definition": "matching or in agreement; here 'of a description correspondent with the appearance'",
+      "context": "Shops were 'of a description correspondent with the appearance of the quartier.'"
+    },
+    {
+      "word": "negative",
+      "definition": "expressing denial or refusal",
+      "context": "All the answers Dummie received were 'couched in the negative.'"
+    },
+    {
+      "word": "muttered",
+      "definition": "spoke quietly and indistinctly, often complainingly",
+      "context": "Dummie 'muttered to himself... his disappointment and discontent.'"
+    },
+    {
+      "word": "elegant",
+      "definition": "refined or polished in style; used ironically of low phraseology",
+      "context": "He muttered 'in no very elegant phraseology.'"
+    },
+    {
+      "word": "proffered",
+      "definition": "offered for acceptance",
+      "context": "The butcher 'proffered' a book which Dummie considered might do as well as a Bible."
+    },
+    {
+      "word": "ample",
+      "definition": "large or roomy",
+      "context": "Dummie 'thrusting it into his ample pocket.'"
+    },
+    {
+      "word": "strode",
+      "definition": "walked with long, decisive steps",
+      "context": "He 'strode away with as rapid a motion as the wind and the rain would allow.'"
+    },
+    {
+      "word": "gust",
+      "definition": "a sudden strong rush of wind",
+      "context": "A 'violent gust of wind' swept up the streets during the storm."
+    },
+    {
+      "word": "blazed",
+      "definition": "burned brightly",
+      "context": "Through the alehouse windows 'blazed out in ruddy comfort the beams of the hospitable hearth.'"
+    },
+    {
+      "word": "ruddy",
+      "definition": "reddish in color, suggesting warmth",
+      "context": "Describes the welcoming glow of the hearth."
+    },
+    {
+      "word": "hearth",
+      "definition": "the floor of a fireplace; used to mean home comfort",
+      "context": "The 'hospitable hearth' is visible through the alehouse windows."
+    },
+    {
+      "word": "admitted",
+      "definition": "allowed entry",
+      "context": "Dummie 'was admitted by a lady' into the alehouse."
+    },
+    {
+      "word": "comely",
+      "definition": "pleasing in appearance; attractive",
+      "context": "The landlady is described as 'a lady... endowed with a comely rotundity.'"
+    },
+    {
+      "word": "peevishly",
+      "definition": "in an irritable or petulant manner",
+      "context": "Mrs. Margery interrupts Dummie 'peevishly.'"
+    },
+    {
+      "word": "fool",
+      "definition": "a person acting unwisely; here an insult",
+      "context": "Mrs. Margery exclaims 'you fool!' while scolding Dummie."
+    },
+    {
+      "word": "cretur",
+      "definition": "dialectal spelling of 'creature' meaning a poor wretch",
+      "context": "Mrs. Margery says 'So there's the poor cretur a raving and a dying.'"
+    },
+    {
+      "word": "raving",
+      "definition": "utterly distraught or delirious",
+      "context": "Judy is described as 'raving and a dying' in the lodging."
+    },
+    {
+      "word": "dying",
+      "definition": "in the process of death",
+      "context": "Indicates Judy's severe, fatal condition as reported by Dummie."
+    },
+    {
+      "word": "levity",
+      "definition": "lack of seriousness or respect; frivolity",
+      "context": "Preface criticizes 'the horrible levity with which the mob gather round the drop at Newgate.'"
+    },
+    {
+      "word": "Pilgrims",
+      "definition": "travelers on a religious journey; here a title reference ('Pilgrims of the Rhine')",
+      "context": "Preface lists author's earlier works including 'the Pilgrims of the Rhine.'"
+    },
+    {
+      "word": "Rienzi",
+      "definition": "title of another of the author's earlier works; used as a proper name",
+      "context": "Preface references 'Rienzi' among previous fictions."
+    },
+    {
+      "word": "Pompeii",
+      "definition": "ancient Roman city; referenced in the title 'Last Days of Pompeii'",
+      "context": "Preface mentions 'the Last Days of Pompeii' as part of the author's oeuvre."
+    },
+    {
+      "word": "paraphrase",
+      "definition": "a restatement of the meaning of a text in other words",
+      "context": "Preface: 'the slang of the one circle is but an easy paraphrase of the cant of the other.'"
+    },
+    {
+      "word": "loftier",
+      "definition": "more elevated in style or imagination",
+      "context": "Author notes he 'quitted loftier regions of imagination to trace' penal abuses."
+    },
+    {
+      "word": "supplementary",
+      "definition": "added to complete or enhance something",
+      "context": "The preface states the 'Supplementary Essays' (Tomlinsoniana) have been restored to the edition."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/7735"
+}
