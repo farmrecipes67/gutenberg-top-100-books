@@ -1,0 +1,630 @@
+{
+  "gutenberg_id": 1342,
+  "title": "Pride and Prejudice",
+  "author": "Austen, Jane",
+  "summary": "Elizabeth Bennet navigates manners, marriage, and misunderstandings in early 19th-century England. When wealthy Mr. Bingley arrives, his attachment to Jane Bennet and his friend Mr. Darcy’s proud reserve set social wheels turning. False reports, pride, and personal prejudices complicate courtships: Wickham’s deceptive charm, Mr. Collins’s officious proposals, and Lydia’s reckless elopement force families into crisis. Through wit and moral perception, Elizabeth moves from aversion to love, and misjudgments are corrected. Social rank, hypocrisy, and genuine feeling are tested before suitable matches are reached and familial reputations are restored.",
+  "characters": [
+    {
+      "name": "Elizabeth Bennet",
+      "age": "about 20 (estimated)",
+      "personality": "witty, perceptive, independently-minded",
+      "lifespan": "marries Mr. Darcy by novel's end; settles at Pemberley (fate: married life)"
+    },
+    {
+      "name": "Jane Bennet",
+      "age": "about 22 (estimated)",
+      "personality": "gentle, amiable, reserved",
+      "lifespan": "becomes engaged/marries Mr. Bingley (happy match)"
+    },
+    {
+      "name": "Mr. Bennet",
+      "age": "middle-aged (estimated 45–55)",
+      "personality": "ironical, sarcastic, indulgent father",
+      "lifespan": "remains head of the Bennet family; survives events of the story"
+    },
+    {
+      "name": "Mrs. Bennet",
+      "age": "middle-aged (estimated 40s–50s)",
+      "personality": "nervous, matchmaking, socially anxious",
+      "lifespan": "achieves her aim of advantageous marriages for daughters"
+    },
+    {
+      "name": "Lydia Bennet",
+      "age": "teenage (estimated 15–17)",
+      "personality": "frivolous, flirtatious, reckless",
+      "lifespan": "elopes with Wickham; their marriage brings scandal but is arranged to avoid ruin"
+    },
+    {
+      "name": "Mary Bennet",
+      "age": "estimated late teens",
+      "personality": "didactic, moralizing, pedantic",
+      "lifespan": "remains at home, continuing moral and musical pursuits"
+    },
+    {
+      "name": "Kitty (Catherine) Bennet",
+      "age": "teenage (estimated)",
+      "personality": "impressionable, follows Lydia",
+      "lifespan": "stays within family circle; influenced by Lydia's behavior"
+    },
+    {
+      "name": "Mr. Darcy",
+      "age": "about late 20s–30 (estimated)",
+      "personality": "proud, reserved, principled, generous",
+      "lifespan": "overcomes pride and his earlier conduct is explained; marries Elizabeth"
+    },
+    {
+      "name": "Mr. Bingley",
+      "age": "about late 20s (estimated)",
+      "personality": "cordial, wealthy, good-natured",
+      "lifespan": "courts and marries Jane Bennet"
+    },
+    {
+      "name": "Mr. Wickham",
+      "age": "about late 20s (estimated)",
+      "personality": "charming, deceitful, opportunistic",
+      "lifespan": "elopes with Lydia and marries her; his misdeeds partly remedied by marriage"
+    },
+    {
+      "name": "Mr. Collins",
+      "age": "estimated 25–35 (canonical young clergyman)",
+      "personality": "pompous, obsequious, officious",
+      "lifespan": "proposes first to Jane then to Elizabeth; marries Charlotte Lucas (in novel)"
+    },
+    {
+      "name": "Charlotte Lucas",
+      "age": "estimated mid-20s",
+      "personality": "practical, unromantic, sensible",
+      "lifespan": "marries Mr. Collins (practical alliance)"
+    },
+    {
+      "name": "Miss Bates",
+      "age": "middle-aged (estimated)",
+      "personality": "talkative, good-natured, socially anxious",
+      "lifespan": "remains a spinster dependent on family kindness; prominent in social scenes"
+    },
+    {
+      "name": "Mrs. Norris",
+      "age": "middle-aged (estimated)",
+      "personality": "mean-spirited, meddling (from Mansfield Park reference)",
+      "lifespan": "remains a consistently unsympathetic figure in her novel"
+    },
+    {
+      "name": "Fanny (Price)",
+      "age": "young woman (Mansfield Park reference)",
+      "personality": "reserved, morally upright",
+      "lifespan": "character outcome is discussed in preface; not central to this novel"
+    },
+    {
+      "name": "Edmund (Bertram)",
+      "age": "young clergyman (Mansfield Park reference)",
+      "personality": "steady, moral (referenced)",
+      "lifespan": "marriage to Fanny mentioned in critical discussion"
+    },
+    {
+      "name": "Frank Churchill",
+      "age": "young gentleman (estimated)",
+      "personality": "flirtatious, secretive",
+      "lifespan": "involved in intrigues and misunderstandings (referenced)"
+    },
+    {
+      "name": "Jane Fairfax",
+      "age": "young woman (estimated)",
+      "personality": "reserved, accomplished",
+      "lifespan": "her entanglements are mentioned as part of Emma’s intrigue discussion"
+    },
+    {
+      "name": "John Thorpe",
+      "age": "young man (Northanger Abbey reference)",
+      "personality": "boastful, coarse (referenced)",
+      "lifespan": "example of a character compared in preface"
+    },
+    {
+      "name": "Mrs. Musgrove",
+      "age": "adult woman (referenced)",
+      "personality": "self-deceiving in lament (referenced)",
+      "lifespan": "used as example in critical argument"
+    },
+    {
+      "name": "Mr. Shapely",
+      "age": "character in Spectator letter (quoted)",
+      "personality": "object of comic affection in Spectator",
+      "lifespan": "appears only in quoted comparison"
+    },
+    {
+      "name": "Mr. Spectator",
+      "age": "figurative (periodical persona)",
+      "personality": "observant, moral commentator",
+      "lifespan": "appears as a referenced literary voice"
+    },
+    {
+      "name": "Jane Austen (author)",
+      "age": "died 1817 (preface notes published 1813, death 4 years later)",
+      "personality": "observant, artistically restrained, humane",
+      "lifespan": "author; completed the novels and died shortly after publication"
+    },
+    {
+      "name": "George Saintsbury",
+      "age": "critic (preface writer) (historical)",
+      "personality": "literary critic, analytical",
+      "lifespan": "writer of the included preface"
+    },
+    {
+      "name": "Hugh Thomson",
+      "age": "illustrator (historical)",
+      "personality": "illustrator, dedicated contributor",
+      "lifespan": "provided illustrations for this edition"
+    },
+    {
+      "name": "J. Comyns Carr",
+      "age": "named recipient of inscription",
+      "personality": "friend and advisor to Hugh Thomson",
+      "lifespan": "acknowledged in inscription"
+    },
+    {
+      "name": "Mr. Goldwin Smith",
+      "age": "critic (referenced)",
+      "personality": "analytical commentator on Austen",
+      "lifespan": "cited for commentary in preface"
+    }
+  ],
+  "locations": [
+    {
+      "name": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Chawton, Hampshire, England",
+      "latitude": 51.1366,
+      "longitude": -0.9951
+    },
+    {
+      "name": "Derbyshire, England (representative location)",
+      "latitude": 53.15,
+      "longitude": -1.5667
+    },
+    {
+      "name": "Charing Cross Road (156 Charing Cross Road / Ruskin House), London",
+      "latitude": 51.5102,
+      "longitude": -0.128
+    },
+    {
+      "name": "Tooks Court, Chancery Lane (Chiswick Press reference), London",
+      "latitude": 51.5135,
+      "longitude": -0.1066
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "entrain",
+      "definition": "vivacity, spirit; animation",
+      "context": "used to praise Northanger Abbey's 'entrain' (fresh, lively quality)"
+    },
+    {
+      "word": "coup",
+      "definition": "a striking or notable event (here French 'coup' as in 'coup de théâtre')",
+      "context": "in the phrase 'coup de théâtre' describing a theatrical turn of events"
+    },
+    {
+      "word": "théâtre",
+      "definition": "theatre (French)",
+      "context": "used in the French phrase 'coup de théâtre' to mean dramatic event"
+    },
+    {
+      "word": "burlesque",
+      "definition": "a literary or dramatic work that seeks to ridicule by exaggeration",
+      "context": "describes the scheme of Northanger Abbey as burlesque"
+    },
+    {
+      "word": "parody",
+      "definition": "a humorous or satirical imitation",
+      "context": "Northanger Abbey characterized as a parody of gothic novels"
+    },
+    {
+      "word": "enthralling",
+      "definition": "captivating; highly engaging",
+      "context": "used of Persuasion as 'relatively faint in tone, and not enthralling in interest'"
+    },
+    {
+      "word": "catastrophe",
+      "definition": "a disastrous conclusion; here used in dramatic/critical sense",
+      "context": "describes the ending of Mansfield Park as a theatrical 'catastrophe'"
+    },
+    {
+      "word": "insipid",
+      "definition": "lacking flavor, vigor, or interest; dull",
+      "context": "used to criticize hero and heroine of Mansfield Park as 'insipid'"
+    },
+    {
+      "word": "wickedly",
+      "definition": "in a wicked or morally wrong manner",
+      "context": "used in an ironic criticism that the author 'almost wickedly' destroyed romantic interest"
+    },
+    {
+      "word": "rehearsal-scenes",
+      "definition": "scenes depicting rehearsals (e.g., theatrical or musical practice)",
+      "context": "praises Austen's 'matchless rehearsal-scenes' as exemplary"
+    },
+    {
+      "word": "denouement",
+      "definition": "the final resolution of a narrative",
+      "context": "refers to the elopement of Lydia and Wickham bringing about the denouement"
+    },
+    {
+      "word": "elopement",
+      "definition": "the act of running away to get married, typically secretly",
+      "context": "the elopement of Lydia and Wickham is central to the plot discussion"
+    },
+    {
+      "word": "advent",
+      "definition": "the arrival or coming of something or someone",
+      "context": "speaks of 'the advent of Mr. Collins' as an event in the story"
+    },
+    {
+      "word": "unostentatious",
+      "definition": "not showy or pretentious; modest",
+      "context": "describes the novel's manner as 'unostentatious, but masterly'"
+    },
+    {
+      "word": "masterly",
+      "definition": "performed with skill and mastery",
+      "context": "used to praise Austen's skill: 'masterly fashion'"
+    },
+    {
+      "word": "hide-and-seek",
+      "definition": "a child's game of concealment and seeking; used metaphorically for contrived plotting",
+      "context": "criticizes theatrical hide-and-seek devices in Emma's plotting"
+    },
+    {
+      "word": "in-and-out",
+      "definition": "to-and-fro movement; used to describe contrived narrative motions",
+      "context": "paired with 'hide-and-seek' to characterize certain plot mechanics"
+    },
+    {
+      "word": "intrigue",
+      "definition": "a secret or underhand scheme; complicated plot",
+      "context": "refers to plot complexities in Emma as part of its intrigue"
+    },
+    {
+      "word": "misunderstanding",
+      "definition": "a failure to understand; often used as a plot device",
+      "context": "Austen's preference for misunderstandings as narrative opportunities"
+    },
+    {
+      "word": "awkwardness",
+      "definition": "a state of discomfort or clumsiness (social)",
+      "context": "describes awkwardness arising from Elizabeth's changing feelings"
+    },
+    {
+      "word": "transformation",
+      "definition": "a thorough or dramatic change in form or character",
+      "context": "the gradual transformation of Elizabeth’s feelings is central"
+    },
+    {
+      "word": "aversion",
+      "definition": "a strong dislike",
+      "context": "Elizabeth’s initial aversion to Darcy shifts to affection"
+    },
+    {
+      "word": "playwright",
+      "definition": "a person who writes plays",
+      "context": "speculates whether a dramatist's hand would have altered the novel"
+    },
+    {
+      "word": "footlights",
+      "definition": "stage lights at the front of a theatre",
+      "context": "says the novel is unlikely to be adapted for 'footlights' (the stage)"
+    },
+    {
+      "word": "pit",
+      "definition": "the lowest seating in a theatre near the stage",
+      "context": "paired with 'gallery' to denote full theatrical audiences"
+    },
+    {
+      "word": "gallery",
+      "definition": "upper seating in a theatre",
+      "context": "used with 'pit' to contrast sections of a theatre audience"
+    },
+    {
+      "word": "loosenesses",
+      "definition": "loose or weak points in construction",
+      "context": "notes the novel lacks 'loosenesses of construction'"
+    },
+    {
+      "word": "conveniences",
+      "definition": "advantages or devices used by novelists",
+      "context": "mentions 'conveniences of which the novelist can avail himself'"
+    },
+    {
+      "word": "ultra-critical",
+      "definition": "excessively critical",
+      "context": "used when noting how readers may view subtle humor differently: 'ultra-critical' eyes"
+    },
+    {
+      "word": "pathetic",
+      "definition": "evoking pity; here meaning moving or touching",
+      "context": "contrasts ‘pathetic or humorous character’ as high novel virtues"
+    },
+    {
+      "word": "consummate",
+      "definition": "supremely skilled; complete",
+      "context": "praises 'consummate command of dialogue' as rare talent"
+    },
+    {
+      "word": "dialogue",
+      "definition": "conversation between characters",
+      "context": "Austen's mastery of dialogue is highlighted"
+    },
+    {
+      "word": "puppets",
+      "definition": "figures controlled by others; used metaphorically for flat characters",
+      "context": "says a well-constructed plot alone could have 'puppets' with 'pebbles in their mouths'"
+    },
+    {
+      "word": "pebbles",
+      "definition": "small stones; used metaphorically",
+      "context": "image describing stilted dialogue 'pebbles in their mouths'"
+    },
+    {
+      "word": "Spectator",
+      "definition": "reference to the 18th-century periodical and its persona",
+      "context": "Mr. Spectator is quoted in critical comparison"
+    },
+    {
+      "word": "damsel",
+      "definition": "a young woman or girl (archaic tone)",
+      "context": "refers to a 'damsel of fourteen' quoted from the Spectator"
+    },
+    {
+      "word": "Shapely",
+      "definition": "proper name (Mr. Shapely) from Spectator letter",
+      "context": "name appears in a Spectator letter quoted in the preface"
+    },
+    {
+      "word": "mentor",
+      "definition": "an experienced advisor",
+      "context": "used in the Spectator letter: the young woman writes to a mentor"
+    },
+    {
+      "word": "gusto",
+      "definition": "vigorous and enthusiastic enjoyment",
+      "context": "describes the Spectator letter's gusto about a domestic prank"
+    },
+    {
+      "word": "blind-man’s-buff",
+      "definition": "an old party game (blindfolded chasing game)",
+      "context": "quoted example from the Spectator letter"
+    },
+    {
+      "word": "ladylike",
+      "definition": "having the qualities conventionally associated with a lady",
+      "context": "describes a hypothetical Lydia of an earlier age as 'ladylike'"
+    },
+    {
+      "word": "cynicism",
+      "definition": "skeptical attitude about motives or sincerity",
+      "context": "discussion about misuse of the word when applied to Austen's satire"
+    },
+    {
+      "word": "oblique",
+      "definition": "indirect; not straightforward",
+      "context": "describes Austen’s satire as 'gentle and oblique'"
+    },
+    {
+      "word": "self-deceiving",
+      "definition": "deceiving oneself; deluded",
+      "context": "used in reference to Mrs. Musgrove's 'self-deceiving regrets'"
+    },
+    {
+      "word": "satire",
+      "definition": "use of humor or irony to expose folly",
+      "context": "Austen's use of satire discussed in the preface"
+    },
+    {
+      "word": "epicurean",
+      "definition": "devoted to sensual enjoyment, especially food and comfort",
+      "context": "compares Austen’s narrator to an 'epicurean delight' in dissecting fools"
+    },
+    {
+      "word": "dissecting",
+      "definition": "analytically examining or cutting apart",
+      "context": "used metaphorically to describe Austen’s examination of fools"
+    },
+    {
+      "word": "roasting",
+      "definition": "severely criticizing or satirizing someone",
+      "context": "Austen’s delight in 'roasting and cutting up a fool'"
+    },
+    {
+      "word": "Memling",
+      "definition": "Hans Memling, early Netherlandish painter (proper name)",
+      "context": "cited as reference point for miniature painting quality"
+    },
+    {
+      "word": "Meissonier",
+      "definition": "Jean-Louis-Ernest Meissonier, French painter (proper name)",
+      "context": "paired with Memling as points on miniature-painting spectrum"
+    },
+    {
+      "word": "Cosway",
+      "definition": "Richard Cosway, miniature painter (proper name)",
+      "context": "named as an example of miniature painters"
+    },
+    {
+      "word": "miniature",
+      "definition": "a small, finely detailed work of art; here an analogy for Austen's novels",
+      "context": "Austen's art compared to that of a miniature painter"
+    },
+    {
+      "word": "metaphor",
+      "definition": "a figure of speech for symbolic comparison",
+      "context": "preface notes that metaphor has been exhausted in praising Austen's art"
+    },
+    {
+      "word": "microcosm",
+      "definition": "a small system reflecting a larger one",
+      "context": "Austen’s world called a 'microcosm' with cosmic quality"
+    },
+    {
+      "word": "littleness",
+      "definition": "smallness in scale",
+      "context": "contrasted with cosmic quality in Austen's microcosm"
+    },
+    {
+      "word": "romantic",
+      "definition": "pertaining to Romantic literary movement or idealized feeling",
+      "context": "discusses Austen's relative lack of 'full romantic quality'"
+    },
+    {
+      "word": "paste",
+      "definition": "artificial imitation (metaphorically 'romantic paste')",
+      "context": "says Austen may have had defective 'romantic paste' in her composition"
+    },
+    {
+      "word": "classical",
+      "definition": "relating to ancient Greek or Roman ideals or classicism",
+      "context": "contrast between classical shell and romantic elements"
+    },
+    {
+      "word": "Metaphysics",
+      "definition": "branch of philosophy; capitalized as a field",
+      "context": "used in reference to Coleridge requiring metaphysics and German influence"
+    },
+    {
+      "word": "realism",
+      "definition": "faithful representation of reality",
+      "context": "praises Austen’s realism as intensely true"
+    },
+    {
+      "word": "dead-alive",
+      "definition": "contradictory hyphenated phrase meaning superficially alive but essentially dead",
+      "context": "criticizes false realism of Austen’s day as 'dead-alive'"
+    },
+    {
+      "word": "myriad",
+      "definition": "countless or extremely great in number",
+      "context": "refers to 'myriad, trivial, unforced strokes' building Austen's picture"
+    },
+    {
+      "word": "trivial",
+      "definition": "of little value or importance; petty",
+      "context": "part of the phrase describing Austen’s many small strokes of detail"
+    },
+    {
+      "word": "unforced",
+      "definition": "natural, not contrived",
+      "context": "describes Austen's unforced narrative touches"
+    },
+    {
+      "word": "superfluous",
+      "definition": "unnecessary, excessive",
+      "context": "stresses that nothing is superfluous in Austen's prose"
+    },
+    {
+      "word": "taller",
+      "definition": "comparative for tall; used in phrase 'taller by the breadth of my nail' quoted from Swift",
+      "context": "quotation used to praise a touch in Austen's writing"
+    },
+    {
+      "word": "breadth",
+      "definition": "width; used metaphorically in the Swift quotation",
+      "context": "in the description 'taller by the breadth of my nail'"
+    },
+    {
+      "word": "nail",
+      "definition": "fingernail; used in Swift quotation",
+      "context": "part of Thackeray's quoted admiration comparing Austen with Swift"
+    },
+    {
+      "word": "Swiftian",
+      "definition": "in the manner of Jonathan Swift; satirical and cutting",
+      "context": "describes a quality of the novel as 'Swiftian'"
+    },
+    {
+      "word": "ineffable",
+      "definition": "too great or extreme to be described in words",
+      "context": "used when referring to the immortal Mr. Collins as 'ineffable'"
+    },
+    {
+      "word": "imperishable",
+      "definition": "unable to decay or be destroyed; lasting",
+      "context": "describing Mr. Collins as 'imperishable'"
+    },
+    {
+      "word": "matchless",
+      "definition": "having no equal; incomparable",
+      "context": "used to praise certain scenes as 'matchless rehearsal-scenes'"
+    },
+    {
+      "word": "suffrages",
+      "definition": "votes or expressions of approval/support",
+      "context": "used in 'cannot but unite the suffrages of everybody' about characters"
+    },
+    {
+      "word": "eloquent",
+      "definition": "expressive and persuasive (word used elsewhere in the discussion)",
+      "context": "used in descriptive critical commentary in the preface"
+    },
+    {
+      "word": "perception",
+      "definition": "the ability to see, hear, or become aware of; understanding",
+      "context": "discusses 'perception of the other side' in defining cynicism"
+    },
+    {
+      "word": "hells",
+      "definition": "figurative for darker sides of human nature",
+      "context": "phrase 'accepted hells beneath' used in explanation of cynicism"
+    },
+    {
+      "word": "disguise",
+      "definition": "to give a different appearance; used in 'disguised by the conveniences'",
+      "context": "refers to how faults can be hidden by novelist’s devices"
+    },
+    {
+      "word": "contemporary",
+      "definition": "belonging to the same period",
+      "context": "used in comparisons to contemporary novelists and critics"
+    },
+    {
+      "word": "savagery",
+      "definition": "the quality of being fierce or cruel; here used in critical comparison",
+      "context": "contrasted to Addison’s good nature when comparing writers"
+    },
+    {
+      "word": "ferocious",
+      "definition": "savagely fierce",
+      "context": "used to describe boisterous humor in other writers contrasted with Austen"
+    },
+    {
+      "word": "invective",
+      "definition": "insulting or abusive language",
+      "context": "contrasts Austen’s gentle satire with invective"
+    },
+    {
+      "word": "narrowness",
+      "definition": "limited scope",
+      "context": "used in discussing the narrowness of Austen's field vs. her perfection"
+    },
+    {
+      "word": "patron",
+      "definition": "a supporter or benefactor (implied in publishing context)",
+      "context": "implicit in discussion of friends and patrons like publishers and illustrators"
+    },
+    {
+      "word": "insipidly",
+      "definition": "in a dull or bland manner (adverb form derivable from 'insipid')",
+      "context": "adverbial sense tied to criticism of characters as insipid"
+    },
+    {
+      "word": "entrance",
+      "definition": "to fill with delight or wonder (related to 'entrain' used earlier)",
+      "context": "used in discussion of freshness and charm of Austen's work"
+    },
+    {
+      "word": "quintessential",
+      "definition": "representing the most perfect example of a quality",
+      "context": "labels Pride and Prejudice as the 'quintessential' Austen novel"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1342"
+}
