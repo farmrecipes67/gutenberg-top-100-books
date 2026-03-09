@@ -1,0 +1,585 @@
+{
+  "gutenberg_id": 52205,
+  "title": "肉蒲團",
+  "author": "Li, Yu",
+  "summary": "Li Yu’s novel follows Unyangsheng, a clever young scholar consumed by erotic ambition, who seeks “the first beauty.” A solitary ascetic monk, Gufeng, warns him to renounce desire; Unyangsheng ignores counsel, uses divination to win Yuxiang, the strict iron‑door scholar’s sheltered daughter, and marries her. He exposes her to spring‑palace paintings and erotic manuals, transforming her innocence into ardor; the couple masters varied sexual techniques and relish voluptuous daily intimacy. The narrator frames lust as both nourishing and dangerous, using vivid erotic scenes to instruct readers about moral consequences, discipline, and the costs of unchecked desire. and social hypocrisy. too.",
+  "characters": [
+    {
+      "name": "孤峰 (Gufeng / 皮布袋和尚)",
+      "age": "older monk (estimated 50+)",
+      "personality": "ascetic, strict, principled, compassionate but pragmatic",
+      "lifespan": "Remains a solitary ascetic who refuses easy discipleship; warns Unyangsheng and composes a verse as admonition within the excerpt."
+    },
+    {
+      "name": "未央生 (Unyangsheng)",
+      "age": "≈20s (text: 年過二十)",
+      "personality": "handsome, talented, clever, lustful, ambitious for fame and a perfect lover",
+      "lifespan": "Pursues erotic desire; ignores monk's counsel, marries Yuxiang, and actively instructs and awakens her sexually within the excerpt."
+    },
+    {
+      "name": "玉香 (Yuxiang)",
+      "age": "16 (text: 長了一十六歲)",
+      "personality": "initially sheltered, modest and virtuous, later curious and sexually responsive",
+      "lifespan": "Sheltered daughter of the iron‑door scholar; after marriage she is introduced to erotic books and becomes ardent and skilled in intimacy in the excerpt."
+    },
+    {
+      "name": "鐵扉道人 (the iron‑door scholar / Yuxiang's father)",
+      "age": "older adult (middle‑aged to elderly)",
+      "personality": "strict, austere, conservative, reclusive",
+      "lifespan": "Maintains rigorous household discipline and refuses casual meetings; within the excerpt he remains a stern guardian whose daughter is later married off."
+    },
+    {
+      "name": "媒婆 (the matchmaker)",
+      "age": "middle‑aged",
+      "personality": "pragmatic, opportunistic, persuasive",
+      "lifespan": "Acts as intermediary; arranges and reports on the betrothal process to Unyangsheng and the iron‑door scholar in the excerpt."
+    },
+    {
+      "name": "仙欒 / 大仙 (the diviner who writes poems)",
+      "age": "unspecified (adult)",
+      "personality": "mystical, authoritative in divination, persuasive",
+      "lifespan": "Performs poetic divination for Unyangsheng; supplies prophetic verses that influence the marriage decision in the excerpt."
+    },
+    {
+      "name": "回道人 / 呂純陽 (the Reclusive Taoist cited)",
+      "age": "historical / legendary figure",
+      "personality": "invoked as authoritative and literary",
+      "lifespan": "Referenced authoritatively by an oracle poem in the excerpt; not an active participant."
+    },
+    {
+      "name": "朋友 (the friend who brings the diviner)",
+      "age": "adult (peer of Unyangsheng)",
+      "personality": "helpful, socially connected",
+      "lifespan": "Brings the diviner/仙欒 to Unyangsheng's house to consult about the courtship in the excerpt."
+    },
+    {
+      "name": "家童 / 伴當 (house servants / attendants)",
+      "age": "young men / teenagers",
+      "personality": "subservient, practical, active in errands",
+      "lifespan": "Serve Unyangsheng and perform errands such as summoning matchmakers and guests in the excerpt."
+    },
+    {
+      "name": "孟子 (Mencius, referenced)",
+      "age": "historic philosopher",
+      "personality": "quoted as exemplar of moral persuasion",
+      "lifespan": "Appears as a quoted precedent in the monk's moral argument; not an active character in the plot excerpt."
+    },
+    {
+      "name": "齊宣王 (King Xuan of Qi, referenced)",
+      "age": "historic ruler",
+      "personality": "quoted as an example of appetitive ruler",
+      "lifespan": "Mentioned in moral and rhetorical passages by the narrator and monk; not active in narrative events."
+    },
+    {
+      "name": "太王 / 姜女 (referenced historical figures)",
+      "age": "historic references",
+      "personality": "invoked for illustrative anecdote",
+      "lifespan": "Cited in argument and analogy by characters in the excerpt; no direct role."
+    }
+  ],
+  "locations": [
+    {
+      "name": "括苍山 (Kuocang Mountain)",
+      "latitude": 28.3,
+      "longitude": 119.9333
+    },
+    {
+      "name": "處州 (historic Chuzhou, modern Lishui, Zhejiang)",
+      "latitude": 28.45,
+      "longitude": 119.9167
+    },
+    {
+      "name": "京師 (the capital, historically Beijing)",
+      "latitude": 39.9042,
+      "longitude": 116.4074
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "肉蒲團",
+      "definition": "title of the work (literally 'carnal mat')",
+      "context": "Title of the novel and thematic centerpiece."
+    },
+    {
+      "word": "滿庭芳",
+      "definition": "a ci‑poem title",
+      "context": "Name of the poem opening the work."
+    },
+    {
+      "word": "黑髮",
+      "definition": "black hair (symbol of youth)",
+      "context": "Used in the opening lyric about fleeting youth."
+    },
+    {
+      "word": "朱顏",
+      "definition": "rosy face (youthful beauty)",
+      "context": "Appears in the poem describing change with age."
+    },
+    {
+      "word": "青松",
+      "definition": "green pine (metaphor for constancy)",
+      "context": "Contrasted with human change in the poem."
+    },
+    {
+      "word": "名消",
+      "definition": "name diminished/vanished",
+      "context": "Phrase in the poem about fame fading."
+    },
+    {
+      "word": "利息",
+      "definition": "interest (profit), here metaphorical",
+      "context": "Used in poetic phrasing."
+    },
+    {
+      "word": "落花風",
+      "definition": "falling‑flower wind (poetic image)",
+      "context": "Poetic line evoking transience."
+    },
+    {
+      "word": "風流院",
+      "definition": "place or milieu of romantic libertinism",
+      "context": "Used to contrast youthful delight and later decay."
+    },
+    {
+      "word": "衰翁",
+      "definition": "aged man",
+      "context": "Used in poem to describe the decrepit."
+    },
+    {
+      "word": "王孫",
+      "definition": "noble youth; young master",
+      "context": "Poem reference to privileged youths."
+    },
+    {
+      "word": "金縷",
+      "definition": "gold thread (ornament)",
+      "context": "Poetic reference to finery."
+    },
+    {
+      "word": "戀芳藥",
+      "definition": "obsession with fragrances or love potions",
+      "context": "Poetic phrase suggesting love's allure."
+    },
+    {
+      "word": "房中",
+      "definition": "bedchamber (sexual context)",
+      "context": "Used to indicate the domestic sexual realm praised in the preface."
+    },
+    {
+      "word": "榮華",
+      "definition": "glory and splendor",
+      "context": "Contrasted with private sexual pleasure."
+    },
+    {
+      "word": "燕酣",
+      "definition": "drunken banquet (poetic)",
+      "context": "Used in poem imagery for indulgence."
+    },
+    {
+      "word": "晨鐘",
+      "definition": "morning bell (temple)",
+      "context": "Image marking the end of indulgence and return to duty."
+    },
+    {
+      "word": "乾坤",
+      "definition": "heaven and earth; the world",
+      "context": "Appears in the poem describing grand scenes."
+    },
+    {
+      "word": "大春宮",
+      "definition": "Great Spring Palace (euphemism for sexual tableau)",
+      "context": "Poetic metaphor for sexual world."
+    },
+    {
+      "word": "本草綱目",
+      "definition": "Materia Medica (famous pharmacopoeia)",
+      "context": "Quoted in a medicinal analogy about sex."
+    },
+    {
+      "word": "人參附子",
+      "definition": "ginseng and aconite (medicinal herbs)",
+      "context": "Used as analogy for sexual benefits and harms."
+    },
+    {
+      "word": "土產",
+      "definition": "locally produced; homegrown",
+      "context": "Used metaphorically about wives vs. outsiders."
+    },
+    {
+      "word": "倒地",
+      "definition": "literally 'fallen from the household' meaning outsider woman",
+      "context": "Describes women from other households as potentially harmful."
+    },
+    {
+      "word": "閨雛",
+      "definition": "maiden of the inner chamber",
+      "context": "Term for young virgin women."
+    },
+    {
+      "word": "踰牆",
+      "definition": "climb over the wall (elopement or illicit meeting)",
+      "context": "Used describing adulterous activity."
+    },
+    {
+      "word": "鑽穴",
+      "definition": "to penetrate holes; secret tryst",
+      "context": "Euphemistic for secret sexual meetings."
+    },
+    {
+      "word": "陰德",
+      "definition": "hidden virtue (merit accumulated secretly)",
+      "context": "Moral term used when warning about sexual misdeeds."
+    },
+    {
+      "word": "明條",
+      "definition": "clear statutes (explicit rules)",
+      "context": "Used in admonitions about legal/ethical consequences."
+    },
+    {
+      "word": "姦淫",
+      "definition": "fornication / adultery",
+      "context": "Frequent moral term in monk’s admonitions."
+    },
+    {
+      "word": "淫人妻",
+      "definition": "to commit adultery on someone's wife",
+      "context": "Used when discussing karmic retribution."
+    },
+    {
+      "word": "淫欲",
+      "definition": "sexual desire, lust",
+      "context": "Central moral and psychological theme."
+    },
+    {
+      "word": "陰陽交濟",
+      "definition": "interaction of yin and yang (sexual union)",
+      "context": "Described as potentially nourishing."
+    },
+    {
+      "word": "藥性",
+      "definition": "medicinal property",
+      "context": "Used in analogy comparing sex to medicine."
+    },
+    {
+      "word": "道學",
+      "definition": "learning of the Way; moral philosophy",
+      "context": "Mentioned as conventional moral instruction."
+    },
+    {
+      "word": "稗官野史",
+      "definition": "minor unofficial histories and anecdotes",
+      "context": "Genre reference explaining the book's form."
+    },
+    {
+      "word": "參禪",
+      "definition": "engage in Zen meditation/koan practice",
+      "context": "Practice discussed between monk and scholar."
+    },
+    {
+      "word": "禪機",
+      "definition": "Zen riddles / critical point of enlightenment",
+      "context": "Term used to assess Unyangsheng's spiritual capacity."
+    },
+    {
+      "word": "出家",
+      "definition": "to become a monk/nun",
+      "context": "Offered as a remedy for Unyangsheng's passion."
+    },
+    {
+      "word": "剃度",
+      "definition": "tonsure; ordination into monastic life",
+      "context": "Monk mentions ordaining disciples only with strict tests."
+    },
+    {
+      "word": "齋戒",
+      "definition": "fasting and precept practice",
+      "context": "Monk keeps and invites guests to observe precepts."
+    },
+    {
+      "word": "不募緣",
+      "definition": "refusal to beg alms or solicit support",
+      "context": "One of the monk's three self‑imposed precepts."
+    },
+    {
+      "word": "不講經",
+      "definition": "refusal to preach sutras",
+      "context": "Another of the monk's three precepts—avoiding false preaching."
+    },
+    {
+      "word": "不住名山",
+      "definition": "refusal to dwell on famous mountains",
+      "context": "Third of the monk's three precepts—avoid places that seduce."
+    },
+    {
+      "word": "名山",
+      "definition": "famous sacred mountain",
+      "context": "Discussed as attracting distractions like flirtatious visitors."
+    },
+    {
+      "word": "燒香",
+      "definition": "burn incense (religious act)",
+      "context": "Mentioned as an activity that brings women to temples."
+    },
+    {
+      "word": "皈依",
+      "definition": "to take refuge (Buddhist)",
+      "context": "The monk urges Unyangsheng toward ordination and refuge."
+    },
+    {
+      "word": "孤峰長老",
+      "definition": "Elder Gufeng (honorific)",
+      "context": "Full epithet of the head ascetic."
+    },
+    {
+      "word": "皮布袋和尚",
+      "definition": "the 'cloth‑sack monk' nickname",
+      "context": "Colloquial name for the ascetic due to his possessions."
+    },
+    {
+      "word": "瓦鐺",
+      "definition": "iron cooking pot",
+      "context": "Mentioned when the monk's meal is ready."
+    },
+    {
+      "word": "齋飯",
+      "definition": "meals prepared under religious fasting rules",
+      "context": "The monk invites Unyangsheng to morning meal (齋飯)."
+    },
+    {
+      "word": "蟲吟",
+      "definition": "insect chirping (poetic image)",
+      "context": "Seasonal scene setting the atmosphere of the monastery."
+    },
+    {
+      "word": "家童",
+      "definition": "household boy or servant",
+      "context": "Unyangsheng arrives accompanied by two 家童."
+    },
+    {
+      "word": "未央生",
+      "definition": "Unyangsheng (literary alias meaning 'night not yet over')",
+      "context": "The protagonist's chosen sobriquet."
+    },
+    {
+      "word": "四拜",
+      "definition": "four bows (formal salutation)",
+      "context": "Both monk and scholar exchange 四拜 upon meeting."
+    },
+    {
+      "word": "拜堂",
+      "definition": "marriage ceremony (bowing at the altar)",
+      "context": "Describes the couple's wedding rites."
+    },
+    {
+      "word": "繡房",
+      "definition": "embroidered inner chamber (bridal room)",
+      "context": "Where bride and groom consummate their marriage."
+    },
+    {
+      "word": "春宮冊",
+      "definition": "spring‑palace illustrated erotic album",
+      "context": "The erotic manual Unyangsheng shows Yuxiang."
+    },
+    {
+      "word": "漢宮遺照",
+      "definition": "'Han palace relic portrait' (title on the album)",
+      "context": "Inscription on the erotic album's opening pages."
+    },
+    {
+      "word": "太師椅",
+      "definition": "grandmaster’s or official's chair",
+      "context": "Used by the couple to imitate scenes from the spring album."
+    },
+    {
+      "word": "太湖石",
+      "definition": "Taihu stone (scholar's rock)",
+      "context": "Image used in describing spring‑palace poses."
+    },
+    {
+      "word": "錦褥",
+      "definition": "brocade bedding",
+      "context": "Describes the sumptuous setting in erotic illustrations."
+    },
+    {
+      "word": "繡床",
+      "definition": "embroidered bed",
+      "context": "Appears in descriptions of sexual positions."
+    },
+    {
+      "word": "玉麈",
+      "definition": "a euphemistic term for the penis (literally 'jade pestle')",
+      "context": "Used repeatedly during sexual description."
+    },
+    {
+      "word": "花心",
+      "definition": "lit. 'flower heart' – sexual target (clitoris/vulva center)",
+      "context": "Used when describing technique and aim."
+    },
+    {
+      "word": "丟了",
+      "definition": "to 'lose' meaning orgasmic release; to 'die' faintly with pleasure",
+      "context": "Describes post‑orgasmic stupor (丟/丟了) in sex scenes."
+    },
+    {
+      "word": "玉香",
+      "definition": "Yuxiang (character name meaning 'jade fragrance')",
+      "context": "Name of the scholar's bride."
+    },
+    {
+      "word": "鐵扉道人",
+      "definition": "iron‑door scholar (nickname of Yuxiang's father)",
+      "context": "Her reclusive, strict father."
+    },
+    {
+      "word": "媒婆",
+      "definition": "matchmaker (female intermediary)",
+      "context": "Arranges the marriage proposals."
+    },
+    {
+      "word": "仙欒",
+      "definition": "name/title of the diviner who writes prophetic verses",
+      "context": "Performs poetic divination for Unyangsheng."
+    },
+    {
+      "word": "純陽",
+      "definition": "Pure Yang (Lü Dongbin alias referenced)",
+      "context": "Signature on an oracle poem attributed to a Daoist figure."
+    },
+    {
+      "word": "仙詩",
+      "definition": "poem written by a diviner or immortalized figure",
+      "context": "Diviner’s poem about Yuxiang's beauty and risks."
+    },
+    {
+      "word": "判事",
+      "definition": "fortune‑teller/diviner (here '仙判事')",
+      "context": "A specialist Unyangsheng consults about the match."
+    },
+    {
+      "word": "詩",
+      "definition": "poem (used formally)",
+      "context": "Divination and cultural authority are expressed through poetic lines."
+    },
+    {
+      "word": "書畫鋪",
+      "definition": "book and painting shop",
+      "context": "Where Unyangsheng buys the spring album and other books."
+    },
+    {
+      "word": "趙子昂",
+      "definition": "Zhao Ziang (historical artist name used as attribution)",
+      "context": "Attributed artist of the spring‑palace album."
+    },
+    {
+      "word": "唐詩",
+      "definition": "Tang poetry",
+      "context": "Referenced as literary authority accompanying the pictures."
+    },
+    {
+      "word": "繡塌野史",
+      "definition": "an erotic/memoir title (listed among pornographic manuals)",
+      "context": "One of the erotic books purchased."
+    },
+    {
+      "word": "如意君傳",
+      "definition": "a titled erotic or anecdotal book listed",
+      "context": "Another erotic manual Unyangsheng buys."
+    },
+    {
+      "word": "痴婆子傳",
+      "definition": "a titled erotic/novelistic work listed",
+      "context": "Part of the collection used to educate Yuxiang."
+    },
+    {
+      "word": "枕席",
+      "definition": "pillow and mats; bedclothes",
+      "context": "Describes intimate domestic setting."
+    },
+    {
+      "word": "琴瑟",
+      "definition": "qin and se (metaphor for marital harmony)",
+      "context": "Poetic metaphor for the couple's compatibility."
+    },
+    {
+      "word": "鐘鼓",
+      "definition": "bells and drums (metaphor for celebration)",
+      "context": "Used to describe the exuberance of sexual pleasure."
+    },
+    {
+      "word": "三戒",
+      "definition": "three precepts (the monk's rules)",
+      "context": "Monk enumerates three personal vows: not to solicit, not to preach, not to live on famous mountains."
+    },
+    {
+      "word": "入門",
+      "definition": "enter a discipline (literally 'enter the gate')",
+      "context": "Used describing the beginning of spiritual practice."
+    },
+    {
+      "word": "苦行",
+      "definition": "ascetic practice",
+      "context": "Monk advocates hardship to remove desire."
+    },
+    {
+      "word": "飢寒",
+      "definition": "hunger and cold (deprivations)",
+      "context": "As means to subdue lust according to the monk."
+    },
+    {
+      "word": "色膽",
+      "definition": "boldness in sexual pursuit (literally 'color/gender gall')",
+      "context": "Used to describe reckless erotic courage."
+    },
+    {
+      "word": "風流罪犯",
+      "definition": "libidinous offender (one guilty of venereal transgression)",
+      "context": "Legal/moral category discussed."
+    },
+    {
+      "word": "瘌疾癇症",
+      "definition": "crusty disease and epilepsy (historic belief tied to divine punishment/marks)",
+      "context": "Mentioned as supposed celestial punishments producing hermit sages."
+    },
+    {
+      "word": "沐浴",
+      "definition": "ritual bathing",
+      "context": "Unyangsheng performs a bath before divination and ritual."
+    },
+    {
+      "word": "褶褲",
+      "definition": "folded/pleated trousers or foot coverings (part of bound feet clothing)",
+      "context": "Yuxiang retains her pleated foot coverings during intimacy."
+    },
+    {
+      "word": "三寸金蓮",
+      "definition": "three‑inch golden lotus (bound feet, small foot), euphemism for bound feet",
+      "context": "Used when describing women's feet and erotic interest."
+    },
+    {
+      "word": "玉上瑕",
+      "definition": "blemish on jade (metaphor for a minor flaw)",
+      "context": "Appears in an oracle couplet warning of possible defect."
+    },
+    {
+      "word": "玉塵",
+      "definition": "euphemism (literally 'jade dust'), used for semen or erotic residue",
+      "context": "Appears in erotic descriptions and captions."
+    },
+    {
+      "word": "陰戶",
+      "definition": "female genitalia (vulva)",
+      "context": "Used clinically in sexual description."
+    },
+    {
+      "word": "陽精",
+      "definition": "male seminal essence",
+      "context": "Describes male sexual discharge and its effects."
+    },
+    {
+      "word": "陰精",
+      "definition": "female sexual essence (menstrual or orgasmic fluid in classical terms)",
+      "context": "Mentioned when explaining sexual release and '丟'."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/52205"
+}
