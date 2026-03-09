@@ -1,0 +1,757 @@
+{
+  "gutenberg_id": 996,
+  "title": "Don Quixote",
+  "author": "Cervantes Saavedra, Miguel de",
+  "summary": "Don Quixote follows an aging hidalgo of La Mancha who, inspired by chivalric romances, becomes a self-styled knight-errant. Accompanied by his pragmatic squire Sancho Panza, he undertakes a series of comic and poignant adventures—battling windmills, freeing captives, misreading inns for castles, and seeking to disenchant his idealized lady Dulcinea del Toboso. The tale exposes books, honor, and social customs through pastiche, parody, and episodic encounters in the Sierra Morena, castles, courts and villages. Priests, barbers, nobles, shepherds, dukes and duchesses alternately mock, aid and manipulate the pair, testing courage, folly and the boundaries between fiction and reality, identity, language, society.",
+  "characters": [
+    {
+      "name": "Don Quixote (the ingenious gentleman of La Mancha)",
+      "age": "middle-aged to elderly (estimated)",
+      "personality": "idealistic, deluded, relentless in chivalric devotion",
+      "lifespan": "Undertakes many adventures; repeatedly tested, at times carried off 'enchanted' (see Ch. XLVII); end of fate not shown in provided excerpt"
+    },
+    {
+      "name": "Sancho Panza",
+      "age": "adult, middle-aged (estimated)",
+      "personality": "practical, earthy, loyal, comic realist",
+      "lifespan": "Accompanies Don Quixote on many sallys; later briefly governs an 'island' (Ch. XLIV–XLVII) per TOC entries"
+    },
+    {
+      "name": "Dulcinea del Toboso (Aldonza Lorenzo, implied)",
+      "age": "young adult (estimated)",
+      "personality": "idealized, unattainable lady of Don Quixote's imagination",
+      "lifespan": "Object of Don Quixote's quests; subject of disenchantment schemes (Vol. II Ch. XXXIV–XXXV)"
+    },
+    {
+      "name": "The Curate (the parish priest)",
+      "age": "adult, middle-aged (estimated)",
+      "personality": "practical, censorious, concerned with books and sanity",
+      "lifespan": "Inspects library and conspires to cure Don Quixote (Ch. VI; Vol. II Ch. I)"
+    },
+    {
+      "name": "The Barber",
+      "age": "adult (estimated)",
+      "personality": "practical, conspiratorial, comic accomplice to the curate",
+      "lifespan": "Helps censor books and enact schemes; takes part in Sierra devices (Ch. VI, XXVII–XXVIII)"
+    },
+    {
+      "name": "Samson Carrasco (Bachelor)",
+      "age": "young to middle-aged (estimated)",
+      "personality": "learned, energetic, comic foil, later disguised as a knight",
+      "lifespan": "Debates Don Quixote and later confronts him as the Knight of the Mirrors (Vol. II Ch. III–V, XII–XV)"
+    },
+    {
+      "name": "Teresa Panza",
+      "age": "adult (estimated)",
+      "personality": "practical, earthy, wife to Sancho",
+      "lifespan": "Appears in domestic scenes; receives Sancho's letters and is involved in his governance (Vol. II Ch. V, XLIX)"
+    },
+    {
+      "name": "The Canon",
+      "age": "adult, clerical (estimated)",
+      "personality": "learned critic of chivalric books, satirical voice",
+      "lifespan": "Pursues the subject of books and debates Don Quixote (Ch. XLVIII–L)"
+    },
+    {
+      "name": "The Duke and Duchess",
+      "age": "nobility, adults",
+      "personality": "amusingly cruel patrons who toy with Don Quixote and Sancho",
+      "lifespan": "Host elaborate deceptions for sport, including duchess's duenna and enchantments (Vol. II Ch. XXXIII–XLVIII)"
+    },
+    {
+      "name": "Doña Rodriguez (the Duchess's duenna)",
+      "age": "adult",
+      "personality": "serves her mistress in courtly intrigues",
+      "lifespan": "Involved in ducal entertainments and plots (Vol. II Ch. XLVIII–L)"
+    },
+    {
+      "name": "Princess Micomicona",
+      "age": "young (fictional princess)",
+      "personality": "fabricated distressed royal used to send Quixote on an adventure",
+      "lifespan": "Central to a contrived episode at an inn (Ch. XXXVII)"
+    },
+    {
+      "name": "Marcela (the shepherdess)",
+      "age": "young adult",
+      "personality": "independent, pastoral, attracts attention and verses",
+      "lifespan": "Her story and the dead shepherd’s verses are episodes in book (Ch. XIII–XIV)"
+    },
+    {
+      "name": "The Dead Shepherd (Grisóstomo-like figure)",
+      "age": "deceased young shepherd",
+      "personality": "romantic, plaintive in verse",
+      "lifespan": "His despairing verses appear in Ch. XIV"
+    },
+    {
+      "name": "The Goatherds / Goatherd (singular)",
+      "age": "rural adults",
+      "personality": "rustic storytellers and interlocutors",
+      "lifespan": "Appear in Sierra and other pastoral episodes (Ch. XI–XII, LI–LII)"
+    },
+    {
+      "name": "Mambrino (name associated with helmet episode)",
+      "age": "legendary/unnamed",
+      "personality": "legendary figure referenced via a 'helmet'",
+      "lifespan": "His 'helmet' (actually a barber's basin) becomes a prize for Don Quixote (Ch. XXI, XLV)"
+    },
+    {
+      "name": "Beltenebros (name used in penance imitation)",
+      "age": "reference name",
+      "personality": "famous fictional penitent invoked by Quixote",
+      "lifespan": "Don Quixote imitates penance of Beltenebros in Sierra Morena (Ch. XXV)"
+    },
+    {
+      "name": "Maritornes",
+      "age": "inn servant (not named in excerpt but common character)",
+      "personality": "comic inn character (not explicit in given TOC)",
+      "lifespan": "Not specified in provided excerpt"
+    },
+    {
+      "name": "The Captive",
+      "age": "adult",
+      "personality": "grave, storyteller",
+      "lifespan": "Relates an extended life-and-adventure narrative while among Don Quixote's party (Ch. XXXIX–XLI)"
+    },
+    {
+      "name": "The Muleteer",
+      "age": "adult",
+      "personality": "rustic, anecdotal",
+      "lifespan": "Tells a memorable story at the inn (Ch. XLIII)"
+    },
+    {
+      "name": "The Officers of the Holy Brotherhood",
+      "age": "officials",
+      "personality": "law-enforcing, stern",
+      "lifespan": "Appear in the adventure of Chapter XLVI"
+    },
+    {
+      "name": "The Penitents",
+      "age": "various adults",
+      "personality": "religious, afflicted",
+      "lifespan": "Their rare adventure is recounted (Ch. LII)"
+    },
+    {
+      "name": "Master Pedro (puppet-showman)",
+      "age": "adult",
+      "personality": "showman, comic, exploitive",
+      "lifespan": "Performs with his ape; features in braying and puppet episodes (Vol. II Ch. XXV–XXVII)"
+    },
+    {
+      "name": "The Divining Ape (and its owner)",
+      "age": "animal/performer",
+      "personality": "curious diverting attraction",
+      "lifespan": "Performs divinations as an entertainment (Vol. II Ch. XXV–XXVII)"
+    },
+    {
+      "name": "Benengeli (the putative 'narrator' name)",
+      "age": "attributed author persona",
+      "personality": "meta-fictional narrator alias",
+      "lifespan": "Named as source/translator in an authorial episode (Vol. II Ch. XXVIII)"
+    },
+    {
+      "name": "Clavileño (the enchanted wooden horse)",
+      "age": "artificial/animate",
+      "personality": "contrived magical device",
+      "lifespan": "Used in a protracted feigned adventure (Vol. II Ch. XLI)"
+    },
+    {
+      "name": "Camacho",
+      "age": "adult",
+      "personality": "wealthy groom in a comic wedding episode",
+      "lifespan": "Figure in the wedding of Camacho and related incidents (Vol. II Ch. XX–XXI)"
+    },
+    {
+      "name": "Basilio",
+      "age": "young adult",
+      "personality": "poor suitor, resourceful",
+      "lifespan": "His episode at Camacho's wedding is recounted (Vol. II Ch. XX)"
+    },
+    {
+      "name": "Altisidora",
+      "age": "young lady at ducal court",
+      "personality": "enamoured and theatrical",
+      "lifespan": "Attempts to woo Don Quixote during ducal entertainments (Vol. II Ch. XLVI)"
+    },
+    {
+      "name": "Doña Rodrí guez (the Countess/Duchess's duenna / the distressed duenna/Countess Trifaldi)",
+      "age": "adult",
+      "personality": "involved in ducal pranks and the 'distressed duenna' tale",
+      "lifespan": "Central to the Countess Trifaldi episode and its continuation (Vol. II Ch. XXXVI–XXXIX)"
+    }
+  ],
+  "locations": [
+    {
+      "name": "La Mancha (region, Spain)",
+      "latitude": 39,
+      "longitude": -3
+    },
+    {
+      "name": "El Toboso (Dulcinea's village, Toledo province, Spain)",
+      "latitude": 39.347,
+      "longitude": -2.676
+    },
+    {
+      "name": "Sierra Morena (mountain range, Spain)",
+      "latitude": 38.3,
+      "longitude": -4
+    },
+    {
+      "name": "Cueva de Montesinos (Montesinos cave, La Mancha region)",
+      "latitude": 38.662,
+      "longitude": -2.889
+    },
+    {
+      "name": "An inn (frequent episode settings, generic La Mancha inns)",
+      "latitude": 39,
+      "longitude": -3
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "sally",
+      "definition": "a sudden expedition or sortie, often military",
+      "context": "Ch. II: 'the first sally the ingenious Don Quixote made from home'"
+    },
+    {
+      "word": "ingenious",
+      "definition": "clever or imaginative (archaic use meaning 'inventive')",
+      "context": "Used repeatedly to describe Don Quixote as 'ingenious'"
+    },
+    {
+      "word": "droll",
+      "definition": "amusing in an odd or whimsical way",
+      "context": "Ch. III: 'the droll way in which Don Quixote had himself dubbed a knight'"
+    },
+    {
+      "word": "dubbed",
+      "definition": "formally conferred knighthood upon",
+      "context": "Ch. III: Don Quixote had himself dubbed a knight"
+    },
+    {
+      "word": "inn",
+      "definition": "a roadside lodging and tavern (archaic travel lodging)",
+      "context": "Multiple chapters: Don Quixote mistakes inns for castles (e.g., Ch. IV, XVI–XVII)"
+    },
+    {
+      "word": "mishap",
+      "definition": "an unlucky accident or misfortune",
+      "context": "Ch. V: 'the narrative of our knight’s mishap'"
+    },
+    {
+      "word": "diverting",
+      "definition": "entertaining or amusing (archaic usage)",
+      "context": "Ch. VI: 'the diverting and important scrutiny'"
+    },
+    {
+      "word": "scrutiny",
+      "definition": "critical examination or inspection",
+      "context": "Ch. VI: the curate and barber made a scrutiny of the library"
+    },
+    {
+      "word": "curate",
+      "definition": "a parish priest or clergyman",
+      "context": "Ch. VI and Vol. II Ch. I: the curate inspects books and consults about Don Quixote's malady"
+    },
+    {
+      "word": "barber",
+      "definition": "a tradesman who cuts hair and often performs minor surgeries; a comic conspirator in the book",
+      "context": "Ch. VI: the barber helps examine the library"
+    },
+    {
+      "word": "library",
+      "definition": "a collection of books (here, the books of chivalry)",
+      "context": "Ch. VI: where the curate and barber inspect Don Quixote's books"
+    },
+    {
+      "word": "windmills",
+      "definition": "large mills driven by wind; famous antagonists in a misperceived battle",
+      "context": "Ch. VIII: 'the adventure of the windmills'"
+    },
+    {
+      "word": "undreamt-of",
+      "definition": "unimagined or unprecedented",
+      "context": "Ch. VIII: 'the terrible and undreamt-of adventure'"
+    },
+    {
+      "word": "valiant",
+      "definition": "brave, courageous (often used in chivalric contexts)",
+      "context": "Used often, e.g., Ch. VIII: 'the valiant Don Quixote'"
+    },
+    {
+      "word": "Manchegan",
+      "definition": "an inhabitant of La Mancha (regional adjective)",
+      "context": "Ch. IX: 'the valiant Manchegan'"
+    },
+    {
+      "word": "Biscayan",
+      "definition": "an inhabitant of Biscay (region in northern Spain)",
+      "context": "Ch. IX: 'the gallant Biscayan'"
+    },
+    {
+      "word": "squire",
+      "definition": "a knight's attendant or servant; Sancho Panza's role",
+      "context": "Ch. X: Sancho Panza is named as the squire"
+    },
+    {
+      "word": "Sancho Panza",
+      "definition": "proper name of Don Quixote's squire",
+      "context": "Repeated in many chapter titles as Don Quixote's squire"
+    },
+    {
+      "word": "goatherds",
+      "definition": "people who tend goats; pastoral rustic characters",
+      "context": "Ch. XI–XII: Don Quixote encounters certain goatherds"
+    },
+    {
+      "word": "shepherdess",
+      "definition": "a female shepherd; a pastoral figure",
+      "context": "Ch. XIII: 'the shepherdess Marcela'"
+    },
+    {
+      "word": "Marcela",
+      "definition": "name of the shepherdess in an episode",
+      "context": "Ch. XIII: 'the story of the shepherdess Marcela'"
+    },
+    {
+      "word": "despairing",
+      "definition": "showing hopelessness or grief",
+      "context": "Ch. XIV: 'the despairing verses of the dead shepherd'"
+    },
+    {
+      "word": "shepherd",
+      "definition": "a pastoral caretaker of sheep, source of rustic episodes",
+      "context": "Ch. XIV: 'the dead shepherd' and his verses"
+    },
+    {
+      "word": "Yanguesans",
+      "definition": "people from La Yngua/La Ynguesa region (a regional group), used as an ethnonym",
+      "context": "Ch. XV: 'certain heartless Yanguesans'"
+    },
+    {
+      "word": "castle",
+      "definition": "fortified noble residence (Don Quixote mistakes inns for castles)",
+      "context": "Ch. XVI–XVII: 'took to be a castle'"
+    },
+    {
+      "word": "innumerable",
+      "definition": "too many to be counted; countless",
+      "context": "Ch. XVII: 'the innumerable troubles'"
+    },
+    {
+      "word": "troubles",
+      "definition": "difficulties or misadventures",
+      "context": "Ch. XVII: the troubles endured in the inn"
+    },
+    {
+      "word": "misfortune",
+      "definition": "bad luck or adversity",
+      "context": "Ch. XVII: 'to his misfortune he took to be a castle'"
+    },
+    {
+      "word": "shrewd",
+      "definition": "astute, sharp-witted (often in conversation)",
+      "context": "Ch. XIX: 'the shrewd discourse which Sancho held'"
+    },
+    {
+      "word": "dead body",
+      "definition": "a corpse; appears in an episode Sancho encounters",
+      "context": "Ch. XIX: Sancho's adventure 'with a dead body'"
+    },
+    {
+      "word": "UNEXAMPLED",
+      "definition": "without precedent; unprecedented (archaic spelling/usage)",
+      "context": "Ch. XX: 'the unexampled and unheard-of adventure' (appears as UNEXAMPLED)"
+    },
+    {
+      "word": "unheard-of",
+      "definition": "unprecedented, extraordinary",
+      "context": "Ch. XX: paired with 'unexampled' to describe the adventure"
+    },
+    {
+      "word": "Mambrino",
+      "definition": "proper name associated with a legendary helmet in the text",
+      "context": "Ch. XXI: 'Mambrino’s helmet' and later disputes (Ch. XLV)"
+    },
+    {
+      "word": "unfortunates",
+      "definition": "pitiable or unlucky people",
+      "context": "Ch. XXII: Don Quixote confers freedom on several unfortunates"
+    },
+    {
+      "word": "Sierra Morena",
+      "definition": "mountain range; setting for several episodes",
+      "context": "Ch. XXIII–XXVI: Don Quixote's adventures in the Sierra Morena"
+    },
+    {
+      "word": "Beltenebros",
+      "definition": "name of a fictional penitent whose penance Don Quixote imitates",
+      "context": "Ch. XXV: 'the penance of Beltenebros'"
+    },
+    {
+      "word": "extricate",
+      "definition": "to free or disentangle",
+      "context": "Ch. XXIX: device adopted 'to extricate our love-stricken knight'"
+    },
+    {
+      "word": "love-stricken",
+      "definition": "smitten or afflicted by love (archaic compound adjective)",
+      "context": "Ch. XXIX: describes Don Quixote's state"
+    },
+    {
+      "word": "Dorothea",
+      "definition": "name of a fair woman involved in an address episode",
+      "context": "Ch. XXX: 'address displayed by the fair Dorothea'"
+    },
+    {
+      "word": "novel",
+      "definition": "a short narrative or tale within the larger work (a 'novela' episode)",
+      "context": "Ch. XXXIII–XXXV: 'the novel of the Ill-Advised Curiosity'"
+    },
+    {
+      "word": "ill-advised",
+      "definition": "poorly thought out or folly-inducing",
+      "context": "Ch. XXXIII: 'the ill-advised curiosity'"
+    },
+    {
+      "word": "curiosity",
+      "definition": "a tale of inquisitiveness leading to misadventure",
+      "context": "Ch. XXXIII: title of an inserted story"
+    },
+    {
+      "word": "prodigious",
+      "definition": "remarkably great in size or extent; extraordinary",
+      "context": "Ch. XXXV: 'heroic and prodigious battle'"
+    },
+    {
+      "word": "skins",
+      "definition": "leather wineskins (archaic container for wine)",
+      "context": "Ch. XXXV: battle with certain 'skins of red wine'"
+    },
+    {
+      "word": "Micomicona",
+      "definition": "proper name of a fabricated princess (variant spelling Micomicona)",
+      "context": "Ch. XXXVII: 'the famous Princess Micomicona'"
+    },
+    {
+      "word": "arms and letters",
+      "definition": "heraldic/military prowess vs. literary learning (phrase)",
+      "context": "Ch. XXXVIII: discourse on 'arms and letters'"
+    },
+    {
+      "word": "captive",
+      "definition": "one taken prisoner who narrates his adventures",
+      "context": "Ch. XXXIX–XLI: 'the captive relates his life and adventures'"
+    },
+    {
+      "word": "muleteer",
+      "definition": "a driver or attendant of mules (a rural occupation)",
+      "context": "Ch. XLIII: 'the pleasant story of the muleteer'"
+    },
+    {
+      "word": "pack-saddle",
+      "definition": "a saddle used for carrying loads on pack animals",
+      "context": "Ch. XLV: dispute of Mambrino’s helmet and the pack-saddle"
+    },
+    {
+      "word": "Holy Brotherhood",
+      "definition": "a historical rural police force (Santa Hermandad)",
+      "context": "Ch. XLVI: 'the officers of the Holy Brotherhood' adventure"
+    },
+    {
+      "word": "enchanted",
+      "definition": "bewitched or carried away by enchantment",
+      "context": "Ch. XLVII: 'carried away enchanted'"
+    },
+    {
+      "word": "canon",
+      "definition": "a clergy member charged with cathedral duties; a learned interlocutor",
+      "context": "Ch. XLVIII–L: the canon discusses books of chivalry"
+    },
+    {
+      "word": "chivalry",
+      "definition": "medieval knightly culture and ideals",
+      "context": "Ch. XLVIII: subject of debate about books and knighthood"
+    },
+    {
+      "word": "penitents",
+      "definition": "those performing penance for sins, often publicly",
+      "context": "Ch. LII: 'the rare adventure of the penitents'"
+    },
+    {
+      "word": "malady",
+      "definition": "a disease or disorder (used of Don Quixote's state)",
+      "context": "Vol. II Ch. I: 'about his malady'"
+    },
+    {
+      "word": "niece",
+      "definition": "a relative who appears as household guardian in domestic chapters",
+      "context": "Vol. II Ch. II, VI: Don Quixote's niece debates his affairs"
+    },
+    {
+      "word": "housekeeper",
+      "definition": "household manager; appears caring for Don Quixote's estate",
+      "context": "Vol. II Ch. II, VI: involved in household interventions"
+    },
+    {
+      "word": "Samson Carrasco",
+      "definition": "proper name of 'the Bachelor' who debates and later disguises himself",
+      "context": "Vol. II Ch. III–V, XII–XV: his interventions and disguises"
+    },
+    {
+      "word": "Teresa Panza",
+      "definition": "Sancho Panza's wife, domestic foil",
+      "context": "Vol. II Ch. V and elsewhere: receives Sancho's letters"
+    },
+    {
+      "word": "Dulcinea del Toboso",
+      "definition": "Don Quixote's idealized lady from El Toboso",
+      "context": "Vol. II Ch. VIII–X, XXXIV–XXXV: many episodes concern her 'disenchantment'"
+    },
+    {
+      "word": "Cortes of Death",
+      "definition": "a macabre procession/cart motif used in an episode title",
+      "context": "Vol. II Ch. XI: 'the cart of The Cortes of Death'"
+    },
+    {
+      "word": "cart",
+      "definition": "a vehicle used in rural processions and staged adventures",
+      "context": "Vol. II Ch. XI: 'the car or cart of The Cortes of Death'"
+    },
+    {
+      "word": "Knight of the Mirrors",
+      "definition": "a titular adversary, later revealed as a disguise",
+      "context": "Vol. II Ch. XII–XV: challenge to Don Quixote"
+    },
+    {
+      "word": "Knight of the Grove",
+      "definition": "a named adversary whose encounter appears in multiple chapters",
+      "context": "Vol. II Ch. XIII–XIV: adventure continued"
+    },
+    {
+      "word": "Green Gaban",
+      "definition": "a descriptive epithet for one knightly house or character",
+      "context": "Vol. II Ch. XVIII: 'the Knight of the Green Gaban'"
+    },
+    {
+      "word": "enamoured",
+      "definition": "in love; romanticized or smitten",
+      "context": "Vol. II Ch. XIX: 'the enamoured shepherd' and many love-driven episodes"
+    },
+    {
+      "word": "Camacho",
+      "definition": "proper name of a rich man involved in a wedding episode",
+      "context": "Vol. II Ch. XX–XXI: 'the wedding of Camacho the rich'"
+    },
+    {
+      "word": "Basilio",
+      "definition": "proper name of the poor suitor in the wedding episode",
+      "context": "Vol. II Ch. XX: 'the incident of Basilio the poor'"
+    },
+    {
+      "word": "Montesinos",
+      "definition": "proper name of the cave and its legendary visions",
+      "context": "Vol. II Ch. XXII–XXIII: 'the cave of Montesinos' and wondrous visions within"
+    },
+    {
+      "word": "apocryphal",
+      "definition": "of doubtful authenticity; spurious",
+      "context": "Vol. II Ch. XXIII: the cave adventure is called 'apocryphal'"
+    },
+    {
+      "word": "trifling",
+      "definition": "trivial or of little importance",
+      "context": "Vol. II Ch. XXIV: 'a thousand trifling matters'"
+    },
+    {
+      "word": "braying",
+      "definition": "the loud harsh cry of a donkey (also metaphorically noisy)",
+      "context": "Vol. II Ch. XXV–XXVII: 'the braying adventure'"
+    },
+    {
+      "word": "puppet-showman",
+      "definition": "a performer who presents marionette or puppet shows",
+      "context": "Vol. II Ch. XXV–XXVII: 'the puppet-showman' episodes"
+    },
+    {
+      "word": "divinations",
+      "definition": "acts of foretelling or prophecy",
+      "context": "Vol. II Ch. XXV: 'the memorable divinations of the divining ape'"
+    },
+    {
+      "word": "divining ape",
+      "definition": "an ape used as a novelty to 'divine' or foretell",
+      "context": "Vol. II Ch. XXV: featured in a comic spectacle"
+    },
+    {
+      "word": "Master Pedro",
+      "definition": "proper name of the puppet-showman",
+      "context": "Vol. II Ch. XXV–XXVII: 'wherein it is shown who Master Pedro and his ape were'"
+    },
+    {
+      "word": "Benengeli",
+      "definition": "a fictional or pseudo-authorial name used in the text",
+      "context": "Vol. II Ch. XXVIII: 'Benengeli says'"
+    },
+    {
+      "word": "enchanted bark",
+      "definition": "a bewitched boat; an episode title",
+      "context": "Vol. II Ch. XXIX: 'the famous adventure of the enchanted bark'"
+    },
+    {
+      "word": "huntress",
+      "definition": "a female hunter; appears as a romantic or pastoral figure",
+      "context": "Vol. II Ch. XXX: 'a fair huntress' adventure"
+    },
+    {
+      "word": "Duchess",
+      "definition": "a high-ranking noblewoman involved in episodes of mockery and play",
+      "context": "Vol. II Ch. XXXIII–XXXV: entertains Sancho and Don Quixote"
+    },
+    {
+      "word": "damsels",
+      "definition": "young noblewomen attendants (archaic court title)",
+      "context": "Vol. II Ch. XXXIII: 'the Duchess and her damsels'"
+    },
+    {
+      "word": "disenchant",
+      "definition": "to remove enchantment or illusion",
+      "context": "Vol. II Ch. XXXIV–XXXV: schemes to 'disenchant' Dulcinea"
+    },
+    {
+      "word": "distressed duenna",
+      "definition": "a supposedly afflicted chaperone figure (duenna) in a staged tale",
+      "context": "Vol. II Ch. XXXVI–XXXIX: 'the distressed duenna, alias the Countess Trifaldi'"
+    },
+    {
+      "word": "Countess Trifaldi",
+      "definition": "name/title used in a ducal tale of distress and restoration",
+      "context": "Vol. II Ch. XXXVI–XXXIX: central to the 'distressed duenna' episodes"
+    },
+    {
+      "word": "Clavileño",
+      "definition": "the name of a wooden (simulated) flying device / horse used in the jest",
+      "context": "Vol. II Ch. XLI: 'the arrival of Clavileño' and the end of the protracted adventure"
+    },
+    {
+      "word": "protracted",
+      "definition": "extended or drawn out in time",
+      "context": "Vol. II Ch. XLI: describes prolonged adventures"
+    },
+    {
+      "word": "counsels",
+      "definition": "advice or admonitions often of a moral nature",
+      "context": "Vol. II Ch. XLII–XLIII: 'the counsels which Don Quixote gave Sancho'"
+    },
+    {
+      "word": "govern",
+      "definition": "to exercise authority; Sancho's temporary governorship of an island",
+      "context": "Vol. II Ch. XLII–XLVII: Sancho 'set out to govern the island' and conduct himself as governor"
+    },
+    {
+      "word": "island (govern his island)",
+      "definition": "a nominal fief or governorship granted as a mock island",
+      "context": "Vol. II Ch. XLIV–XLV: Sancho takes possession of his 'island'"
+    },
+    {
+      "word": "Altisidora",
+      "definition": "proper name of an enamoured lady at the ducal court",
+      "context": "Vol. II Ch. XLVI: 'the enamoured Altisidora's wooing'"
+    },
+    {
+      "word": "wooing",
+      "definition": "courtship or attempts to win love",
+      "context": "Vol. II Ch. XLVI: Altisidora's wooing episode"
+    },
+    {
+      "word": "enchanters",
+      "definition": "those who are said to practice enchantment or magic (used in jest in the story)",
+      "context": "Vol. II Ch. L: 'who the enchanters ... were who flogged the duenna'"
+    },
+    {
+      "word": "executioners",
+      "definition": "those carrying out punishments (here used in staged ducal pranks)",
+      "context": "Vol. II Ch. L: mentioned among actors in the ducal entertainments"
+    },
+    {
+      "word": "flogged",
+      "definition": "whipped as punishment (physical chastisement)",
+      "context": "Vol. II Ch. L: the duenna is said to have been flogged in the mock adventure"
+    },
+    {
+      "word": "pinched",
+      "definition": "tweaked or painfully pinched (used of comic torments)",
+      "context": "Vol. II Ch. L: 'pinched Don Quixote' in ducal jesting"
+    },
+    {
+      "word": "page",
+      "definition": "a youth attendant who carries messages, letters or parcels",
+      "context": "Vol. II Ch. L: 'the page who carried the letter to Teresa Panza'"
+    },
+    {
+      "word": "veracious",
+      "definition": "truthful; used ironically in the editorial preface",
+      "context": "Intro/Ebook Editor's Note: referred to the 'veracious history'"
+    },
+    {
+      "word": "penance",
+      "definition": "voluntary self-punishment inflicted as an act of penitence",
+      "context": "Ch. XXV and XXIX: Don Quixote's imitation or imposition of penance"
+    },
+    {
+      "word": "gallant",
+      "definition": "brave or chivalrous; also courteous or showy",
+      "context": "Ch. IX: 'the gallant Biscayan'"
+    },
+    {
+      "word": "goatherd",
+      "definition": "a single herdsman of goats (variant of goatherds)",
+      "context": "Ch. XI–XII and Ch. LI: single goatherd episodes and narrations"
+    },
+    {
+      "word": "mishap",
+      "definition": "an accidental misfortune (appears multiple times)",
+      "context": "Ch. V: used in describing Don Quixote's early misadventure"
+    },
+    {
+      "word": "diversion",
+      "definition": "an amusement or pastime (variant 'diverting' used in Ch. VI)",
+      "context": "Ch. VI: 'the diverting and important scrutiny'"
+    },
+    {
+      "word": "narrative",
+      "definition": "an account of connected events; story",
+      "context": "Ch. V: 'the narrative of our knight's mishap'"
+    },
+    {
+      "word": "fortune",
+      "definition": "chance or destiny, often used in adventures",
+      "context": "Ch. VIII: 'the good fortune' in the windmills adventure"
+    },
+    {
+      "word": "terrific",
+      "definition": "awe-inspiring or fierce (archaic intensifier)",
+      "context": "Ch. IX: 'the terrific battle'"
+    },
+    {
+      "word": "discourse",
+      "definition": "a formal or extended expression of thought on a subject",
+      "context": "Ch. X: 'the pleasant discourse that passed between Don Quixote and his squire'"
+    },
+    {
+      "word": "befell",
+      "definition": "happened to, befell (archaic past)",
+      "context": "Multiple chapters: 'of what befell Don Quixote' (e.g., Ch. XI, XXIII)"
+    },
+    {
+      "word": "inserted",
+      "definition": "placed within the text; used about interposed verses or tales",
+      "context": "Ch. XIV: 'wherein are inserted the despairing verses'"
+    },
+    {
+      "word": "afflicted",
+      "definition": "suffering or distressed (used in tales of misfortune)",
+      "context": "Vol. II Ch. XXXVI–XXXIX: the distressed duenna's tale of misfortunes"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/996"
+}
