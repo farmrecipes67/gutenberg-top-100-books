@@ -1,0 +1,572 @@
+{
+  "gutenberg_id": 2542,
+  "title": "A Doll's House : a play",
+  "author": "Ibsen, Henrik",
+  "summary": "Nora Helmer returns home cheerful, arranging Christmas gifts while her husband Torvald teases her with pet names and cautions against debt. They discuss finances, his upcoming bank appointment, and the household’s prospects. Nora playfully pleads for money to save as a personal gift and hides a special parcel. A porter and maid attend, and Mrs. Linde unexpectedly arrives, older and widowed. Nora recounts their salvage during earlier hardship, mentioning needlework and a year in Italy to restore Torvald’s health. The scene establishes domestic intimacy, gendered patronage, social respectability, and hints of unstated sacrifices behind Nora’s lighthearted manner and future tensions.",
+  "characters": [
+    {
+      "name": "Torvald Helmer",
+      "age": "age not specified in excerpt",
+      "personality": "patronizing, playful, concerned with respectability and finances",
+      "lifespan": "appears alive in household; fate not revealed in provided text"
+    },
+    {
+      "name": "Nora",
+      "age": "age not specified in excerpt (young wife and mother)",
+      "personality": "cheerful, playful, secretive about certain matters, devoted mother",
+      "lifespan": "appears alive; fate not revealed in provided text"
+    },
+    {
+      "name": "Doctor Rank",
+      "age": "age not specified in excerpt",
+      "personality": "mentioned as a social acquaintance; specifics not shown in excerpt",
+      "lifespan": "appears expected to attend dinner; fate not revealed in provided text"
+    },
+    {
+      "name": "Mrs Linde (Christine)",
+      "age": "age not specified in excerpt (noted as older than Nora)",
+      "personality": "dejected, timid, practical; recently widowed",
+      "lifespan": "arrives in town; fate not revealed in provided text"
+    },
+    {
+      "name": "Nils Krogstad",
+      "age": "age not specified in excerpt",
+      "personality": "listed among dramatis personae; not introduced in provided text",
+      "lifespan": "not introduced in provided text"
+    },
+    {
+      "name": "Helmer’s three young children",
+      "age": "young children (exact ages not given)",
+      "personality": "playful and looked after by nurse; referenced, not present in scene",
+      "lifespan": "alive and cared for; fate not revealed in provided text"
+    },
+    {
+      "name": "Anne (their nurse)",
+      "age": "age not specified in excerpt",
+      "personality": "domestic servant and caregiver to the children",
+      "lifespan": "present in household; fate not revealed in provided text"
+    },
+    {
+      "name": "A Housemaid",
+      "age": "age not specified in excerpt",
+      "personality": "serves the household, ushers callers and helps with parcels",
+      "lifespan": "present in household; fate not revealed in provided text"
+    },
+    {
+      "name": "A Porter",
+      "age": "age not specified in excerpt",
+      "personality": "brings the Christmas Tree and goods; functional role",
+      "lifespan": "appears briefly; fate not revealed in provided text"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Italy",
+      "latitude": 41.87194,
+      "longitude": 12.56738
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "furnished",
+      "definition": "supplied with furniture",
+      "context": "Stage direction: 'A room furnished comfortably and tastefully...'"
+    },
+    {
+      "word": "comfortably",
+      "definition": "in a comfortable manner; with ease or comfort",
+      "context": "Stage direction: 'A room furnished comfortably and tastefully...'"
+    },
+    {
+      "word": "tastefully",
+      "definition": "with good taste; aesthetically pleasingly",
+      "context": "Stage direction: 'A room furnished comfortably and tastefully...'"
+    },
+    {
+      "word": "extravagantly",
+      "definition": "in a way that exceeds reasonable bounds, lavishly",
+      "context": "Stage direction: 'but not extravagantly.'"
+    },
+    {
+      "word": "entrance-hall",
+      "definition": "the hall at the entrance of a building",
+      "context": "Stage direction: 'a door to the right leads to the entrance-hall'"
+    },
+    {
+      "word": "study",
+      "definition": "a room used as an office or library",
+      "context": "Stage direction: 'another to the left leads to Helmer’s study.'"
+    },
+    {
+      "word": "piano",
+      "definition": "a large keyboard musical instrument",
+      "context": "Stage direction: 'Between the doors stands a piano.'"
+    },
+    {
+      "word": "arm-chairs",
+      "definition": "chairs with supports for the arms",
+      "context": "Stage direction: 'arm-chairs and a small sofa.'"
+    },
+    {
+      "word": "sofa",
+      "definition": "a long upholstered seat for several people",
+      "context": "Stage direction: 'arm-chairs and a small sofa.'"
+    },
+    {
+      "word": "stove",
+      "definition": "a heating device or appliance",
+      "context": "Stage direction: 'a stove, two easy chairs and a rocking-chair;'"
+    },
+    {
+      "word": "rocking-chair",
+      "definition": "a chair mounted on rockers for gentle movement",
+      "context": "Stage direction: 'and a rocking-chair;'"
+    },
+    {
+      "word": "engravings",
+      "definition": "prints made from engraved plates; decorative pictures",
+      "context": "Stage direction: 'Engravings on the walls;'"
+    },
+    {
+      "word": "cabinet",
+      "definition": "a cupboard with shelves or drawers",
+      "context": "Stage direction: 'a cabinet with china and other small objects;'"
+    },
+    {
+      "word": "china",
+      "definition": "porcelain dishes and decorative items",
+      "context": "Stage direction: 'a cabinet with china and other small objects;'"
+    },
+    {
+      "word": "book-case",
+      "definition": "a cabinet or shelving for books",
+      "context": "Stage direction: 'a small book-case with well-bound books.'"
+    },
+    {
+      "word": "well-bound",
+      "definition": "having books bound with quality and sturdiness",
+      "context": "Stage direction: 'a small book-case with well-bound books.'"
+    },
+    {
+      "word": "books",
+      "definition": "written or printed works bound together",
+      "context": "Stage direction: 'a small book-case with well-bound books.'"
+    },
+    {
+      "word": "carpeted",
+      "definition": "covered with carpet",
+      "context": "Stage direction: 'The floors are carpeted, and a fire burns in the stove.'"
+    },
+    {
+      "word": "winter",
+      "definition": "the coldest season of the year",
+      "context": "Stage direction: 'It is winter.'"
+    },
+    {
+      "word": "bell",
+      "definition": "a hollow instrument that rings when struck",
+      "context": "Stage direction: 'A bell rings in the hall;'"
+    },
+    {
+      "word": "hall",
+      "definition": "a corridor or entrance area in a building",
+      "context": "Stage direction: 'A bell rings in the hall;'"
+    },
+    {
+      "word": "porter",
+      "definition": "a person who carries luggage or goods",
+      "context": "Stage direction: 'a PORTER who is carrying a Christmas Tree...'"
+    },
+    {
+      "word": "Christmas",
+      "definition": "the Christian festival celebrating Christ's birth; season reference",
+      "context": "Porter brings a 'Christmas Tree' for the household."
+    },
+    {
+      "word": "Tree",
+      "definition": "a decorative fir used at Christmas",
+      "context": "Porter brings a 'Christmas Tree' and a basket."
+    },
+    {
+      "word": "basket",
+      "definition": "a container made of interlaced material",
+      "context": "Stage direction: 'a Christmas Tree and a basket, which he gives to the MAID'"
+    },
+    {
+      "word": "maid",
+      "definition": "a female domestic servant",
+      "context": "Stage direction: 'which he gives to the MAID who has opened the door.'"
+    },
+    {
+      "word": "parcels",
+      "definition": "packages or wrapped items",
+      "context": "Nora 'carries a number of parcels; these she lays on the table to the right.'"
+    },
+    {
+      "word": "hat",
+      "definition": "a covering for the head",
+      "context": "Nora 'takes off her hat and coat.'"
+    },
+    {
+      "word": "coat",
+      "definition": "an outer garment worn for warmth",
+      "context": "Nora 'takes off her hat and coat.'"
+    },
+    {
+      "word": "purse",
+      "definition": "a small bag for carrying money",
+      "context": "Nora: 'taking out her purse.'"
+    },
+    {
+      "word": "sixpence",
+      "definition": "an old British coin equal to six pence",
+      "context": "PORTER: 'Sixpence.'"
+    },
+    {
+      "word": "shilling",
+      "definition": "an old British coin formerly worth twelve pence",
+      "context": "NORA: 'There is a shilling.'"
+    },
+    {
+      "word": "macaroons",
+      "definition": "small sweet biscuits or confections",
+      "context": "Nora 'takes a packet of macaroons from her pocket and eats one or two;'"
+    },
+    {
+      "word": "listens",
+      "definition": "gives attention to a sound",
+      "context": "Nora 'goes cautiously to her husband’s door and listens.'"
+    },
+    {
+      "word": "twittering",
+      "definition": "making light, chirping sounds (often of birds)",
+      "context": "HELMER: 'Is that my little lark twittering out there?'"
+    },
+    {
+      "word": "lark",
+      "definition": "a small songbird; used as a term of endearment",
+      "context": "HELMER: 'Is that my little lark twittering out there?'"
+    },
+    {
+      "word": "squirrel",
+      "definition": "a small rodent, here used as a pet-name for Nora",
+      "context": "HELMER: 'Is it my little squirrel bustling about?'"
+    },
+    {
+      "word": "bustling",
+      "definition": "moving energetically or busily",
+      "context": "HELMER: 'Is it my little squirrel bustling about?'"
+    },
+    {
+      "word": "spendthrift",
+      "definition": "a person who spends money recklessly",
+      "context": "HELMER: 'what are little people called that are always wasting money? Spendthrifts—I know.'"
+    },
+    {
+      "word": "economise",
+      "definition": "spend less; practice economy",
+      "context": "Nora: 'This is the first Christmas that we have not needed to economise.'"
+    },
+    {
+      "word": "recklessly",
+      "definition": "without thinking about consequences; carelessly",
+      "context": "HELMER: 'Still, you know, we can’t spend money recklessly.'"
+    },
+    {
+      "word": "salary",
+      "definition": "regular payment for employment",
+      "context": "Nora: 'You are going to have a big salary and earn lots and lots of money.'"
+    },
+    {
+      "word": "quarter",
+      "definition": "a period of three months",
+      "context": "HELMER: 'it will be a whole quarter before the salary is due.'"
+    },
+    {
+      "word": "borrow",
+      "definition": "take and use with intention to return",
+      "context": "NORA: 'Pooh! we can borrow until then.'"
+    },
+    {
+      "word": "featherhead",
+      "definition": "a foolish or flighty person (informal)",
+      "context": "HELMER: 'The same little featherhead!'"
+    },
+    {
+      "word": "slate",
+      "definition": "a flat piece of rock; here used in a hypothetical accident",
+      "context": "HELMER: '...a slate fell on my head and killed me...'"
+    },
+    {
+      "word": "debt",
+      "definition": "money owed to someone",
+      "context": "HELMER: 'No debt, no borrowing.'"
+    },
+    {
+      "word": "borrowing",
+      "definition": "the act of taking something temporarily, especially money",
+      "context": "HELMER: 'No debt, no borrowing. There can be no freedom...'"
+    },
+    {
+      "word": "freedom",
+      "definition": "the state of being free or independent",
+      "context": "HELMER: 'No debt, no borrowing. There can be no freedom or beauty about a home life...'"
+    },
+    {
+      "word": "beauty",
+      "definition": "the quality of being aesthetically pleasing",
+      "context": "HELMER: '...no freedom or beauty about a home life that depends on borrowing and debt.'"
+    },
+    {
+      "word": "home life",
+      "definition": "domestic existence and relationships within a household",
+      "context": "HELMER: '...a home life that depends on borrowing and debt.'"
+    },
+    {
+      "word": "straight",
+      "definition": "direct; here used figuratively about a moral course",
+      "context": "HELMER: 'We two have kept bravely on the straight road so far...'"
+    },
+    {
+      "word": "road",
+      "definition": "a metaphorical path or course of action",
+      "context": "HELMER: 'We two have kept bravely on the straight road so far...'"
+    },
+    {
+      "word": "skylark",
+      "definition": "a bird used affectionately as a pet-name",
+      "context": "HELMER: 'Come, come, my little skylark must not droop her wings.'"
+    },
+    {
+      "word": "droop",
+      "definition": "to sag or hang down; lose energy or spirit",
+      "context": "HELMER: 'my little skylark must not droop her wings.'"
+    },
+    {
+      "word": "wings",
+      "definition": "limbs used for flight; used figuratively",
+      "context": "HELMER: 'my little skylark must not droop her wings.'"
+    },
+    {
+      "word": "ear",
+      "definition": "organ of hearing; used here in gesture",
+      "context": "HELMER: '[Goes up to her and takes her playfully by the ear.]'"
+    },
+    {
+      "word": "money",
+      "definition": "a medium of exchange; currency",
+      "context": "HELMER: 'There you are.' [Gives her some money.]"
+    },
+    {
+      "word": "housekeeping",
+      "definition": "management of household affairs and expenses",
+      "context": "NORA: 'Do you think I don’t know what a lot is wanted for housekeeping at Christmas-time?'"
+    },
+    {
+      "word": "suit",
+      "definition": "a set of clothes; here a new suit for a child",
+      "context": "NORA: 'Look, here is a new suit for Ivar...'"
+    },
+    {
+      "word": "sword",
+      "definition": "a weapon; here a toy for a child",
+      "context": "NORA: 'and a sword; and a horse and a trumpet for Bob;'"
+    },
+    {
+      "word": "trumpet",
+      "definition": "a brass musical instrument; here a toy",
+      "context": "NORA: 'and a horse and a trumpet for Bob;'"
+    },
+    {
+      "word": "doll",
+      "definition": "a child's toy figure",
+      "context": "NORA: 'and a doll and dolly’s bedstead for Emmy...'"
+    },
+    {
+      "word": "bedstead",
+      "definition": "the framework of a bed",
+      "context": "NORA: 'a doll and dolly’s bedstead for Emmy...' "
+    },
+    {
+      "word": "dress-lengths",
+      "definition": "lengths of fabric to make dresses",
+      "context": "NORA: 'And here are dress-lengths and handkerchiefs for the maids;'"
+    },
+    {
+      "word": "handkerchiefs",
+      "definition": "small cloths used for wiping or blowing the nose",
+      "context": "NORA: 'And here are dress-lengths and handkerchiefs for the maids;'"
+    },
+    {
+      "word": "Anne",
+      "definition": "proper name; the household nurse",
+      "context": "NORA: 'and that kind of thing. And other things as well... old Anne ought really to have something better.'"
+    },
+    {
+      "word": "nurse",
+      "definition": "caretaker for children",
+      "context": "Stage direction: 'Anne, their nurse.'"
+    },
+    {
+      "word": "caller",
+      "definition": "a person who calls or visits",
+      "context": "HELMER: 'If it is a caller, remember I am not at home.'"
+    },
+    {
+      "word": "Doctor",
+      "definition": "a physician; title for Rank",
+      "context": "MRS LINDE: 'The doctor came at the same time, sir.'"
+    },
+    {
+      "word": "travelling",
+      "definition": "journeying from one place to another",
+      "context": "MRS LINDE: 'who is in travelling dress,'"
+    },
+    {
+      "word": "dejected",
+      "definition": "sad and depressed; discouraged",
+      "context": "MRS LINDE: 'in a dejected and timid voice' when she greets Nora"
+    },
+    {
+      "word": "timid",
+      "definition": "showing a lack of courage or confidence",
+      "context": "MRS LINDE: 'in a dejected and timid voice'"
+    },
+    {
+      "word": "paler",
+      "definition": "having less color in the face; paler than before",
+      "context": "NORA: 'You are a little paler, Christine...'"
+    },
+    {
+      "word": "thinner",
+      "definition": "having less flesh or weight; leaner",
+      "context": "NORA: 'and perhaps a little thinner.'"
+    },
+    {
+      "word": "widow",
+      "definition": "a woman whose spouse has died",
+      "context": "NORA: 'Poor Christine, you are a widow.'"
+    },
+    {
+      "word": "promotion",
+      "definition": "advancement to a higher position",
+      "context": "NORA: 'You see, Torvald left his office when we were married? There was no prospect of promotion there...'"
+    },
+    {
+      "word": "barrister’s",
+      "definition": "relating to a barrister (a type of lawyer)",
+      "context": "NORA: 'A barrister’s profession is such an uncertain thing...'"
+    },
+    {
+      "word": "unsavoury",
+      "definition": "morally offensive or unpleasant",
+      "context": "NORA: 'especially if he won’t undertake unsavoury cases;'"
+    },
+    {
+      "word": "commissions",
+      "definition": "fees or assignments given for services",
+      "context": "NORA: 'and then he will have a big salary and lots of commissions.'"
+    },
+    {
+      "word": "dullest",
+      "definition": "most uninteresting or monotonous",
+      "context": "HELMER: 'It was the dullest three weeks I ever spent!'"
+    },
+    {
+      "word": "ornaments",
+      "definition": "decorative objects",
+      "context": "HELMER: 'For a full three weeks beforehand you shut yourself up every evening... making ornaments for the Christmas Tree...'"
+    },
+    {
+      "word": "cat",
+      "definition": "a small domesticated feline; used in an anecdote",
+      "context": "NORA: 'How could I help the cat’s going in and tearing everything to pieces?'"
+    },
+    {
+      "word": "intentions",
+      "definition": "plans or aims; purposes",
+      "context": "HELMER: 'You had the best of intentions to please us all...'"
+    },
+    {
+      "word": "wheedling",
+      "definition": "coaxing or flattery to get one’s way",
+      "context": "HELMER: 'You always find some new way of wheedling money out of me...'"
+    },
+    {
+      "word": "inherit",
+      "definition": "receive (qualities, property) from an ancestor",
+      "context": "HELMER: 'It’s in the blood; for indeed it is true that you can inherit these things, Nora.'"
+    },
+    {
+      "word": "odd",
+      "definition": "strange or unusual; here affectionate",
+      "context": "HELMER: 'You are an odd little soul.'"
+    },
+    {
+      "word": "playfully",
+      "definition": "in a light-hearted or joking manner",
+      "context": "HELMER: '[Goes up to her and takes her playfully by the ear.]'"
+    },
+    {
+      "word": "wagging",
+      "definition": "moving something to and fro, often a finger in scolding",
+      "context": "HELMER: '[wagging his finger at her] .Hasn’t Miss Sweet Tooth been breaking rules in town today?'"
+    },
+    {
+      "word": "finger",
+      "definition": "a digit of the hand; used in gesture",
+      "context": "HELMER: '[wagging his finger at her]'"
+    },
+    {
+      "word": "clapping",
+      "definition": "striking the palms together, often in delight",
+      "context": "NORA: '[clapping her hands] .No, Torvald, I needn’t any longer, need I!'"
+    },
+    {
+      "word": "tidies",
+      "definition": "makes neat and orderly",
+      "context": "NORA: '[She tidies the room a little.]' "
+    },
+    {
+      "word": "cosy",
+      "definition": "comfortable and warm; snug (British spelling)",
+      "context": "NORA: 'Now we will sit down by the stove, and be cosy.'"
+    },
+    {
+      "word": "arrived",
+      "definition": "came to a place",
+      "context": "NORA: 'I arrived by steamer this morning.' (Mrs. Linde speaks)"
+    },
+    {
+      "word": "steamer",
+      "definition": "a steamship; a vessel powered by steam",
+      "context": "MRS LINDE: 'I arrived by steamer this morning.'"
+    },
+    {
+      "word": "relieved",
+      "definition": "freed from anxiety or distress",
+      "context": "NORA: 'I feel so relieved and so happy, Christine!'"
+    },
+    {
+      "word": "happy",
+      "definition": "feeling pleasure or contentment",
+      "context": "NORA: 'I feel so relieved and so happy, Christine!'"
+    },
+    {
+      "word": "delightful",
+      "definition": "highly pleasing; delightful",
+      "context": "MRS LINDE: 'Yes, anyhow I think it would be delightful to have what one needs.'"
+    },
+    {
+      "word": "manager",
+      "definition": "person in charge of a business or department",
+      "context": "NORA: 'Just fancy, my husband has been made manager of the Bank!'"
+    },
+    {
+      "word": "Bank",
+      "definition": "a financial institution where money is managed",
+      "context": "NORA: 'Just fancy, my husband has been made manager of the Bank!'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2542"
+}
