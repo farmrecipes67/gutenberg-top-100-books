@@ -1,0 +1,612 @@
+{
+  "gutenberg_id": 23,
+  "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+  "author": "Douglass, Frederick",
+  "summary": "Frederick Douglass’s Narrative recounts his escape from Maryland slavery and emergence as a powerful abolitionist speaker. In the Preface Wendell Phillips praises Douglass’s eloquence, moral courage, and public impact after his Nantucket and New Bedford appearances. The Narrative details institutionally inflicted brutality — scourgings, mutilations, and mental degradation — and the debasement of slave and enslaver alike. Douglass’s reflective longing for freedom on Chesapeake Bay, his soliloquies to receding ships, and his resolve to rise from fetters to lecturing agent are highlighted. The work condemns slavery as execrable, educates northern audiences, and urges immediate emancipation and human compassion and justice.",
+  "characters": [
+    {
+      "name": "Frederick Douglass",
+      "age": "adult (estimated 20s-30s at time of escape and lecturing in text)",
+      "personality": "eloquent, reflective, courageous, morally forceful",
+      "lifespan": "Escaped slavery, became a fugitive lecturer and public advocate for abolition (as described in the Preface)"
+    },
+    {
+      "name": "Wendell Phillips",
+      "age": "adult (age not specified in text)",
+      "personality": "ardent abolitionist, admiring, persuasive",
+      "lifespan": "Preface author who meets and publicly praises Douglass; advocates for his protection"
+    },
+    {
+      "name": "John A. Collins",
+      "age": "adult (age not specified)",
+      "personality": "practical abolition organizer, encouraging",
+      "lifespan": "General Agent of the Massachusetts Anti-Slavery Society who urged Douglass to lecture"
+    },
+    {
+      "name": "Charles Lenox Remond",
+      "age": "adult (age not specified)",
+      "personality": "eloquent orator, representative of free colored population",
+      "lifespan": "Named as a fellow black abolitionist and noted public speaker"
+    },
+    {
+      "name": "Daniel O'Connell",
+      "age": "adult (age not specified)",
+      "personality": "influential international reformer, rhetorically forceful",
+      "lifespan": "Quoted in the Preface for an anecdote and his view on slavery's brutalizing tendency"
+    },
+    {
+      "name": "Patrick Henry",
+      "age": "historical adult (referenced)",
+      "personality": "revolutionary exemplar (referenced for rhetorical comparison)",
+      "lifespan": "Referenced by Phillips as a comparison to Douglass's eloquence"
+    },
+    {
+      "name": "Beloved friend from New Bedford (unnamed)",
+      "age": "adult (unspecified)",
+      "personality": "supportive, helpful",
+      "lifespan": "Encouraged Douglass to address the Nantucket convention and aided his public debut"
+    },
+    {
+      "name": "An American sailor (unnamed)",
+      "age": "adult (unspecified)",
+      "personality": "victim in anecdote, formerly rational then degraded",
+      "lifespan": "Cast away and enslaved in Africa for three years in O'Connell's anecdote; found 'imbruted and stultified'"
+    },
+    {
+      "name": "The driver (unnamed)",
+      "age": "adult (unspecified)",
+      "personality": "cruel enforcer",
+      "lifespan": "Figure referenced as administering lashings and enforcing labor under slavery"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Nantucket, Massachusetts, USA",
+      "latitude": 41.2835,
+      "longitude": -70.0995
+    },
+    {
+      "name": "New Bedford, Massachusetts, USA",
+      "latitude": 41.6362,
+      "longitude": -70.9342
+    },
+    {
+      "name": "Boston (Cornhill), Massachusetts, USA",
+      "latitude": 42.3601,
+      "longitude": -71.0589
+    },
+    {
+      "name": "Chesapeake Bay, USA",
+      "latitude": 38.9072,
+      "longitude": -76.545
+    },
+    {
+      "name": "Dublin, Ireland (Conciliation Hall referenced)",
+      "latitude": 53.3498,
+      "longitude": -6.2603
+    },
+    {
+      "name": "Maryland, USA",
+      "latitude": 39.0458,
+      "longitude": -76.6413
+    },
+    {
+      "name": "Georgia, USA",
+      "latitude": 32.1656,
+      "longitude": -82.9001
+    },
+    {
+      "name": "Alabama, USA",
+      "latitude": 32.3182,
+      "longitude": -86.9023
+    },
+    {
+      "name": "Louisiana, USA",
+      "latitude": 30.9843,
+      "longitude": -91.9623
+    },
+    {
+      "name": "Approximate Mason and Dixon's Line (referenced boundary)",
+      "latitude": 39.7249,
+      "longitude": -75.608
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "manacled",
+      "definition": "shackled or fettered, bound with metal restraints",
+      "context": "Used to describe 'manacled brethren' suffering under slavery"
+    },
+    {
+      "word": "brethren",
+      "definition": "brothers or fellow members of a group (archaic/formal)",
+      "context": "Refers to fellow enslaved people as 'manacled brethren'"
+    },
+    {
+      "word": "thraldom",
+      "definition": "the state of being in bondage or slavery (archaic)",
+      "context": "Describes the oppressive bondage from which the enslaved seek deliverance"
+    },
+    {
+      "word": "panting",
+      "definition": "breathing hard, figuratively yearning eagerly",
+      "context": "Describes 'manacled brethren ... panting for deliverance'"
+    },
+    {
+      "word": "consecrated",
+      "definition": "devoted or dedicated formally to a purpose",
+      "context": "Phillips urges Douglass to 'consecrate his time and talents' to abolition"
+    },
+    {
+      "word": "prodigy",
+      "definition": "a person with extraordinary talents",
+      "context": "Douglass is called a 'prodigy' in natural eloquence"
+    },
+    {
+      "word": "apostrophizing",
+      "definition": "addressing something abstract or absent as if present",
+      "context": "Douglass 'apostrophizing' receding ships as symbols of freedom"
+    },
+    {
+      "word": "expostulation",
+      "definition": "an earnest expression of protest or remonstrance",
+      "context": "Preface references 'expostulation' as part of the Narrative's moral pleadings"
+    },
+    {
+      "word": "execrable",
+      "definition": "extremely bad or detestable",
+      "context": "Used to condemn slavery as an 'execrable' system"
+    },
+    {
+      "word": "abettors",
+      "definition": "those who assist or encourage wrongdoing",
+      "context": "Refers to those who support or enable slavery as 'abettors'"
+    },
+    {
+      "word": "imbruted",
+      "definition": "made brutish or degraded (archaic/rare)",
+      "context": "O'Connell's anecdote describes a castaway 'imbruted and stultified'"
+    },
+    {
+      "word": "stultified",
+      "definition": "made ineffective or foolish; deprived of ability",
+      "context": "Describes mental degradation in the Anecdote: 'imbruted and stultified'"
+    },
+    {
+      "word": "gibberish",
+      "definition": "nonsensical or unintelligible language",
+      "context": "The sailor could only utter 'savage gibberish' after enslavement"
+    },
+    {
+      "word": "brutalize",
+      "definition": "to make brutal or dehumanize",
+      "context": "O'Connell's phrase: slavery tends to 'brutalize every noble faculty of man'"
+    },
+    {
+      "word": "chattel",
+      "definition": "an item of property; slave as property (legal/archaic use)",
+      "context": "Slaves are described as 'chattel personal' in the Preface"
+    },
+    {
+      "word": "fetters",
+      "definition": "chains or shackles used to restrain",
+      "context": "Douglass 'broke his iron fetters' upon escaping slavery"
+    },
+    {
+      "word": "trafficker",
+      "definition": "one who trades or deals, here trading in people",
+      "context": "Phillips condemns those who act as 'trafficker in slaves and the souls of men'"
+    },
+    {
+      "word": "auditory",
+      "definition": "a listening audience or hearing space (somewhat uncommon)",
+      "context": "Douglass's speech affected a 'crowded auditory'"
+    },
+    {
+      "word": "felicitous",
+      "definition": "well chosen or pleasing; apt",
+      "context": "Phillips praises Douglass's 'felicitous remarks'"
+    },
+    {
+      "word": "sanguine",
+      "definition": "optimistic or hopeful (somewhat literary)",
+      "context": "Douglass's success exceeded 'the most sanguine expectations'"
+    },
+    {
+      "word": "proselytes",
+      "definition": "converts or new adherents (religious/political)",
+      "context": "Douglass is credited with 'gaining proselytes' to abolition"
+    },
+    {
+      "word": "pathos",
+      "definition": "evoking pity or sadness; emotional appeal",
+      "context": "Douglass's speeches excel in 'pathos' according to the Preface"
+    },
+    {
+      "word": "fluency",
+      "definition": "smoothness or ease in speaking or writing",
+      "context": "Recognized as part of Douglass's speaking strengths"
+    },
+    {
+      "word": "abhorrence",
+      "definition": "a feeling of extreme repugnance or disgust",
+      "context": "Readers who feel no 'unutterable abhorrence of slavery' are criticized"
+    },
+    {
+      "word": "obliterate",
+      "definition": "to destroy completely or erase",
+      "context": "Slavery is said to 'obliterate all traces of [slaves'] relationship to mankind'"
+    },
+    {
+      "word": "succor",
+      "definition": "assistance or aid in time of hardship (archaic/common)",
+      "context": "Audience is asked 'Will you succor and protect him?' regarding Douglass"
+    },
+    {
+      "word": "instil",
+      "definition": "to gradually impart or introduce (British spelling)",
+      "context": "Phillips sought to 'instil hope and courage' into Douglass"
+    },
+    {
+      "word": "diffidence",
+      "definition": "shyness or lack of self-confidence",
+      "context": "Douglass expressed 'unfeigned diffidence' about public speaking"
+    },
+    {
+      "word": "auspices",
+      "definition": "guidance, support, or patronage",
+      "context": "Douglass lectured 'under the auspices' of anti-slavery societies"
+    },
+    {
+      "word": "meekness",
+      "definition": "quiet, gentle submissiveness (old-fashioned tone)",
+      "context": "Phillips praises Douglass's 'meekness' balanced with manliness"
+    },
+    {
+      "word": "calumniators",
+      "definition": "those who make false statements to damage someone's reputation",
+      "context": "Refers to those who slander the capabilities of the colored race"
+    },
+    {
+      "word": "illiberality",
+      "definition": "narrow-mindedness or intolerance",
+      "context": "Phillips condemns the 'illiberality of spirit' among critics"
+    },
+    {
+      "word": "specious",
+      "definition": "seeming plausible but actually wrong; deceptively attractive",
+      "context": "O'Connell warns how slavery may disguise itself under 'specious' terms"
+    },
+    {
+      "word": "hideous",
+      "definition": "extremely ugly or offensive",
+      "context": "O'Connell calls slavery 'still hideous' despite disguises"
+    },
+    {
+      "word": "expiration",
+      "definition": "the ending of a period of time",
+      "context": "At the 'expiration of that period' the sailor was found degraded"
+    },
+    {
+      "word": "humanizing",
+      "definition": "making humane or civilizing",
+      "context": "Ironically used about 'The Domestic Institution' as a supposed humanizing force"
+    },
+    {
+      "word": "peruse",
+      "definition": "to read thoroughly or carefully (somewhat literary)",
+      "context": "Phillips challenges those who can 'peruse' the Narrative without feeling"
+    },
+    {
+      "word": "unutterable",
+      "definition": "too great or intense to be expressed in words",
+      "context": "Used in 'unutterable abhorrence of slavery'"
+    },
+    {
+      "word": "flinty",
+      "definition": "unfeeling or hard-hearted (metaphorical)",
+      "context": "Phillips says only a 'flinty heart' could remain unmoved by the Narrative"
+    },
+    {
+      "word": "deplorable",
+      "definition": "deserving strong condemnation; lamentable",
+      "context": "Describes Douglass's 'deplorable' situation under slavery"
+    },
+    {
+      "word": "chastisements",
+      "definition": "punishments or corrections (archaic tone)",
+      "context": "Refers to the 'terrible chastisements' inflicted upon his person"
+    },
+    {
+      "word": "outrages",
+      "definition": "acts of extreme cruelty or violence",
+      "context": "Mentions 'shocking outrages ... perpetrated upon his mind'"
+    },
+    {
+      "word": "sublimity",
+      "definition": "the quality of greatness or grandeur that inspires awe",
+      "context": "The passage on Chesapeake Bay is praised for its 'sublimity'"
+    },
+    {
+      "word": "aspirations",
+      "definition": "strong desires to achieve something high or great",
+      "context": "Douglass's 'sublime aspirations' are noted despite bondage"
+    },
+    {
+      "word": "reflective",
+      "definition": "thoughtful, given to deep thought",
+      "context": "'as he grew reflective and intelligent' his misery augmented"
+    },
+    {
+      "word": "lash",
+      "definition": "a whipping instrument or stroke; to whip",
+      "context": "Mentions 'under the lash of the driver' as part of his suffering"
+    },
+    {
+      "word": "perils",
+      "definition": "dangers or risks",
+      "context": "Describes 'what perils he encountered' in attempts to escape"
+    },
+    {
+      "word": "endeavors",
+      "definition": "efforts or attempts",
+      "context": "Discusses his 'endeavors to escape from his horrible doom'"
+    },
+    {
+      "word": "signal",
+      "definition": "notable or remarkable",
+      "context": "'how signal have been his deliverance'—remarkable preservation"
+    },
+    {
+      "word": "deliverance",
+      "definition": "liberation or rescue from danger",
+      "context": "Refers to Douglass's 'deliverance' from slavery"
+    },
+    {
+      "word": "preservation",
+      "definition": "protection from harm or decay",
+      "context": "Mentions Douglass's 'preservation in the midst of a nation of pitiless enemies'"
+    },
+    {
+      "word": "pitiless",
+      "definition": "merciless; showing no pity",
+      "context": "Describes 'a nation of pitiless enemies'"
+    },
+    {
+      "word": "soliloquizing",
+      "definition": "speaking one's thoughts aloud when alone",
+      "context": "Douglass 'soliloquizing respecting his fate' on Chesapeake Bay"
+    },
+    {
+      "word": "freeman",
+      "definition": "a person who is not enslaved; a free person (historic term)",
+      "context": "Douglass contemplates 'one day being a freeman'"
+    },
+    {
+      "word": "receding",
+      "definition": "moving back or away",
+      "context": "He watches 'receding vessels' as symbols of freedom"
+    },
+    {
+      "word": "animated",
+      "definition": "full of life or spirit; given life to (figurative)",
+      "context": "He imagines vessels as 'animated by the living spirit of freedom'"
+    },
+    {
+      "word": "Alexandrian",
+      "definition": "relating to Alexandria, here implying vast learning",
+      "context": "'a whole Alexandrian library of thought' compressed into the passage"
+    },
+    {
+      "word": "entreaty",
+      "definition": "an earnest or humble request",
+      "context": "The passage contains 'entreaty' among other appeals"
+    },
+    {
+      "word": "rebuke",
+      "definition": "an expression of sharp disapproval or criticism",
+      "context": "'expostulation, entreaty, rebuke' are part of the Narrative's appeals"
+    },
+    {
+      "word": "accursed",
+      "definition": "condemned or doomed; deserving severe censure",
+      "context": "Questions 'how accursed is that system' of slavery"
+    },
+    {
+      "word": "entombs",
+      "definition": "to bury or hide deeply",
+      "context": "Says slavery 'entombs the godlike mind of man'"
+    },
+    {
+      "word": "defaces",
+      "definition": "to spoil the appearance or value of something",
+      "context": "Slavery 'defaces the divine image' in people"
+    },
+    {
+      "word": "four-footed",
+      "definition": "having four feet; used to liken humans to animals",
+      "context": "Reduces humans 'to a level with four-footed beasts'"
+    },
+    {
+      "word": "incredulous",
+      "definition": "unwilling or unable to believe something",
+      "context": "Many are 'stubbornly incredulous' about slavery's cruelties"
+    },
+    {
+      "word": "recital",
+      "definition": "a detailed account or narrative",
+      "context": "People disbelieve any 'recital of the cruelties' of slavery"
+    },
+    {
+      "word": "barbarity",
+      "definition": "savage cruelty or brutality",
+      "context": "Slavery is associated with 'savage barbarity' in the Preface"
+    },
+    {
+      "word": "scourgings",
+      "definition": "whippings or flogging punishments (archaic term)",
+      "context": "Lists 'cruel scourgings' inflicted on slaves"
+    },
+    {
+      "word": "mutilations",
+      "definition": "the act of depriving of a limb or disfiguring",
+      "context": "References 'mutilations and brandings' as brutal acts"
+    },
+    {
+      "word": "brandings",
+      "definition": "marking by burning, often as punishment or ownership",
+      "context": "Mentions 'brandings' among horrors of slavery"
+    },
+    {
+      "word": "pollution",
+      "definition": "defilement or contamination (moral or physical)",
+      "context": "Mentions 'scenes of pollution and blood' inflicted on slaves"
+    },
+    {
+      "word": "banishment",
+      "definition": "the state of being exiled or sent away",
+      "context": "'banishment of all light and knowledge' implied in slavery"
+    },
+    {
+      "word": "unfeigned",
+      "definition": "genuine; sincere (archaic phrasing)",
+      "context": "Douglass showed 'unfeigned diffidence' when first speaking"
+    },
+    {
+      "word": "hazards",
+      "definition": "dangers or risks",
+      "context": "Audiences were asked whether they would befriend him 'at all hazards'"
+    },
+    {
+      "word": "augmented",
+      "definition": "made greater in size or intensity",
+      "context": "His 'misery augmented' as he became more reflective"
+    },
+    {
+      "word": "heaving",
+      "definition": "rising and falling, as with emotion",
+      "context": "Phillips says the Narrative can leave the reader with a 'heaving breast'"
+    },
+    {
+      "word": "afflicted",
+      "definition": "affected by pain or distress",
+      "context": "Readers might have an 'afflicted spirit' reading the Narrative"
+    },
+    {
+      "word": "righteous",
+      "definition": "morally right or justifiable (religious tone)",
+      "context": "Appeal to a 'righteous God' in the Preface"
+    },
+    {
+      "word": "conceded",
+      "definition": "acknowledged or admitted",
+      "context": "It is 'conceded' Maryland treats slaves better than certain states"
+    },
+    {
+      "word": "peculiar",
+      "definition": "distinctive or unusual",
+      "context": "Phillips says Douglass's experience 'was not a peculiar one'"
+    },
+    {
+      "word": "specimen",
+      "definition": "an example or sample",
+      "context": "Douglass's case may be regarded as a 'fair specimen' of Maryland slavery"
+    },
+    {
+      "word": "perpetrated",
+      "definition": "carried out (usually of a harmful act)",
+      "context": "Describes 'outrages ... perpetrated upon his mind'"
+    },
+    {
+      "word": "professing",
+      "definition": "professing: claiming or asserting (often hypocritically)",
+      "context": "Even 'those professing to have the same mind' treated slaves cruelly"
+    },
+    {
+      "word": "enslavers",
+      "definition": "people who enslave others; those who hold others in bondage",
+      "context": "Used in 'against the enslavers of men!' in the Preface"
+    },
+    {
+      "word": "manliness",
+      "definition": "qualities traditionally associated with men: courage, strength",
+      "context": "Douglass is noted for 'manliness of character' alongside meekness"
+    },
+    {
+      "word": "virtuous",
+      "definition": "having high moral standards",
+      "context": "Phillips praises Douglass's 'virtuous traits of character'"
+    },
+    {
+      "word": "abiding",
+      "definition": "lasting or enduring",
+      "context": "His 'ever-abiding remembrance' of those in bonds is noted"
+    },
+    {
+      "word": "applause",
+      "definition": "approval or praise expressed especially by clapping",
+      "context": "Douglass's speech received 'applause which followed from the beginning to the end'"
+    },
+    {
+      "word": "hesitancy",
+      "definition": "the quality of being hesitant or uncertain",
+      "context": "Douglass approached the platform with 'hesitancy and embarrassment'"
+    },
+    {
+      "word": "embarrassment",
+      "definition": "a feeling of self-consciousness, shame, or awkwardness",
+      "context": "He displayed 'hesitancy and embarrassment' when first speaking"
+    },
+    {
+      "word": "novel",
+      "definition": "new or unusual in an interesting way",
+      "context": "The path Douglass would take was 'wholly an untrodden one' and 'novel' to him"
+    },
+    {
+      "word": "narrate",
+      "definition": "to tell or recount a story or series of events",
+      "context": "He 'proceeded to narrate some of the facts in his own history as a slave'"
+    },
+    {
+      "word": "indignation",
+      "definition": "anger or annoyance provoked by perceived unfair treatment",
+      "context": "Douglass's eloquence could 'rouse ... virtuous indignation' in listeners"
+    },
+    {
+      "word": "sympathy",
+      "definition": "feelings of pity and sorrow for someone else's misfortune",
+      "context": "Phillips notes Douglass secured 'sympathy and affection' from friends"
+    },
+    {
+      "word": "proportion",
+      "definition": "the relation of size or amount between things",
+      "context": "Describes Douglass's 'physical proportion and stature commanding and exact'"
+    },
+    {
+      "word": "exact",
+      "definition": "precise or accurate",
+      "context": "His physical proportion was described as 'commanding and exact'"
+    },
+    {
+      "word": "endowed",
+      "definition": "provided with a quality, ability, or asset",
+      "context": "He was 'in intellect richly endowed' according to the Preface"
+    },
+    {
+      "word": "imagination",
+      "definition": "the faculty of forming new ideas or images",
+      "context": "Phillips asserts nothing in the Narrative is 'drawn from the imagination'"
+    },
+    {
+      "word": "malice",
+      "definition": "the intention or desire to do evil; ill will",
+      "context": "Phillips says 'nothing has been set down in malice' in the Narrative"
+    },
+    {
+      "word": "ornament",
+      "definition": "a person or thing that adorns or adds honor",
+      "context": "Douglass could be made 'an ornament to society' with cultivation"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/23"
+}
