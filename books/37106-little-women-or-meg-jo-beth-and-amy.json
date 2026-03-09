@@ -1,0 +1,519 @@
+{
+  "gutenberg_id": 37106,
+  "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+  "author": "Alcott, Louisa May",
+  "summary": "Little Women follows the daily life of the four March sisters—Meg, Jo, Beth, and Amy—during a modest Christmas while their father is away with the army. Facing poverty, they debate forgoing presents to support the war effort, reveal personal wishes (books, music, drawing supplies), and quarrel gently about chores and school. Mother guides them toward sacrifice and mutual support. The sisters’ personalities emerge: Jo the bookish tomboy, Meg the domestic dreamer, Beth the gentle peacemaker, Amy the vain younger artist. Warm household detail and moral reflection frame their bonds, plans, and hopes for future happiness together.",
+  "characters": [
+    {
+      "name": "Jo March",
+      "age": "mid-teens (approx. 15–17)",
+      "personality": "bookish, outspoken, tomboyish, impatient with domestic tedium",
+      "lifespan": "Remains at home with her family in the excerpt, grappling with poverty and longing for books and independence"
+    },
+    {
+      "name": "Meg March",
+      "age": "mid-teens (approx. 16–18)",
+      "personality": "responsible, domestic-minded, longs for pretty things and social pleasures",
+      "lifespan": "Stays at home in the excerpt, teaching and managing household duties while yearning for nicer clothes"
+    },
+    {
+      "name": "Beth March",
+      "age": "younger teen (approx. 12–14)",
+      "personality": "gentle, contented, peace-loving, musically inclined",
+      "lifespan": "Remains quietly supportive and content in the household in the excerpt, aiding family morale"
+    },
+    {
+      "name": "Amy March",
+      "age": "youngest (approx. 10–12)",
+      "personality": "vain about appearance, artistically inclined, somewhat spoiled",
+      "lifespan": "Lives at home in the excerpt, focusing on drawing and personal improvement"
+    },
+    {
+      "name": "Mother (Mrs. March)",
+      "age": "approx. 30s–40s",
+      "personality": "moral, guiding, self-sacrificing, patient",
+      "lifespan": "Acts as the household's moral center and caretaker in the excerpt, proposing sacrifices for the war effort"
+    },
+    {
+      "name": "Father (Mr. March)",
+      "age": "approx. 30s–50s",
+      "personality": "absent but respected; serving in the army",
+      "lifespan": "Absent from home and serving in the army in the excerpt; his return is uncertain in the presented text"
+    }
+  ],
+  "locations": [
+    {
+      "name": "New England",
+      "latitude": 43.5,
+      "longitude": -71.5
+    },
+    {
+      "name": "Boston, Massachusetts",
+      "latitude": 42.3601,
+      "longitude": -71.0589
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Pilgrims",
+      "definition": "travelers on a religious or moral journey",
+      "context": "PLAYING PILGRIMS."
+    },
+    {
+      "word": "Pilgrimage",
+      "definition": "a journey, often with spiritual connotations",
+      "context": "pilgrimage begun."
+    },
+    {
+      "word": "Damsels",
+      "definition": "young women (archaic or poetic)",
+      "context": "young damsels learn of her to prize"
+    },
+    {
+      "word": "Saintly",
+      "definition": "having the qualities of a saint; devout",
+      "context": "saintly feet have trod."
+    },
+    {
+      "word": "Mercy",
+      "definition": "personified virtue; compassion or a proper name in poem",
+      "context": "Tell them of Mercy; she is one"
+    },
+    {
+      "word": "Tripping",
+      "definition": "lightly moving or dancing; nimble (poetic)",
+      "context": "little tripping maids"
+    },
+    {
+      "word": "Apollyon",
+      "definition": "a classical/biblical proper name, used allegorically",
+      "context": "JO MEETS APOLLYON"
+    },
+    {
+      "word": "Burdens",
+      "definition": "heavy responsibilities or cares (poetic)",
+      "context": "CHAPTER IV. BURDENS"
+    },
+    {
+      "word": "P. C.",
+      "definition": "abbreviation appearing in title (contextual: committee abbreviation)",
+      "context": "THE P. C. AND P. O."
+    },
+    {
+      "word": "P. O.",
+      "definition": "abbreviation for Post Office in title",
+      "context": "THE P. C. AND P. O."
+    },
+    {
+      "word": "Cyclops",
+      "definition": "mythical one-eyed giant, used illustratively",
+      "context": "The Cyclops"
+    },
+    {
+      "word": "Don",
+      "definition": "Spanish honorific used in a name",
+      "context": "Don Pedro"
+    },
+    {
+      "word": "Pedro",
+      "definition": "Spanish proper name appearing in illustration caption",
+      "context": "Don Pedro"
+    },
+    {
+      "word": "Pickwick",
+      "definition": "reference to Dickensian character; proper name",
+      "context": "Mr. Pickwick"
+    },
+    {
+      "word": "Ellen",
+      "definition": "proper name (Ellen Tree referenced)",
+      "context": "Ellen Tree"
+    },
+    {
+      "word": "Tree",
+      "definition": "proper surname in illustration list",
+      "context": "Ellen Tree"
+    },
+    {
+      "word": "Bonnets",
+      "definition": "historical women's hats",
+      "context": "Up with the Bonnets of Bonnie Dundee"
+    },
+    {
+      "word": "Bonnie",
+      "definition": "Scots word meaning handsome or pretty; part of a song title",
+      "context": "Bonnie Dundee"
+    },
+    {
+      "word": "Dundee",
+      "definition": "place name used in song title",
+      "context": "Bonnie Dundee"
+    },
+    {
+      "word": "Hansom-cab",
+      "definition": "a two-wheeled horse-drawn carriage for hire (19th century)",
+      "context": "Flo and I ordered a hansom-cab"
+    },
+    {
+      "word": "Bhaer",
+      "definition": "proper name of a character/figure in the book",
+      "context": "Thou shalt haf thy Bhaer"
+    },
+    {
+      "word": "Demi",
+      "definition": "proper name (paired with Daisy in illustrations)",
+      "context": "Demi and Daisy"
+    },
+    {
+      "word": "Daisy",
+      "definition": "proper name; also a flower",
+      "context": "Demi and Daisy"
+    },
+    {
+      "word": "Jungfrau",
+      "definition": "name of a mountain in the Alps; used as illustration caption",
+      "context": "The Jungfrau"
+    },
+    {
+      "word": "Effalunt",
+      "definition": "phonetic/dialectal spelling of 'elephant' in quoted speech",
+      "context": "Dis is mine effalunt"
+    },
+    {
+      "word": "Dranpa",
+      "definition": "dialect rendering of 'grandpa' in quoted speech",
+      "context": "dranpa? it's a We"
+    },
+    {
+      "word": "Evvybody",
+      "definition": "dialectal spelling of 'everybody' in quoted speech",
+      "context": "Me loves evvybody"
+    },
+    {
+      "word": "Mornin'",
+      "definition": "colloquial/dialect contraction of 'morning'",
+      "context": "Mornin' now"
+    },
+    {
+      "word": "Dove",
+      "definition": "bird referenced in the phrase 'The Dove Cote'",
+      "context": "The Dove Cote"
+    },
+    {
+      "word": "Cote",
+      "definition": "archaic word for shelter or coop (as in dovecote)",
+      "context": "The Dove Cote"
+    },
+    {
+      "word": "Frontispiece",
+      "definition": "illustration facing the title page of a book",
+      "context": "FRONTISPIECE"
+    },
+    {
+      "word": "Tail-piece",
+      "definition": "decorative illustration at the end of a section",
+      "context": "Tail-piece to Contents"
+    },
+    {
+      "word": "Preface",
+      "definition": "introductory remarks in a book",
+      "context": "PREFACE"
+    },
+    {
+      "word": "Hearth-brush",
+      "definition": "a brush used to sweep ashes from a hearth",
+      "context": "the hearth-brush"
+    },
+    {
+      "word": "Kettle-holder",
+      "definition": "implement for holding a kettle; archaic household term",
+      "context": "kettle-holder"
+    },
+    {
+      "word": "Undine",
+      "definition": "title/proper name of a romantic novel referenced",
+      "context": "Undine and Sintram"
+    },
+    {
+      "word": "Sintram",
+      "definition": "title/proper name of a novel referenced alongside Undine",
+      "context": "Undine and Sintram"
+    },
+    {
+      "word": "Faber",
+      "definition": "proprietary name (pencil maker) referenced",
+      "context": "Faber's drawing-pencils"
+    },
+    {
+      "word": "Belsham",
+      "definition": "proper name; referenced as an author/text the characters complain about",
+      "context": "that everlasting Belsham"
+    },
+    {
+      "word": "Redclyffe",
+      "definition": "proper name/title of a novel ('Heir of Redclyffe')",
+      "context": "Heir of Redclyffe"
+    },
+    {
+      "word": "Laurence",
+      "definition": "proper surname appearing in captions and chapter headings",
+      "context": "THE LAURENCE BOY"
+    },
+    {
+      "word": "Laurie",
+      "definition": "nickname/proper name used in illustrations and chapters",
+      "context": "Laurie"
+    },
+    {
+      "word": "Brooke",
+      "definition": "proper surname (Mr. Brooke referenced)",
+      "context": "Mr. Brooke"
+    },
+    {
+      "word": "Aunt",
+      "definition": "familial title used in chapter headings (Aunt March)",
+      "context": "AUNT MARCH SETTLES THE QUESTION"
+    },
+    {
+      "word": "March",
+      "definition": "family surname central to the story",
+      "context": "Mrs. March would not leave Beth's side"
+    },
+    {
+      "word": "Heir",
+      "definition": "one entitled to inherit; used in a book title reference",
+      "context": "Heir of Redclyffe"
+    },
+    {
+      "word": "Portuguese",
+      "definition": "national adjective used in an illustration caption",
+      "context": "The Portuguese walked the plank"
+    },
+    {
+      "word": "Prink",
+      "definition": "to dress or primp oneself (somewhat archaic)",
+      "context": "doesn't prink at his glass"
+    },
+    {
+      "word": "Symposium",
+      "definition": "a formal gathering or discussion (classical term)",
+      "context": "A select symposium"
+    },
+    {
+      "word": "Sock",
+      "definition": "informal for striking or a stocking; used colloquially in caption",
+      "context": "sock and all"
+    },
+    {
+      "word": "Telegraph",
+      "definition": "electrical message system common in 19th century",
+      "context": "one of them horrid telegraph things"
+    },
+    {
+      "word": "Post-mistress",
+      "definition": "female postmaster; an older occupational term",
+      "context": "Beth was post-mistress"
+    },
+    {
+      "word": "Hockey",
+      "definition": "word appearing in an illustration caption (possibly colloquial/fragmented)",
+      "context": "Held Amy up by his arms and hockey"
+    },
+    {
+      "word": "Abroady",
+      "definition": "dialectal/colloquial form meaning 'abroad' used in caption",
+      "context": "Packing the go abroady trunk"
+    },
+    {
+      "word": "Teddy",
+      "definition": "diminutive proper name used in illustration caption",
+      "context": "Teddy bore a charmed life"
+    },
+    {
+      "word": "Umbrella",
+      "definition": "portable canopy for rain protection; used in a chapter title",
+      "context": "UNDER THE UMBRELLA"
+    },
+    {
+      "word": "Meadows",
+      "definition": "plural of meadow; used in a chapter heading",
+      "context": "PLEASANT MEADOWS"
+    },
+    {
+      "word": "Palace",
+      "definition": "large stately residence; used in chapter title",
+      "context": "BETH FINDS THE PALACE BEAUTIFUL"
+    },
+    {
+      "word": "Humiliation",
+      "definition": "the state of being humiliated; used in a chapter title",
+      "context": "AMY'S VALLEY OF HUMILIATION"
+    },
+    {
+      "word": "Vanity",
+      "definition": "excessive pride in appearance or achievements; part of a chapter title",
+      "context": "MEG GOES TO VANITY FAIR"
+    },
+    {
+      "word": "Castles",
+      "definition": "used figuratively (as in 'Castles in the Air')",
+      "context": "CASTLES IN THE AIR"
+    },
+    {
+      "word": "Secrets",
+      "definition": "things kept hidden; chapter title word",
+      "context": "SECRETS"
+    },
+    {
+      "word": "Telegram",
+      "definition": "a transmitted telegraph message; chapter title",
+      "context": "A TELEGRAM"
+    },
+    {
+      "word": "Letters",
+      "definition": "written communications; chapter title",
+      "context": "LETTERS"
+    },
+    {
+      "word": "Faithful",
+      "definition": "steady, loyal; used in chapter title",
+      "context": "LITTLE FAITHFUL"
+    },
+    {
+      "word": "Dark",
+      "definition": "having little light; used in chapter heading 'Dark Days'",
+      "context": "DARK DAYS"
+    },
+    {
+      "word": "Confidential",
+      "definition": "meant to be private; chapter title word",
+      "context": "CONFIDENTIAL"
+    },
+    {
+      "word": "Mischief",
+      "definition": "playful misbehavior; used in chapter heading",
+      "context": "LAURIE MAKES MISCHIEF, AND JO MAKES PEACE"
+    },
+    {
+      "word": "Progress",
+      "definition": "advance or movement forward; part of a title reference",
+      "context": "Pilgrim's Progress"
+    },
+    {
+      "word": "Blest",
+      "definition": "archaic form of 'blessed'",
+      "context": "may be blest"
+    },
+    {
+      "word": "Practise",
+      "definition": "variant spelling of 'practice' (British verb form)",
+      "context": "I can't practise well at all"
+    },
+    {
+      "word": "Sigh",
+      "definition": "a long audible exhalation expressing emotion",
+      "context": "with a little sigh"
+    },
+    {
+      "word": "Bookworm",
+      "definition": "someone devoted to reading",
+      "context": "I've wanted it so long,\" said Jo, who was a bookworm."
+    },
+    {
+      "word": "Old-Fashioned",
+      "definition": "out of date or in a style from the past; used in a title",
+      "context": "AN OLD-FASHIONED GIRL"
+    },
+    {
+      "word": "Spinning-Wheel",
+      "definition": "device for spinning thread; used in a title",
+      "context": "SPINNING-WHEEL STORIES"
+    },
+    {
+      "word": "Experiments",
+      "definition": "trial actions to discover results; chapter title",
+      "context": "EXPERIMENTS"
+    },
+    {
+      "word": "Camp",
+      "definition": "military encampment; used in chapter title 'CAMP LAURENCE'",
+      "context": "CAMP LAURENCE"
+    },
+    {
+      "word": "Valley",
+      "definition": "low land between hills; used in titles (figurative and literal)",
+      "context": "VALLEY OF THE SHADOW"
+    },
+    {
+      "word": "Pleasant",
+      "definition": "agreeable or enjoyable; chapter title adjective",
+      "context": "PLEASANT MEADOWS"
+    },
+    {
+      "word": "Harvest",
+      "definition": "gathering of crops; used in chapter heading",
+      "context": "HARVEST TIME"
+    },
+    {
+      "word": "Surprises",
+      "definition": "unexpected events; chapter title",
+      "context": "SURPRISES"
+    },
+    {
+      "word": "Calls",
+      "definition": "visits or summons; chapter title",
+      "context": "CALLS"
+    },
+    {
+      "word": "Consequences",
+      "definition": "results or effects following actions",
+      "context": "CONSEQUENCES"
+    },
+    {
+      "word": "Journal",
+      "definition": "a personal record of events; chapter title",
+      "context": "JO'S JOURNAL"
+    },
+    {
+      "word": "Heartache",
+      "definition": "emotional pain or grief; chapter title",
+      "context": "HEARTACHE"
+    },
+    {
+      "word": "Impressions",
+      "definition": "vivid memories or effects made upon the mind",
+      "context": "NEW IMPRESSIONS"
+    },
+    {
+      "word": "Lazy",
+      "definition": "unwilling to work or exert effort; used as chapter title adjective",
+      "context": "LAZY LAURENCE"
+    },
+    {
+      "word": "Alone",
+      "definition": "by oneself; solitary; chapter title word",
+      "context": "ALL ALONE"
+    },
+    {
+      "word": "Lord",
+      "definition": "noble title used in chapter heading",
+      "context": "MY LORD AND LADY"
+    },
+    {
+      "word": "Lady",
+      "definition": "female noble or polite form of address",
+      "context": "MY LORD AND LADY"
+    },
+    {
+      "word": "Hearth",
+      "definition": "stone/brick area in front of a fireplace (from hearth-brush)",
+      "context": "the hearth-brush"
+    },
+    {
+      "word": "Brake",
+      "definition": "archaic word for a thicket or could be a folding device; appears in illustration caption",
+      "context": "Waved a brake before her face"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/37106"
+}
