@@ -1,0 +1,569 @@
+{
+  "gutenberg_id": 1184,
+  "title": "The Count of Monte Cristo",
+  "author": "Dumas, Alexandre",
+  "summary": "On 24 February 1815 the merchantman Pharaon arrives at Marseille. Edmond Dantès, a composed young mate, skillfully manages the vessel after Captain Leclere’s sudden death by fever at sea. He reports the cargo safe to shipowner Morrel, buries Leclere at sea with naval honors, and follows the late captain’s orders to touch at Elba to deliver a packet. Dantès recounts meeting Marshal Bertrand and the emperor briefly. Morrel praises Dantès’s seamanship and hints at promotion; Danglars, the supercargo, resents him. The crew obeys Dantès; health and customs officers board. Tension arises over the Elba visit and the mysterious packet. still",
+  "characters": [
+    {
+      "name": "Edmond Dantès",
+      "age": "18–20",
+      "personality": "calm, resolute, competent, dutiful",
+      "lifespan": "Survives the voyage; assumes command as mate and delivers packet; remains alive at the end of the excerpt"
+    },
+    {
+      "name": "Captain Leclere",
+      "age": "elderly/experienced (unspecified)",
+      "personality": "honorable, brave, seasoned seaman",
+      "lifespan": "Dies of a fever at sea; buried sewn in his hammock with a shot at head and heels"
+    },
+    {
+      "name": "M. Morrel (Morrel & Son)",
+      "age": "middle-aged (unspecified)",
+      "personality": "benevolent shipowner, appreciative of seamanship",
+      "lifespan": "Alive in the excerpt; praises Dantès and considers his promotion"
+    },
+    {
+      "name": "M. Danglars",
+      "age": "25–26",
+      "personality": "obsequious to superiors, insolent to subordinates, jealous",
+      "lifespan": "Alive; serves as supercargo and harbors resentment toward Dantès"
+    },
+    {
+      "name": "Marshal Bertrand",
+      "age": "unspecified",
+      "personality": "military man referenced in orders",
+      "lifespan": "Recipient/associate mentioned in packet delivery; alive in the excerpt"
+    },
+    {
+      "name": "The Emperor (Napoleon)",
+      "age": "unspecified",
+      "personality": "briefly inquisitive and observant in encounter",
+      "lifespan": "Appears briefly to Dantès at Elba; alive within the excerpt"
+    },
+    {
+      "name": "Policar Morrel",
+      "age": "elderly (old soldier)",
+      "personality": "veteran soldier; respected",
+      "lifespan": "Mentioned as Morrel’s uncle and remembered by the emperor; alive in the excerpt"
+    },
+    {
+      "name": "Pilot (unnamed)",
+      "age": "unspecified",
+      "personality": "experienced navigator",
+      "lifespan": "Alive; boards and steers the Pharaon into port"
+    },
+    {
+      "name": "Crew / All hands",
+      "age": "varied",
+      "personality": "disciplined, obedient, skilled seamen",
+      "lifespan": "Alive; obey Dantès's orders and perform maneuvers"
+    },
+    {
+      "name": "Health officers / Customs inspectors",
+      "age": "unspecified",
+      "personality": "official, procedural",
+      "lifespan": "Board the vessel at Marseille to perform inspections; alive in excerpt"
+    },
+    {
+      "name": "Captain Leclere's widow",
+      "age": "unspecified",
+      "personality": "grieving (implied)",
+      "lifespan": "Receives Captain Leclere’s sword and cross of honor as mentioned"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Marseille (Notre-Dame de la Garde)",
+      "latitude": 43.2841,
+      "longitude": 5.3714
+    },
+    {
+      "name": "Château d'If (island fortress)",
+      "latitude": 43.2926,
+      "longitude": 5.3297
+    },
+    {
+      "name": "Cap Morgiou (Cape Morgiou)",
+      "latitude": 43.1889,
+      "longitude": 5.3144
+    },
+    {
+      "name": "Îles du Riou (Rion/Riou islands)",
+      "latitude": 43.1629,
+      "longitude": 5.2678
+    },
+    {
+      "name": "Île Pomègues (Pomègue)",
+      "latitude": 43.285,
+      "longitude": 5.293
+    },
+    {
+      "name": "Fort Saint-Jean (Marseille)",
+      "latitude": 43.2975,
+      "longitude": 5.3615
+    },
+    {
+      "name": "Elba (Portoferraio / Porto-Ferrajo)",
+      "latitude": 42.7833,
+      "longitude": 10.3078
+    },
+    {
+      "name": "Civitavecchia (Civita Vecchia)",
+      "latitude": 42.0931,
+      "longitude": 11.7929
+    },
+    {
+      "name": "Isola del Giglio (El Giglio)",
+      "latitude": 42.3786,
+      "longitude": 10.8928
+    },
+    {
+      "name": "Smyrna (Izmir)",
+      "latitude": 38.423734,
+      "longitude": 27.142826
+    },
+    {
+      "name": "Trieste",
+      "latitude": 45.6495,
+      "longitude": 13.7768
+    },
+    {
+      "name": "Naples (Napoli)",
+      "latitude": 40.8518,
+      "longitude": 14.2681
+    },
+    {
+      "name": "Valence (garrison referenced)",
+      "latitude": 44.9333,
+      "longitude": 4.8924
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "look-out",
+      "definition": "a sailor stationed to keep watch",
+      "context": "The look-out at Notre-Dame de la Garde signalled the three-master."
+    },
+    {
+      "word": "three-master",
+      "definition": "a ship with three masts",
+      "context": "The Pharaon is described as a three-master from Smyrna, Trieste, and Naples."
+    },
+    {
+      "word": "Pharaon",
+      "definition": "proper name of the ship in the narrative",
+      "context": "The merchantman Pharaon arrives at Marseille."
+    },
+    {
+      "word": "signalled",
+      "definition": "indicated by a lookout or signal",
+      "context": "The look-out signalled the Pharaon’s arrival."
+    },
+    {
+      "word": "rounded",
+      "definition": "to turn a ship around a point or cape",
+      "context": "A pilot put off and rounding the Château d'If got on board."
+    },
+    {
+      "word": "Château d’If",
+      "definition": "small island fortress off Marseille",
+      "context": "The pilot boarded the Pharaon between Cape Morgiou and Rion island near the Château d’If."
+    },
+    {
+      "word": "ramparts",
+      "definition": "defensive walls of a fortification",
+      "context": "The ramparts of Fort Saint-Jean were covered with spectators."
+    },
+    {
+      "word": "Fort Saint-Jean",
+      "definition": "historic fort in Marseille",
+      "context": "Spectators lined the ramparts of Fort Saint-Jean to watch the arrival."
+    },
+    {
+      "word": "topsails",
+      "definition": "sails set above the lowermost sails on a mast",
+      "context": "The ship approached harbor under topsails, jib, and spanker."
+    },
+    {
+      "word": "jib",
+      "definition": "a triangular sail set forward of the foremast",
+      "context": "The Pharaon entered the port under jib and spanker."
+    },
+    {
+      "word": "spanker",
+      "definition": "a sail set on the aftermost mast (aft sail)",
+      "context": "The vessel approached under topsails, jib, and spanker."
+    },
+    {
+      "word": "idlers",
+      "definition": "people who stand around with nothing to do; onlookers",
+      "context": "Idlers along the ramparts speculated about misfortune on board."
+    },
+    {
+      "word": "forerunner",
+      "definition": "something that precedes and indicates the approach of something else",
+      "context": "Idlers had that instinct which is the forerunner of evil."
+    },
+    {
+      "word": "disquietude",
+      "definition": "a state of unease or anxiety",
+      "context": "A vague disquietude prevailed among the spectators."
+    },
+    {
+      "word": "skiff",
+      "definition": "a small light boat",
+      "context": "A man jumped into a small skiff to reach the Pharaon."
+    },
+    {
+      "word": "alongside",
+      "definition": "beside or next to (a ship)",
+      "context": "The man desired to be pulled alongside the Pharaon."
+    },
+    {
+      "word": "La Réserve",
+      "definition": "a basin/area of Marseille harbor referenced in the book",
+      "context": "The Pharaon reached La Réserve basin where the skiff came alongside."
+    },
+    {
+      "word": "bulwarks",
+      "definition": "the sides of a ship above the deck",
+      "context": "Dantès leaned over the ship’s bulwarks to speak with M. Morrel."
+    },
+    {
+      "word": "melancholy",
+      "definition": "a feeling of deep sadness",
+      "context": "Dantès had a melancholy smile while speaking of the captain’s death."
+    },
+    {
+      "word": "brain-fever",
+      "definition": "an old term for a severe fever affecting the brain (encephalitic symptoms)",
+      "context": "Captain Leclere died of brain-fever in dreadful agony."
+    },
+    {
+      "word": "sewn",
+      "definition": "stitched up; here meaning prepared for burial at sea",
+      "context": "The captain was sewn up in his hammock for burial at sea."
+    },
+    {
+      "word": "thirty-six-pound",
+      "definition": "a weight of shot (cannonball) used as a sea burial anchor",
+      "context": "A thirty-six-pound shot was placed at his head and heels for burial."
+    },
+    {
+      "word": "burial",
+      "definition": "the act of burying; funeral rites",
+      "context": "They performed the usual burial service and consigned him to the sea."
+    },
+    {
+      "word": "mate",
+      "definition": "officer on a merchant ship second to the captain",
+      "context": "Edmond Dantès is the mate who assumes command after the captain’s death."
+    },
+    {
+      "word": "anchor",
+      "definition": "heavy device used to moor a ship",
+      "context": "The anchor was dropped and the chain ran rattling through the port-hole."
+    },
+    {
+      "word": "a-cockbill",
+      "definition": "nautical term describing an anchor set with its arm raised (at an angle)",
+      "context": "The anchor a-cockbill indicated the ship rode at anchor properly."
+    },
+    {
+      "word": "jib-boom",
+      "definition": "spar projecting from the bowsprit to support jibs",
+      "context": "The ship bore evidence of being skilfully handled: the jib-boom guys eased off."
+    },
+    {
+      "word": "brails",
+      "definition": "lines used to gather up a sail to the yard or mast",
+      "context": "Hands sprang to spanker brails and outhaul when lowering sails."
+    },
+    {
+      "word": "outhaul",
+      "definition": "a line used to tension the foot of a sail",
+      "context": "Crew adjusted the spanker brails and outhaul as ordered."
+    },
+    {
+      "word": "topsail sheets",
+      "definition": "the lines controlling the lower corners of the topsail",
+      "context": "Crewman handled the topsail sheets when taking in sail."
+    },
+    {
+      "word": "halyards",
+      "definition": "lines used to hoist sails, flags, or yards",
+      "context": "Halyards were handled among the topsail and jib preparations."
+    },
+    {
+      "word": "jib downhaul",
+      "definition": "a line used to haul down the jib",
+      "context": "The crew operated the jib downhaul during mooring."
+    },
+    {
+      "word": "topsail clewlines",
+      "definition": "lines used to haul up the clews (lower corners) of a topsail",
+      "context": "They worked the topsail clewlines and buntlines in concert."
+    },
+    {
+      "word": "buntlines",
+      "definition": "lines used to gather up a square sail into the bunt",
+      "context": "Buntlines helped stow the topsail as the ship neared harbor."
+    },
+    {
+      "word": "supercargo",
+      "definition": "agent responsible for cargo and commercial matters aboard ship",
+      "context": "Danglars is the supercargo who addresses the owner about the voyage."
+    },
+    {
+      "word": "obsequious",
+      "definition": "excessively obedient or attentive to superiors",
+      "context": "Danglars is described as obsequious to his superiors."
+    },
+    {
+      "word": "unprepossessing",
+      "definition": "not particularly attractive or imposing in appearance",
+      "context": "Danglars is said to have an unprepossessing countenance."
+    },
+    {
+      "word": "insolent",
+      "definition": "rude or disrespectful",
+      "context": "Danglars is insolent to subordinates, making him disliked by the crew."
+    },
+    {
+      "word": "subordinates",
+      "definition": "those in lower rank or position",
+      "context": "Danglars behaves insolently toward subordinates aboard."
+    },
+    {
+      "word": "seamanship",
+      "definition": "skill in managing a ship and handling its navigation and sails",
+      "context": "Morrel praises Dantès’s seamanship as evidence of fitness for command."
+    },
+    {
+      "word": "obeyed",
+      "definition": "carried out orders; complied",
+      "context": "All hands obeyed promptly when Dantès issued commands."
+    },
+    {
+      "word": "Let go",
+      "definition": "command to release the anchor",
+      "context": "Dantès orders, 'Let go—and clue up!' during mooring."
+    },
+    {
+      "word": "clue up",
+      "definition": "to clew up the sail (bring up the clews); furling order",
+      "context": "The command 'Let go—and clue up!' is given while preparing sails."
+    },
+    {
+      "word": "half-mast",
+      "definition": "a flag position lowered to half its usual height as a sign of mourning",
+      "context": "Dantès orders 'Half-mast the colors' for the captain’s death."
+    },
+    {
+      "word": "square the yards",
+      "definition": "to align yards across the ship to steady it or set sails square",
+      "context": "Dantès instructs to 'square the yards' as part of anchoring."
+    },
+    {
+      "word": "packet",
+      "definition": "a small sealed letter or parcel entrusted for delivery",
+      "context": "Captain Leclere gave Dantès a packet to deliver to Marshal Bertrand."
+    },
+    {
+      "word": "Porto-Ferrajo",
+      "definition": "historic spelling of Portoferraio on Elba",
+      "context": "Dantès left a packet at Porto-Ferrajo as instructed."
+    },
+    {
+      "word": "Elba",
+      "definition": "island off the Tuscan coast where Napoleon was exiled in 1814–1815",
+      "context": "The Pharaon touched at Elba to deliver the packet and encountered the emperor."
+    },
+    {
+      "word": "Civita Vecchia",
+      "definition": "Civitavecchia, a port town north-west of Rome",
+      "context": "The burial at sea of Captain Leclere took place off El Giglio after leaving Civita Vecchia."
+    },
+    {
+      "word": "El Giglio",
+      "definition": "Isola del Giglio, island off the Tuscan coast",
+      "context": "They buried the captain at sea off El Giglio island."
+    },
+    {
+      "word": "shot",
+      "definition": "a cannonball; used here as weight in burial at sea",
+      "context": "A thirty-six-pound shot was placed with the captain’s body."
+    },
+    {
+      "word": "rattling",
+      "definition": "making a rapid succession of short, sharp sounds",
+      "context": "The anchor chain ran rattling through the port-hole."
+    },
+    {
+      "word": "port-hole",
+      "definition": "an opening or hatch through which gear or chain passes",
+      "context": "The anchor chain rattled through the port-hole as the anchor was dropped."
+    },
+    {
+      "word": "harbor-master",
+      "definition": "official in charge of the harbor’s operations",
+      "context": "Dantès had spoken with the harbor-master at Naples."
+    },
+    {
+      "word": "Phocee",
+      "definition": "reference to Phocaea/Phocaean docks (ancient Greek colony influence on Marseille)",
+      "context": "The Pharaon had been built, rigged, and laden at the old Phocee docks."
+    },
+    {
+      "word": "house (Morrel & Son)",
+      "definition": "commercial firm or company",
+      "context": "The Pharaon belonged to the house of Morrel & Son."
+    },
+    {
+      "word": "owner",
+      "definition": "person who owns the ship or business",
+      "context": "M. Morrel, the owner, converses with Dantès about the voyage."
+    },
+    {
+      "word": "garrison",
+      "definition": "a body of troops stationed at a particular location",
+      "context": "Policar Morrel served in the same regiment when the emperor was in garrison at Valence."
+    },
+    {
+      "word": "Pardieu",
+      "definition": "an old French exclamation meaning 'by God' or 'indeed'",
+      "context": "Morrel exclaims 'Pardieu!' when surprised by the emperor’s memory of his uncle."
+    },
+    {
+      "word": "impatience",
+      "definition": "restlessness or eagerness",
+      "context": "Morrel’s impatience is observed as he wishes to come on board quickly."
+    },
+    {
+      "word": "gangway",
+      "definition": "a passage for boarding or leaving a ship",
+      "context": "Dantès departs to the gangway when health officers and customs inspectors come alongside."
+    },
+    {
+      "word": "anchoring",
+      "definition": "the act of dropping an anchor to moor a ship",
+      "context": "Dantès attends to the anchoring and orders the ship dressed in mourning."
+    },
+    {
+      "word": "mourning",
+      "definition": "expression of sorrow (for the dead), often by lowering flags",
+      "context": "Dantès intends to dress the ship in mourning for the deceased captain."
+    },
+    {
+      "word": "manœuvre",
+      "definition": "old/alternative spelling of 'maneuver', meaning a planned movement or operation",
+      "context": "The manœuvre of lowering sails was executed promptly by the crew."
+    },
+    {
+      "word": "observing",
+      "definition": "watching or noting attentively",
+      "context": "Dantès, observing the owner’s impatience, invites him aboard."
+    },
+    {
+      "word": "resigned",
+      "definition": "accepting something undesirable but inevitable",
+      "context": "Morrel shows considerable resignation when learning of the captain’s death."
+    },
+    {
+      "word": "whim",
+      "definition": "a sudden or capricious idea or desire",
+      "context": "Danglars accuses Dantès of losing time at Elba from pure whim."
+    },
+    {
+      "word": "consoled",
+      "definition": "comforted in sorrow or distress",
+      "context": "Morrel appears comforted as he reflects on mortality and promotion."
+    },
+    {
+      "word": "assume",
+      "definition": "to take on a role or position",
+      "context": "Dantès assumed command after the captain’s death as mate."
+    },
+    {
+      "word": "superior (to his superiors)",
+      "definition": "one in a higher rank or position",
+      "context": "Danglars is obsequious to his superiors but insolent to those below him."
+    },
+    {
+      "word": "perceive",
+      "definition": "to become aware or realize",
+      "context": "Experienced navigators perceived the vessel was well handled despite slow approach."
+    },
+    {
+      "word": "spectacle",
+      "definition": "a striking or impressive sight",
+      "context": "A ship entering port is always a spectacle for Marseille’s spectators."
+    },
+    {
+      "word": "converse",
+      "definition": "to speak informally with another",
+      "context": "Dantès converses with Morrel and later with the emperor."
+    },
+    {
+      "word": "eagerly",
+      "definition": "with keen or intense desire",
+      "context": "The owner inquires eagerly about the cargo upon learning of the captain’s death."
+    },
+    {
+      "word": "command",
+      "definition": "an authoritative order",
+      "context": "Dantès issues commands to the crew to take in sails and anchor."
+    },
+    {
+      "word": "promptly",
+      "definition": "without delay; immediately",
+      "context": "The crew responded promptly to Dantès’s orders."
+    },
+    {
+      "word": "tact",
+      "definition": "consideration in dealing with others; diplomacy (implied)",
+      "context": "Dantès shows tact in explaining the Elba call and packet to Morrel."
+    },
+    {
+      "word": "port",
+      "definition": "harbor or place where ships dock",
+      "context": "The Pharaon draws into port after rounding Pomègue and the strait."
+    },
+    {
+      "word": "strait",
+      "definition": "a narrow passage of water connecting two seas or two areas of water",
+      "context": "The vessel had safely passed the strait between Calasareigne and Jaros islands."
+    },
+    {
+      "word": "Calasareigne",
+      "definition": "one of the islands named in the text (historical/local name)",
+      "context": "A volcanic shock has made a strait between the Calasareigne and Jaros islands."
+    },
+    {
+      "word": "Jaros",
+      "definition": "one of the islands named in the text (historical/local name)",
+      "context": "The strait between the Calasareigne and Jaros islands is referenced as passed by the Pharaon."
+    },
+    {
+      "word": "Pomègue",
+      "definition": "one of the Frioul islands near Marseille",
+      "context": "The Pharaon had doubled Pomègue before approaching the harbor."
+    },
+    {
+      "word": "murmur",
+      "definition": "a low or subdued expression or remark (implied usage)",
+      "context": "A murmur of vague disquietude passed among observers at the slow approach."
+    },
+    {
+      "word": "elegant (implied 'fine')",
+      "definition": "well-formed or admirable in appearance",
+      "context": "Dantès is described as a fine, tall, slim young fellow with a vigilant eye."
+    },
+    {
+      "word": "vigilant",
+      "definition": "watchful and alert to danger or irregularity",
+      "context": "Dantès watches every motion of the ship with a vigilant eye."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1184"
+}
