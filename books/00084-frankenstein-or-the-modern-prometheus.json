@@ -1,0 +1,555 @@
+{
+  "gutenberg_id": 84,
+  "title": "Frankenstein; or, the modern prometheus",
+  "author": "Shelley, Mary Wollstonecraft",
+  "summary": "An ambitious Arctic explorer, Robert Walton writes to his sister Margaret from St. Petersburgh and Archangel, detailing preparations for a perilous voyage toward the North Pole. He describes his enthusiasm for discovery, years of training with whale-fishers and study, and his longing for an intimate friend to share intellectual sympathy. Walton recruits a gentle, courageous master and an English lieutenant noted for noble self-sacrifice. He reflects on solitude, romantic impulses stirred by poets, and the hazards of ocean travel. Expectant and anxious, he sets sail hoping glory and scientific revelation await, while admitting that success or death may separate him.",
+  "characters": [
+    {
+      "name": "Robert Walton",
+      "age": "28",
+      "personality": "ambitious, romantic, intellectually curious, lonely and determined",
+      "lifespan": "alive in the letters; embarking on an Arctic voyage; fate described as uncertain"
+    },
+    {
+      "name": "Margaret Saville (Mrs. Saville)",
+      "age": "adult (unspecified)",
+      "personality": "sisterly, gentle, the primary addressee and emotional anchor",
+      "lifespan": "alive in England; recipient of Walton's letters; fate unspecified in provided text"
+    },
+    {
+      "name": "Uncle Thomas",
+      "age": "adult (unspecified)",
+      "personality": "collector of voyages; provided Walton with reading material in childhood",
+      "lifespan": "present in recollection; fate unspecified"
+    },
+    {
+      "name": "Cousin (unnamed)",
+      "age": "adult (unspecified)",
+      "personality": "benefactor by bequest (source of Walton's inheritance)",
+      "lifespan": "deceased (Walton inherited the cousin's fortune)"
+    },
+    {
+      "name": "Walton's Father",
+      "age": "deceased (unspecified)",
+      "personality": "author of a dying injunction mentioned by Walton",
+      "lifespan": "deceased (referenced in Walton's account)"
+    },
+    {
+      "name": "Master (ship's master)",
+      "age": "adult (unspecified)",
+      "personality": "gentle, mild in discipline, honest and courageous",
+      "lifespan": "serves on Walton's vessel; fate unspecified"
+    },
+    {
+      "name": "Lieutenant (unnamed)",
+      "age": "adult (unspecified)",
+      "personality": "dauntless, noble, reserved, noted for self-sacrifice and kindliness",
+      "lifespan": "engaged to serve under Walton; present in letters; fate unspecified"
+    },
+    {
+      "name": "Captain (unnamed, of whale-vessel)",
+      "age": "adult (unspecified)",
+      "personality": "experienced seaman who once offered Walton promotion",
+      "lifespan": "appears in Walton's past account; fate unspecified"
+    },
+    {
+      "name": "Young Russian lady (unnamed)",
+      "age": "young (unspecified)",
+      "personality": "emotional; preferred another suitor and wept before a marriage ceremony",
+      "lifespan": "married according to her inclinations later; otherwise unspecified"
+    },
+    {
+      "name": "Her lover / rival (unnamed)",
+      "age": "young (unspecified)",
+      "personality": "poor but beloved by the young Russian lady; recipient of the lieutenant's generosity",
+      "lifespan": "received farm and means from lieutenant; fate unspecified"
+    },
+    {
+      "name": "Old man (father of the Russian lady)",
+      "age": "elderly (unspecified)",
+      "personality": "rigid, inexorable in honour and refusal to consent",
+      "lifespan": "rejected the match initially; fate unspecified"
+    },
+    {
+      "name": "A lady who told the lieutenant's story (beneficiary)",
+      "age": "adult (unspecified)",
+      "personality": "grateful; credited the lieutenant with restoring her happiness",
+      "lifespan": "appears as narrator of the lieutenant's backstory; fate unspecified"
+    }
+  ],
+  "locations": [
+    {
+      "name": "St. Petersburgh (St. Petersburg), Russia",
+      "latitude": 59.9342802,
+      "longitude": 30.3350986
+    },
+    {
+      "name": "Archangel (Arkhangelsk), Russia",
+      "latitude": 64.5393,
+      "longitude": 40.517
+    },
+    {
+      "name": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "North Sea (general region mentioned)",
+      "latitude": 56,
+      "longitude": 3
+    },
+    {
+      "name": "Greenland (region mentioned)",
+      "latitude": 71.7069,
+      "longitude": -42.6043
+    },
+    {
+      "name": "North Pacific Ocean (region mentioned)",
+      "latitude": 40,
+      "longitude": -160
+    },
+    {
+      "name": "North Pole (the pole)",
+      "latitude": 90,
+      "longitude": 0
+    },
+    {
+      "name": "Cape of Good Hope (referred to as southern cape of Africa)",
+      "latitude": -34.3568,
+      "longitude": 18.474
+    },
+    {
+      "name": "Cape Horn (referred to as southern cape of America)",
+      "latitude": -55.9833,
+      "longitude": -67.2667
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "forebodings",
+      "definition": "premonitions of evil or misfortune",
+      "context": "Letter 1: Walton addresses his sister about her 'evil forebodings' regarding his expedition."
+    },
+    {
+      "word": "Petersburgh",
+      "definition": "historic spelling of St. Petersburg",
+      "context": "Letter 1: Walton writes that he walks the streets of 'Petersburgh'."
+    },
+    {
+      "word": "braces",
+      "definition": "strengthens or invigorates",
+      "context": "Letter 1: a cold northern breeze 'braces my nerves'."
+    },
+    {
+      "word": "inspirited",
+      "definition": "filled with animation or spirit",
+      "context": "Letter 1: 'Inspirited by this wind of promise' describes Walton's feeling."
+    },
+    {
+      "word": "climes",
+      "definition": "regions or climates",
+      "context": "Letter 1: Walton speaks of 'those icy climes' toward which he is advancing."
+    },
+    {
+      "word": "foretaste",
+      "definition": "a preliminary sample or anticipation",
+      "context": "Letter 1: the northern breeze gives him a 'foretaste' of the icy regions."
+    },
+    {
+      "word": "skirting",
+      "definition": "moving along the edge of something",
+      "context": "Letter 1: 'broad disk just skirting the horizon' of the sun in polar regions."
+    },
+    {
+      "word": "splendour",
+      "definition": "magnificent appearance or brilliance (British spelling)",
+      "context": "Letter 1: Walton describes 'perpetual splendour' near the pole."
+    },
+    {
+      "word": "wafted",
+      "definition": "carried lightly through the air",
+      "context": "Letter 1: 'we may be wafted to a land surpassing in wonders.'"
+    },
+    {
+      "word": "hitherto",
+      "definition": "until now; previously",
+      "context": "Letter 1: 'every region hitherto discovered' on the habitable globe."
+    },
+    {
+      "word": "solitudes",
+      "definition": "remote, uninhabited places; loneliness",
+      "context": "Letter 1: 'undiscovered solitudes' beyond known lands."
+    },
+    {
+      "word": "inestimable",
+      "definition": "too valuable to be measured",
+      "context": "Letter 1: Walton claims he will confer an 'inestimable benefit' on mankind."
+    },
+    {
+      "word": "magnet",
+      "definition": "iron-bearing object causing compasses to point; referenced scientifically",
+      "context": "Letter 1: Walton hopes to 'ascertain the secret of the magnet.'"
+    },
+    {
+      "word": "eccentricities",
+      "definition": "irregularities or deviations from the norm",
+      "context": "Letter 1: 'seeming eccentricities' of celestial observations to be explained by his voyage."
+    },
+    {
+      "word": "tranquillise",
+      "definition": "to calm or make tranquil (British spelling)",
+      "context": "Letter 1: 'nothing contributes so much to tranquillise the mind as a steady purpose.'"
+    },
+    {
+      "word": "ardour",
+      "definition": "intense enthusiasm or passion (British spelling)",
+      "context": "Letter 1: Walton 'read with ardour' the accounts of voyages."
+    },
+    {
+      "word": "niche",
+      "definition": "a place or position; a recess",
+      "context": "Letter 1: Walton dreamed of obtaining 'a niche in the temple' of great poets."
+    },
+    {
+      "word": "consecrated",
+      "definition": "made or declared sacred; dedicated",
+      "context": "Letter 1: names 'consecrated' in the temple of Homer and Shakespeare."
+    },
+    {
+      "word": "acquitted",
+      "definition": "performed or behaved in a specified way",
+      "context": "Letter 1: Walton 'acquitted myself to admiration' when serving as under-mate."
+    },
+    {
+      "word": "dignity",
+      "definition": "rank, office, or honorable position",
+      "context": "Letter 1: Walton's captain 'offered me the second dignity in the vessel.'"
+    },
+    {
+      "word": "entreated",
+      "definition": "begged or pleaded earnestly",
+      "context": "Letter 1: Walton was 'entreated' by his captain to remain aboard."
+    },
+    {
+      "word": "whale-fishers",
+      "definition": "men who hunt whales (whalers)",
+      "context": "Letter 1: Walton accompanied 'whale-fishers' to harden himself for Arctic life."
+    },
+    {
+      "word": "inuring",
+      "definition": "accustoming to hardship or difficulty",
+      "context": "Letter 1: 'I commenced by inuring my body to hardship.'"
+    },
+    {
+      "word": "famine",
+      "definition": "extreme scarcity of food",
+      "context": "Letter 1: Walton voluntarily endured 'cold, famine, thirst.'"
+    },
+    {
+      "word": "acquitted",
+      "definition": "performed (duplicate entry: used earlier)",
+      "context": "Letter 1: repeated usage describing Walton's conduct on whalers."
+    },
+    {
+      "word": "under-mate",
+      "definition": "a subordinate officer on a ship",
+      "context": "Letter 1: Walton 'hired myself as an under-mate in a Greenland whaler.'"
+    },
+    {
+      "word": "admiration",
+      "definition": "respect and warm approval",
+      "context": "Letter 1: Walton 'acquitted myself to admiration.'"
+    },
+    {
+      "word": "captain",
+      "definition": "person in command of a ship",
+      "context": "Letter 1: Walton references 'my captain' who offered him rank."
+    },
+    {
+      "word": "dedicated",
+      "definition": "devoted to a purpose",
+      "context": "Letter 1: Walton recalls 'the hour from which I dedicated myself to this great enterprise.'"
+    },
+    {
+      "word": "hardship",
+      "definition": "severe suffering or deprivation",
+      "context": "Letter 1: Walton prepared by enduring 'cold, famine, thirst, and want of sleep.'"
+    },
+    {
+      "word": "Greenland",
+      "definition": "large Arctic island; region of Arctic whaling",
+      "context": "Letter 1: Walton served aboard a 'Greenland whaler.'"
+    },
+    {
+      "word": "whaler",
+      "definition": "ship engaged in hunting whales",
+      "context": "Letter 1: 'Twice I actually hired myself as an under-mate in a Greenland whaler.'"
+    },
+    {
+      "word": "voluntarily",
+      "definition": "of one's own free will",
+      "context": "Letter 1: Walton 'voluntarily endured' severe conditions."
+    },
+    {
+      "word": "endured",
+      "definition": "suffered patiently",
+      "context": "Letter 1: endured 'cold, famine, thirst, and want of sleep.'"
+    },
+    {
+      "word": "thirst",
+      "definition": "extreme need for drink; metaphor for desire",
+      "context": "Letter 1: listed among hardships Walton endured."
+    },
+    {
+      "word": "perseverance",
+      "definition": "continued effort despite difficulty",
+      "context": "Letter 1: Walton devoted nights to study 'with perseverance and labour.'"
+    },
+    {
+      "word": "industrious",
+      "definition": "diligent and hardworking",
+      "context": "Letter 2: 'I am practically industrious—painstaking.'"
+    },
+    {
+      "word": "painstaking",
+      "definition": "taking great care and effort",
+      "context": "Letter 2: Walton calls himself 'painstaking, a workman to execute with perseverance.'"
+    },
+    {
+      "word": "dross",
+      "definition": "worthless matter; refuse",
+      "context": "Letter 2: 'Some feelings, unallied to the dross of human nature.'"
+    },
+    {
+      "word": "dauntless",
+      "definition": "fearless; courageous",
+      "context": "Letter 2: sailors described as possessing 'dauntless courage.'"
+    },
+    {
+      "word": "lieutenant",
+      "definition": "a commissioned officer; deputy",
+      "context": "Letter 2: Walton's lieutenant is described at length and engaged for the voyage."
+    },
+    {
+      "word": "Mariner",
+      "definition": "sailor (capitalized in the reference to the poem)",
+      "context": "Letter 2: Walton alludes to Coleridge's 'Ancient Mariner.'"
+    },
+    {
+      "word": "unallied",
+      "definition": "not connected or allied with",
+      "context": "Letter 2: 'Some feelings, unallied to the dross of human nature.'"
+    },
+    {
+      "word": "self-educated",
+      "definition": "educated by one's own efforts rather than formal schooling",
+      "context": "Letter 2: Walton laments being 'self-educated' and lacking languages."
+    },
+    {
+      "word": "cultivated",
+      "definition": "refined by education or culture",
+      "context": "Letter 2: Walton desires a friend 'possessed of a cultivated...mind.'"
+    },
+    {
+      "word": "capacious",
+      "definition": "roomy; having a lot of space (figurative: ample mental capacity)",
+      "context": "Letter 2: 'a capacious mind' describes Walton's ideal friend."
+    },
+    {
+      "word": "amend",
+      "definition": "to improve or correct",
+      "context": "Letter 2: Walton wishes a friend who could 'approve or amend my plans.'"
+    },
+    {
+      "word": "illiterate",
+      "definition": "unable or inadequately able to read or write; lacking education",
+      "context": "Letter 2: Walton says 'I am...in reality more illiterate than many schoolboys.'"
+    },
+    {
+      "word": "conviction",
+      "definition": "firm belief or certainty",
+      "context": "Letter 2: Walton references a changed 'conviction' about education."
+    },
+    {
+      "word": "languages",
+      "definition": "systems of communication; tongues",
+      "context": "Letter 2: Walton notes he needed to learn 'more languages than that of my native country.'"
+    },
+    {
+      "word": "prejudices",
+      "definition": "preconceived opinions not based on reason",
+      "context": "Letter 2: 'national and professional prejudices' described in his lieutenant."
+    },
+    {
+      "word": "endowments",
+      "definition": "natural talents or qualities",
+      "context": "Letter 2: the lieutenant 'retains some of the noblest endowments of humanity.'"
+    },
+    {
+      "word": "destined",
+      "definition": "intended for a particular purpose or fate",
+      "context": "Letter 2: the young Russian lady saw her 'mistress once before the destined ceremony.'"
+    },
+    {
+      "word": "ceremony",
+      "definition": "formal event or ritual (here, a wedding)",
+      "context": "Letter 2: reference to the marriage 'ceremony.'"
+    },
+    {
+      "word": "bathed",
+      "definition": "soaked (here, in tears)",
+      "context": "Letter 2: 'she was bathed in tears' before the ceremony."
+    },
+    {
+      "word": "spare",
+      "definition": "to refrain from harming or to relieve",
+      "context": "Letter 2: the woman entreated him to 'spare her.'"
+    },
+    {
+      "word": "union",
+      "definition": "joining together in marriage",
+      "context": "Letter 2: 'consent to the union' of the young couple."
+    },
+    {
+      "word": "inexorable",
+      "definition": "unyielding; impossible to persuade",
+      "context": "Letter 2: the father is 'inexorable' in refusing consent."
+    },
+    {
+      "word": "quitted",
+      "definition": "left or departed from",
+      "context": "Letter 2: the lieutenant 'quitted his country' after being refused."
+    },
+    {
+      "word": "solicited",
+      "definition": "asked for something earnestly",
+      "context": "Letter 2: the lieutenant 'solicited the young woman's father to consent.'"
+    },
+    {
+      "word": "consent",
+      "definition": "permission or agreement",
+      "context": "Letter 2: 'consent to the union' sought by the lieutenant."
+    },
+    {
+      "word": "rugged",
+      "definition": "rough or coarse in character",
+      "context": "Letter 2: 'rugged bosoms' refers to seamen with rough exteriors but feeling."
+    },
+    {
+      "word": "fosterage",
+      "definition": "care given during upbringing",
+      "context": "Letter 2: Walton references 'your gentle and feminine fosterage.'"
+    },
+    {
+      "word": "kindliness",
+      "definition": "kind behavior or disposition",
+      "context": "Letter 2: the lieutenant noted for 'kindliness of heart.'"
+    },
+    {
+      "word": "obedience",
+      "definition": "compliance with commands or authority",
+      "context": "Letter 2: 'the respect and obedience paid to him by his crew.'"
+    },
+    {
+      "word": "integrity",
+      "definition": "honesty and moral uprightness",
+      "context": "Letter 2: the master is noted for 'well-known integrity.'"
+    },
+    {
+      "word": "sensations",
+      "definition": "physical or emotional feelings",
+      "context": "Letter 2: Walton cannot describe 'my sensations on the near prospect.'"
+    },
+    {
+      "word": "trembling",
+      "definition": "shaking or quivering with emotion or fear",
+      "context": "Letter 2: 'a trembling sensation, half pleasurable and half fearful.'"
+    },
+    {
+      "word": "workman",
+      "definition": "a skilled manual laborer; here metaphor for diligent worker",
+      "context": "Letter 2: 'a workman to execute with perseverance and labour.'"
+    },
+    {
+      "word": "labour",
+      "definition": "work, especially hard physical or mental work (British spelling)",
+      "context": "Letter 2: Walton mentions 'perseverance and labour.'"
+    },
+    {
+      "word": "soul",
+      "definition": "the spiritual or immaterial part of a person; emotions",
+      "context": "Letter 2: 'there is something at work in my soul which I do not understand.'"
+    },
+    {
+      "word": "marvellous",
+      "definition": "causing wonder; extraordinary (British spelling)",
+      "context": "Letter 2: Walton confesses 'a love for the marvellous.'"
+    },
+    {
+      "word": "traversed",
+      "definition": "travelled across or through",
+      "context": "Letter 2: 'after having traversed immense seas' Walton wonders about return."
+    },
+    {
+      "word": "opportunity",
+      "definition": "a favorable occasion or chance",
+      "context": "Letter 2: Walton asks Margaret to 'write to me by every opportunity.'"
+    },
+    {
+      "word": "haste",
+      "definition": "great speed in doing something",
+      "context": "Letter 3: Walton writes 'a few lines in haste' to inform he is safe."
+    },
+    {
+      "word": "freezing",
+      "definition": "very cold; becoming solid due to low temperature",
+      "context": "Letter 1: Walton warns about blood 'freezing in your veins' when motionless on deck."
+    },
+    {
+      "word": "post-road",
+      "definition": "a main road used for mail coaches (historical term)",
+      "context": "Letter 1: Walton does not wish to 'lose my life on the post-road between St. Petersburgh and Archangel.'"
+    },
+    {
+      "word": "fortnight",
+      "definition": "a period of two weeks",
+      "context": "Letter 1: 'I shall depart...in a fortnight or three weeks.'"
+    },
+    {
+      "word": "accustomed",
+      "definition": "familiar or in the habit of",
+      "context": "Letter 1: Walton will engage sailors 'accustomed to the whale-fishing.'"
+    },
+    {
+      "word": "Heaven",
+      "definition": "a divine power or place of blessing",
+      "context": "Letter 1: Walton closes 'Heaven shower down blessings on you.'"
+    },
+    {
+      "word": "encompassed",
+      "definition": "surrounded or enclosed",
+      "context": "Letter 2: 'How slowly the time passes here, encompassed as I am by frost and snow!'"
+    },
+    {
+      "word": "absence",
+      "definition": "the state of being away or not present",
+      "context": "Letter 2: Walton laments 'the absence of the object' (a friend) in his life."
+    },
+    {
+      "word": "medium",
+      "definition": "a means of communication or conveyance",
+      "context": "Letter 2: Walton will 'commit my thoughts to paper' calling it a 'poor medium' for feeling."
+    },
+    {
+      "word": "albatross",
+      "definition": "a large seabird; literary reference to a curse or omen",
+      "context": "Letter 2: Walton alludes to the 'Ancient Mariner' noting he 'shall kill no albatross.'"
+    },
+    {
+      "word": "familiarity",
+      "definition": "close acquaintance or frequent experience",
+      "context": "Letter 1: Walton's 'familiarity' with voyage accounts shaped his early dreams."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/84"
+}
