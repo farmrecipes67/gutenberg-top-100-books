@@ -1,0 +1,609 @@
+{
+  "gutenberg_id": 4085,
+  "title": "The Adventures of Roderick Random",
+  "author": "Smollett, T. (Tobias)",
+  "summary": "Tobias Smollett frames a picaresque tale in a prefatory argument for satirical fiction. He praises narratives that expose vice through plausible misfortune and names influences such as Cervantes and Le Sage. An apologue describes a lampooned conversation-piece—bear, owl, monkey, and ass—that escalates when offended patrons accuse the painter of personal satire. The narrator, Roderick Random, begins with his northern birth: son of his grandfather’s youngest, secretly married to a housekeeper. A prophetic highland seer foretells travel and dangers. Family discovery provokes grandfather’s displeasure; parental hopes, misunderstandings, and nascent misfortunes set the stage for the novel’s adventures and satirical exposure ensues.",
+  "characters": [
+    {
+      "name": "Roderick Random",
+      "age": "birth / narrator (age unspecified)",
+      "personality": "modest, observant narrator; portrayed as genteel yet exposed to misfortune",
+      "lifespan": "born to a clandestine marriage; fate unresolved in the excerpt; story continues"
+    },
+    {
+      "name": "Grandfather (the old gentleman, judge)",
+      "age": "elderly",
+      "personality": "stern, influential, legally minded, averse to beggars",
+      "lifespan": "alive in the opening; displeased by son's secret marriage"
+    },
+    {
+      "name": "Father (youngest son)",
+      "age": "young adult",
+      "personality": "romantic, imprudent, dutiful toward family",
+      "lifespan": "secretly married the housekeeper; remains dependent on his father"
+    },
+    {
+      "name": "Mother (the housekeeper)",
+      "age": "young woman",
+      "personality": "devoted, anxious, impressionable (has a vivid dream)",
+      "lifespan": "gives birth to Roderick; her subsequent fate not given in excerpt"
+    },
+    {
+      "name": "Highland seer",
+      "age": "middle-aged/old (unspecified)",
+      "personality": "cryptic, apparently incorruptible",
+      "lifespan": "interprets mother's dream and foretells the child's travels"
+    },
+    {
+      "name": "Officious person",
+      "age": "unspecified",
+      "personality": "gossipy, meddlesome",
+      "lifespan": "informs the grandfather and provokes family disturbance"
+    },
+    {
+      "name": "The Devil (in the mother's dream)",
+      "age": "mythic figure",
+      "personality": "fantastical, appears as a midwife in the dream",
+      "lifespan": "appears only in the dream; symbolic"
+    },
+    {
+      "name": "Young painter (apologue)",
+      "age": "young adult",
+      "personality": "witty, playful, artistic; unintentionally provocative",
+      "lifespan": "creates the conversation-piece and is accused of lampoon"
+    },
+    {
+      "name": "Bruin (bear in the painting)",
+      "age": "depicted as old",
+      "personality": "toothless, drunken-soldier caricature",
+      "lifespan": "part of the painted group used as an implied lampoon"
+    },
+    {
+      "name": "Owl (in the painting)",
+      "age": "depicted as elderly/learned",
+      "personality": "scholarly, spectacled, contemplative",
+      "lifespan": "depicted and perceived by some viewers as a personal caricature"
+    },
+    {
+      "name": "Monkey (in the painting)",
+      "age": "depicted as active",
+      "personality": "imitative, performs the painting",
+      "lifespan": "appears as the painter's figure in the picture"
+    },
+    {
+      "name": "Ass (in the painting)",
+      "age": "depicted as pompous",
+      "personality": "foolish, ridiculed (wears a periwig)",
+      "lifespan": "depicted; patrons take offense thinking themselves represented"
+    },
+    {
+      "name": "Captain (offended patron)",
+      "age": "older/middle-aged",
+      "personality": "military, hot-tempered, litigious",
+      "lifespan": "confronts the painter angrily over the perceived lampoon"
+    },
+    {
+      "name": "Learned physician",
+      "age": "middle-aged",
+      "personality": "erudite, vociferous, proud of medical learning",
+      "lifespan": "accuses the painter of depicting his features; objects loudly"
+    },
+    {
+      "name": "Venerable senator",
+      "age": "elderly",
+      "personality": "proud, litigious, self-important",
+      "lifespan": "claims the painting lampoons him and reproaches the painter"
+    },
+    {
+      "name": "Monsieur Le Sage",
+      "age": "referenced author",
+      "personality": "influential model (referenced only)",
+      "lifespan": "mentioned as a literary influence (Gil Blas)"
+    },
+    {
+      "name": "Cervantes",
+      "age": "referenced author",
+      "personality": "influential model (referenced only)",
+      "lifespan": "referenced in preface as reforming taste"
+    },
+    {
+      "name": "Xenophon",
+      "age": "ancient author (referenced)",
+      "personality": "classical predecessor",
+      "lifespan": "referenced via the Cyropaedia"
+    },
+    {
+      "name": "Gil Blas (character)",
+      "age": "referenced fictional character",
+      "personality": "picaresque exemplar (referenced only)",
+      "lifespan": "used as a model and point of comparison"
+    },
+    {
+      "name": "Aesculapius",
+      "age": "classical deity reference",
+      "personality": "invoked by physician as oath",
+      "lifespan": "referenced only in invective"
+    },
+    {
+      "name": "Christian reader",
+      "age": "audience figure",
+      "personality": "addressed directly by author",
+      "lifespan": "admonished to avoid taking offense"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Scotland (northern part of the United Kingdom / 'North Briton')",
+      "latitude": 55.9533,
+      "longitude": -3.1883
+    },
+    {
+      "name": "United Kingdom (general reference)",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Spain (referenced: Cervantes, Spanish authors)",
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    {
+      "name": "France (referenced: French authors, Le Sage)",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "Europe (general historical reference)",
+      "latitude": 48,
+      "longitude": 9
+    },
+    {
+      "name": "Greece (classical reference, Xenophon)",
+      "latitude": 37.9838,
+      "longitude": 23.7275
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "satire",
+      "definition": "literary genre using ridicule to expose vice",
+      "context": "Begins preface discussing kinds of satire in fiction"
+    },
+    {
+      "word": "improving",
+      "definition": "edifying; morally beneficial",
+      "context": "Describes satire as 'universally improving' in the preface"
+    },
+    {
+      "word": "occasionally",
+      "definition": "from time to time; as an incidental device",
+      "context": "Used to describe how satire is introduced in a story"
+    },
+    {
+      "word": "vicissitudes",
+      "definition": "changes or fluctuations of fortune",
+      "context": "Refers to 'the vicissitudes of life' in the preface"
+    },
+    {
+      "word": "prepossession",
+      "definition": "a preconceived favorable bias",
+      "context": "Author speaks of securing a favourable prepossession"
+    },
+    {
+      "word": "ingenuous",
+      "definition": "simple, candid, sincere (archaic sense)",
+      "context": "Appeals to 'the ingenuous' readers in the preface"
+    },
+    {
+      "word": "expletives",
+      "definition": "meaningless or fill-in oaths",
+      "context": "Author promises the inclusion of unmeaning oaths (expletives)"
+    },
+    {
+      "word": "hyperboles",
+      "definition": "exaggerations; extravagant statements",
+      "context": "Comes up when criticizing romances filled with monstrous hyperboles"
+    },
+    {
+      "word": "necromancy",
+      "definition": "witchcraft or conjuring the dead; magic",
+      "context": "Romance authors bringing necromancy to aid fiction"
+    },
+    {
+      "word": "knight-errantry",
+      "definition": "the practice or spirit of roaming knights",
+      "context": "Used while discussing knight-errantry and chivalry"
+    },
+    {
+      "word": "chivalry",
+      "definition": "medieval knightly code; romantic knightly ideals",
+      "context": "Referenced when discussing romances and knight-errantry"
+    },
+    {
+      "word": "inimitable",
+      "definition": "impossible to imitate; uniquely excellent",
+      "context": "Describes Cervantes' ridicule as inimitable"
+    },
+    {
+      "word": "ridicule",
+      "definition": "mocking criticism used as reforming device",
+      "context": "Says Cervantes reformed taste 'by an inimitable piece of ridicule'"
+    },
+    {
+      "word": "Cyropædia",
+      "definition": "Xenophon's Cyropaedia (classical work)",
+      "context": "Mentioned as an early prose romance among the ancients"
+    },
+    {
+      "word": "debauched",
+      "definition": "morally corrupted",
+      "context": "Says minds were 'debauched by the imposition of priestcraft'"
+    },
+    {
+      "word": "priestcraft",
+      "definition": "manipulative practices of priests; clerical trickery",
+      "context": "Used to explain how credulity was promoted"
+    },
+    {
+      "word": "credulity",
+      "definition": "willingness to believe too readily",
+      "context": "Mentions credulity encouraged by priestcraft"
+    },
+    {
+      "word": "barbarians",
+      "definition": "foreign invaders; uncivilized groups (classical usage)",
+      "context": "References 'irruption of the barbarians into Europe'"
+    },
+    {
+      "word": "epic",
+      "definition": "long narrative poem in heroic style",
+      "context": "Refers to the 'epic muse' in discussion of ancient art"
+    },
+    {
+      "word": "incitements",
+      "definition": "things that spur to action",
+      "context": "Explaining how exploits were 'repeated as incitements to virtue'"
+    },
+    {
+      "word": "ass",
+      "definition": "donkey; used in apologue as caricature",
+      "context": "One of the animals in the painter's conversation-piece"
+    },
+    {
+      "word": "baboon",
+      "definition": "a kind of monkey; used in a comparative insult",
+      "context": "Physician alludes to diminution of the baboon's as an insult"
+    },
+    {
+      "word": "Bruin",
+      "definition": "a name often given to a bear (literary)",
+      "context": "The bear in the apologue is called Bruin"
+    },
+    {
+      "word": "periwig",
+      "definition": "an old-fashioned wig (17th–18th c.)",
+      "context": "The ass is ornamented with a huge periwig in the apologue"
+    },
+    {
+      "word": "jackanapes",
+      "definition": "an impertinent person; archaic insult",
+      "context": "The venerable senator calls the painter 'Jackanapes!'"
+    },
+    {
+      "word": "Sblood",
+      "definition": "contraction of 'God's blood', archaic oath",
+      "context": "Exclaimed by the captain: 'Sblood! sir' in the apologue"
+    },
+    {
+      "word": "Aesculapius",
+      "definition": "classical god of medicine (invoked in an oath)",
+      "context": "The physician swears 'by the beard of Aesculapius!'"
+    },
+    {
+      "word": "waddling",
+      "definition": "to walk with short steps, swaying (used humorously)",
+      "context": "The venerable senator 'waddling up to the delinquent'"
+    },
+    {
+      "word": "pitiful",
+      "definition": "evoking pity; small and contemptible",
+      "context": "Describes 'this pitiful little fellow' referring to the painter"
+    },
+    {
+      "word": "slanderous",
+      "definition": "false and maliciously defamatory",
+      "context": "Accuses the painter of being a 'slanderous knave'"
+    },
+    {
+      "word": "impertinence",
+      "definition": "rudeness; insolence",
+      "context": "The captain accuses the painter of impertinence"
+    },
+    {
+      "word": "toothless",
+      "definition": "lacking teeth; used as caricature detail",
+      "context": "Bruin is described as 'old, toothless, drunken soldier'"
+    },
+    {
+      "word": "cud",
+      "definition": "material chewed again by ruminants; figurative use",
+      "context": "The captain boasts he can 'chew the cud of resentment'"
+    },
+    {
+      "word": "midwife",
+      "definition": "woman assisting childbirth; appears in the dream",
+      "context": "The devil acted the part of a midwife in the mother's dream"
+    },
+    {
+      "word": "tennis-ball",
+      "definition": "ball used in tennis; appears in a prophetic dream",
+      "context": "Mother dreamed she was delivered of a tennis-ball"
+    },
+    {
+      "word": "seer",
+      "definition": "prophet or fortune-teller",
+      "context": "A highland seer interprets the mother's dream"
+    },
+    {
+      "word": "incorruptible",
+      "definition": "unable to be bribed or corrupted",
+      "context": "The seer is described as incorruptible"
+    },
+    {
+      "word": "housekeeper",
+      "definition": "woman who manages a household; here also the mother",
+      "context": "The narrator's mother was a housekeeper in his grandfather's house"
+    },
+    {
+      "word": "veneration",
+      "definition": "great respect or reverence",
+      "context": "Father promises to cultivate veneration toward his parent"
+    },
+    {
+      "word": "prevaricate",
+      "definition": "to equivocate or evade the truth",
+      "context": "The physician tells the painter 'seek not to prevaricate'"
+    },
+    {
+      "word": "perusal",
+      "definition": "careful reading or study",
+      "context": "Author addresses the 'perusal of the following sheets'"
+    },
+    {
+      "word": "bowels",
+      "definition": "seat of compassion (biblical/archaic usage)",
+      "context": "Author pleads 'in the bowels of the Lord, remember this example'"
+    },
+    {
+      "word": "lampoon",
+      "definition": "a harsh satirical piece targeting a person",
+      "context": "Audience suggests the picture 'was a lampoon upon the friends'"
+    },
+    {
+      "word": "emblems",
+      "definition": "symbols or representative devices",
+      "context": "Painter 'distinguished every figure by some emblem of human life'"
+    },
+    {
+      "word": "conversation",
+      "definition": "social exchange; here 'conversation-piece' painting",
+      "context": "Painter 'sketched a kind of conversation piece' as an image"
+    },
+    {
+      "word": "preface",
+      "definition": "introductory remarks by the author",
+      "context": "The excerpt opens with 'THE AUTHOR'S PREFACE'"
+    },
+    {
+      "word": "apologue",
+      "definition": "a short allegorical narrative conveying a moral",
+      "context": "The short moral tale 'APOLOGUE' follows the preface"
+    },
+    {
+      "word": "adherents",
+      "definition": "followers or supporters",
+      "context": "Family and adherents magnified a hero into myth"
+    },
+    {
+      "word": "homage",
+      "definition": "public honor or respect",
+      "context": "Vulgar 'implored his protection, and yielded the tribute of homage'"
+    },
+    {
+      "word": "altars",
+      "definition": "places of worship; metaphorical honors",
+      "context": "Altars erected to heroes in early romances"
+    },
+    {
+      "word": "posterity",
+      "definition": "future generations",
+      "context": "Exploits 'were handed down to posterity with a thousand exaggerations'"
+    },
+    {
+      "word": "extravagance",
+      "definition": "excessive exaggeration or excess",
+      "context": "Romances distinguished by extravagance of behaviour"
+    },
+    {
+      "word": "monstrous",
+      "definition": "extremely unnatural or exaggerated",
+      "context": "Describes hyperboles as 'most monstrous'"
+    },
+    {
+      "word": "activity",
+      "definition": "vigorous action or physical power",
+      "context": "Heroes distinguished by bodily strength and activity"
+    },
+    {
+      "word": "ludicrous",
+      "definition": "so foolish as to be amusing",
+      "context": "Says such figures were 'ludicrous and unnatural'"
+    },
+    {
+      "word": "unnatural",
+      "definition": "contrary to nature; absurd",
+      "context": "Used to describe figures drawn by romance writers"
+    },
+    {
+      "word": "infected",
+      "definition": "spread or contaminated figuratively",
+      "context": "The world 'began to be infected with the spirit of knight-errantry'"
+    },
+    {
+      "word": "reformed",
+      "definition": "improved by correction",
+      "context": "Cervantes 'reformed the taste of mankind'"
+    },
+    {
+      "word": "celebrated",
+      "definition": "honored or commemorated publicly",
+      "context": "Events 'celebrated in verse by their best poets'"
+    },
+    {
+      "word": "genius",
+      "definition": "exceptional intellectual or creative power",
+      "context": "Comparing romances with 'their best poets' and genius"
+    },
+    {
+      "word": "sketched",
+      "definition": "drew or outlined roughly",
+      "context": "A young painter 'sketched a kind of conversation piece'"
+    },
+    {
+      "word": "garb",
+      "definition": "clothing; outward appearance",
+      "context": "Bruin 'was exhibited in the garb and attitude of an old...soldier'"
+    },
+    {
+      "word": "attitude",
+      "definition": "pose or stance (in painting)",
+      "context": "Describing the bear's garb and attitude in the painting"
+    },
+    {
+      "word": "perched",
+      "definition": "sat or rested on a raised place",
+      "context": "The owl 'perched upon the handle of a coffee-pot'"
+    },
+    {
+      "word": "spectacle",
+      "definition": "eyeglass (singular), used for reading",
+      "context": "Owl had a 'spectacle on [its] nose' in the painting"
+    },
+    {
+      "word": "contemplate",
+      "definition": "to look thoughtfully at; study carefully",
+      "context": "The owl seemed to 'contemplate a newspaper'"
+    },
+    {
+      "word": "foretop",
+      "definition": "part of a wig or hair at the front (archaic)",
+      "context": "Physician remarks similarity in 'form and foretop' of the wig"
+    },
+    {
+      "word": "curls",
+      "definition": "ringlets of hair; wig detail",
+      "context": "The physician complains the painter copied 'the very curls'"
+    },
+    {
+      "word": "colour",
+      "definition": "British spelling of 'color'; used describing wig",
+      "context": "Physician notes 'the colour, indeed, is different'"
+    },
+    {
+      "word": "convict",
+      "definition": "to find guilty or prove wrongdoing",
+      "context": "Physician claims evidence 'will not stand up in judgment to convict thee'"
+    },
+    {
+      "word": "remonstrated",
+      "definition": "protested or objected strongly",
+      "context": "The physician 'remonstrated in a strain of vociferation'"
+    },
+    {
+      "word": "vociferation",
+      "definition": "noisy or vehement shouting",
+      "context": "Describes the physician's loud manner as 'vociferation'"
+    },
+    {
+      "word": "venerable",
+      "definition": "worthy of respect because of age or dignity",
+      "context": "A 'venerable senator' enters to reproach the painter"
+    },
+    {
+      "word": "senator",
+      "definition": "a dignified public official; used for comic effect",
+      "context": "The venerable senator accuses the painter of ingratitude"
+    },
+    {
+      "word": "offspring",
+      "definition": "child or progeny",
+      "context": "Author relates mother was 'delivered of a tennis-ball' in dream; 'offspring' used"
+    },
+    {
+      "word": "importunity",
+      "definition": "persistent, troublesome solicitation",
+      "context": "Father was 'tired with her importunity' regarding the dream"
+    },
+    {
+      "word": "bribe",
+      "definition": "payment to sway judgment or favor",
+      "context": "Father would have bribed the seer but found him incorruptible"
+    },
+    {
+      "word": "interpretation",
+      "definition": "explanation or meaning assigned",
+      "context": "The seer gave a favourable interpretation of the dream"
+    },
+    {
+      "word": "favourable",
+      "definition": "showing approval or advantage",
+      "context": "The seer gave a favourable interpretation of the dream"
+    },
+    {
+      "word": "indignation",
+      "definition": "anger at unfair treatment",
+      "context": "Author hopes to inflame the reader's indignation at villains"
+    },
+    {
+      "word": "calamity",
+      "definition": "serious misfortune or disaster",
+      "context": "Reader is made to 'sympathise with him in his distress and indignation against the authors of his calamity'"
+    },
+    {
+      "word": "modest",
+      "definition": "humble; moderate in claims",
+      "context": "Author speaks of 'modest merit struggling' in the protagonist"
+    },
+    {
+      "word": "mean",
+      "definition": "lowly, unpretentious (archaic/common in phrase 'mean scenes')",
+      "context": "Author anticipates readers objecting to the 'mean scenes' described"
+    },
+    {
+      "word": "whimsical",
+      "definition": "playfully quaint or fanciful",
+      "context": "Describes the painter's group as a 'whimsical group' in apologue"
+    },
+    {
+      "word": "peculiarities",
+      "definition": "distinctive or unusual traits",
+      "context": "Mentioned 'whimsical peculiarities of disposition' in preface"
+    },
+    {
+      "word": "undisguised",
+      "definition": "open; not concealed",
+      "context": "Refers to humours and passions 'undisguised by affectation'"
+    },
+    {
+      "word": "affectation",
+      "definition": "artificial behavior meant to impress",
+      "context": "Contrasted with natural humours 'undisguised by affectation'"
+    },
+    {
+      "word": "ceremony",
+      "definition": "formal public behavior or ritual",
+      "context": "Contrasted with natural behavior 'undisguised by ... ceremony'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/4085"
+}
