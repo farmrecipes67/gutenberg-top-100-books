@@ -1,0 +1,597 @@
+{
+  "gutenberg_id": 36034,
+  "title": "White nights, and other stories",
+  "author": "Dostoyevsky, Fyodor",
+  "summary": "It was a youthful night in Petersburg when a solitary dreamer, long acquainted with the city and its habitual faces, feels crushed by despondency as residents depart for summer villas. He paces grimy rooms and embankments, noticing houses as friends, lamenting a pretty pink house painted yellow. Relieved to reach the fields and meadows, he returns intoxicated by spring. On the canal embankment he discovers a dark girl in a yellow hat weeping; she is pursued by a staggering, obtrusive gentleman. Timid yet courageous, the narrator intervenes with his knotted stick, thereby repelling the man and rescuing the grateful girl",
+  "characters": [
+    {
+      "name": "The Dreamer (narrator)",
+      "age": "early 20s (estimated)",
+      "personality": "solitary, romantic, timid but compassionate, observant of Petersburg",
+      "lifespan": "Remains in Petersburg; wanders the city and countryside, intervenes to save the weeping girl in the excerpt"
+    },
+    {
+      "name": "Matrona",
+      "age": "approx. 40-60 (estimated)",
+      "personality": "practical, inattentive household servant",
+      "lifespan": "Remains the narrator's maid; ignores admonitions and leaves the spider's web untouched"
+    },
+    {
+      "name": "Old man (Fontanka acquaintance)",
+      "age": "elderly (approx. 70+)",
+      "personality": "grave, pensive, habitual in his daily routine",
+      "lifespan": "Continues his daily walks at the Fontanka and exchanges mutual acknowledgment with the narrator"
+    },
+    {
+      "name": "The pretty little house",
+      "age": "N/A (anthropomorphized)",
+      "personality": "proud, hospitable (as perceived by the narrator)",
+      "lifespan": "Beloved by the narrator but is later painted yellow, causing his dismay"
+    },
+    {
+      "name": "Girl in the yellow hat (unknown lady)",
+      "age": "young woman (approx. 18-25)",
+      "personality": "timid, distraught, secretive",
+      "lifespan": "Found weeping on the embankment, pursued, and rescued by the narrator; remains grateful (further fate not described in excerpt)"
+    },
+    {
+      "name": "Staggering gentleman",
+      "age": "middle-aged (approx. 40-60)",
+      "personality": "obtrusive, drunken, threatening",
+      "lifespan": "Pursues the girl; is frightened off by the narrator's knotted stick"
+    },
+    {
+      "name": "Waggoners",
+      "age": "adult labourers (varied)",
+      "personality": "industrious, matter-of-fact",
+      "lifespan": "Transport household goods in caravans to summer villas; multiply in the narrator's imagination"
+    },
+    {
+      "name": "Decrepit cook",
+      "age": "old (approx. 60-80)",
+      "personality": "protective, stoic",
+      "lifespan": "Perches atop the household goods during removal to the country; part of the caravans"
+    },
+    {
+      "name": "Street-seller (flower vendor)",
+      "age": "adult (approx. 20-50)",
+      "personality": "ornamental vendor, part of street life",
+      "lifespan": "Sells pots of flowers to households preparing to move to summer villas"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Saint Petersburg, Russia",
+      "latitude": 59.9342802,
+      "longitude": 30.3350986
+    },
+    {
+      "name": "Nevsky Prospekt (Nevsky)",
+      "latitude": 59.931065,
+      "longitude": 30.360907
+    },
+    {
+      "name": "Fontanka River (embankment)",
+      "latitude": 59.9215,
+      "longitude": 30.305
+    },
+    {
+      "name": "Kamenny Island (Kamenny Ostrov)",
+      "latitude": 59.9773,
+      "longitude": 30.2012
+    },
+    {
+      "name": "Aptekarsky Island (Aptekarsky Ostrov)",
+      "latitude": 59.9736,
+      "longitude": 30.312
+    },
+    {
+      "name": "Peterhof (Peterhof Road direction)",
+      "latitude": 59.8833,
+      "longitude": 29.903
+    },
+    {
+      "name": "Pargolovo",
+      "latitude": 60.017,
+      "longitude": 30.311
+    },
+    {
+      "name": "Krestovsky Island",
+      "latitude": 59.9604,
+      "longitude": 30.2319
+    },
+    {
+      "name": "Neva River",
+      "latitude": 59.965,
+      "longitude": 30.3
+    },
+    {
+      "name": "Black River (Chernaya Rechka)",
+      "latitude": 59.9678,
+      "longitude": 30.2709
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "capricious",
+      "definition": "given to sudden changes of mood or behavior",
+      "context": "Describes ‘capricious and ill-humoured people’ under the starry sky"
+    },
+    {
+      "word": "despondency",
+      "definition": "a state of low spirits from loss of hope or courage",
+      "context": "The narrator says he had been oppressed by a strange despondency all that day"
+    },
+    {
+      "word": "forsaking",
+      "definition": "abandoning or leaving someone",
+      "context": "He felt that every one was forsaking him and going away"
+    },
+    {
+      "word": "villa",
+      "definition": "a country house or summer residence",
+      "context": "Residents depart for their summer villas; narrator envies them"
+    },
+    {
+      "word": "acquaintance",
+      "definition": "a person one knows slightly; familiarity",
+      "context": "He remarks he had hardly an acquaintance after living eight years"
+    },
+    {
+      "word": "Petersburg",
+      "definition": "short for Saint Petersburg, the city setting",
+      "context": "The narrator has been living almost eight years in Petersburg"
+    },
+    {
+      "word": "Fontanka",
+      "definition": "a river/embankment in Saint Petersburg",
+      "context": "He meets an old man every day at the same hour in Fontanka"
+    },
+    {
+      "word": "whispering",
+      "definition": "speaking very softly",
+      "context": "The old man is always whispering to himself"
+    },
+    {
+      "word": "brandishing",
+      "definition": "waving or flourishing (an object) as a threat or in excitement",
+      "context": "The old man brandishes his left arm as he walks"
+    },
+    {
+      "word": "gnarled",
+      "definition": "knobbly, rough, and twisted, especially with age",
+      "context": "The old man holds a long gnarled stick with a gold knob"
+    },
+    {
+      "word": "knob",
+      "definition": "a rounded handle or ornament",
+      "context": "The gnarled stick is topped with a gold knob"
+    },
+    {
+      "word": "dejection",
+      "definition": "a sad and depressed state",
+      "context": "He wandered about the town in profound dejection"
+    },
+    {
+      "word": "perplexity",
+      "definition": "inability to deal with or understand something; puzzlement",
+      "context": "In perplexity he scanned his grimy green walls for the cause of his uneasiness"
+    },
+    {
+      "word": "grimy",
+      "definition": "covered with or characterized by grime; dirty",
+      "context": "He inspected his grimy green walls"
+    },
+    {
+      "word": "sluttishness",
+      "definition": "slovenly or untidy behavior (archaic/uncommon usage)",
+      "context": "He scolds Matrona about the spider's web and sluttishness in general"
+    },
+    {
+      "word": "spider",
+      "definition": "an eight-legged arachnid; used in phrase 'spider's web'",
+      "context": "He notes the spider's web hanging from his ceiling"
+    },
+    {
+      "word": "web",
+      "definition": "a network of fine threads spun by a spider",
+      "context": "The spider's web is comfortably hanging in its place"
+    },
+    {
+      "word": "Matrona",
+      "definition": "the name of the servant in the narrator's lodging",
+      "context": "He sent for Matrona and gave her fatherly admonitions"
+    },
+    {
+      "word": "plaintive",
+      "definition": "sounding sad and mournful",
+      "context": "The little pink house seemed to cry plaintive, 'They are painting me yellow!'"
+    },
+    {
+      "word": "barbarians",
+      "definition": "people perceived as uncivilized or crude",
+      "context": "He calls those who painted the house yellow 'villains, barbarians!'"
+    },
+    {
+      "word": "cornices",
+      "definition": "decorative molding at the top of a building wall",
+      "context": "They spared nothing, neither columns, nor cornices, when they painted"
+    },
+    {
+      "word": "bilious",
+      "definition": "suffering from or causing a liver-related illness; here figuratively 'sickening'",
+      "context": "The change of the house's color almost made him bilious"
+    },
+    {
+      "word": "redecorated",
+      "definition": "decorated again or anew",
+      "context": "One house informed him it is being redecorated to-morrow"
+    },
+    {
+      "word": "embankment",
+      "definition": "a wall or bank of earth or stone built to prevent a river flooding; riverfront promenade",
+      "context": "He walks along the canal embankment where at that hour you never meet a soul"
+    },
+    {
+      "word": "Kamenny",
+      "definition": "short for Kamenny Island, a Petersburg locality",
+      "context": "He distinguishes inhabitants of Kamenny Island by their studied elegance"
+    },
+    {
+      "word": "Aptekarsky",
+      "definition": "short for Aptekarsky Island, a Petersburg area",
+      "context": "He notes Aptekarsky Island visitors among summer-bound residents"
+    },
+    {
+      "word": "Peterhof",
+      "definition": "a suburb/imperial estate outside Saint Petersburg",
+      "context": "He notes people who visit the Peterhof Road when recognizing summer travellers"
+    },
+    {
+      "word": "Pargolovo",
+      "definition": "a rural locality outside Saint Petersburg",
+      "context": "Visitors to Pargolovo impressed one by their reasonable and dignified air"
+    },
+    {
+      "word": "Krestovsky",
+      "definition": "Krestovsky Island, a recreational area of Petersburg",
+      "context": "A tripper to Krestovsky Island could be recognized by irrepressible gaiety"
+    },
+    {
+      "word": "irrepressible",
+      "definition": "not able to be controlled or restrained",
+      "context": "He recognizes Krestovsky trippers by a look of irrepressible gaiety"
+    },
+    {
+      "word": "gaiety",
+      "definition": "the state or quality of being light-hearted or cheerful",
+      "context": "Irrepressible gaiety marks the tripper to Krestovsky Island"
+    },
+    {
+      "word": "waggoners",
+      "definition": "drivers of wagons (archaic/spelled with double 'g')",
+      "context": "Long processions of waggoners walk with waggons loaded with furniture"
+    },
+    {
+      "word": "decrepit",
+      "definition": "worn out or ruined because of age or neglect",
+      "context": "Frequently with a decrepit cook sitting on the top of it all"
+    },
+    {
+      "word": "utensils",
+      "definition": "tools or implements, especially for the kitchen",
+      "context": "Waggons loaded with domestic utensils of all sorts"
+    },
+    {
+      "word": "caravans",
+      "definition": "groups of vehicles or people traveling together",
+      "context": "Everything was going in regular caravans to the summer villas"
+    },
+    {
+      "word": "meadows",
+      "definition": "fields of grassland used for hay or grazing",
+      "context": "He passed the barrier and walked between cultivated fields and meadows"
+    },
+    {
+      "word": "cigars",
+      "definition": "rolled bundles of dried and fermented tobacco leaves",
+      "context": "All the passers-by gave him such friendly looks; they were all smoking cigars"
+    },
+    {
+      "word": "Italy",
+      "definition": "country used here as a simile for warmth and freedom",
+      "context": "He says it was as though he had suddenly found himself in Italy"
+    },
+    {
+      "word": "consumptive",
+      "definition": "affected by consumption (tuberculosis); frail and wasting",
+      "context": "He compares the spring revival to a frail, consumptive girl becoming lovely"
+    },
+    {
+      "word": "frail",
+      "definition": "physically weak or delicate",
+      "context": "A frail, consumptive girl at whom one sometimes looks with compassion"
+    },
+    {
+      "word": "inexplicably",
+      "definition": "in a way that cannot be explained",
+      "context": "She becomes inexplicably lovely and exquisite for an instant"
+    },
+    {
+      "word": "exquisite",
+      "definition": "extremely beautiful and delicate",
+      "context": "The girl's momentary beauty is described as exquisite"
+    },
+    {
+      "word": "bosom",
+      "definition": "the chest or breast; figuratively the seat of emotions",
+      "context": "He imagines people moving to the bosom of their family at the villa"
+    },
+    {
+      "word": "heaving",
+      "definition": "moving up and down with effort or emotion",
+      "context": "What set that bosom heaving? he asks"
+    },
+    {
+      "word": "summoned",
+      "definition": "called forth or brought about",
+      "context": "What summoned the blood to those pale, wan cheeks?"
+    },
+    {
+      "word": "wan",
+      "definition": "pale and giving the impression of illness or exhaustion",
+      "context": "He mentions pale, wan cheeks when describing the girl"
+    },
+    {
+      "word": "anguish",
+      "definition": "severe mental or physical pain or suffering",
+      "context": "Traces of a mortal anguish and regret for the fleeting distraction"
+    },
+    {
+      "word": "remorse",
+      "definition": "deep regret or guilt for a wrong committed",
+      "context": "Even signs of remorse appear in the girl's demeanor"
+    },
+    {
+      "word": "treacherously",
+      "definition": "deceptively or dangerously",
+      "context": "He laments that the momentary beauty flashed so treacherously"
+    },
+    {
+      "word": "bated",
+      "definition": "in great suspense or anxious anticipation (archaic)",
+      "context": "He walked along singing with bated breath when happy"
+    },
+    {
+      "word": "muffled",
+      "definition": "made less loud or clear; muted",
+      "context": "He heard a muffled sob from the girl at the embankment"
+    },
+    {
+      "word": "sob",
+      "definition": "a convulsive catch in the breath, as from grief",
+      "context": "The muffled sobs reveal that the girl is crying"
+    },
+    {
+      "word": "jaunty",
+      "definition": "having or expressing a lively, cheerful, and self-confident manner",
+      "context": "She wore a very charming yellow hat and a jaunty little black mantle"
+    },
+    {
+      "word": "mantle",
+      "definition": "a cloak or shawl; here a small coat",
+      "context": "The girl wore a jaunty little black mantle"
+    },
+    {
+      "word": "divining",
+      "definition": "discovering or perceiving by intuition",
+      "context": "She, divining this, left the embankment and crossed the road"
+    },
+    {
+      "word": "shriek",
+      "definition": "a high-pitched piercing cry",
+      "context": "The girl uttered a shriek when overtaken by the gentleman"
+    },
+    {
+      "word": "knotted",
+      "definition": "tied or formed into a knot; used to describe the stick",
+      "context": "The narrator blesses his luck for the excellent knotted stick"
+    },
+    {
+      "word": "irresistible",
+      "definition": "too attractive and tempting to be resisted",
+      "context": "The knotted stick served as the irresistible argument to deter the man"
+    },
+    {
+      "word": "argument",
+      "definition": "a reason or justification; here used ironically for the stick's force",
+      "context": "He calls the stick an irresistible argument"
+    },
+    {
+      "word": "petrified",
+      "definition": "so frightened that one is unable to move; stunned",
+      "context": "He stopped as though petrified when he first saw the girl"
+    },
+    {
+      "word": "fluttering",
+      "definition": "moving or stirring rapidly and lightly; trembling",
+      "context": "His heart was fluttering like a captured bird"
+    },
+    {
+      "word": "captured",
+      "definition": "taken or ensnared; metaphorical use for the heart",
+      "context": "His heart fluttered like a captured bird"
+    },
+    {
+      "word": "staggering",
+      "definition": "walking or moving unsteadily, as if about to fall",
+      "context": "A gentleman in evening dress was staggering and leaning against the wall"
+    },
+    {
+      "word": "dignified",
+      "definition": "having or showing a composed or serious manner worthy of respect",
+      "context": "The gentleman was of dignified years though not dignified in carriage"
+    },
+    {
+      "word": "Madam",
+      "definition": "a polite form of address for a woman",
+      "context": "He reflects on how he might have addressed her: 'Madam!'"
+    },
+    {
+      "word": "Nevsky",
+      "definition": "short for Nevsky Prospekt, a principal avenue in Petersburg",
+      "context": "He mentions walking in the Nevsky as part of his wanderings"
+    },
+    {
+      "word": "barrier",
+      "definition": "a physical obstruction or gate; here the city gates",
+      "context": "He found himself at the city gates and passed the barrier into fields"
+    },
+    {
+      "word": "cultivated",
+      "definition": "prepared and used for raising crops; here orderly or farmed",
+      "context": "He walked between cultivated fields and meadows"
+    },
+    {
+      "word": "lighthearted",
+      "definition": "cheerful and carefree",
+      "context": "After passing the city gates he felt lighthearted"
+    },
+    {
+      "word": "crawling",
+      "definition": "moving slowly and laboriously",
+      "context": "Boats heavily loaded were crawling along the Neva or Fontanka"
+    },
+    {
+      "word": "Gardens",
+      "definition": "public gardens or parks in the city (capitalized in text)",
+      "context": "He mentions going to the Gardens among his daily walks"
+    },
+    {
+      "word": "spangles",
+      "definition": "small sparkling objects or decorations, used figuratively",
+      "context": "Nature spangles herself with flowers in spring"
+    },
+    {
+      "word": "pale",
+      "definition": "light in color or lacking in vitality",
+      "context": "He notes the girl's pale face and wan cheeks"
+    },
+    {
+      "word": "timid",
+      "definition": "showing a lack of courage or confidence; easily frightened",
+      "context": "She fled with the timid haste of a girl unwilling to accept accompaniment"
+    },
+    {
+      "word": "meek",
+      "definition": "quiet, gentle, and easily imposed on; submissive",
+      "context": "He notes her meek and timid movements"
+    },
+    {
+      "word": "intoxicated",
+      "definition": "overcome with delight or excitement; metaphorically 'drunk' on feeling",
+      "context": "He returns intoxicated by the effect of spring"
+    },
+    {
+      "word": "study",
+      "definition": "examination or close observation",
+      "context": "He had almost made a study of the faces of the people he met"
+    },
+    {
+      "word": "columns",
+      "definition": "vertical pillars used architecturally",
+      "context": "They spared nothing, neither columns, nor cornices, when painting"
+    },
+    {
+      "word": "ungainly",
+      "definition": "awkward or clumsy in appearance",
+      "context": "The little pink house looked proudly at its ungainly neighbours"
+    },
+    {
+      "word": "hospitably",
+      "definition": "in a manner showing welcome or friendliness",
+      "context": "The narrator felt the house looked at him hospitably"
+    },
+    {
+      "word": "puzzling",
+      "definition": "causing one to be puzzled or perplexed",
+      "context": "For two evenings he was puzzling his brains to think what was amiss"
+    },
+    {
+      "word": "admonitions",
+      "definition": "authoritative counsel or warning",
+      "context": "He gave Matrona some fatherly admonitions about the spider's web"
+    },
+    {
+      "word": "stared",
+      "definition": "looked fixedly or vacantly at someone or something",
+      "context": "Matrona simply stared at him in amazement"
+    },
+    {
+      "word": "pane",
+      "definition": "a single sheet of glass in a window",
+      "context": "Delicate fingers had tapped upon the pane as a head was thrust out"
+    },
+    {
+      "word": "street-seller",
+      "definition": "a vendor who sells goods on the street",
+      "context": "A pretty girl called to a street-seller with pots of flowers"
+    },
+    {
+      "word": "pots",
+      "definition": "containers, here used for potted flowers",
+      "context": "She called to a street-seller with pots of flowers"
+    },
+    {
+      "word": "flowers",
+      "definition": "floral plants sold for decoration or pleasure",
+      "context": "People bought flowers to take with them to summer villas"
+    },
+    {
+      "word": "stuffy",
+      "definition": "uncomfortably warm or lacking fresh air; cramped",
+      "context": "The narrator thinks people won't enjoy flowers in stuffy town lodgings"
+    },
+    {
+      "word": "fashionable",
+      "definition": "characteristic of, influenced by, or representing a current popular style",
+      "context": "Inhabitants bound for Kamenny Island displayed fashionable summer suits"
+    },
+    {
+      "word": "tripper",
+      "definition": "a person making a short journey for pleasure",
+      "context": "A tripper to Krestovsky Island could be recognized by his look"
+    },
+    {
+      "word": "recognized",
+      "definition": "identified from having seen before",
+      "context": "He could be recognized at first sight by his manner"
+    },
+    {
+      "word": "uneasiness",
+      "definition": "a feeling of anxiety or discomfort",
+      "context": "He had been feeling a strange uneasiness for days"
+    },
+    {
+      "word": "instantly",
+      "definition": "at once; immediately",
+      "context": "When he reached the city gates, instantly he felt lighthearted"
+    },
+    {
+      "word": "throbbing",
+      "definition": "pulsing or beating strongly and regularly",
+      "context": "He walked with bated breath and a loudly throbbing heart"
+    },
+    {
+      "word": "volunteer",
+      "definition": "to offer oneself or one's services freely",
+      "context": "Girls flee to avoid anyone who might volunteer to accompany them home"
+    },
+    {
+      "word": "obtrusive",
+      "definition": "noticeable or prominent in an unwelcome way",
+      "context": "The narrator describes the man as the obtrusive gentleman who pursued her"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/36034"
+}
