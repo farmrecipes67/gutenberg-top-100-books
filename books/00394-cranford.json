@@ -1,0 +1,612 @@
+{
+  "gutenberg_id": 394,
+  "title": "Cranford",
+  "author": "Gaskell, Elizabeth Cleghorn",
+  "summary": "Set in the small English town of Cranford, Elizabeth Gaskell's narrative describes a community dominated by women whose strict rules of visiting, economy, and decorum mask private hardships. The narrator records social rituals—tea-parties, minute calling hours, and concealed poverty—alongside eccentric characters: the proud but impoverished, the stingy yet genteel, and Captain Brown, a half-pay officer whose frank practicality and masculine common sense gradually wins the ladies’ respect. Episodes range from the rescue of Miss Betsy Barker’s Alderney cow to debates over fashion and propriety, painting a humorous, affectionate portrait of provincial female society and its quiet virtues and domestic kindness.",
+  "characters": [
+    {
+      "name": "Narrator",
+      "age": "adult (unspecified)",
+      "personality": "observant, conversational, affectionate reporter of Cranford society",
+      "lifespan": "Remains the storyteller who returns to and records Cranford's events in the narrative"
+    },
+    {
+      "name": "Captain Brown",
+      "age": "around 60+ (described as upwards of sixty)",
+      "personality": "wiry, practical, frank, manly common sense",
+      "lifespan": "Settles at Cranford with his daughters and wins respect through pragmatic counsel"
+    },
+    {
+      "name": "Miss Brown (eldest)",
+      "age": "about 40 (described as must have been forty)",
+      "personality": "sickly, pained, careworn, plain and hard-featured",
+      "lifespan": "Remains in Cranford; portrayed as careworn and domestic in the excerpt"
+    },
+    {
+      "name": "Miss Jessie Brown",
+      "age": "about 30 (described as ten years younger than her sister)",
+      "personality": "round-faced, dimpled, childlike, pretty and wondering",
+      "lifespan": "Remains in Cranford; noted for her childlike appearance and gentle nature"
+    },
+    {
+      "name": "Miss Betsy Barker",
+      "age": "unspecified (an elderly lady figure)",
+      "personality": "affectionate toward her Alderney cow, easily distressed about it",
+      "lifespan": "Her cow falls into a lime-pit but is rescued and she recovers from the alarm"
+    },
+    {
+      "name": "The Alderney (cow)",
+      "age": "animal (not aged in text)",
+      "personality": "much-loved bovine, described as intelligent and remarkable",
+      "lifespan": "Tumbles into a lime-pit, is rescued, dressed in flannel, and returns to pasture"
+    },
+    {
+      "name": "Mrs Forrester",
+      "age": "unspecified",
+      "personality": "gentle, conceals limited means while acting hostess",
+      "lifespan": "Hosts parties while hiding her poverty by personally assisting with refreshments"
+    },
+    {
+      "name": "Honourable Mrs Jamieson",
+      "age": "unspecified",
+      "personality": "practices 'elegant economy', genteel though sparing with entertainments",
+      "lifespan": "Noted in society for modest entertainments despite rank as sister-in-law to an earl"
+    },
+    {
+      "name": "Miss Tyler",
+      "age": "deceased (referred to 'of cleanly memory')",
+      "personality": "cleanly, fastidious (reputed)",
+      "lifespan": "Referred to posthumously as a model of cleanliness and propriety"
+    },
+    {
+      "name": "Miss Jenkyns",
+      "age": "unspecified",
+      "personality": "sharp-tongued, outspoken (makes passionate remarks)",
+      "lifespan": "Appears as a critic within Cranford society; remains an active voice in town talk"
+    },
+    {
+      "name": "The Surgeon",
+      "age": "unspecified",
+      "personality": "professional, makes rounds over large district",
+      "lifespan": "Keeps his round of thirty miles and sleeps at Cranford; otherwise unnamed"
+    },
+    {
+      "name": "Charity-school maiden (servant)",
+      "age": "young (school age/young maiden)",
+      "personality": "dutiful but physically slight, assists at entertainments",
+      "lifespan": "Performs household service for poor gentlefolk and aids in serving at parties"
+    },
+    {
+      "name": "Little boys (group)",
+      "age": "children",
+      "personality": "mischievous, curious (mob the red umbrella)",
+      "lifespan": "Local youngsters who mock and mob novel sights like the red silk umbrella"
+    },
+    {
+      "name": "The Ladies of Cranford (collective)",
+      "age": "various (middle-aged to older)",
+      "personality": "strict in manners, proud, eccentric, kind and dictatorial in charity",
+      "lifespan": "Maintain town customs, visiting rules, and a shared genteel economy throughout the narrative"
+    }
+  ],
+  "locations": [
+    {
+      "name": "London",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Tinwald Mount (Tynwald Hill, Isle of Man)",
+      "latitude": 54.169,
+      "longitude": -4.482
+    },
+    {
+      "name": "Alderney (Island, source of Alderney cow name)",
+      "latitude": 49.7167,
+      "longitude": -2.2147
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Amazons",
+      "definition": "mythical warrior women; used to denote women in authority",
+      "context": "“Cranford is in possession of the Amazons”"
+    },
+    {
+      "word": "holders",
+      "definition": "those who possess or occupy (property)",
+      "context": "“holders of houses above a certain rent are women”"
+    },
+    {
+      "word": "rent",
+      "definition": "payment for occupancy of property",
+      "context": "“houses above a certain rent”"
+    },
+    {
+      "word": "regiment",
+      "definition": "military unit referenced as a reason men are absent",
+      "context": "“he is either ... with his regiment”"
+    },
+    {
+      "word": "Drumble",
+      "definition": "a (fictional) neighbouring commercial town",
+      "context": "“the great neighbouring commercial town of Drumble”"
+    },
+    {
+      "word": "railroad",
+      "definition": "rail transport line",
+      "context": "“distant only twenty miles on a railroad”"
+    },
+    {
+      "word": "surgeon",
+      "definition": "medical practitioner who visits the town",
+      "context": "“The surgeon has his round of thirty miles”"
+    },
+    {
+      "word": "trim",
+      "definition": "neat, well-kept (gardens)",
+      "context": "“keeping the trim gardens full of choice flowers”"
+    },
+    {
+      "word": "gardens",
+      "definition": "plots for flowers and plants",
+      "context": "“keeping the trim gardens full of choice flowers”"
+    },
+    {
+      "word": "weed",
+      "definition": "an unwanted plant",
+      "context": "“without a weed to speck them”"
+    },
+    {
+      "word": "geese",
+      "definition": "waterfowl sometimes venturing into gardens",
+      "context": "“for rushing out at the geese that occasionally venture in”"
+    },
+    {
+      "word": "railings",
+      "definition": "metal or wooden bars forming a fence",
+      "context": "“little boys who look wistfully at the said flowers through the railings”"
+    },
+    {
+      "word": "literature",
+      "definition": "written works; discussion subject in Cranford",
+      "context": "“deciding all questions of literature and politics”"
+    },
+    {
+      "word": "politics",
+      "definition": "affairs of government and public affairs",
+      "context": "“deciding all questions of literature and politics”"
+    },
+    {
+      "word": "parish",
+      "definition": "local church district/community",
+      "context": "“knowledge of everybody’s affairs in the parish”"
+    },
+    {
+      "word": "maid-servants",
+      "definition": "female household servants",
+      "context": "“for keeping their neat maid-servants in admirable order”"
+    },
+    {
+      "word": "dictatorial",
+      "definition": "bossy or domineering in manner",
+      "context": "“kindness (somewhat dictatorial) to the poor”"
+    },
+    {
+      "word": "good offices",
+      "definition": "helpful actions or services",
+      "context": "“real tender good offices to each other”"
+    },
+    {
+      "word": "eccentricity",
+      "definition": "quirky or odd personal characteristic",
+      "context": "“each has her own individuality, not to say eccentricity”"
+    },
+    {
+      "word": "verbal",
+      "definition": "spoken rather than written",
+      "context": "“nothing is so easy as verbal retaliation”"
+    },
+    {
+      "word": "retaliation",
+      "definition": "returning a remark or action in kind",
+      "context": "“verbal retaliation”"
+    },
+    {
+      "word": "peppery",
+      "definition": "spicy, sharp in temper or language",
+      "context": "“spirited out in a few peppery words”"
+    },
+    {
+      "word": "independent",
+      "definition": "not dictated by fashion or trend",
+      "context": "“Their dress is very independent of fashion”"
+    },
+    {
+      "word": "gigot",
+      "definition": "a leg-of-mutton sleeve style; old fashion term",
+      "context": "“the last gigot, the last tight and scanty petticoat”"
+    },
+    {
+      "word": "petticoat",
+      "definition": "an undergarment skirt worn beneath a dress",
+      "context": "“the last tight and scanty petticoat in wear in England”"
+    },
+    {
+      "word": "umbrella",
+      "definition": "handheld canopy for rain",
+      "context": "“A magnificent family red silk umbrella”"
+    },
+    {
+      "word": "mobbed",
+      "definition": "gathered around in a crowd, often rudely",
+      "context": "“the little boys mobbed it”"
+    },
+    {
+      "word": "spinster",
+      "definition": "an unmarried woman, often older",
+      "context": "“a gentle little spinster”"
+    },
+    {
+      "word": "tradition",
+      "definition": "custom or long-standing belief in a community",
+      "context": "“We had a tradition of the first that had ever been seen”"
+    },
+    {
+      "word": "quarter",
+      "definition": "a fifteen-minute period; used in calling rules",
+      "context": "“never to stay longer than a quarter of an hour”"
+    },
+    {
+      "word": "Manx",
+      "definition": "relating to the Isle of Man",
+      "context": "“with all the solemnity with which the old Manx laws were read”"
+    },
+    {
+      "word": "Tinwald",
+      "definition": "mount associated with Manx (Tynwald/Tinwald) ceremonies",
+      "context": "“on the Tinwald Mount”"
+    },
+    {
+      "word": "carriage",
+      "definition": "horse-drawn vehicle; conveyance",
+      "context": "“fifteen miles in a gentleman’s carriage”"
+    },
+    {
+      "word": "calling",
+      "definition": "social visits; calling hours",
+      "context": "“from twelve to three are our calling hours”"
+    },
+    {
+      "word": "wafer",
+      "definition": "thin crisp bread often used with tea",
+      "context": "“Wafer bread-and-butter and sponge-biscuits”"
+    },
+    {
+      "word": "sponge-biscuits",
+      "definition": "light, sponge-like biscuits/cakes",
+      "context": "“Wafer bread-and-butter and sponge-biscuits were all”"
+    },
+    {
+      "word": "Honourable",
+      "definition": "title indicating rank or courtesy",
+      "context": "“the Honourable Mrs Jamieson”"
+    },
+    {
+      "word": "sister-in-law",
+      "definition": "the wife of one's sibling or sibling of one's spouse",
+      "context": "“she was sister-in-law to the late Earl of Glenmire”"
+    },
+    {
+      "word": "elegant economy",
+      "definition": "a phrase meaning tasteful frugality",
+      "context": "“she did practise such ‘elegant economy’”"
+    },
+    {
+      "word": "sour-grapeism",
+      "definition": "a coinage meaning a resentful rationalization (like sour grapes)",
+      "context": "“a sort of sour-grapeism which made us very peaceful”"
+    },
+    {
+      "word": "Captain",
+      "definition": "naval or military officer title",
+      "context": "“a certain Captain Brown came to live at Cranford”"
+    },
+    {
+      "word": "half-pay",
+      "definition": "retired or reduced-pay status of a military officer",
+      "context": "“He was a half-pay captain”"
+    },
+    {
+      "word": "tabooed",
+      "definition": "forbidden or avoided by social custom",
+      "context": "“even admitted in the tabooed hours before twelve”"
+    },
+    {
+      "word": "smoking",
+      "definition": "emitting smoke; here of a chimney",
+      "context": "“to discover the cause of a smoking chimney”"
+    },
+    {
+      "word": "chimney",
+      "definition": "flue for smoke from a fireplace",
+      "context": "“to discover the cause of a smoking chimney”"
+    },
+    {
+      "word": "flannel",
+      "definition": "soft woven fabric used for garments",
+      "context": "“Get her a flannel waistcoat and flannel drawers”"
+    },
+    {
+      "word": "waistcoat",
+      "definition": "sleeveless garment worn over shirt, under coat",
+      "context": "“flannel waistcoat”"
+    },
+    {
+      "word": "drawers",
+      "definition": "underclothing garments (archaic term)",
+      "context": "“flannel drawers”"
+    },
+    {
+      "word": "Alderney",
+      "definition": "breed name/island used to describe the cow",
+      "context": "“Miss Betsy Barker’s Alderney”"
+    },
+    {
+      "word": "lime-pit",
+      "definition": "a pit containing lime; hazardous for animals",
+      "context": "“the poor cow tumbled into a lime-pit”"
+    },
+    {
+      "word": "moaned",
+      "definition": "uttered low sounds of distress",
+      "context": "“She moaned so loudly that she was soon heard”"
+    },
+    {
+      "word": "rescued",
+      "definition": "saved from danger",
+      "context": "“she was soon heard and rescued”"
+    },
+    {
+      "word": "droll",
+      "definition": "oddly amusing or whimsical",
+      "context": "“a few could not restrain their smiles at her droll appearance”"
+    },
+    {
+      "word": "cried",
+      "definition": "wept aloud",
+      "context": "“Miss Betsy Barker absolutely cried with sorrow”"
+    },
+    {
+      "word": "bath",
+      "definition": "a soaking or immersion; here a proposed remedy",
+      "context": "“she thought of trying a bath of oil”"
+    },
+    {
+      "word": "oil",
+      "definition": "a greasy liquid proposed as treatment",
+      "context": "“trying a bath of oil”"
+    },
+    {
+      "word": "knocked",
+      "definition": "rejected or dismissed (an idea)",
+      "context": "“the proposal ... was knocked on the head”"
+    },
+    {
+      "word": "head",
+      "definition": "chief part; used in phrase 'knocked on the head'",
+      "context": "“knocked on the head by Captain Brown’s decided ‘Get her...’”"
+    },
+    {
+      "word": "meekly",
+      "definition": "in a gentle, submissive manner",
+      "context": "“the Alderney meekly going to her pasture”"
+    },
+    {
+      "word": "pasture",
+      "definition": "grazing land for animals",
+      "context": "“meekly going to her pasture, clad in dark grey flannel”"
+    },
+    {
+      "word": "wiry",
+      "definition": "lean, tough, and sinewy",
+      "context": "“he had a wiry, well-trained, elastic figure”"
+    },
+    {
+      "word": "elastic",
+      "definition": "springy, resilient",
+      "context": "“a wiry, well-trained, elastic figure”"
+    },
+    {
+      "word": "throw-back",
+      "definition": "a reflected or carried-back feature (here of the head)",
+      "context": "“a stiff military throw-back of his head”"
+    },
+    {
+      "word": "springing",
+      "definition": "with a spring-like movement; brisk",
+      "context": "“and a springing step”"
+    },
+    {
+      "word": "eldest",
+      "definition": "the oldest among siblings",
+      "context": "“His eldest daughter looked almost as old as himself”"
+    },
+    {
+      "word": "careworn",
+      "definition": "worn down by worry or anxiety",
+      "context": "“she had a sickly, pained, careworn expression”"
+    },
+    {
+      "word": "gaiety",
+      "definition": "merriment or cheerfulness",
+      "context": "“looked as if the gaiety of youth had long faded out of sight”"
+    },
+    {
+      "word": "faded",
+      "definition": "diminished in brightness or vigor",
+      "context": "“the gaiety of youth had long faded out of sight”"
+    },
+    {
+      "word": "plain",
+      "definition": "not attractive or ornate; simple",
+      "context": "“Even when young she must have been plain”"
+    },
+    {
+      "word": "hard-featured",
+      "definition": "having strongly marked, unattractive facial features",
+      "context": "“Even when young she must have been plain and hard-featured”"
+    },
+    {
+      "word": "dimples",
+      "definition": "small indentations on the cheek when smiling",
+      "context": "“Miss Jessie Brown ... had round and dimpled [face]”"
+    },
+    {
+      "word": "unformed",
+      "definition": "not fully shaped or developed",
+      "context": "“Her nose was unformed”"
+    },
+    {
+      "word": "authority",
+      "definition": "recognized power to give opinions or decisions",
+      "context": "“I was surprised to hear his opinions quoted as authority”"
+    },
+    {
+      "word": "counsel",
+      "definition": "advice given formally or seriously",
+      "context": "“some counsel which he had given in jest”"
+    },
+    {
+      "word": "expedients",
+      "definition": "practical measures to solve problems",
+      "context": "“facility in devising expedients to overcome domestic dilemmas”"
+    },
+    {
+      "word": "domestic",
+      "definition": "relating to household matters",
+      "context": "“domestic dilemmas”"
+    },
+    {
+      "word": "dilemmas",
+      "definition": "difficult situations requiring choice",
+      "context": "“to overcome domestic dilemmas”"
+    },
+    {
+      "word": "respected",
+      "definition": "regarded with esteem",
+      "context": "“Somehow Captain Brown made himself respected in Cranford”"
+    },
+    {
+      "word": "visits",
+      "definition": "social calls or occasions of calling",
+      "context": "“I paid to Cranford” / “a visit which I paid to Cranford”"
+    },
+    {
+      "word": "Coventry",
+      "definition": "used idiomatically to mean ostracize or ignore",
+      "context": "“he must be sent to Coventry”"
+    },
+    {
+      "word": "ostentatious",
+      "definition": "showy, intended to attract notice",
+      "context": "“money-spending always ‘vulgar and ostentatious’”"
+    },
+    {
+      "word": "vulgar",
+      "definition": "crude or lacking in refinement; socially offensive",
+      "context": "“it was considered ‘vulgar’ to give anything expensive”"
+    },
+    {
+      "word": "aristocratic",
+      "definition": "having qualities of the upper class",
+      "context": "“we were all aristocratic” (used to conceal poverty)"
+    },
+    {
+      "word": "gentility",
+      "definition": "social refinement or genteel status",
+      "context": "“and this very much acknowledged gentility”"
+    },
+    {
+      "word": "economy",
+      "definition": "frugality; careful management of resources",
+      "context": "“Elegant economy!” / “economy was always ‘elegant’”"
+    },
+    {
+      "word": "servants'",
+      "definition": "belonging to household staff (used in servants’ hall)",
+      "context": "“we all believed that our hostess had a regular servants’ hall”"
+    },
+    {
+      "word": "second",
+      "definition": "secondary or additional (here 'second table')",
+      "context": "“second table, with housekeeper and steward”"
+    },
+    {
+      "word": "table",
+      "definition": "dining arrangement or board; here used socially",
+      "context": "“second table, with housekeeper and steward”"
+    },
+    {
+      "word": "housekeeper",
+      "definition": "person in charge of household affairs",
+      "context": "“second table, with housekeeper and steward”"
+    },
+    {
+      "word": "steward",
+      "definition": "manager of household provisions",
+      "context": "“second table, with housekeeper and steward”"
+    },
+    {
+      "word": "charity-school",
+      "definition": "a school for the poor supported by charity",
+      "context": "“the one little charity-school maiden”"
+    },
+    {
+      "word": "maiden",
+      "definition": "an unmarried young woman (here: servant)",
+      "context": "“the one little charity-school maiden”"
+    },
+    {
+      "word": "ruddy",
+      "definition": "reddish in complexion or color",
+      "context": "“whose short ruddy arms”"
+    },
+    {
+      "word": "arms",
+      "definition": "limbs; here implying the servant's short arms",
+      "context": "“whose short ruddy arms could never have been strong enough”"
+    },
+    {
+      "word": "assisted",
+      "definition": "helped or supported",
+      "context": "“if she had not been assisted in private by her mistress”"
+    },
+    {
+      "word": "hostess",
+      "definition": "woman hosting a gathering",
+      "context": "“our hostess had a regular servants’ hall”"
+    },
+    {
+      "word": "state",
+      "definition": "formal bearing or pomp; 'sat in state' meaning in ceremony",
+      "context": "“who now sat in state”"
+    },
+    {
+      "word": "sponge-cakes",
+      "definition": "light, sponge-like cakes served at tea",
+      "context": "“she had been busy all the morning making tea-bread and sponge-cakes”"
+    },
+    {
+      "word": "tea-bread",
+      "definition": "a type of sweet bread or loaf baked for tea-time",
+      "context": "“making tea-bread and sponge-cakes”"
+    },
+    {
+      "word": "frankness",
+      "definition": "openness or straightforwardness",
+      "context": "“with his manly frankness had overpowered all the shrinking”"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/394"
+}
