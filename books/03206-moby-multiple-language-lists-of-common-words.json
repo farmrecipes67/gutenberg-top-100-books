@@ -1,0 +1,537 @@
+{
+  "gutenberg_id": 3206,
+  "title": "Moby Multiple Language Lists of Common Words",
+  "author": "Ward, Grady",
+  "summary": "This Project Gutenberg entry documents the Moby Language II package by Grady Ward, a public-domain collection of large word lists in five languages. It explains that the lists are ASCII text files for MSDOS distribution, compressed in a single zip archive and using CRLF delimiters. The documentation warns that older lists lack Unicode and 8-bit accented characters, using phonetic spellings with backslashes and other markers instead, making accurate recovery of original accented forms infeasible. File contents and counts for French, German, Italian, Japanese and Spanish are listed, with sizes, and brief extraction and quick-start instructions are provided for users worldwide.",
+  "characters": [],
+  "locations": [
+    {
+      "name": "Paris, France",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "Berlin, Germany",
+      "latitude": 52.52,
+      "longitude": 13.405
+    },
+    {
+      "name": "Rome, Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Tokyo, Japan",
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    },
+    {
+      "name": "Madrid, Spain",
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "MOBY",
+      "definition": "Proper name of the word-list package",
+      "context": "Used in the document title and headers."
+    },
+    {
+      "word": "LANGUAGE",
+      "definition": "Relating to languages or language files",
+      "context": "Part of product name and headings."
+    },
+    {
+      "word": "II",
+      "definition": "Roman numeral two, indicating second edition",
+      "context": "Appears in the product name 'MOBY Language II'."
+    },
+    {
+      "word": "DOCUMENTATION",
+      "definition": "Information describing the product",
+      "context": "Header labeling the notes."
+    },
+    {
+      "word": "NOTES",
+      "definition": "Short explanatory remarks",
+      "context": "Header labeling the documentation notes."
+    },
+    {
+      "word": "Public",
+      "definition": "Available to the public",
+      "context": "Describes domain status."
+    },
+    {
+      "word": "Domain",
+      "definition": "Realm of ownership; here 'public domain'",
+      "context": "Used in phrase 'Public Domain'."
+    },
+    {
+      "word": "material",
+      "definition": "Content provided",
+      "context": "Refers to documentation and database content."
+    },
+    {
+      "word": "by",
+      "definition": "Authorship marker",
+      "context": "Indicates author attribution."
+    },
+    {
+      "word": "grant",
+      "definition": "Formal permission or transfer",
+      "context": "Refers to grant from the author."
+    },
+    {
+      "word": "from",
+      "definition": "Indicates source",
+      "context": "Used to denote origin (author)."
+    },
+    {
+      "word": "the",
+      "definition": "Definite article",
+      "context": "Frequently used determiner throughout the text."
+    },
+    {
+      "word": "author",
+      "definition": "Creator of the work",
+      "context": "Refers to Grady Ward."
+    },
+    {
+      "word": "January",
+      "definition": "Month name",
+      "context": "Date of public domain grant."
+    },
+    {
+      "word": "2001",
+      "definition": "Year numeric",
+      "context": "Year when material was granted public domain."
+    },
+    {
+      "word": "HISTORICAL",
+      "definition": "Relating to history",
+      "context": "Section header 'HISTORICAL NOTE'."
+    },
+    {
+      "word": "NOTE",
+      "definition": "Short comment or annotation",
+      "context": "Part of section header."
+    },
+    {
+      "word": "Ward",
+      "definition": "Proper name of the author",
+      "context": "Author surname referenced in historical note."
+    },
+    {
+      "word": "word",
+      "definition": "Unit of vocabulary",
+      "context": "Refers to entries in lists."
+    },
+    {
+      "word": "lists",
+      "definition": "Collections of words",
+      "context": "Main subject: word lists for languages."
+    },
+    {
+      "word": "were",
+      "definition": "Past-tense of 'are'",
+      "context": "Used in historical description."
+    },
+    {
+      "word": "some",
+      "definition": "An unspecified portion",
+      "context": "Qualifies the size claim of lists."
+    },
+    {
+      "word": "of",
+      "definition": "Preposition indicating relation",
+      "context": "Common connective in phrases."
+    },
+    {
+      "word": "largest",
+      "definition": "Among the biggest in size",
+      "context": "Describes the lists historically."
+    },
+    {
+      "word": "world",
+      "definition": "The planet or global scope",
+      "context": "States worldwide significance."
+    },
+    {
+      "word": "at",
+      "definition": "Preposition denoting time or place",
+      "context": "Used in time reference."
+    },
+    {
+      "word": "time",
+      "definition": "Moment or period",
+      "context": "Refers to the era of addition to Project Gutenberg."
+    },
+    {
+      "word": "they",
+      "definition": "Pronoun referring to lists",
+      "context": "Used when describing the lists."
+    },
+    {
+      "word": "added",
+      "definition": "Included or appended",
+      "context": "Describes when lists were added to Project Gutenberg."
+    },
+    {
+      "word": "Project",
+      "definition": "Part of proper name 'Project Gutenberg'",
+      "context": "Organization hosting the files."
+    },
+    {
+      "word": "Gutenberg",
+      "definition": "Name of digital library project",
+      "context": "Identifies the host collection."
+    },
+    {
+      "word": "collection",
+      "definition": "Group of works or files",
+      "context": "Refers to Gutenberg holdings."
+    },
+    {
+      "word": "2007",
+      "definition": "Year numeric",
+      "context": "Year when lists were added to the collection."
+    },
+    {
+      "word": "These",
+      "definition": "Demonstrative pronoun",
+      "context": "Introduces subsequent statements about lists."
+    },
+    {
+      "word": "do",
+      "definition": "Auxiliary verb",
+      "context": "Used to form negative 'do not contain'."
+    },
+    {
+      "word": "not",
+      "definition": "Negation",
+      "context": "Denies presence of certain characters."
+    },
+    {
+      "word": "contain",
+      "definition": "Hold or include",
+      "context": "Says what the lists lack."
+    },
+    {
+      "word": "8-bit",
+      "definition": "Refers to 8-bit character encodings",
+      "context": "Specifies absence of accented characters."
+    },
+    {
+      "word": "accented",
+      "definition": "Having diacritical marks",
+      "context": "Describes missing characters."
+    },
+    {
+      "word": "characters",
+      "definition": "Text symbols or letters",
+      "context": "Discusses encoding limitations."
+    },
+    {
+      "word": "or",
+      "definition": "Conjunction",
+      "context": "Connects alternatives such as accented characters or Unicode."
+    },
+    {
+      "word": "Unicode",
+      "definition": "Universal character encoding standard",
+      "context": "Mentioned as absent in older lists."
+    },
+    {
+      "word": "as",
+      "definition": "Conjunction or preposition",
+      "context": "Used in comparative phrases."
+    },
+    {
+      "word": "would",
+      "definition": "Conditional modal verb",
+      "context": "Used to indicate normal expectation about accents."
+    },
+    {
+      "word": "be",
+      "definition": "Existence verb",
+      "context": "Used in passive and descriptive clauses."
+    },
+    {
+      "word": "found",
+      "definition": "Discovered or present",
+      "context": "Describes modern eBook features."
+    },
+    {
+      "word": "more",
+      "definition": "Greater extent or degree",
+      "context": "Comparative to recent eBooks."
+    },
+    {
+      "word": "recent",
+      "definition": "Newer or later",
+      "context": "Characterizes newer eBooks."
+    },
+    {
+      "word": "eBook",
+      "definition": "Electronic book",
+      "context": "Contrasts modern eBooks with these lists."
+    },
+    {
+      "word": "Instead",
+      "definition": "As an alternative",
+      "context": "Introduces alternate representation method."
+    },
+    {
+      "word": "include",
+      "definition": "To contain as part of",
+      "context": "States what the lists use instead of accented characters."
+    },
+    {
+      "word": "phonetic",
+      "definition": "Relating to speech sounds or spelling",
+      "context": "Describes the transcription approach used."
+    },
+    {
+      "word": "spelling",
+      "definition": "Arrangement of letters in words",
+      "context": "Refers to phonetic spellings in lists."
+    },
+    {
+      "word": "utilizing",
+      "definition": "Using or employing",
+      "context": "Explains method of representing accents."
+    },
+    {
+      "word": "backslashes",
+      "definition": "The '\\' character used as marker",
+      "context": "Noted as used to indicate accents."
+    },
+    {
+      "word": "other",
+      "definition": "Additional or different",
+      "context": "Refers to additional marker characters."
+    },
+    {
+      "word": "indicate",
+      "definition": "Show or point out",
+      "context": "Describes function of backslashes and markers."
+    },
+    {
+      "word": "where",
+      "definition": "In which place or position",
+      "context": "Refers to location of accents in words."
+    },
+    {
+      "word": "accents",
+      "definition": "Diacritical marks on letters",
+      "context": "What the phonetic markers represent."
+    },
+    {
+      "word": "normally",
+      "definition": "Under usual conditions",
+      "context": "Means where accents would typically occur."
+    },
+    {
+      "word": "occur",
+      "definition": "Take place or appear",
+      "context": "Refers to accent occurrence."
+    },
+    {
+      "word": "There",
+      "definition": "Introductory adverb",
+      "context": "Used to introduce a clause about lack of guide."
+    },
+    {
+      "word": "is",
+      "definition": "Third-person singular of 'be'",
+      "context": "Used in declarative statements."
+    },
+    {
+      "word": "no",
+      "definition": "Negation determiner",
+      "context": "States absence of a detailed guide."
+    },
+    {
+      "word": "detailed",
+      "definition": "Thorough and specific",
+      "context": "Qualifies the missing guide."
+    },
+    {
+      "word": "guide",
+      "definition": "Instructional document",
+      "context": "Refers to documentation explaining markers."
+    },
+    {
+      "word": "on",
+      "definition": "Preposition",
+      "context": "Used in phrases like 'guide on how'."
+    },
+    {
+      "word": "how",
+      "definition": "In what way or manner",
+      "context": "Questions method of encoding accents."
+    },
+    {
+      "word": "extra",
+      "definition": "Additional or supplementary",
+      "context": "Describes the special marker characters."
+    },
+    {
+      "word": "used",
+      "definition": "Employed or utilized",
+      "context": "Describes how markers function."
+    },
+    {
+      "word": "and",
+      "definition": "Conjunction",
+      "context": "Connects clauses and items."
+    },
+    {
+      "word": "therefore",
+      "definition": "For that reason",
+      "context": "Indicates a logical consequence."
+    },
+    {
+      "word": "it",
+      "definition": "Pronoun referring to subject",
+      "context": "Used to refer to the mapping process."
+    },
+    {
+      "word": "likely",
+      "definition": "Probable or expected",
+      "context": "Qualifies feasibility."
+    },
+    {
+      "word": "infeasible",
+      "definition": "Not practical or impossible",
+      "context": "Describes difficulty of reconstructing original accents."
+    },
+    {
+      "word": "map",
+      "definition": "Convert or translate",
+      "context": "Refers to converting list entries back to accented words."
+    },
+    {
+      "word": "from",
+      "definition": "Indicating source or starting point",
+      "context": "Used in mapping description."
+    },
+    {
+      "word": "back",
+      "definition": "Return to a prior state",
+      "context": "Used in phrase 'back to a correct representation'."
+    },
+    {
+      "word": "a",
+      "definition": "Indefinite article",
+      "context": "Common determiner in the text."
+    },
+    {
+      "word": "correct",
+      "definition": "Accurate or right",
+      "context": "Describes desired representation."
+    },
+    {
+      "word": "representation",
+      "definition": "A depiction or rendering",
+      "context": "Refers to original accented words."
+    },
+    {
+      "word": "of",
+      "definition": "Expressing relationship",
+      "context": "Used frequently throughout the text."
+    },
+    {
+      "word": "i.e.,",
+      "definition": "That is; clarifying abbreviation",
+      "context": "Introduces an explanatory clause."
+    },
+    {
+      "word": "list",
+      "definition": "Single collection of entries",
+      "context": "Used in file listings and references."
+    },
+    {
+      "word": "entry",
+      "definition": "Individual item in a list",
+      "context": "Refers to single word-list lines."
+    },
+    {
+      "word": "with",
+      "definition": "Accompanied by",
+      "context": "Used to indicate presence of markers or characters."
+    },
+    {
+      "word": "slashes",
+      "definition": "Forward or back slash characters",
+      "context": "Mentioned as possible markers in entries."
+    },
+    {
+      "word": "actual",
+      "definition": "Real or original",
+      "context": "Refers to the true non-English word form."
+    },
+    {
+      "word": "non-English",
+      "definition": "Not in English language",
+      "context": "Qualifies words that may include accents."
+    },
+    {
+      "word": "non-ASCII",
+      "definition": "Characters outside ASCII range",
+      "context": "Describes absent characters in lists."
+    },
+    {
+      "word": "still",
+      "definition": "Nevertheless or yet",
+      "context": "Indicates lists remain useful despite limits."
+    },
+    {
+      "word": "useful",
+      "definition": "Helpful or beneficial",
+      "context": "Evaluates the practical value of lists."
+    },
+    {
+      "word": "but",
+      "definition": "Contrasting conjunction",
+      "context": "Introduces limitations."
+    },
+    {
+      "word": "they",
+      "definition": "Pronoun referring to lists",
+      "context": "Used in descriptive sentences."
+    },
+    {
+      "word": "are",
+      "definition": "Plural of 'be'",
+      "context": "Used in declarative clauses."
+    },
+    {
+      "word": "no longer",
+      "definition": "Not anymore; obsolete",
+      "context": "States the lists are outdated relative to modern lists."
+    },
+    {
+      "word": "state-of-the-art",
+      "definition": "Most advanced available",
+      "context": "Describes current technological standard which lists do not meet."
+    },
+    {
+      "word": "MSDOS",
+      "definition": "An early operating system for PCs",
+      "context": "Specifies the original target OS for the distribution."
+    },
+    {
+      "word": "zip",
+      "definition": "Compressed archive format",
+      "context": "Describes packaging of language files."
+    },
+    {
+      "word": "CRLF",
+      "definition": "Carriage return + line feed line ending",
+      "context": "Specifies line delimiters used in files."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/3206"
+}
