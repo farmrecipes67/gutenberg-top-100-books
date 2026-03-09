@@ -1,0 +1,580 @@
+{
+  "gutenberg_id": 30254,
+  "title": "The Romance of Lust: A classic Victorian erotic novel",
+  "author": "Anonymous",
+  "summary": "A pubescent narrator describes growing sexual awareness while living with his mother and two younger sisters. When a young governess, Miss Evelyn, is engaged, her beauty, neatness and apparent relish for corporal discipline awaken the narrator’s intense desire. Secret observations of her nightly undress, bathing at a bidet, and exposing of legs, bottom and genitalia inflame the boy. He chronicles voyeuristic rapture, childish explorations with his sisters, and the household dynamics—mother’s management, Susan the servant, and the dead father’s modest provision—culminating in obsessive longing and ignorance about sexual intercourse.",
+  "characters": [
+    {
+      "name": "Narrator (unnamed)",
+      "age": "approaching 15",
+      "personality": "curious, sexually awakened, observant, voyeuristic, naive",
+      "lifespan": "present in the narrative; fate not yet revealed in excerpt"
+    },
+    {
+      "name": "Mary",
+      "age": "about 14 (about a year younger than narrator)",
+      "personality": "playful, developing sexually, similar tendencies to narrator",
+      "lifespan": "present in the story; fate not yet revealed in excerpt"
+    },
+    {
+      "name": "Eliza",
+      "age": "between 12 and 13",
+      "personality": "younger, less developed physically, innocent",
+      "lifespan": "present in the story; fate not yet revealed in excerpt"
+    },
+    {
+      "name": "Mamma",
+      "age": "middle-aged (unspecified)",
+      "personality": "practical, concerned with household economy, disciplinarian",
+      "lifespan": "present in the story; fate not yet revealed in excerpt"
+    },
+    {
+      "name": "Miss Evelyn",
+      "age": "about 22",
+      "personality": "beautiful, neat, composed, seductive, possibly fond of discipline",
+      "lifespan": "present in the story; fate not yet revealed in excerpt"
+    },
+    {
+      "name": "Susan",
+      "age": "unspecified (house servant)",
+      "personality": "household servant mentioned as one who will make birch rods",
+      "lifespan": "present in the household; fate not yet revealed in excerpt"
+    },
+    {
+      "name": "Father",
+      "age": "deceased (no age given)",
+      "personality": "absent; left family moderately provided for",
+      "lifespan": "deceased prior to the events related in the excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "London (The Times newspaper mentioned)",
+      "latitude": 51.5073509,
+      "longitude": -0.1277583
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "attouchements",
+      "definition": "French-derived term for sexual fondlings or caresses",
+      "context": "We had made so little progress in the attouchements that not the slightest inkling..."
+    },
+    {
+      "word": "doodle",
+      "definition": "childish slang for penis used by the children",
+      "context": "the hooding and unhooding of my doodle, as she called it"
+    },
+    {
+      "word": "hooding",
+      "definition": "covering the glans (used here of a penis)",
+      "context": "the hooding and unhooding of my doodle"
+    },
+    {
+      "word": "unhooding",
+      "definition": "the act of uncovering the glans (antonym to hooding)",
+      "context": "the hooding and unhooding of my doodle"
+    },
+    {
+      "word": "prick",
+      "definition": "vulgar/archaic term for penis",
+      "context": "caused my prick to swell and stiffen to a painful extent"
+    },
+    {
+      "word": "moss-like",
+      "definition": "resembling moss; used to describe pubic hair",
+      "context": "a slight growth of moss-like curls round the root of my cock"
+    },
+    {
+      "word": "mount",
+      "definition": "in erotic anatomy, the mons pubis; 'mount of Venus'",
+      "context": "thickly covered with dark curly hair over the mount of Venus"
+    },
+    {
+      "word": "Venus",
+      "definition": "classical reference to the mons pubis ('mount of Venus')",
+      "context": "mount of Venus"
+    },
+    {
+      "word": "pinky",
+      "definition": "diminutive adjective referring to the small lip/slit ('pinky slit')",
+      "context": "my feeling of her little pinky slit"
+    },
+    {
+      "word": "piddle",
+      "definition": "childish term for urinate; used playfully",
+      "context": "each trying who could piddle fastest"
+    },
+    {
+      "word": "crossed",
+      "definition": "as in 'crossed waters'—to urinate opposite one another",
+      "context": "we all squatted down together, and crossed waters"
+    },
+    {
+      "word": "squatted",
+      "definition": "to crouch down low, used for children urinating outdoors",
+      "context": "we all squatted down together"
+    },
+    {
+      "word": "inkling",
+      "definition": "a slight idea or hint (older usage)",
+      "context": "not the slightest inkling of what could be done in that way dawned upon us"
+    },
+    {
+      "word": "cock",
+      "definition": "vulgar term for penis (used in the text)",
+      "context": "round the root of my cock"
+    },
+    {
+      "word": "habituated",
+      "definition": "accustomed; an older formal register",
+      "context": "quite habituated to let each other look at all our naked bodies"
+    },
+    {
+      "word": "guile",
+      "definition": "sly or cunning intelligence; archaic literary use",
+      "context": "perfectly innocent of guile"
+    },
+    {
+      "word": "bladder",
+      "definition": "the organ for holding urine (used in a domestic bodily context)",
+      "context": "to relieve the pressure on the bladder"
+    },
+    {
+      "word": "governess",
+      "definition": "a female teacher employed in a private household (Victorian usage)",
+      "context": "she inserted an advertisement in the Times for a governess"
+    },
+    {
+      "word": "advertisement",
+      "definition": "formal public notice (here placed in The Times)",
+      "context": "she inserted an advertisement in the Times for a governess"
+    },
+    {
+      "word": "Times",
+      "definition": "The Times newspaper (London) mentioned as the medium for advertisement",
+      "context": "inserted an advertisement in the Times"
+    },
+    {
+      "word": "birch",
+      "definition": "a birch rod used for corporal punishment",
+      "context": "Susan will make you excellent birch rods whenever you require them"
+    },
+    {
+      "word": "rods",
+      "definition": "sticks used for corporal punishment",
+      "context": "excellent birch rods whenever you require them"
+    },
+    {
+      "word": "whipping",
+      "definition": "beating as corporal punishment; archaic/common in Victorian context",
+      "context": "If you spare their bottoms when they deserve whipping"
+    },
+    {
+      "word": "bottoms",
+      "definition": "buttocks; used in the context of corporal punishment",
+      "context": "If you spare their bottoms when they deserve whipping"
+    },
+    {
+      "word": "dilate",
+      "definition": "to expand (here of the eyes), somewhat formal/medical term",
+      "context": "Miss Evelyn’s eyes appeared to dilate with a sort of joy"
+    },
+    {
+      "word": "amiability",
+      "definition": "friendliness; slightly old-fashioned noun form",
+      "context": "She looked amiability itself"
+    },
+    {
+      "word": "seductive",
+      "definition": "temptingly attractive; literary usage in describing Miss Evelyn",
+      "context": "She was, in truth, a seductive creature"
+    },
+    {
+      "word": "sternness",
+      "definition": "severity of manner; formal/archaic register",
+      "context": "somewhat of a sternness of expression"
+    },
+    {
+      "word": "dignity",
+      "definition": "formal reserve or stately bearing",
+      "context": "a dignity of carriage"
+    },
+    {
+      "word": "carriage",
+      "definition": "posture or bearing of the body (older usage)",
+      "context": "a dignity of carriage"
+    },
+    {
+      "word": "feign",
+      "definition": "to pretend (older/formal verb)",
+      "context": "I was instinctively prompted to feign sleep"
+    },
+    {
+      "word": "undressing",
+      "definition": "the act of removing clothes; straightforward but used erotically here",
+      "context": "So she at once commenced undressing"
+    },
+    {
+      "word": "devoured",
+      "definition": "to look at eagerly/intensely (metaphorical)",
+      "context": "I greedily devoured her naked charms"
+    },
+    {
+      "word": "bubbies",
+      "definition": "colloquial/slang for breasts used in the text",
+      "context": "from her lovely and beautifully formed bubbies"
+    },
+    {
+      "word": "chemise",
+      "definition": "a woman’s undergarment (archaic/period clothing term)",
+      "context": "When all but her chemise was removed"
+    },
+    {
+      "word": "petticoats",
+      "definition": "women's under-skirts; archaic/clothing term",
+      "context": "pick up her petticoats that she had allowed to fall to her feet"
+    },
+    {
+      "word": "satin",
+      "definition": "a smooth, glossy fabric (period descriptive)",
+      "context": "dazzlingly white and shining like satin"
+    },
+    {
+      "word": "stooping",
+      "definition": "bending forward; descriptive action",
+      "context": "she was still in a stooping position"
+    },
+    {
+      "word": "slit",
+      "definition": "opening; used to describe a genital feature",
+      "context": "below her slit she was well covered with dark hair"
+    },
+    {
+      "word": "nightgown",
+      "definition": "a gown for sleeping; period clothing term",
+      "context": "to take up her nightgown"
+    },
+    {
+      "word": "belly",
+      "definition": "abdomen; used erotically here",
+      "context": "a view of her beautiful belly"
+    },
+    {
+      "word": "curly",
+      "definition": "having curls; descriptive of pubic hair",
+      "context": "thickly covered with dark curly hair"
+    },
+    {
+      "word": "voluptuous",
+      "definition": "sensuously pleasing; somewhat literary/period adjective",
+      "context": "So voluptuous was the sight"
+    },
+    {
+      "word": "extinguished",
+      "definition": "to put out (a light), formal register",
+      "context": "the light was extinguished"
+    },
+    {
+      "word": "rill",
+      "definition": "a small stream (rather poetic/archaic usage)",
+      "context": "a rushing rill flowed into the night vase"
+    },
+    {
+      "word": "night vase",
+      "definition": "old-fashioned euphemism for chamber pot",
+      "context": "a rushing rill flowed into the night vase"
+    },
+    {
+      "word": "tricklings",
+      "definition": "small thin flows or drips; literary usage",
+      "context": "very different from the gentle tricklings from myself and sisters"
+    },
+    {
+      "word": "spurt",
+      "definition": "a sudden forceful jet (here of urine), blunt slang",
+      "context": "the power of directing the spurt where I pleased"
+    },
+    {
+      "word": "projection",
+      "definition": "bulging forward; here of trousers",
+      "context": "very frequent projection of my trousers"
+    },
+    {
+      "word": "trousers",
+      "definition": "men's lower garments (period clothing word)",
+      "context": "projection of my trousers"
+    },
+    {
+      "word": "puberty",
+      "definition": "the period of sexual maturation (formal term)",
+      "context": "a youth of the age of puberty"
+    },
+    {
+      "word": "abandon",
+      "definition": "complete lack of restraint (older literary usage)",
+      "context": "a freedom of carriage and an abandon in her attitudes"
+    },
+    {
+      "word": "attitudes",
+      "definition": "postures or stances; formal/older usage",
+      "context": "an abandon in her attitudes"
+    },
+    {
+      "word": "fender",
+      "definition": "a guard in front of a fireplace (household term)",
+      "context": "place her beautiful feet on the high school fender"
+    },
+    {
+      "word": "underswell",
+      "definition": "the visible lower bulge or swell beneath clothing (period descriptive usage)",
+      "context": "the whole glorious underswell of both thighs"
+    },
+    {
+      "word": "profusion",
+      "definition": "an abundance; formal/literary noun",
+      "context": "nestled in a rich profusion of dark curls"
+    },
+    {
+      "word": "glancing",
+      "definition": "throwing light briefly; literary verb",
+      "context": "The light from the fire glancing under her raised petticoats"
+    },
+    {
+      "word": "tinged",
+      "definition": "slightly colored or affected; literary usage",
+      "context": "tinged the whole with a glow"
+    },
+    {
+      "word": "blaze",
+      "definition": "a bright burst of light or feeling (figurative)",
+      "context": "set me equally in a blaze of desire"
+    },
+    {
+      "word": "faint",
+      "definition": "to lose consciousness or grow weak; used figuratively",
+      "context": "ready to faint"
+    },
+    {
+      "word": "fondled",
+      "definition": "handled lovingly or sexually; formal/older usage",
+      "context": "kissed and fondled that delicious opening"
+    },
+    {
+      "word": "dainty",
+      "definition": "delicately small and pretty; period adjective",
+      "context": "the dainty kid slipper"
+    },
+    {
+      "word": "kid",
+      "definition": "soft leather used for shoes; period material term",
+      "context": "dainty kid slipper"
+    },
+    {
+      "word": "glossy",
+      "definition": "shiny; descriptive term for stockings",
+      "context": "tight glossy silk stocking"
+    },
+    {
+      "word": "swell",
+      "definition": "a bulging fullness; used erotically",
+      "context": "the glorious swell of the beautiful bubbies"
+    },
+    {
+      "word": "goddess",
+      "definition": "a female deity; used metaphorically for Miss Evelyn",
+      "context": "Miss Evelyn became to me a goddess"
+    },
+    {
+      "word": "worshiped",
+      "definition": "showed adoration (older spelling/use)",
+      "context": "whom, in my heart of hearts, I literally worshiped"
+    },
+    {
+      "word": "imagination",
+      "definition": "the faculty of forming mental images; used erotically",
+      "context": "imagination placing there her lovely cunt"
+    },
+    {
+      "word": "cunt",
+      "definition": "vulgar/archaic term for female genitalia; explicit in text",
+      "context": "her lovely cunt"
+    },
+    {
+      "word": "craved",
+      "definition": "strongly desired; somewhat literary verb",
+      "context": "I craved for something beyond this"
+    },
+    {
+      "word": "appertaining",
+      "definition": "pertaining to; formal/archaic form",
+      "context": "ignorant of anything appertaining to the conjunction of the sexes"
+    },
+    {
+      "word": "conjunction",
+      "definition": "joining together; formal term used for sexual union",
+      "context": "conjunction of the sexes"
+    },
+    {
+      "word": "wardrobe",
+      "definition": "a piece of furniture for clothes (period household term)",
+      "context": "hanging it on the wardrobe"
+    },
+    {
+      "word": "puzzled",
+      "definition": "perplexed; standard but used in period narration",
+      "context": "the use of which had often puzzled me"
+    },
+    {
+      "word": "lid",
+      "definition": "cover of a container; household term",
+      "context": "she took off the lid, poured water into its basin"
+    },
+    {
+      "word": "basin",
+      "definition": "a bowl or receptacle for water; household/chamber context",
+      "context": "poured water into its basin"
+    },
+    {
+      "word": "sponge",
+      "definition": "a soft absorbent implement used for washing; household term",
+      "context": "placed a sponge near it"
+    },
+    {
+      "word": "gown",
+      "definition": "a woman's outer garment; period clothing term",
+      "context": "She then took off her gown"
+    },
+    {
+      "word": "fastened",
+      "definition": "secured in place; common but used in period narrative",
+      "context": "drew her petticoats and chemise up to her waist and fastened them there"
+    },
+    {
+      "word": "glass",
+      "definition": "mirror (older usage referring to a dressing mirror)",
+      "context": "stood before her glass"
+    },
+    {
+      "word": "fullness",
+      "definition": "plumpness or completeness; descriptive term",
+      "context": "presenting to my devouring glance her glorious white bottom in all its fullness"
+    },
+    {
+      "word": "wealth",
+      "definition": "an abundance (here of hair), literary usage",
+      "context": "with all its wealth of hair"
+    },
+    {
+      "word": "pouting",
+      "definition": "projecting outwardly, used erotically for lips",
+      "context": "the pouting lips of her cunt"
+    },
+    {
+      "word": "madness",
+      "definition": "a state of intense excitement; literary use",
+      "context": "my almost madness vanished"
+    },
+    {
+      "word": "rinsed",
+      "definition": "washed with clean water, household verb",
+      "context": "with the rinsed sponge"
+    },
+    {
+      "word": "drops",
+      "definition": "small quantities of liquid; used in bathing context",
+      "context": "the trickling drops of water which still gathered"
+    },
+    {
+      "word": "massy-fleshed",
+      "definition": "having a heavy, substantial fleshiness; period descriptive compound",
+      "context": "massy-fleshed and most voluptuous shape"
+    },
+    {
+      "word": "heretofore",
+      "definition": "before now (archaic/formal adverb)",
+      "context": "more fully seen by me than they had heretofore been"
+    },
+    {
+      "word": "conceived",
+      "definition": "imagined; somewhat formal usage",
+      "context": "it may easily be conceived into what a state such a deliberate view threw me"
+    },
+    {
+      "word": "penetrate",
+      "definition": "to pass into or through (used erotically/naive sexual idea)",
+      "context": "still less of penetrating them"
+    },
+    {
+      "word": "ablutions",
+      "definition": "acts of washing (old-fashioned/formal term for washing)",
+      "context": "When her ablutions were completed"
+    },
+    {
+      "word": "calves",
+      "definition": "the lower part of the leg; anatomical term used descriptively",
+      "context": "displaying her beautiful white calves"
+    },
+    {
+      "word": "exquisitely",
+      "definition": "extremely beautiful or delicate; literary adverb",
+      "context": "exquisitely formed legs"
+    },
+    {
+      "word": "extraordinarily",
+      "definition": "remarkably; formal adverb used in description",
+      "context": "which were extraordinarily perfect in make"
+    },
+    {
+      "word": "peculiar",
+      "definition": "distinctive or particular; slightly formal usage",
+      "context": "exercised a peculiar charm over me"
+    },
+    {
+      "word": "bijoux",
+      "definition": "French plural for 'jewels'; here used metaphorically for shoes",
+      "context": "that were bijoux to look at"
+    },
+    {
+      "word": "low-bodiced",
+      "definition": "describing a dress with a low bodice (period fashion term)",
+      "context": "took down a low-bodiced dress"
+    },
+    {
+      "word": "toilet",
+      "definition": "act of dressing or the clothes/dressing table (older usage)",
+      "context": "finished her toilet"
+    },
+    {
+      "word": "crawled",
+      "definition": "moved on hands and knees (used for the narrator rising from under the bed)",
+      "context": "I crawled out from under the bed"
+    },
+    {
+      "word": "drank",
+      "definition": "took liquid into the mouth (childish action in bidet water)",
+      "context": "and even drank some in my excitement"
+    },
+    {
+      "word": "seized",
+      "definition": "taken hold of by a strong feeling (used of passion)",
+      "context": "The passion that had seized me"
+    },
+    {
+      "word": "obedient",
+      "definition": "complying with commands; formal descriptor",
+      "context": "kept me most obedient to her slightest command"
+    },
+    {
+      "word": "attentive",
+      "definition": "paying attention; formal/period register",
+      "context": "attentive to my lessons"
+    },
+    {
+      "word": "example",
+      "definition": "a pattern of behaviour (used in moral/educational context)",
+      "context": "My example had also had the effect"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/30254"
+}
