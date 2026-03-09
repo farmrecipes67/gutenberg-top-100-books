@@ -1,0 +1,675 @@
+{
+  "gutenberg_id": 1260,
+  "title": "Jane Eyre: An Autobiography",
+  "author": "Brontë, Charlotte",
+  "summary": "Jane Eyre, an orphaned ten-year-old, narrates childhood scenes at her aunt’s gloomy house where cold weather confines her indoors. Excluded by Mrs. Reed and tormented by cousin John Reed’s bullying, she finds refuge in reading Bewick’s illustrations and imagining distant Arctic coasts. The opening contrasts domestic cruelty and imaginative escape, showing Jane’s humiliation, physical vulnerability, and craving for companionship. Prefatory remarks by the author criticize social hypocrisy and conventional piety, dedicate the work to Thackeray, and argue for distinguishing true religion from outward show. The tone blends moral critique, vivid atmosphere, and early signals of the heroine’s resilient interior life.",
+  "characters": [
+    {
+      "name": "Jane Eyre",
+      "age": "about 10 (in excerpt)",
+      "personality": "imaginative, sensitive, resilient, observant",
+      "lifespan": "Orphaned child living with the Reeds; in the excerpt she endures exclusion and abuse but finds refuge in reading and imagination."
+    },
+    {
+      "name": "John (Jack) Reed",
+      "age": "about 14",
+      "personality": "bullying, sullen, physically overindulgent",
+      "lifespan": "Cousin who routinely torments Jane; in the excerpt he strikes and humiliates her and remains at home under his mother's indulgence."
+    },
+    {
+      "name": "Eliza Reed",
+      "age": "adolescent (not precisely stated)",
+      "personality": "prim, conventional, unsympathetic",
+      "lifespan": "One of Mrs. Reed's daughters; present in the household and participates in excluding Jane."
+    },
+    {
+      "name": "Georgiana Reed",
+      "age": "adolescent (not precisely stated)",
+      "personality": "vain, frivolous, pampered",
+      "lifespan": "One of Mrs. Reed's daughters; present and treated as a favored child."
+    },
+    {
+      "name": "Mrs. Reed",
+      "age": "middle-aged (guardian/aunt)",
+      "personality": "cold, proud, formal, hypocritical toward Jane",
+      "lifespan": "Aunt and guardian who excludes Jane from family privileges and justifies it; remains the authority figure in the excerpt."
+    },
+    {
+      "name": "Bessie (the nurse)",
+      "age": "adult (not specified)",
+      "personality": "kind, practical, a storyteller",
+      "lifespan": "Nursery nurse who tells tales to the children and provides some comfort; present in household life."
+    },
+    {
+      "name": "Mr. Miles",
+      "age": "adult (schoolmaster)",
+      "personality": "practical, observant",
+      "lifespan": "Schoolmaster referenced about John Reed's schooling; his opinion is cited about John's health and behaviour."
+    },
+    {
+      "name": "Mr. Reed",
+      "age": "deceased (father of Jane)",
+      "personality": "not described in excerpt",
+      "lifespan": "Deceased father who 'left her none' (no money); referenced as reason given for Jane's dependent status."
+    },
+    {
+      "name": "Bewick",
+      "age": "adult (author reference)",
+      "personality": "naturalist/illustrator (referenced)",
+      "lifespan": "Author/illustrator of the volume Jane reads (Bewick's History of British Birds); his engraved vignettes stimulate Jane's imagination."
+    },
+    {
+      "name": "Ahab",
+      "age": "biblical/fictional reference",
+      "personality": "referenced as an example in the preface",
+      "lifespan": "Mentioned in the author's preface as an exemplar in a moral anecdote."
+    },
+    {
+      "name": "Micaiah (son of Imlah)",
+      "age": "biblical/fictional reference",
+      "personality": "prophetic figure in the preface's anecdote",
+      "lifespan": "Referenced in the preface as contrasting with flatterers; used illustratively."
+    },
+    {
+      "name": "Chenaanah",
+      "age": "biblical/fictional reference",
+      "personality": "referenced satirically",
+      "lifespan": "Mentioned in the preface as 'son of Chenaanah' (a prophetic contrast); used illustratively."
+    },
+    {
+      "name": "Imlah",
+      "age": "biblical/fictional reference",
+      "personality": "father name used in reference",
+      "lifespan": "Referenced in the preface in relation to Micaiah (son of Imlah)."
+    },
+    {
+      "name": "W. M. Thackeray",
+      "age": "adult (contemporary author)",
+      "personality": "satirist praised by the author",
+      "lifespan": "Named dedicatee of the second edition in the preface; referenced as a model satirist."
+    },
+    {
+      "name": "Currer Bell",
+      "age": "authorial pseudonym",
+      "personality": "authorial persona; forthright and critical",
+      "lifespan": "Pseudonym under which the book is published and which signs the preface and note to later editions."
+    },
+    {
+      "name": "Pamela",
+      "age": "fictional/book reference",
+      "personality": "title character from a book Bessie references",
+      "lifespan": "Mentioned as one of the sources of Bessie's evening tales that entertain the children."
+    },
+    {
+      "name": "Henry, Earl of Moreland",
+      "age": "fictional/book reference",
+      "personality": "romantic tale reference",
+      "lifespan": "Referenced as a source of Bessie's story-telling material (ballad/romance)."
+    }
+  ],
+  "locations": [
+    {
+      "name": "Lindesnes (Lindeness), Norway",
+      "latitude": 57.9833,
+      "longitude": 7.0456
+    },
+    {
+      "name": "The Naze (Walton-on-the-Naze), England",
+      "latitude": 51.7791,
+      "longitude": 1.2556
+    },
+    {
+      "name": "North Cape (Nordkapp), Norway",
+      "latitude": 71.1725,
+      "longitude": 25.7836
+    },
+    {
+      "name": "Thule (classical reference, far north)",
+      "latitude": 70,
+      "longitude": -20
+    },
+    {
+      "name": "Hebrides (Outer Hebrides, representative)",
+      "latitude": 58.2,
+      "longitude": -6.4
+    },
+    {
+      "name": "Lapland (region, representative)",
+      "latitude": 68,
+      "longitude": 20
+    },
+    {
+      "name": "Siberia (region, representative)",
+      "latitude": 60,
+      "longitude": 105
+    },
+    {
+      "name": "Spitzbergen (Spitsbergen, Svalbard)",
+      "latitude": 78,
+      "longitude": 16
+    },
+    {
+      "name": "Nova Zembla (Novaya Zemlya)",
+      "latitude": 73.5,
+      "longitude": 56.5
+    },
+    {
+      "name": "Iceland (Reykjavík as representative)",
+      "latitude": 64.1466,
+      "longitude": -21.9426
+    },
+    {
+      "name": "Greenland (Nuuk as representative)",
+      "latitude": 64.183,
+      "longitude": -51.7216
+    },
+    {
+      "name": "Arctic Zone (North Pole as representative)",
+      "latitude": 90,
+      "longitude": 0
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "indulgent",
+      "definition": "lenient or forgiving",
+      "context": "Preface: 'the indulgent ear it has inclined to a plain tale...'"
+    },
+    {
+      "word": "suffrage",
+      "definition": "approval or vote",
+      "context": "Preface: 'the fair field its honest suffrage has opened...'"
+    },
+    {
+      "word": "aspirant",
+      "definition": "one who aspires or seeks advancement",
+      "context": "Preface: 'an obscure aspirant.'"
+    },
+    {
+      "word": "tact",
+      "definition": "skill in dealing with people or situations",
+      "context": "Preface: praising publishers for their 'tact.'"
+    },
+    {
+      "word": "liberality",
+      "definition": "generosity or broad-mindedness",
+      "context": "Preface: 'frank liberality have afforded an unknown...'"
+    },
+    {
+      "word": "timorous",
+      "definition": "fearful or timid",
+      "context": "Preface: 'the timorous or carping few who doubt...'"
+    },
+    {
+      "word": "carping",
+      "definition": "petty criticizing or fault-finding",
+      "context": "Preface: 'the timorous or carping few...'"
+    },
+    {
+      "word": "dissevered",
+      "definition": "separated or severed apart",
+      "context": "Preface: 'I would suggest to such doubters certain obvious distinctions; I would remind them... to see these ideas dissevered.'"
+    },
+    {
+      "word": "Pharisee",
+      "definition": "hypocritical or self-righteous person (biblical sect)",
+      "context": "Preface: 'To pluck the mask from the face of the Pharisee...'"
+    },
+    {
+      "word": "regent",
+      "definition": "a ruler or one acting on behalf of a sovereign",
+      "context": "Preface: 'that regent of God on earth.'"
+    },
+    {
+      "word": "elate",
+      "definition": "to make very happy or proud",
+      "context": "Preface: 'that only tend to elate and magnify a few.'"
+    },
+    {
+      "word": "sepulchre",
+      "definition": "a tomb or burial chamber",
+      "context": "Preface: 'to penetrate the sepulchre, and reveal charnel relics.'"
+    },
+    {
+      "word": "charnel",
+      "definition": "related to burial; a place of bones",
+      "context": "Preface: 'charnel relics.'"
+    },
+    {
+      "word": "Ahab",
+      "definition": "biblical king (used illustratively)",
+      "context": "Preface anecdote: 'Ahab did not like Micaiah...' used for moral example."
+    },
+    {
+      "word": "Micaiah",
+      "definition": "biblical prophet (used illustratively)",
+      "context": "Preface anecdote: 'Ahab did not like Micaiah...' mentioned as truth-teller."
+    },
+    {
+      "word": "Chenaanah",
+      "definition": "biblical name (used illustratively)",
+      "context": "Preface: 'the sycophant son of Chenaanah.'"
+    },
+    {
+      "word": "sycophant",
+      "definition": "a servile flatterer",
+      "context": "Preface: 'the sycophant son of Chenaanah.'"
+    },
+    {
+      "word": "Rimoth-Gilead",
+      "definition": "biblical place name used metaphorically",
+      "context": "Preface: 'they or their seed might yet escape a fatal Rimoth-Gilead.'"
+    },
+    {
+      "word": "satirist",
+      "definition": "one who uses satire to criticize",
+      "context": "Preface: 'the satirist of \"Vanity Fair\".'"
+    },
+    {
+      "word": "levin-brand",
+      "definition": "a poetic term for a lightning-brand or bolt",
+      "context": "Preface: 'over whom he flashes the levin-brand of his denunciation.'"
+    },
+    {
+      "word": "lambent",
+      "definition": "softly glowing or flickering",
+      "context": "Preface: 'the mere lambent sheet-lightning...'"
+    },
+    {
+      "word": "mien",
+      "definition": "a person's look or manner",
+      "context": "Preface: 'a mien as dauntless and as daring.'"
+    },
+    {
+      "word": "dauntless",
+      "definition": "fearless, resolute",
+      "context": "Preface: 'a mien as dauntless and as daring.'"
+    },
+    {
+      "word": "Currer",
+      "definition": "the author's pseudonymous forename",
+      "context": "Preface signature: 'CURRER BELL.'"
+    },
+    {
+      "word": "Lindeness",
+      "definition": "old form/variant of Lindesnes, a headland in Norway",
+      "context": "Chapter I: 'the Lindeness, or Naze, to the North Cape.'"
+    },
+    {
+      "word": "Naze",
+      "definition": "a headland or promontory (used as place-name)",
+      "context": "Chapter I: 'the Lindeness, or Naze...'"
+    },
+    {
+      "word": "North Cape",
+      "definition": "northern headland (Nordkapp) in Norway",
+      "context": "Chapter I: 'to the North Cape' in geographic list of coasts."
+    },
+    {
+      "word": "Thule",
+      "definition": "classical/poetic name for a distant northern place",
+      "context": "Chapter I: cited in verse about 'farthest Thule.'"
+    },
+    {
+      "word": "Hebrides",
+      "definition": "island group off Scotland's west coast",
+      "context": "Chapter I: 'the Atlantic surge / Pours in among the stormy Hebrides.'"
+    },
+    {
+      "word": "Lapland",
+      "definition": "northern region of Scandinavia",
+      "context": "Chapter I: mentioned among bleak northern shores."
+    },
+    {
+      "word": "Siberia",
+      "definition": "vast northern Asian region",
+      "context": "Chapter I: listed among forlorn northern regions."
+    },
+    {
+      "word": "Spitzbergen",
+      "definition": "alternative name for Spitsbergen (Svalbard)",
+      "context": "Chapter I: 'Spitzbergen' listed among Arctic places."
+    },
+    {
+      "word": "Nova Zembla",
+      "definition": "archaic name for Novaya Zemlya, Arctic archipelago",
+      "context": "Chapter I: 'Nova Zembla' appears in the geographic catalogue."
+    },
+    {
+      "word": "Arctic",
+      "definition": "relating to the far north near the pole",
+      "context": "Chapter I: 'the vast sweep of the Arctic Zone.'"
+    },
+    {
+      "word": "Alpine",
+      "definition": "relating to high mountains (Alps); used figuratively",
+      "context": "Chapter I: 'glazed in Alpine heights above heights.'"
+    },
+    {
+      "word": "moreen",
+      "definition": "a heavy textile, often used for curtains",
+      "context": "Chapter I: 'the red moreen curtain nearly close.'"
+    },
+    {
+      "word": "shrined",
+      "definition": "enclosed or revered like in a shrine",
+      "context": "Chapter I: 'I was shrined in double retirement.'"
+    },
+    {
+      "word": "Bewick",
+      "definition": "Thomas Bewick, wood-engraver/author",
+      "context": "Chapter I: 'Bewick’s History of British Birds' is Jane's book."
+    },
+    {
+      "word": "letterpress",
+      "definition": "the printed text as opposed to illustrations",
+      "context": "Chapter I: 'The letterpress thereof I cared little for...'"
+    },
+    {
+      "word": "sea-fowl",
+      "definition": "birds that live at sea; seabirds",
+      "context": "Chapter I: 'the haunts of sea-fowl.'"
+    },
+    {
+      "word": "promontories",
+      "definition": "headlands or high points of land jutting into the sea",
+      "context": "Chapter I: 'solitary rocks and promontories.'"
+    },
+    {
+      "word": "torpid",
+      "definition": "inactive, sluggish",
+      "context": "Chapter I: 'two ships becalmed on a torpid sea.'"
+    },
+    {
+      "word": "phantoms",
+      "definition": "ghostly apparitions",
+      "context": "Chapter I: Jane imagines the becalmed ships to be 'marine phantoms.'"
+    },
+    {
+      "word": "fiend",
+      "definition": "an evil spirit or devilish figure",
+      "context": "Chapter I: 'the fiend pinning down the thief’s pack.'"
+    },
+    {
+      "word": "gallows",
+      "definition": "structure for execution by hanging",
+      "context": "Chapter I: pictured scene of a crowd around a gallows."
+    },
+    {
+      "word": "vignettes",
+      "definition": "illustrative sketches or small scenes",
+      "context": "Chapter I: 'the succeeding vignettes' in Bewick's book."
+    },
+    {
+      "word": "inscribed",
+      "definition": "marked or written on (as on a tombstone)",
+      "context": "Chapter I: 'a quite solitary churchyard, with its inscribed headstone.'"
+    },
+    {
+      "word": "attesting",
+      "definition": "serving as evidence or testimony",
+      "context": "Chapter I: 'attesting the hour of eventide.'"
+    },
+    {
+      "word": "eventide",
+      "definition": "evening (archaic)",
+      "context": "Chapter I: 'attesting the hour of eventide.'"
+    },
+    {
+      "word": "becalmed",
+      "definition": "made motionless (of a ship) due to lack of wind",
+      "context": "Chapter I: 'two ships becalmed on a torpid sea.'"
+    },
+    {
+      "word": "shrubbery",
+      "definition": "an area planted with shrubs",
+      "context": "Chapter I: 'wandering in the leafless shrubbery an hour in the morning.'"
+    },
+    {
+      "word": "sombre",
+      "definition": "dark or gloomy (variant spelling)",
+      "context": "Chapter I: 'clouds so sombre, and a rain so penetrating...'"
+    },
+    {
+      "word": "penetrating",
+      "definition": "piercing, sharp (of weather)",
+      "context": "Chapter I: 'a rain so penetrating...'"
+    },
+    {
+      "word": "drear",
+      "definition": "dull, bleak, gloomy",
+      "context": "Chapter I: 'the drear November day.'"
+    },
+    {
+      "word": "nipped",
+      "definition": "stung by cold",
+      "context": "Chapter I: 'dreadful to me was the coming home... with nipped fingers and toes.'"
+    },
+    {
+      "word": "chidings",
+      "definition": "scoldings or rebukes",
+      "context": "Chapter I: 'a heart saddened by the chidings of Bessie, the nurse...'"
+    },
+    {
+      "word": "humbled",
+      "definition": "made to feel less proud or self-important",
+      "context": "Chapter I: 'and humbled by the consciousness of my physical inferiority...'"
+    },
+    {
+      "word": "drawing-room",
+      "definition": "formal reception room in a house",
+      "context": "Chapter I: Jane describes the family assembled in the drawing-room."
+    },
+    {
+      "word": "reclined",
+      "definition": "lying back in a relaxed position",
+      "context": "Chapter I: 'she lay reclined on a sofa by the fireside.'"
+    },
+    {
+      "word": "darlings",
+      "definition": "term of endearment for favored children",
+      "context": "Chapter I: 'with her darlings about her... looked perfectly happy.'"
+    },
+    {
+      "word": "dispensed",
+      "definition": "exempted or distributed (here: excluded)",
+      "context": "Chapter I: 'Me, she had dispensed from joining the group.'"
+    },
+    {
+      "word": "sociable",
+      "definition": "fond of social company",
+      "context": "Chapter I: Mrs. Reed demands Jane acquire a 'more sociable and childlike disposition.'"
+    },
+    {
+      "word": "childlike",
+      "definition": "innocent or simple in manner",
+      "context": "Chapter I: 'acquire a more sociable and childlike disposition.'"
+    },
+    {
+      "word": "breakfast-room",
+      "definition": "a room designated for breakfast",
+      "context": "Chapter I: 'A breakfast-room adjoined the drawing-room, I slipped in there.'"
+    },
+    {
+      "word": "bookcase",
+      "definition": "a piece of furniture for books",
+      "context": "Chapter I: 'It contained a bookcase: I soon possessed myself of a volume...'"
+    },
+    {
+      "word": "window-seat",
+      "definition": "a seat built into a window recess",
+      "context": "Chapter I: Jane sits in the window-seat reading."
+    },
+    {
+      "word": "cross-legged",
+      "definition": "sitting with legs crossed",
+      "context": "Chapter I: 'I sat cross-legged, like a Turk.'"
+    },
+    {
+      "word": "Turk",
+      "definition": "reference to a seated posture resembling Eastern styles (simile)",
+      "context": "Chapter I: 'I sat cross-legged, like a Turk.'"
+    },
+    {
+      "word": "panes",
+      "definition": "sheets of glass in a window",
+      "context": "Chapter I: 'to the left were the clear panes of glass...'"
+    },
+    {
+      "word": "vulture",
+      "definition": "a scavenging bird (used in a simile)",
+      "context": "Preface: 'He resembles Fielding as an eagle does a vulture.'"
+    },
+    {
+      "word": "carrion",
+      "definition": "decaying flesh; metaphor for low taste",
+      "context": "Preface: 'Fielding could stoop on carrion, but Thackeray never does.'"
+    },
+    {
+      "word": "gorged",
+      "definition": "overfed",
+      "context": "Chapter I: 'He gorged himself habitually at table...'"
+    },
+    {
+      "word": "bilious",
+      "definition": "relating to bile; here meaning irritable or unhealthy complexion",
+      "context": "Chapter I: 'which made him bilious, and gave him a dim and bleared eye...' "
+    },
+    {
+      "word": "sallowness",
+      "definition": "a yellowish or unhealthy complexion",
+      "context": "Chapter I: 'John’s sallowness was owing to over-application...' "
+    },
+    {
+      "word": "lineaments",
+      "definition": "distinctive facial features",
+      "context": "Chapter I: 'thick lineaments in a spacious visage.'"
+    },
+    {
+      "word": "unwholesome",
+      "definition": "not healthy or wholesome",
+      "context": "Chapter I: 'with a dingy and unwholesome skin.'"
+    },
+    {
+      "word": "conception",
+      "definition": "mental understanding or perception",
+      "context": "Chapter I: 'he was not quick either of vision or conception.'"
+    },
+    {
+      "word": "poise",
+      "definition": "to hold or balance",
+      "context": "Chapter I: 'when I saw him lift and poise the book...'"
+    },
+    {
+      "word": "instinctively",
+      "definition": "acted on natural impulse",
+      "context": "Chapter I: 'I instinctively started aside with a cry of alarm.'"
+    },
+    {
+      "word": "tottered",
+      "definition": "staggered or wavered",
+      "context": "Chapter I: 'I tottered, and on regaining my equilibrium retired back...'"
+    },
+    {
+      "word": "cut",
+      "definition": "a wound made by a blow or impact",
+      "context": "Chapter I: 'the volume was flung, it hit me, and I fell, striking my head against the door and cutting it.'"
+    },
+    {
+      "word": "bled",
+      "definition": "to lose blood from a wound",
+      "context": "Chapter I: 'The cut bled, the pain was sharp...'"
+    },
+    {
+      "word": "pain",
+      "definition": "physical suffering",
+      "context": "Chapter I: 'The cut bled, the pain was sharp.'"
+    },
+    {
+      "word": "impudence",
+      "definition": "rudeness or impertinence",
+      "context": "Chapter I: 'That is for your impudence in answering mama awhile since.'"
+    },
+    {
+      "word": "sneaking",
+      "definition": "sly or furtive behavior",
+      "context": "Chapter I: 'for your sneaking way of getting behind curtains...'"
+    },
+    {
+      "word": "rat",
+      "definition": "insult (animal epithet)",
+      "context": "Chapter I: John calls Jane 'you rat!' as an insult."
+    },
+    {
+      "word": "equilibrium",
+      "definition": "balance or steadiness",
+      "context": "Chapter I: 'on regaining my equilibrium retired back a step or two.'"
+    },
+    {
+      "word": "gilding",
+      "definition": "gold-colored overlay or superficial polish",
+      "context": "Preface: 'to rase the gilding, and show base metal under it.'"
+    },
+    {
+      "word": "lamentable",
+      "definition": "deplorably bad or regrettable",
+      "context": "Chapter I: 'a long and lamentable blast.'"
+    },
+    {
+      "word": "half-comprehended",
+      "definition": "only partly understood",
+      "context": "Chapter I: 'shadowy, like all the half-comprehended notions that float dim through children’s brains.'"
+    },
+    {
+      "word": "crimped",
+      "definition": "to pleat or make decorative small folds",
+      "context": "Chapter I: 'she allowed us to sit about it, and while she got up Mrs. Reed’s lace frills, and crimped her nightcap borders...'"
+    },
+    {
+      "word": "nursery",
+      "definition": "a room where children are cared for",
+      "context": "Chapter I: 'on winter evenings... about the nursery hearth.'"
+    },
+    {
+      "word": "frills",
+      "definition": "decorative ruffles of fabric",
+      "context": "Chapter I: 'Mrs. Reed’s lace frills' that Bessie irons."
+    },
+    {
+      "word": "rase",
+      "definition": "to erase or scrape away (archaic spelling of 'raze')",
+      "context": "Preface: 'to rase the gilding, and show base metal under it.'"
+    },
+    {
+      "word": "Imlah",
+      "definition": "biblical proper name (father of Micaiah)",
+      "context": "Preface: 'the son of Imlah came before the throned Kings...' (reference)"
+    },
+    {
+      "word": "Vanity Fair",
+      "definition": "title of Thackeray's satirical novel",
+      "context": "Preface: the author refers to the 'satirist of \"Vanity Fair\".'"
+    },
+    {
+      "word": "dickens",
+      "definition": "an emphatic expletive (colloquial)",
+      "context": "Chapter I: 'Where the dickens is she!' exclaimed John Reed."
+    },
+    {
+      "word": "Joan",
+      "definition": "proper name used in dialogue",
+      "context": "Chapter I: John calls to his sisters: 'Lizzy! Georgy! Joan is not here.'"
+    },
+    {
+      "word": "Jack",
+      "definition": "nickname used for John Reed ('Jack')",
+      "context": "Chapter I: John is addressed as 'Jack' by his sisters in dialogue."
+    },
+    {
+      "word": "mama",
+      "definition": "colloquial term for mother or guardian",
+      "context": "Chapter I: used repeatedly for Mrs. Reed, e.g., 'Tell mama she is run out into the rain.'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1260"
+}
