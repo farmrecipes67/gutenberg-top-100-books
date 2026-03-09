@@ -1,0 +1,518 @@
+{
+  "gutenberg_id": 1399,
+  "title": "Anna Karenina",
+  "author": "Tolstoy, Leo, graf",
+  "summary": "Anna Karenina opens with the domestic crisis in the Oblonsky household after Dolly discovers her husband Stepan Arkadyevitch’s affair with a former French governess. The revelation throws the family and servants into disorder: quarrels, resignations, and neglected children. Stiva, frank about his failings yet frivolous, regrets the involuntary smile that betrayed him and seeks reconciliation with Darya Alexandrovna. Household figures — Matvey, Matrona Philimonovna, a barber and others — react and attempt practical remedies. A telegram announces the imminent arrival of his sister Anna Arkadyevna, whose intervention promises hope for restoration amid social and emotional turmoil.",
+  "characters": [
+    {
+      "name": "Stepan Arkadyevitch Oblonsky (Stiva)",
+      "age": "about 34 (stated)",
+      "personality": "handsome, good-humored, frivolous, self-aware but not truly repentant",
+      "lifespan": "present in the house; marriage strained after affair; seeks reconciliation"
+    },
+    {
+      "name": "Darya Alexandrovna Oblonskaya (Dolly)",
+      "age": "about 33 (a year younger than Stepan)",
+      "personality": "practical, devoted to household and children, emotionally hurt and indignant",
+      "lifespan": "refuses to see her husband; suffering and withdrawn in the household"
+    },
+    {
+      "name": "Anna Arkadyevna",
+      "age": "estimated mid-30s (not specified in excerpt)",
+      "personality": "presented as authoritative, socially skilled, potentially conciliatory",
+      "lifespan": "arrives to attempt to mediate and restore family order"
+    },
+    {
+      "name": "Matvey",
+      "age": "adult (servant)",
+      "personality": "loyal valet, good-humored, discreet",
+      "lifespan": "remains employed and assists Stepan with daily routines"
+    },
+    {
+      "name": "Matrona Philimonovna",
+      "age": "elderly (nurse)",
+      "personality": "stern, pious, practical, protective of Dolly and the children",
+      "lifespan": "advises Stepan to beg forgiveness; remains influential in household"
+    },
+    {
+      "name": "Mlle. Roland",
+      "age": "young (former governess)",
+      "personality": "rougish, flirtatious (referred to by Stepan as attractive)",
+      "lifespan": "former governess involved in Stepan’s intrigue; left the household earlier"
+    },
+    {
+      "name": "English governess",
+      "age": "adult (unspecified)",
+      "personality": "practical, quarrelsome with housekeeper; seeking new situation",
+      "lifespan": "quarrelled with housekeeper and wrote to a friend asking for a new position"
+    },
+    {
+      "name": "Housekeeper",
+      "age": "adult (unspecified)",
+      "personality": "manages household staff, in conflict with English governess",
+      "lifespan": "active in household management amid disorder"
+    },
+    {
+      "name": "Man-cook",
+      "age": "adult (unspecified)",
+      "personality": "temperamental (left abruptly)",
+      "lifespan": "walked off, leaving the household short-staffed"
+    },
+    {
+      "name": "Kitchen-maid",
+      "age": "young adult (unspecified)",
+      "personality": "dissatisfied (gave notice with others)",
+      "lifespan": "gave notice during household crisis"
+    },
+    {
+      "name": "Coachman",
+      "age": "adult (unspecified)",
+      "personality": "staff member; left in the turmoil",
+      "lifespan": "gave notice along with other servants"
+    },
+    {
+      "name": "Barber",
+      "age": "adult (unspecified)",
+      "personality": "professional, unobtrusive, performs grooming",
+      "lifespan": "present and tending to Stepan’s grooming"
+    },
+    {
+      "name": "Alabin",
+      "age": "adult (friend)",
+      "personality": "social acquaintance used in Stepan’s dream/ recollection",
+      "lifespan": "mentioned in a remembered dream/dinner anecdote"
+    },
+    {
+      "name": "Merchant (buyer of forest)",
+      "age": "adult (unspecified)",
+      "personality": "businesslike; source of an unpleasant letter about property sale",
+      "lifespan": "seeks to buy a forest on Dolly’s property; complicates reconciliation"
+    },
+    {
+      "name": "Children (Oblonsky children)",
+      "age": "various; five living, two dead (as stated)",
+      "personality": "neglected and running wild during the quarrel",
+      "lifespan": "present and affected by parental discord"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Darmstadt, Germany",
+      "latitude": 49.872826,
+      "longitude": 8.651193
+    },
+    {
+      "name": "North America (referred to as America)",
+      "latitude": 39.828175,
+      "longitude": -98.5795
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Oblonskys",
+      "definition": "the family name of the household at the center of the opening",
+      "context": "Everything was in confusion in the Oblonskys’ house."
+    },
+    {
+      "word": "Arkadyevitch",
+      "definition": "patronymic used in Russian names (son of Arkady)",
+      "context": "Stepan Arkadyevitch Oblonsky—Stiva, as he was called..."
+    },
+    {
+      "word": "Stiva",
+      "definition": "nickname for Stepan Arkadyevitch Oblonsky",
+      "context": "Stepan Arkadyevitch Oblonsky—Stiva, as he was called in the fashionable world—"
+    },
+    {
+      "word": "Darya",
+      "definition": "Dolly’s given name (Darya Alexandrovna)",
+      "context": "Inform Darya Alexandrovna: where she orders."
+    },
+    {
+      "word": "Alexandrovna",
+      "definition": "patronymic indicating daughter of Alexander",
+      "context": "Darya Alexandrovna"
+    },
+    {
+      "word": "Matvey",
+      "definition": "valet’s name in the household",
+      "context": "Matvey was followed by the barber..."
+    },
+    {
+      "word": "Matrona",
+      "definition": "name of the nurse, Matrona Philimonovna",
+      "context": "It’s I, said a firm, pleasant, woman’s voice, and the stern, pockmarked face of Matrona Philimonovna"
+    },
+    {
+      "word": "Philimonovna",
+      "definition": "patronymic indicating daughter of Philimon",
+      "context": "Matrona Philimonovna, the nurse"
+    },
+    {
+      "word": "Mlle.",
+      "definition": "abbreviation for Mademoiselle, French title for an unmarried woman",
+      "context": "the roguish black eyes of Mlle. Roland"
+    },
+    {
+      "word": "Roland",
+      "definition": "surname of the French governess involved with Stepan",
+      "context": "the roguish black eyes of Mlle. Roland"
+    },
+    {
+      "word": "governess",
+      "definition": "a woman employed to educate children in a private household",
+      "context": "the husband was carrying on an intrigue with a French girl, who had been a governess in their family"
+    },
+    {
+      "word": "intrigue",
+      "definition": "a secret romantic or illicit relationship",
+      "context": "the husband was carrying on an intrigue with a French girl"
+    },
+    {
+      "word": "quarrelled",
+      "definition": "had a serious argument or disagreement",
+      "context": "The English governess quarreled with the housekeeper"
+    },
+    {
+      "word": "man-cook",
+      "definition": "a male cook in the household",
+      "context": "the man-cook had walked off the day before just at dinner time"
+    },
+    {
+      "word": "kitchen-maid",
+      "definition": "female domestic worker in the kitchen",
+      "context": "the kitchen-maid, and the coachman had given warning"
+    },
+    {
+      "word": "coachman",
+      "definition": "driver of the household carriage",
+      "context": "the coachman had given warning"
+    },
+    {
+      "word": "leather-covered",
+      "definition": "covered with leather; describes the sofa",
+      "context": "he woke up ... on the leather-covered sofa in his study"
+    },
+    {
+      "word": "springy",
+      "definition": "elastic or bouncy in texture",
+      "context": "he turned over his stout, well-cared-for person on the springy sofa"
+    },
+    {
+      "word": "decant er-women",
+      "definition": "humorous image of decanters as women in Stepan’s dream",
+      "context": "and the tables sang, Il mio tesoro—not Il mio tesoro though, but something better, and there were some sort of little decanters on the table, and they were women, too"
+    },
+    {
+      "word": "Il mio tesoro",
+      "definition": "Italian phrase meaning 'my treasure' (aria reference)",
+      "context": "the tables sang, Il mio tesoro"
+    },
+    {
+      "word": "twinkled",
+      "definition": "shone with a flickering light; used for eyes",
+      "context": "Stepan Arkadyevitch’s eyes twinkled gaily"
+    },
+    {
+      "word": "morocco",
+      "definition": "a fine soft leather used for bookbindings or slippers",
+      "context": "worked for him by his wife on gold-colored morocco"
+    },
+    {
+      "word": "serge",
+      "definition": "a durable twilled fabric used for curtains",
+      "context": "he noticed a gleam of light peeping in beside one of the serge curtains"
+    },
+    {
+      "word": "tassels",
+      "definition": "hanging ornamental threads used on clothing",
+      "context": "tied the tassels in a knot"
+    },
+    {
+      "word": "telegram",
+      "definition": "a written message transmitted by telegraph",
+      "context": "Matvey was followed by the barber with all the necessaries for shaving and a telegram"
+    },
+    {
+      "word": "valet",
+      "definition": "a male servant who attends to his employer's personal needs",
+      "context": "Matvey, carrying his clothes, his boots, and a telegram"
+    },
+    {
+      "word": "looking-glass",
+      "definition": "an old-fashioned term for a mirror",
+      "context": "taking the telegram and seating himself at the looking-glass"
+    },
+    {
+      "word": "pockmarked",
+      "definition": "marked by small scars or pits, often from smallpox",
+      "context": "the stern, pockmarked face of Matrona Philimonovna"
+    },
+    {
+      "word": "supper? (dinner)",
+      "definition": "main evening meal (term 'dinner' appears)",
+      "context": "he had come, happy and good-humored, from the theater, with a huge pear in his hand for his wife"
+    },
+    {
+      "word": "pear",
+      "definition": "a fruit; here an offering to his wife",
+      "context": "with a huge pear in his hand for his wife"
+    },
+    {
+      "word": "idiotic",
+      "definition": "showing lack of common sense; used to describe Stepan’s smile",
+      "context": "This idiotic smile he could not forgive himself"
+    },
+    {
+      "word": "shuddered",
+      "definition": "to tremble convulsively, typically from fear or revulsion",
+      "context": "Catching sight of that smile, Dolly shuddered as though at physical pain"
+    },
+    {
+      "word": "indignation",
+      "definition": "anger or annoyance provoked by perceived unfair treatment",
+      "context": "looking at him with an expression of horror, despair, and indignation"
+    },
+    {
+      "word": "conscience",
+      "definition": "awareness of one's own moral correctness (word 'conscious' used)",
+      "context": "all the members of their family and household, were painfully conscious of it"
+    },
+    {
+      "word": "topsy-turvy",
+      "definition": "in a state of disorder or confusion",
+      "context": "besides, everything in the house is topsy-turvy"
+    },
+    {
+      "word": "despair",
+      "definition": "loss of hope; deep sadness",
+      "context": "“Ah, ah, ah! Oo!...” he muttered, recalling everything that had happened. “Oh, oh, oh!” he kept repeating in despair"
+    },
+    {
+      "word": "pride? (pride not used) — included as 'practical'",
+      "definition": "well‑organised and pragmatic",
+      "context": "She, his Dolly, forever fussing and worrying over household details"
+    },
+    {
+      "word": "fussing",
+      "definition": "making a fuss; worrying over small details",
+      "context": "She, his Dolly, forever fussing and worrying over household details"
+    },
+    {
+      "word": "worrying",
+      "definition": "causing anxiety or concern",
+      "context": "fussing and worrying over household details"
+    },
+    {
+      "word": "manage",
+      "definition": "to control or be in charge of",
+      "context": "I let her manage the children and the house just as she liked"
+    },
+    {
+      "word": "pecuniary",
+      "definition": "relating to money; financial",
+      "context": "The most unpleasant thing of all was that his pecuniary interests should in this way enter into the question"
+    },
+    {
+      "word": "reconciliation",
+      "definition": "the restoration of friendly relations",
+      "context": "he must have pity, sir, on the children. Beg her for forgiveness, sir... she will come round"
+    },
+    {
+      "word": "prayer",
+      "definition": "an entreaty to God; used as counsel by Matrona",
+      "context": "You do your part. God is merciful; pray to God, sir, pray to God."
+    },
+    {
+      "word": "barbering",
+      "definition": "act of cutting or grooming facial hair (barber present)",
+      "context": "the barber with all the necessaries for shaving"
+    },
+    {
+      "word": "shaving",
+      "definition": "removing facial hair with a razor",
+      "context": "the barber with all the necessaries for shaving"
+    },
+    {
+      "word": "cheerfully",
+      "definition": "in a happy or optimistic way",
+      "context": "Stepan Arkadyevitch’s eyes twinkled gaily, and he pondered with a smile"
+    },
+    {
+      "word": "scent",
+      "definition": "a perfume applied to clothing or the person",
+      "context": "When he was dressed, Stepan Arkadyevitch sprinkled some scent on himself"
+    },
+    {
+      "word": "pocketbook",
+      "definition": "a small book for notes or a wallet; a pocket accessory",
+      "context": "distributed into his pockets his cigarettes, pocketbook, matches, and watch"
+    },
+    {
+      "word": "matches",
+      "definition": "small sticks producing flame when struck",
+      "context": "distributed into his pockets his cigarettes, pocketbook, matches, and watch"
+    },
+    {
+      "word": "seals",
+      "definition": "ornamental pendants on a watch chain",
+      "context": "watch with its double chain and seals"
+    },
+    {
+      "word": "handkerchief",
+      "definition": "a small square of cloth for personal use",
+      "context": "shaking out his handkerchief, feeling himself clean, fragrant"
+    },
+    {
+      "word": "dining-room",
+      "definition": "a room for eating meals",
+      "context": "he walked with a slight swing on each leg into the dining-room, where coffee was already waiting for him"
+    },
+    {
+      "word": "office-papers",
+      "definition": "documents related to work or business",
+      "context": "beside the coffee, letters and papers from the office"
+    },
+    {
+      "word": "merchant",
+      "definition": "a trader or businessman",
+      "context": "One was very unpleasant, from a merchant who was buying a forest on his wife’s property"
+    },
+    {
+      "word": "forest",
+      "definition": "a large area covered chiefly with trees; property to be sold",
+      "context": "a merchant who was buying a forest on his wife’s property"
+    },
+    {
+      "word": "mail/telegrams",
+      "definition": "communications sent by telegraph",
+      "context": "misspelt as they always are in telegrams"
+    },
+    {
+      "word": "liberal (paper)",
+      "definition": "a newspaper holding moderate progressive views",
+      "context": "Stepan Arkadyevitch took in and read a liberal paper"
+    },
+    {
+      "word": "majority",
+      "definition": "the greater number; used about political views",
+      "context": "he firmly held those views on all these subjects which were held by the majority and by his paper"
+    },
+    {
+      "word": "physiology",
+      "definition": "the branch of biology dealing with bodily functions (glancing in jest)",
+      "context": "reflex spinal action, reflected Stepan Arkadyevitch, who was fond of physiology"
+    },
+    {
+      "word": "reflex",
+      "definition": "an automatic response to stimulus",
+      "context": "reflex spinal action"
+    },
+    {
+      "word": "spinal",
+      "definition": "relating to the spine",
+      "context": "reflex spinal action"
+    },
+    {
+      "word": "slinking? (not used) — omitted",
+      "definition": "—",
+      "context": "—"
+    },
+    {
+      "word": "slink",
+      "definition": "to move stealthily or furtively (used implicitly in actions)",
+      "context": "he had not been at home for three days"
+    },
+    {
+      "word": "horror",
+      "definition": "an intense feeling of fear, shock, or disgust",
+      "context": "looking at him with an expression of horror, despair, and indignation"
+    },
+    {
+      "word": "indifferent",
+      "definition": "having no particular interest or sympathy; uncaring",
+      "context": "anything would have been better than what he did do—his face utterly involuntarily assumed its habitual, good-humored, and therefore idiotic smile"
+    },
+    {
+      "word": "habitual",
+      "definition": "done as a habit; customary",
+      "context": "his habitual, good-humored, and therefore idiotic smile"
+    },
+    {
+      "word": "remorse",
+      "definition": "deep regret or guilt for a wrong committed (implied by his feelings)",
+      "context": "He was conscious of his fault and felt sorry for his wife, his children, and himself"
+    },
+    {
+      "word": "sorrowful",
+      "definition": "feeling or showing grief",
+      "context": "It’s awful! oh dear, oh dear! awful! Stepan Arkadyevitch kept repeating to himself"
+    },
+    {
+      "word": "resolve",
+      "definition": "firm determination to do something",
+      "context": "Then we shall see, Stepan Arkadyevitch said to himself, and getting up he put on a gray dressing-gown"
+    },
+    {
+      "word": "dressing-gown",
+      "definition": "a robe worn while dressing or in the morning",
+      "context": "he put on a gray dressing-gown lined with blue silk"
+    },
+    {
+      "word": "blue-silk",
+      "definition": "silk fabric of blue color used as lining",
+      "context": "a gray dressing-gown lined with blue silk"
+    },
+    {
+      "word": "boots",
+      "definition": "sturdy footwear; Matvey brought his boots",
+      "context": "Matvey, carrying his clothes, his boots, and a telegram"
+    },
+    {
+      "word": "sly",
+      "definition": "having or showing a cunning or deceitful nature",
+      "context": "and, after a short pause, he added with a sly smile"
+    },
+    {
+      "word": "sleeve? (not singled out) — omitted",
+      "definition": "—",
+      "context": "—"
+    },
+    {
+      "word": "sleek",
+      "definition": "smooth and glossy in appearance (used of the barber's hand)",
+      "context": "checking for a minute the sleek, plump hand of the barber"
+    },
+    {
+      "word": "plump",
+      "definition": "having a full rounded shape",
+      "context": "the sleek, plump hand of the barber"
+    },
+    {
+      "word": "wash",
+      "definition": "to clean; he had already been washed and combed",
+      "context": "Stepan Arkadyevitch was already washed and combed and ready to be dressed"
+    },
+    {
+      "word": "combed",
+      "definition": "arranged hair with a comb",
+      "context": "was already washed and combed and ready to be dressed"
+    },
+    {
+      "word": "sipped",
+      "definition": "to drink (a liquid) slowly or in small mouthfuls",
+      "context": "As he sipped his coffee, he opened a still damp morning paper"
+    },
+    {
+      "word": "damp",
+      "definition": "slightly wet",
+      "context": "a still damp morning paper"
+    },
+    {
+      "word": "paper (morning paper)",
+      "definition": "a newspaper; used to describe his reading habit",
+      "context": "he opened a still damp morning paper, and began reading it"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1399"
+}
