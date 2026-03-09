@@ -1,0 +1,613 @@
+{
+  "gutenberg_id": 1998,
+  "title": "Thus Spake Zarathustra: A Book for All and None",
+  "author": "Nietzsche, Friedrich Wilhelm",
+  "summary": "Thus Spake Zarathustra presents Nietzsche’s prophetic figure Zarathustra, a creation embodying his lifelong ideals: the Superman, the transvaluation of values, and the will to power. Written in poetic prose, the book critiques Christianity, modern decadence, and democratic equality, urging a revaluation that elevates strong, life-affirming types. Mrs. Forster-Nietzsche’s introduction traces Zarathustra’s genesis in Nietzsche’s notes, linking sources such as The Gay Science and earlier essays. Themes include great healthiness, eternal recurrence, and cultural renewal rooted in a modified Graeco-Roman vitality. Zarathustra’s speeches and parables exhort readers to overcome sameness, embrace nobility, and create new values in vivid, poetic, prophetic voice.",
+  "characters": [
+    {
+      "name": "Zarathustra",
+      "age": "ageless (literary figure)",
+      "personality": "prophetic, solitary, exhortative, poetic teacher",
+      "lifespan": "literary protagonist; presented as Nietzsche's ideal-figure who preaches and endures through his discourses"
+    },
+    {
+      "name": "Mrs Forster-Nietzsche",
+      "age": "elderly (at time of introduction)",
+      "personality": "explanatory, biographical, reverent toward her brother",
+      "lifespan": "introducer of the edition; appears in the printed introduction recounting Zarathustra's genesis"
+    },
+    {
+      "name": "Friedrich Nietzsche",
+      "age": "middle-aged to late (authorial presence in introduction)",
+      "personality": "intense, visionary, contrarian thinker (recounted by his sister)",
+      "lifespan": "author and historical person referenced; in text his creative acts produce Zarathustra"
+    },
+    {
+      "name": "The Superman",
+      "age": "ideal (no chronological age)",
+      "personality": "strong, life-affirming, overhuman ideal",
+      "lifespan": "an ideal projected by Zarathustra and Nietzsche rather than a historical person"
+    },
+    {
+      "name": "The Saviour",
+      "age": "conceptual",
+      "personality": "religious, redemptive figure (criticised in the text)",
+      "lifespan": "used as an evaluative standard that Nietzsche critiques and re-evaluates"
+    },
+    {
+      "name": "Argonauts",
+      "age": "metaphorical group",
+      "personality": "adventurous, ideal-seeking explorers (metaphor for seekers of the ideal)",
+      "lifespan": "metaphorical collective used in the Gay Science quotation within the introduction"
+    },
+    {
+      "name": "Persians",
+      "age": "ancient people",
+      "personality": "invoked as historical precursors and broad-view historians",
+      "lifespan": "referenced historically; used as cultural exemplars in the introduction"
+    },
+    {
+      "name": "Greeks",
+      "age": "ancient people",
+      "personality": "valued for fostering exceptional individuals",
+      "lifespan": "referred to historically as a culture that produced many great individuals"
+    },
+    {
+      "name": "Schopenhauer",
+      "age": "philosopher (historical)",
+      "personality": "philosophical precursor referenced in Nietzsche's essays",
+      "lifespan": "mentioned as part of Nietzsche's earlier intellectual context"
+    },
+    {
+      "name": "Philologists (We Philologists)",
+      "age": "professional group",
+      "personality": "analytical, scholarly, critical",
+      "lifespan": "appears as a referenced collective in quotations from Nietzsche's earlier writings"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Sils Maria, Switzerland",
+      "latitude": 46.42,
+      "longitude": 9.87
+    },
+    {
+      "name": "Persepolis (ancient Persian region), Iran",
+      "latitude": 29.935,
+      "longitude": 52.891
+    },
+    {
+      "name": "Athens, Greece",
+      "latitude": 37.9838,
+      "longitude": 23.7275
+    },
+    {
+      "name": "Rome, Italy",
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    {
+      "name": "Mediterranean Sea (central point)",
+      "latitude": 34,
+      "longitude": 18
+    },
+    {
+      "name": "United States (referenced in Gutenberg header)",
+      "latitude": 38.9072,
+      "longitude": -77.0369
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Thus",
+      "definition": "archaic/formal adverb indicating consequence or manner",
+      "context": "Appears in the title 'Thus Spake Zarathustra.'"
+    },
+    {
+      "word": "Spake",
+      "definition": "archaic past tense of 'speak'",
+      "context": "Used in the title as an archaic stylistic choice."
+    },
+    {
+      "word": "Zarathustra",
+      "definition": "name of Zoroaster; here a prophetic literary figure",
+      "context": "Title character and central prophet-figure of the work."
+    },
+    {
+      "word": "Prologue",
+      "definition": "introductory section of a literary work",
+      "context": "Listed in the Table of Contents as 'Zarathustra's Prologue.'"
+    },
+    {
+      "word": "Discourses",
+      "definition": "formal speeches or written examinations on a topic",
+      "context": "Refers to Zarathustra's teachings in the book's structure."
+    },
+    {
+      "word": "Metamorphoses",
+      "definition": "transformations or profound changes",
+      "context": "Title of a chapter: 'The Three Metamorphoses.'"
+    },
+    {
+      "word": "Academic",
+      "definition": "relating to scholarly teaching or institutions",
+      "context": "Appears in 'The Academic Chairs of Virtue.'"
+    },
+    {
+      "word": "Backworldsmen",
+      "definition": "neologism implying people who turn toward a 'back-world' or otherworldly views",
+      "context": "Chapter title 'Backworldsmen.'"
+    },
+    {
+      "word": "Despisers",
+      "definition": "those who scorn or hold in contempt",
+      "context": "Used in 'The Despisers of the Body.'"
+    },
+    {
+      "word": "Passions",
+      "definition": "strong emotions or drives",
+      "context": "Appears in chapter title 'Joys and Passions.'"
+    },
+    {
+      "word": "Criminal",
+      "definition": "one who commits an offense; used descriptively",
+      "context": "Used in 'The Pale Criminal.'"
+    },
+    {
+      "word": "Reading",
+      "definition": "the act of interpreting written text",
+      "context": "Title 'Reading and Writing' in the contents."
+    },
+    {
+      "word": "Writing",
+      "definition": "the act or craft of composing text",
+      "context": "Paired with 'Reading' as a chapter heading."
+    },
+    {
+      "word": "Hill",
+      "definition": "a natural elevation; used as place in a title",
+      "context": "Appears in 'The Tree on the Hill.'"
+    },
+    {
+      "word": "Preachers",
+      "definition": "those who proclaim religious doctrine",
+      "context": "Appears in 'The Preachers of Death.'"
+    },
+    {
+      "word": "Warriors",
+      "definition": "fighters or soldiers",
+      "context": "Appears in 'War and Warriors.'"
+    },
+    {
+      "word": "Idol",
+      "definition": "an object or institution worshipped, often falsely",
+      "context": "Used in 'The New Idol.'"
+    },
+    {
+      "word": "Flies",
+      "definition": "small insects; metaphorically pests",
+      "context": "Appears in 'The Flies in the Market-place.'"
+    },
+    {
+      "word": "Chastity",
+      "definition": "the practice of refraining from sexual conduct",
+      "context": "Chapter title 'Chastity.'"
+    },
+    {
+      "word": "Neighbour-Love",
+      "definition": "ethical/religious duty of loving one's neighbor",
+      "context": "Appears hyphenated as a chapter title."
+    },
+    {
+      "word": "Creating",
+      "definition": "the act of bringing something into being",
+      "context": "From 'The Way of the Creating One.'"
+    },
+    {
+      "word": "Adder",
+      "definition": "a venomous snake",
+      "context": "Appears in 'The Bite of the Adder.'"
+    },
+    {
+      "word": "Child",
+      "definition": "young human; used in titles exploring youth and innocence",
+      "context": "Appears in chapter headings such as 'Child and Marriage.'"
+    },
+    {
+      "word": "Marriage",
+      "definition": "formalized union between people",
+      "context": "Paired with 'Child' in a chapter title."
+    },
+    {
+      "word": "Voluntary",
+      "definition": "done by free will",
+      "context": "Appears in 'Voluntary Death.'"
+    },
+    {
+      "word": "Death",
+      "definition": "the end of life; also thematic focus",
+      "context": "Appears in several chapter titles and critiques."
+    },
+    {
+      "word": "Bestowing",
+      "definition": "giving as a gift or honor",
+      "context": "Used in 'The Bestowing Virtue.'"
+    },
+    {
+      "word": "Happy",
+      "definition": "joyful or blessed",
+      "context": "Appears in 'In the Happy Isles.'"
+    },
+    {
+      "word": "Isles",
+      "definition": "islands; poetic plural form",
+      "context": "Used in the chapter title 'In the Happy Isles.'"
+    },
+    {
+      "word": "Pitiful",
+      "definition": "evoking pity; lamentable",
+      "context": "Appears as a chapter title 'The Pitiful.'"
+    },
+    {
+      "word": "Priests",
+      "definition": "religious officiants",
+      "context": "Appears as a chapter title in the second part."
+    },
+    {
+      "word": "Virtuous",
+      "definition": "having good moral qualities",
+      "context": "Used in chapter heading 'The Virtuous.'"
+    },
+    {
+      "word": "Rabble",
+      "definition": "the common crowd, often used pejoratively",
+      "context": "Appears as chapter title 'The Rabble.'"
+    },
+    {
+      "word": "Tarantulas",
+      "definition": "large spiders; used metaphorically for malice or sting",
+      "context": "Chapter titled 'The Tarantulas.'"
+    },
+    {
+      "word": "Famous",
+      "definition": "well-known or celebrated",
+      "context": "Used in 'The Famous Wise Ones.'"
+    },
+    {
+      "word": "Night-Song",
+      "definition": "a song or poem of the night",
+      "context": "Chapter title in the second part."
+    },
+    {
+      "word": "Dance-Song",
+      "definition": "a lyrical piece associated with dance",
+      "context": "Appears as a chapter title 'The Dance-Song.'"
+    },
+    {
+      "word": "Grave-Song",
+      "definition": "a solemn or funeral-like song",
+      "context": "Appears as a chapter title."
+    },
+    {
+      "word": "Self-Surpassing",
+      "definition": "the act of exceeding oneself",
+      "context": "Appears as a chapter heading 'Self-Surpassing.'"
+    },
+    {
+      "word": "Sublime",
+      "definition": "awe-inspiring or elevated in quality",
+      "context": "Used in 'The Sublime Ones.'"
+    },
+    {
+      "word": "Immaculate",
+      "definition": "spotless or pure, often religiously connoted",
+      "context": "Appears in 'Immaculate Perception.'"
+    },
+    {
+      "word": "Perception",
+      "definition": "the faculty of becoming aware through the senses",
+      "context": "Paired with 'Immaculate' in a chapter title."
+    },
+    {
+      "word": "Scholars",
+      "definition": "learned persons or academics",
+      "context": "Appears among chapter titles in the second part."
+    },
+    {
+      "word": "Poets",
+      "definition": "writers of verse",
+      "context": "Listed as a chapter heading."
+    },
+    {
+      "word": "Soothsayer",
+      "definition": "a person who predicts the future",
+      "context": "Appears in the list of chapters 'The Soothsayer.'"
+    },
+    {
+      "word": "Redemption",
+      "definition": "the act of being saved from error or sin",
+      "context": "Appears as a chapter title."
+    },
+    {
+      "word": "Prudence",
+      "definition": "cautious wisdom; careful judgement",
+      "context": "Appears in 'Manly Prudence.'"
+    },
+    {
+      "word": "Stillest",
+      "definition": "most quiet or motionless (superlative)",
+      "context": "Used in 'The Stillest Hour.'"
+    },
+    {
+      "word": "Wanderer",
+      "definition": "one who travels aimlessly",
+      "context": "Appears in the third part as 'The Wanderer.'"
+    },
+    {
+      "word": "Vision",
+      "definition": "a vivid mental image or prophetic sight",
+      "context": "Used in 'The Vision and the Enigma.'"
+    },
+    {
+      "word": "Enigma",
+      "definition": "a puzzling or mysterious occurrence",
+      "context": "Paired with 'Vision' in a chapter title."
+    },
+    {
+      "word": "Bliss",
+      "definition": "extreme happiness",
+      "context": "Appears in 'Involuntary Bliss.'"
+    },
+    {
+      "word": "Bedwarfing",
+      "definition": "neologism implying making smaller or diminishing",
+      "context": "Appears in the chapter title 'The Bedwarfing Virtue.'"
+    },
+    {
+      "word": "Olive-Mount",
+      "definition": "a mount associated with olive trees; biblical allusion",
+      "context": "Appears as 'On the Olive-Mount.'"
+    },
+    {
+      "word": "Apostates",
+      "definition": "those who renounce a belief or cause",
+      "context": "Used as a chapter heading in the third part."
+    },
+    {
+      "word": "Return",
+      "definition": "coming back to a place or state",
+      "context": "Appears in 'The Return Home.'"
+    },
+    {
+      "word": "Tables",
+      "definition": "metaphorical lists of values or laws",
+      "context": "Appears in 'Old and New Tables.'"
+    },
+    {
+      "word": "Convalescent",
+      "definition": "recovering health after illness",
+      "context": "Appears as 'The Convalescent.'"
+    },
+    {
+      "word": "Longing",
+      "definition": "a persistent desire",
+      "context": "Appears in 'The Great Longing.'"
+    },
+    {
+      "word": "Honey",
+      "definition": "sweet substance from bees; used symbolically",
+      "context": "Appears in 'The Honey Sacrifice.'"
+    },
+    {
+      "word": "Sacrifice",
+      "definition": "an offering given up for a purpose",
+      "context": "Paired with 'Honey' as a chapter title."
+    },
+    {
+      "word": "Kings",
+      "definition": "monarchs or rulers",
+      "context": "Appears in 'Talk with the Kings.'"
+    },
+    {
+      "word": "Leech",
+      "definition": "an archaic term for medic or parasite; also metaphorical",
+      "context": "Appears as a chapter title 'The Leech.'"
+    },
+    {
+      "word": "Magician",
+      "definition": "one who practices magic or illusion",
+      "context": "Chapter title 'The Magician.'"
+    },
+    {
+      "word": "Beggar",
+      "definition": "one who asks for alms",
+      "context": "Appears in 'The Voluntary Beggar.'"
+    },
+    {
+      "word": "Shadow",
+      "definition": "a dark shape produced by light obstruction; metaphorical",
+      "context": "Appears as a chapter title 'The Shadow.'"
+    },
+    {
+      "word": "Noon-Tide",
+      "definition": "the middle of the day; high noon",
+      "context": "Used in the chapter title 'Noon-Tide.'"
+    },
+    {
+      "word": "Greeting",
+      "definition": "an expression of welcome",
+      "context": "Appears as 'The Greeting' in the fourth part."
+    },
+    {
+      "word": "Supper",
+      "definition": "evening meal",
+      "context": "Appears in 'The Supper.'"
+    },
+    {
+      "word": "Higher",
+      "definition": "of greater elevation or rank",
+      "context": "Used in the title 'The Higher Man.'"
+    },
+    {
+      "word": "Melancholy",
+      "definition": "a pensive sadness",
+      "context": "Appears in 'The Song of Melancholy.'"
+    },
+    {
+      "word": "Science",
+      "definition": "systematic study of knowledge",
+      "context": "Appears as a chapter title in the fourth part."
+    },
+    {
+      "word": "Awakening",
+      "definition": "the act of becoming aware or waking",
+      "context": "Appears as the chapter 'The Awakening.'"
+    },
+    {
+      "word": "Ass-Festival",
+      "definition": "a festival named after the donkey (satirical/archaic)",
+      "context": "Listed as 'The Ass-Festival' in the fourth part."
+    },
+    {
+      "word": "Drunken",
+      "definition": "intoxicated; used to denote ecstatic speech",
+      "context": "Appears in 'The Drunken Song.'"
+    },
+    {
+      "word": "Sign",
+      "definition": "an indication or symbol",
+      "context": "Final chapter title 'The Sign.'"
+    },
+    {
+      "word": "Introduction",
+      "definition": "prefatory remarks before a main text",
+      "context": "Header 'INTRODUCTION BY MRS FORSTER-NIETZSCHE.'"
+    },
+    {
+      "word": "Haunter",
+      "definition": "one who frequently visits or inhabits a place; here, a specter of thought",
+      "context": "Mrs Forster-Nietzsche describes Zarathustra as a 'haunter' of her brother's dreams."
+    },
+    {
+      "word": "PERSIAN",
+      "definition": "pertaining to Persia; capitalized in the introduction",
+      "context": "Used emphatically when explaining the choice of Zarathustra's identity."
+    },
+    {
+      "word": "Hazar",
+      "definition": "word used by Persians meaning 'thousand' (referenced)",
+      "context": "Mentioned in relation to Persian prophetic tradition ('his Hazar')."
+    },
+    {
+      "word": "Dynasty",
+      "definition": "a succession of rulers from the same family or line",
+      "context": "Used in the explanation of 'Hazar' as 'dynasty of a thousand years.'"
+    },
+    {
+      "word": "Transfiguring",
+      "definition": "transforming in appearance or character, often glorifying",
+      "context": "Used to describe how Zarathustra's image transfigures the material of the book."
+    },
+    {
+      "word": "Remotest",
+      "definition": "most distant in space, time, or degree",
+      "context": "Mrs Forster-Nietzsche uses it to describe Zarathustra's far-reaching aims."
+    },
+    {
+      "word": "Raptures",
+      "definition": "intense feelings of joy or ecstasy",
+      "context": "Used in the introduction listing Nietzsche's experiences that informed Zarathustra."
+    },
+    {
+      "word": "Posthumously",
+      "definition": "published or occurring after the author's death",
+      "context": "Used to describe works published after Nietzsche's time."
+    },
+    {
+      "word": "Philologists",
+      "definition": "scholars of language and literature",
+      "context": "Mentioned through Nietzsche's earlier essay 'We Philologists.'"
+    },
+    {
+      "word": "INDIVIDUALS",
+      "definition": "emphasized capitalization of 'individuals' in quoted essay",
+      "context": "Capitalized in the quoted passage about Greek greatness."
+    },
+    {
+      "word": "FAVOURABLE",
+      "definition": "beneficial or advantageous (capitalized in quote)",
+      "context": "Capitalized in the quoted phrase 'WITH THE HELP OF FAVOURABLE MEASURES.'"
+    },
+    {
+      "word": "MEASURES",
+      "definition": "actions or steps taken (capitalized)",
+      "context": "Part of the same emphatic quotation regarding cultivating great individuals."
+    },
+    {
+      "word": "REARING",
+      "definition": "the action of raising or bringing up (here used philosophically)",
+      "context": "Used when discussing 'the rearing of the Superman' as modification by values."
+    },
+    {
+      "word": "Superman",
+      "definition": "Nietzsche's overman/Übermensch ideal (translated term)",
+      "context": "Central ideal discussed repeatedly in the introduction and book themes."
+    },
+    {
+      "word": "Transvaluation",
+      "definition": "re-evaluation or complete reversal of values",
+      "context": "Key Nietzschean term in the introduction describing a radical reassessment."
+    },
+    {
+      "word": "Egregious",
+      "definition": "outstandingly bad or flagrant",
+      "context": "Used to describe the 'egregious example' of Christianity's transvaluation of values."
+    },
+    {
+      "word": "Resentment",
+      "definition": "bitter indignation at having been treated unfairly",
+      "context": "Used to characterize the psychological origin of Christian morality."
+    },
+    {
+      "word": "Botched",
+      "definition": "mishandled or spoiled",
+      "context": "Applied to those Nietzsche critiques as 'the botched and the weak.'"
+    },
+    {
+      "word": "Rejuvenated",
+      "definition": "made young or vigorous again",
+      "context": "Used in discussing a renewed Graeco-Roman system of valuing."
+    },
+    {
+      "word": "Graeco-Roman",
+      "definition": "relating to ancient Greek and Roman cultures",
+      "context": "Used in reference to cultural ideals that might be refined and renewed."
+    },
+    {
+      "word": "Calculable",
+      "definition": "able to be calculated or reckoned",
+      "context": "Appears in 'could effect another such revolution within a calculable period.'"
+    },
+    {
+      "word": "Firstlings",
+      "definition": "the first of a kind; earliest members",
+      "context": "Used in the Gay Science quotation to describe the 'firstlings' of a new future."
+    },
+    {
+      "word": "Healthiness",
+      "definition": "state of being healthy, used philosophically to mean vigor of soul/body",
+      "context": "Frequently used in the Gay Science excerpt to describe required vitality."
+    },
+    {
+      "word": "Circumnavigate",
+      "definition": "to go completely around (metaphorically explore thoroughly)",
+      "context": "Used metaphorically about circumnavigating the coasts of an ideal 'Mediterranean Sea.'"
+    },
+    {
+      "word": "Mediterranean",
+      "definition": "relating to the Mediterranean Sea; used metaphorically",
+      "context": "Appears in the Gay Science quotation describing a metaphorical sea of ideals."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1998"
+}
