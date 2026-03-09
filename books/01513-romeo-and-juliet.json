@@ -1,0 +1,607 @@
+{
+  "gutenberg_id": 1513,
+  "title": "Romeo and Juliet",
+  "author": "Shakespeare, William",
+  "summary": "Two noble households, the Capulets and Montagues, feud in Verona, corrupting public peace. Amid street brawls and princely warnings, young Romeo Montague laments unrequited love until he and Juliet Capulet, a not-yet-fourteen daughter, meet at a masked feast and instantly fall into fatal passion. Their secret vows and Friar Lawrence’s fragile plans aim to reconcile families, but mischance and escalating reprisals threaten all. The Chorus proclaims that the ‘star-cross’d’ pair’s misadventures culminate in their deaths, whose tragic end ultimately silences their parents’ rage. The play explores love, youthful folly, family rivalry, and the consequences of entrenched vendetta and societal costs.",
+  "characters": [
+    {
+      "name": "ESCALUS, Prince of Verona",
+      "age": "middle-aged (estimate)",
+      "personality": "authoritative, stern arbiter of public order",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "MERCUTIO",
+      "age": "young adult (estimate)",
+      "personality": "kinsman to the Prince and friend to Romeo (described in dramatis personae)",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "PARIS",
+      "age": "young nobleman (estimate 20s-30s)",
+      "personality": "respectful suitor to Juliet, honorable relation to the Prince",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "Page to Paris",
+      "age": "teen (page)",
+      "personality": "servant attendant to Paris",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "MONTAGUE",
+      "age": "middle-aged to older (estimate)",
+      "personality": "head of the Montague family, concerned father",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "LADY MONTAGUE",
+      "age": "middle-aged (estimate)",
+      "personality": "wife to Montague, anxious and caring",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "ROMEO",
+      "age": "about 16-18 (estimated youth)",
+      "personality": "romantic, melancholic, impulsive",
+      "lifespan": "Dies (prologue states the lovers 'take their life')"
+    },
+    {
+      "name": "BENVOLIO",
+      "age": "late teens to early 20s (estimate)",
+      "personality": "peacemaker and cousin to Romeo, level-headed",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "ABRAM",
+      "age": "adult servant (estimate)",
+      "personality": "servant to Montague, participates in street brawl",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "BALTHASAR",
+      "age": "young adult servant (estimate)",
+      "personality": "servant to Romeo",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "CAPULET",
+      "age": "middle-aged to older (estimate)",
+      "personality": "head of the Capulet family, proud host",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "LADY CAPULET",
+      "age": "middle-aged (estimate)",
+      "personality": "wife to Capulet, formal and status-conscious",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "JULIET",
+      "age": "about 13 (not yet fourteen, as stated)",
+      "personality": "youthful, obedient yet passionate",
+      "lifespan": "Dies (prologue states the lovers 'take their life')"
+    },
+    {
+      "name": "TYBALT",
+      "age": "young adult (estimate)",
+      "personality": "fiery, aggressive, hates Montagues",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "CAPULET’S COUSIN (an old man)",
+      "age": "old man (as described)",
+      "personality": "elder relation of the Capulets",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "NURSE to Juliet",
+      "age": "middle-aged to older (estimate)",
+      "personality": "familiar, talkative, affectionate toward Juliet",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "PETER",
+      "age": "young servant (estimate)",
+      "personality": "servant to Juliet’s Nurse",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "SAMPSON",
+      "age": "adult servant (estimate)",
+      "personality": "Capulet servant, quarrelsome and boastful",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "GREGORY",
+      "age": "adult servant (estimate)",
+      "personality": "Capulet servant, companion to Sampson",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "Servants (Capulet and Montague servants)",
+      "age": "adults (estimate)",
+      "personality": "workers and retainers who engage in feuds",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "FRIAR LAWRENCE",
+      "age": "middle-aged to older (estimate)",
+      "personality": "Franciscan friar, thoughtful and practised in herbs and counsel",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "FRIAR JOHN",
+      "age": "friar (estimate)",
+      "personality": "friar of the same order as Lawrence",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "An Apothecary",
+      "age": "adult (estimate)",
+      "personality": "seller of medicines and potions",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "CHORUS",
+      "age": "narrator figure (estimate adult)",
+      "personality": "provides exposition and frames the play",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "Three Musicians",
+      "age": "adults (estimate)",
+      "personality": "musical attendants for scenes",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "An Officer",
+      "age": "adult (estimate)",
+      "personality": "enforces the Prince's orders",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "Citizens of Verona",
+      "age": "various",
+      "personality": "townspeople who intervene in public brawls and follow civic order",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "Relations to both houses (men and women)",
+      "age": "various",
+      "personality": "extended family members appearing in civic scenes",
+      "lifespan": "Not specified in the provided text"
+    },
+    {
+      "name": "Maskers, Guards, Watchmen and Attendants",
+      "age": "various",
+      "personality": "crowd, security and stage attendants",
+      "lifespan": "Not specified in the provided text"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Verona, Italy",
+      "latitude": 45.438421,
+      "longitude": 10.991622
+    },
+    {
+      "name": "Mantua, Italy",
+      "latitude": 45.156402,
+      "longitude": 10.791365
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "star-cross'd",
+      "definition": "ill-fated by the stars; unlucky in destiny",
+      "context": "Prologue: 'A pair of star-cross’d lovers'"
+    },
+    {
+      "word": "piteous",
+      "definition": "causing pity; lamentable",
+      "context": "Prologue: 'piteous overthrows'"
+    },
+    {
+      "word": "overthrows",
+      "definition": "disastrous defeats or ruin",
+      "context": "Prologue: 'piteous overthrows'"
+    },
+    {
+      "word": "loins",
+      "definition": "region of the body between the ribs and pelvis; used poetically for lineage",
+      "context": "Prologue: 'fatal loins of these two foes'"
+    },
+    {
+      "word": "mutiny",
+      "definition": "violent rebellion or public disorder",
+      "context": "Prologue: 'From ancient grudge break to new mutiny'"
+    },
+    {
+      "word": "doth",
+      "definition": "archaic third-person singular of 'do'",
+      "context": "Prologue: 'Doth with their death bury their parents’ strife'"
+    },
+    {
+      "word": "traffic",
+      "definition": "commerce or activity; here 'business' of the stage",
+      "context": "Prologue: 'the two hours’ traffic of our stage'"
+    },
+    {
+      "word": "toil",
+      "definition": "labor or effort",
+      "context": "Prologue: 'our toil shall strive to mend'"
+    },
+    {
+      "word": "shrift",
+      "definition": "confession or penance",
+      "context": "Benvolio: 'So please you step aside; I’ll know his grievance or be much denied. I would thou wert so happy by thy stay To hear true shrift.'"
+    },
+    {
+      "word": "sycamore",
+      "definition": "a type of tree",
+      "context": "Benvolio: 'underneath the grove of sycamore'"
+    },
+    {
+      "word": "covert",
+      "definition": "shelter or hiding place",
+      "context": "Benvolio: 'stole into the covert of the wood'"
+    },
+    {
+      "word": "peer'd",
+      "definition": "archaic contraction of 'peered', meaning looked",
+      "context": "Benvolio: 'A troubled mind drave me to walk abroad, Where underneath...' 'peer'd forth'"
+    },
+    {
+      "word": "worshipp'd",
+      "definition": "archaic past of 'worship' used poetically",
+      "context": "Benvolio: 'an hour before the worshipp’d sun'"
+    },
+    {
+      "word": "augmenting",
+      "definition": "increasing or adding to",
+      "context": "Lady Montague: 'With tears augmenting the fresh morning’s dew'"
+    },
+    {
+      "word": "Aurora",
+      "definition": "Roman personification of dawn",
+      "context": "Montague: 'Aurora’s bed'"
+    },
+    {
+      "word": "humour",
+      "definition": "disposition or mood (archaic spelling)",
+      "context": "Montague: 'Black and portentous must this humour prove'"
+    },
+    {
+      "word": "importun'd",
+      "definition": "archaic contracted form of 'importuned', meaning asked or urged",
+      "context": "Benvolio: 'Have you importun’d him by any means?'"
+    },
+    {
+      "word": "bid",
+      "definition": "to command or ask; here 'bid a sick man make his will'",
+      "context": "Romeo: 'Bid a sick man in sadness make his will'"
+    },
+    {
+      "word": "Dian",
+      "definition": "reference to Diana, goddess associated with chastity",
+      "context": "Romeo: 'she hath Dian’s wit'"
+    },
+    {
+      "word": "Cupid's",
+      "definition": "belonging to Cupid, Roman god of love",
+      "context": "Romeo: 'He that is strucken blind cannot forget... strucken by Cupid’s arrow'"
+    },
+    {
+      "word": "assailing",
+      "definition": "attacking or assaulting",
+      "context": "Romeo: 'Nor bide th'encounter of assailing eyes'"
+    },
+    {
+      "word": "bide",
+      "definition": "to endure or wait",
+      "context": "Romeo: 'Nor bide th'encounter'"
+    },
+    {
+      "word": "lap",
+      "definition": "here figurative of opening the body; 'ope her lap to saint-seducing gold'",
+      "context": "Romeo: 'Nor ope her lap to saint-seducing gold'"
+    },
+    {
+      "word": "saint-seducing",
+      "definition": "hyphenated Shakespearean phrase meaning 'tempting away by false holiness'",
+      "context": "Romeo: 'saint-seducing gold'"
+    },
+    {
+      "word": "masks",
+      "definition": "disguises worn at a feast",
+      "context": "Romeo: 'These happy masks that kiss fair ladies’ brows'"
+    },
+    {
+      "word": "coz",
+      "definition": "colloquial for 'cousin'",
+      "context": "Benvolio and Romeo: 'No coz, I rather weep'"
+    },
+    {
+      "word": "naked",
+      "definition": "uncovered; here 'naked weapon' meaning exposed blade",
+      "context": "Sampson: 'My naked weapon is out'"
+    },
+    {
+      "word": "bucklers",
+      "definition": "small shields used in combat",
+      "context": "Stage direction: 'Enter Sampson and Gregory armed with swords and bucklers'"
+    },
+    {
+      "word": "choler",
+      "definition": "anger or irritability (archaic humoral term)",
+      "context": "Sampson: 'Gregory, on my word, we’ll not carry coals. No, for then we should be colliers. I mean, if we be in choler, we’ll draw.'"
+    },
+    {
+      "word": "colliers",
+      "definition": "coal miners or carriers; used in punning banter",
+      "context": "Gregory and Sampson pun: 'No, for then we should be colliers.'"
+    },
+    {
+      "word": "maidenheads",
+      "definition": "virginity (archaic)",
+      "context": "Sampson: 'Ay, the heads of the maids, or their maidenheads'"
+    },
+    {
+      "word": "tyrant",
+      "definition": "oppressor or bully; used humorously",
+      "context": "Sampson: 'I will show myself a tyrant'"
+    },
+    {
+      "word": "poor John",
+      "definition": "a term for a common fellow or a reference to a type of food; used colloquially",
+      "context": "Gregory: '’Tis well thou art not fish; if thou hadst, thou hadst been poor John.'"
+    },
+    {
+      "word": "profaners",
+      "definition": "those who treat something sacred with irreverence",
+      "context": "Prince: 'Rebellious subjects, enemies to peace, Profaners of this neighbour-stained steel'"
+    },
+    {
+      "word": "neighbour-stained",
+      "definition": "stained by conflict between neighbors (hyphenated poetic phrase)",
+      "context": "Prince: 'Profaners of this neighbour-stained steel'"
+    },
+    {
+      "word": "pernicious",
+      "definition": "harmful in a subtle or gradual way",
+      "context": "Prince: 'That quench the fire of your pernicious rage'"
+    },
+    {
+      "word": "mistemper'd",
+      "definition": "badly tempered or ill-conditioned (archaic contraction)",
+      "context": "Prince: 'Throw your mistemper’d weapons to the ground'"
+    },
+    {
+      "word": "beseeming",
+      "definition": "appropriate or fitting (archaic)",
+      "context": "Prince: 'Cast by their grave beseeming ornaments'"
+    },
+    {
+      "word": "partisans",
+      "definition": "long-handled weapons; halberds",
+      "context": "Prince: 'To wield old partisans'"
+    },
+    {
+      "word": "canker'd",
+      "definition": "corrupted or infected (archaic)",
+      "context": "Prince: 'Hands as old, Canker’d with peace'"
+    },
+    {
+      "word": "forfeit",
+      "definition": "penalty or fine; here 'forfeit of the peace'",
+      "context": "Prince: 'Your lives shall pay the forfeit of the peace'"
+    },
+    {
+      "word": "Free-town",
+      "definition": "archaic place-name reference used by the Prince (hyphenated)",
+      "context": "Prince: 'To old Free-town, our common judgement-place'"
+    },
+    {
+      "word": "thrice",
+      "definition": "three times (archaic/poetic)",
+      "context": "Prince: 'Have thrice disturb’d the quiet of our streets'"
+    },
+    {
+      "word": "quench",
+      "definition": "to extinguish",
+      "context": "Prince: 'That quench the fire of your pernicious rage'"
+    },
+    {
+      "word": "morrow",
+      "definition": "morning or next day (archaic)",
+      "context": "Benvolio: 'Good morrow, cousin.'"
+    },
+    {
+      "word": "O",
+      "definition": "archaic poetic exclamation",
+      "context": "Romeo: 'O me! What fray was here?' and many exclamations 'O heavy lightness!'"
+    },
+    {
+      "word": "earth-treading",
+      "definition": "walking upon the earth; poetic hyphenated phrase",
+      "context": "Capulet: 'Earth-treading stars that make dark heaven light'"
+    },
+    {
+      "word": "limping",
+      "definition": "moving unevenly; used poetically of winter",
+      "context": "Capulet: 'When well apparell’d April on the heel Of limping winter treads'"
+    },
+    {
+      "word": "ho",
+      "definition": "archaic exclamation to call attention",
+      "context": "Capulet: 'Give me my long sword, ho!'"
+    },
+    {
+      "word": "wither",
+      "definition": "to fade or decline (poetic)",
+      "context": "Capulet: 'Let two more summers wither in their pride'"
+    },
+    {
+      "word": "woo",
+      "definition": "to court or seek the affection of",
+      "context": "Capulet: 'But woo her, gentle Paris, get her heart'"
+    },
+    {
+      "word": "swallowed",
+      "definition": "consumed entirely (poetic)",
+      "context": "Capulet: 'The earth hath swallowed all my hopes but she'"
+    },
+    {
+      "word": "hopeful",
+      "definition": "full of hope; here 'hopeful lady' as heir",
+      "context": "Capulet: 'She is the hopeful lady of my earth'"
+    },
+    {
+      "word": "inherit",
+      "definition": "to receive as heir",
+      "context": "Capulet: 'Such delight Among fresh female buds shall you this night Inherit'"
+    },
+    {
+      "word": "buds",
+      "definition": "young plants or figuratively young women",
+      "context": "Capulet: 'Among fresh female buds'"
+    },
+    {
+      "word": "store",
+      "definition": "a large supply or collection; company",
+      "context": "Capulet: 'You among the store'"
+    },
+    {
+      "word": "number",
+      "definition": "count or place in a tally; 'makes my number more'",
+      "context": "Capulet: 'One more, most welcome, makes my number more'"
+    },
+    {
+      "word": "misadventur'd",
+      "definition": "ill-fated or unlucky (archaic contraction)",
+      "context": "Prologue: 'Whose misadventur’d piteous overthrows'"
+    },
+    {
+      "word": "continuance",
+      "definition": "duration or persistence (archaic/poetic)",
+      "context": "Prologue: 'The continuance of their parents’ rage'"
+    },
+    {
+      "word": "nought",
+      "definition": "nothing (archaic)",
+      "context": "Prologue: 'Which, but their children’s end, nought could remove'"
+    },
+    {
+      "word": "vex'd",
+      "definition": "distressed or troubled (contraction)",
+      "context": "Romeo: 'Being vex’d, a sea nourish’d with lovers’ tears'"
+    },
+    {
+      "word": "fray",
+      "definition": "fight or skirmish",
+      "context": "Benvolio/Romeo: 'What fray was here?'"
+    },
+    {
+      "word": "approach",
+      "definition": "to come near; used in narrative description",
+      "context": "Benvolio: 'ere I did approach'"
+    },
+    {
+      "word": "wall",
+      "definition": "here part of the idiom 'take the wall' meaning take precedence in walking",
+      "context": "Sampson: 'I will take the wall of any man or maid of Montague’s.'"
+    },
+    {
+      "word": "airy",
+      "definition": "light, insubstantial; used poetically",
+      "context": "Prince: 'Three civil brawls, bred of an airy word'"
+    },
+    {
+      "word": "issuing",
+      "definition": "flowing forth",
+      "context": "Prince: 'With purple fountains issuing from your veins'"
+    },
+    {
+      "word": "favour",
+      "definition": "esteem or support (archaic spelling variant common in period)",
+      "context": "Romeo: 'Out of her favour where I am in love'"
+    },
+    {
+      "word": "scene",
+      "definition": "a place of action on stage; used in opening description",
+      "context": "Prologue/Stage directions: 'In fair Verona, where we lay our scene'"
+    },
+    {
+      "word": "fatal",
+      "definition": "leading to death or ruin",
+      "context": "Prologue: 'From forth the fatal loins of these two foes'"
+    },
+    {
+      "word": "hours",
+      "definition": "periods of time; used poetically of drama length",
+      "context": "Prologue: 'Is now the two hours’ traffic of our stage'"
+    },
+    {
+      "word": "sighs",
+      "definition": "outbreaths expressing sorrow or longing",
+      "context": "Romeo: 'Love is a smoke made with the fume of sighs'"
+    },
+    {
+      "word": "feather",
+      "definition": "light object used in oxymoronic phrase 'feather of lead'",
+      "context": "Romeo: 'Feather of lead'"
+    },
+    {
+      "word": "Misshapen",
+      "definition": "badly formed; used poetically",
+      "context": "Romeo: 'Misshapen chaos of well-seeming forms'"
+    },
+    {
+      "word": "chaos",
+      "definition": "utter disorder; used poetically",
+      "context": "Romeo: 'Misshapen chaos'"
+    },
+    {
+      "word": "discreet",
+      "definition": "prudent or reserved (archaic nuance)",
+      "context": "Romeo: 'A madness most discreet'"
+    },
+    {
+      "word": "gall",
+      "definition": "bitter substance; figuratively bitterness",
+      "context": "Romeo: 'A choking gall'"
+    },
+    {
+      "word": "pens",
+      "definition": "confines or pens himself (archaic usage meaning shuts himself away)",
+      "context": "Montague: 'And private in his chamber pens himself'"
+    },
+    {
+      "word": "artificial",
+      "definition": "man-made or feigned; here 'artificial night' meaning contrived darkness",
+      "context": "Montague: 'And makes himself an artificial night'"
+    },
+    {
+      "word": "portentous",
+      "definition": "ominous or full of portent",
+      "context": "Montague: 'Black and portentous must this humour prove'"
+    },
+    {
+      "word": "brawling",
+      "definition": "noisy fighting",
+      "context": "Romeo: 'Here’s much to do with hate, but more with love: Why, then, O brawling love!'"
+    },
+    {
+      "word": "suit",
+      "definition": "formal request or courtship",
+      "context": "Capulet: 'But now my lord, what say you to my suit?'"
+    },
+    {
+      "word": "summers",
+      "definition": "seasons of summer (poetic plural)",
+      "context": "Capulet: 'Let two more summers wither in their pride'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1513"
+}
