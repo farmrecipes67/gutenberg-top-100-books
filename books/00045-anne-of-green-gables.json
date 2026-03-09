@@ -1,0 +1,527 @@
+{
+  "gutenberg_id": 45,
+  "title": "Anne of Green Gables",
+  "author": "Montgomery, L. M. (Lucy Maud)",
+  "summary": "Orphan Anne Shirley, an imaginative redheaded girl, is mistakenly sent to middle-aged siblings Marilla and Matthew Cuthbert at Green Gables. Anne’s talkative, romantic nature transforms the quiet Avonlea community as she makes friends—especially Diana Barry—and enemies like Gilbert Blythe, grows at school under Miss Stacy, and endures adolescent trials of pride, vanity, and loss. Marilla hardens then softens; Matthew’s gentle affection endears him. Anne matures through study, community life, and heartbreak, ultimately achieving recognition at Queen’s while preserving her vivid imagination and lifelong bonds of friendship, belonging, and identity in Prince Edward Island. and enduring hope for the future.",
+  "characters": [
+    {
+      "name": "Anne Shirley",
+      "age": "about 11-16 (arrives about eleven)",
+      "personality": "imaginative, talkative, romantic, impulsive, sensitive",
+      "lifespan": "Arrives at Green Gables as an orphan; grows up, studies, and matures during the novel"
+    },
+    {
+      "name": "Marilla Cuthbert",
+      "age": "middle-aged (approx. 40s–50s)",
+      "personality": "practical, stern, moral, reserved yet capable of warmth",
+      "lifespan": "Decides to adopt a child; softens toward Anne and remains at Green Gables"
+    },
+    {
+      "name": "Matthew Cuthbert",
+      "age": "sixty (explicit in text)",
+      "personality": "shy, gentle, kind, quiet",
+      "lifespan": "Deeply attached to Anne; travels to meet the child; dies later in the story"
+    },
+    {
+      "name": "Mrs. Rachel Lynde",
+      "age": "older adult (exact age not given)",
+      "personality": "forthright, gossipy, observant, practical",
+      "lifespan": "Local busybody and neighbour who remains a constant presence in Avonlea"
+    },
+    {
+      "name": "Thomas Lynde",
+      "age": "older adult (Rachel Lynde's husband)",
+      "personality": "meek, quiet",
+      "lifespan": "Mentioned as Rachel Lynde’s husband; minor supporting role"
+    },
+    {
+      "name": "Diana Barry",
+      "age": "same cohort as Anne (girlhood)",
+      "personality": "sweet, loyal, affectionate, sociable",
+      "lifespan": "Anne’s bosom friend and confidante throughout the novel"
+    },
+    {
+      "name": "Gilbert Blythe",
+      "age": "school-age boy (same as Anne)",
+      "personality": "clever, teasing, proud but ultimately decent",
+      "lifespan": "School rival and later friend/peer; important foil in Anne’s development"
+    },
+    {
+      "name": "Miss Stacy",
+      "age": "youngish adult (teacher)",
+      "personality": "progressive, energetic, encouraging of pupils",
+      "lifespan": "Teacher who inspires Anne and organizes pupils and events"
+    },
+    {
+      "name": "Mrs. Alexander Spencer",
+      "age": "adult (neighbor/relative)",
+      "personality": "practical, socially active",
+      "lifespan": "Arranges to bring a child from an asylum; acts as intermediary for the Cuthberts"
+    },
+    {
+      "name": "Peter Morrison",
+      "age": "adult",
+      "personality": "shopkeeper/acquaintance (talkative)",
+      "lifespan": "Local townsman mentioned in conversation"
+    },
+    {
+      "name": "William J. Blair",
+      "age": "adult",
+      "personality": "store proprietor (local)",
+      "lifespan": "Owner of the store where villagers meet; minor role"
+    },
+    {
+      "name": "Richard Spencer",
+      "age": "adult (young man)",
+      "personality": "local resident/facilitator",
+      "lifespan": "Member of Spencer family mentioned in arranging the child’s travel"
+    },
+    {
+      "name": "Mrs. Barry",
+      "age": "adult",
+      "personality": "motherly, concerned for social propriety",
+      "lifespan": "Diana Barry’s mother; local maternal figure"
+    },
+    {
+      "name": "Josie Pye",
+      "age": "girl (Anne’s school cohort)",
+      "personality": "conceited, envious (minor antagonist among girls)",
+      "lifespan": "Schoolgirl in Avonlea’s social set; minor role"
+    },
+    {
+      "name": "Ruby Gillis",
+      "age": "girl (Anne’s school cohort)",
+      "personality": "vivacious, sentimental",
+      "lifespan": "One of Anne’s girl friends at school; minor supporting role"
+    },
+    {
+      "name": "Jane Andrews",
+      "age": "girl (school cohort)",
+      "personality": "sweet, quiet",
+      "lifespan": "Schoolmate and friend in Avonlea; minor role"
+    },
+    {
+      "name": "Mr. Phillips",
+      "age": "adult",
+      "personality": "school inspector/official (stern)",
+      "lifespan": "Official who appears in school-related episodes (minor)"
+    },
+    {
+      "name": "Reverend Allan (or the clergyman)",
+      "age": "adult",
+      "personality": "clergyman, community moral presence",
+      "lifespan": "Local minister who appears in church and Sunday-school contexts"
+    },
+    {
+      "name": "Fred Wright",
+      "age": "young man (appears later)",
+      "personality": "neighboring youth (minor)",
+      "lifespan": "Appears in Avonlea social circle (minor)"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Prince Edward Island",
+      "latitude": 46.5107,
+      "longitude": -63.4168
+    },
+    {
+      "name": "Gulf of St. Lawrence",
+      "latitude": 49,
+      "longitude": -55
+    },
+    {
+      "name": "Nova Scotia",
+      "latitude": 44.682,
+      "longitude": -63.7443
+    },
+    {
+      "name": "Cavendish / Green Gables (associated location)",
+      "latitude": 46.472,
+      "longitude": -63.3972
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "eardrops",
+      "definition": "dangling ear ornaments (earrings)",
+      "context": "used in the phrase 'ladies’ eardrops' describing bushes by the road"
+    },
+    {
+      "word": "headlong",
+      "definition": "with great speed or recklessness",
+      "context": "describes the brook's early course as 'intricate, headlong brook'"
+    },
+    {
+      "word": "decorum",
+      "definition": "propriety, proper behavior",
+      "context": "Mrs. Rachel expects the brook to show 'due regard for decency and decorum'"
+    },
+    {
+      "word": "ferreted",
+      "definition": "searched out or discovered by persistent searching",
+      "context": "Mrs. Rachel would 'never rest until she had ferreted out' oddities"
+    },
+    {
+      "word": "warp",
+      "definition": "the lengthwise threads in weaving; here, quilting term",
+      "context": "Mrs. Rachel knitting 'cotton warp' quilts"
+    },
+    {
+      "word": "sorrel",
+      "definition": "a reddish-brown color, used of horses",
+      "context": "the 'sorrel mare' Matthew drove"
+    },
+    {
+      "word": "betokened",
+      "definition": "served as a sign of; indicated",
+      "context": "the buggy and mare 'betokened that he was going a considerable distance'"
+    },
+    {
+      "word": "placidly",
+      "definition": "calmly; peacefully",
+      "context": "Matthew 'placidly driving over the hollow and up the hill'"
+    },
+    {
+      "word": "gauntlet",
+      "definition": "a challenge or ordeal to be passed through",
+      "context": "travellers had to 'run the unseen gauntlet of Mrs. Rachel’s all-seeing eye'"
+    },
+    {
+      "word": "patriarchal",
+      "definition": "characteristic of family elders or long-established authority",
+      "context": "describing the 'great patriarchal willows' in the yard"
+    },
+    {
+      "word": "Lombardies",
+      "definition": "a variety of poplar tree (Lombardy poplars)",
+      "context": "the yard was set about with 'prim Lombardies'"
+    },
+    {
+      "word": "rutted",
+      "definition": "having deep tracks made by wheels; rough with ruts",
+      "context": "the 'deep-rutted, grassy lane' leading to Green Gables"
+    },
+    {
+      "word": "wont",
+      "definition": "accustomed; in the habit of",
+      "context": "housekeepers 'were wont to tell' certain things"
+    },
+    {
+      "word": "embowered",
+      "definition": "sheltered or enclosed by trees or foliage",
+      "context": "the 'orchard-embowered house' where the Cuthberts lived"
+    },
+    {
+      "word": "parlor",
+      "definition": "a sitting room in a house",
+      "context": "the kitchen looked like an 'unused parlor' because of cleanliness"
+    },
+    {
+      "word": "bridal",
+      "definition": "relating to a bride; here, used metaphorically",
+      "context": "the orchard was in a 'bridal flush' of bloom"
+    },
+    {
+      "word": "myriad",
+      "definition": "a countless or extremely great number",
+      "context": "the orchard was 'hummed over by a myriad of bees'"
+    },
+    {
+      "word": "awed",
+      "definition": "filled with awe or wonder",
+      "context": "Avonlea housekeepers 'were wont to tell in awed voices'"
+    },
+    {
+      "word": "meek",
+      "definition": "quiet, gentle, and easily imposed on",
+      "context": "Thomas Lynde described as 'a meek little man'"
+    },
+    {
+      "word": "hollow",
+      "definition": "a small valley; low area",
+      "context": "Avonlea main road dipped into 'a little hollow'"
+    },
+    {
+      "word": "orchard-embowered",
+      "definition": "sheltered or surrounded by an orchard",
+      "context": "Green Gables house described as 'orchard-embowered'"
+    },
+    {
+      "word": "briskly",
+      "definition": "lively and energetically",
+      "context": "Marilla greets Mrs. Rachel 'briskly'"
+    },
+    {
+      "word": "telegram",
+      "definition": "a message sent by telegraph",
+      "context": "Marilla mentions they 'had a telegram' about the child’s arrival"
+    },
+    {
+      "word": "asylum",
+      "definition": "institution for orphans or people needing care (historical usage)",
+      "context": "they expected a boy from an 'orphan asylum in Nova Scotia'"
+    },
+    {
+      "word": "native-born",
+      "definition": "born in the country in question",
+      "context": "Marilla insists 'Give me a native born at least' when choosing a child"
+    },
+    {
+      "word": "lobster canneries",
+      "definition": "facilities where lobsters are processed and canned",
+      "context": "workers would go 'to the lobster canneries or the States'"
+    },
+    {
+      "word": "for mercy’s sake",
+      "definition": "an emphatic plea or expression of urgency",
+      "context": "Mrs. Rachel says 'for mercy’s sake not to think of such a thing'"
+    },
+    {
+      "word": "mind",
+      "definition": "here used colloquially for 'opinion' or 'advice'",
+      "context": "Marilla says 'If you had asked my advice--which you didn’t do'"
+    },
+    {
+      "word": "cloth-of-gold",
+      "definition": "rich cloth often used figuratively (archaic)",
+      "context": "used elsewhere in the book in descriptive passages"
+    },
+    {
+      "word": "bosom",
+      "definition": "close affection; intimate",
+      "context": "Anne referred to 'bosom friends' such as Diana"
+    },
+    {
+      "word": "queen's girl",
+      "definition": "a pupil or student at Queen’s (refers to educational status)",
+      "context": "chapter title 'A Queen’s Girl' describing Anne’s academic standing"
+    },
+    {
+      "word": "solemn",
+      "definition": "formal and dignified; serious",
+      "context": "chapter title 'A Solemn Vow and Promise'"
+    },
+    {
+      "word": "tempest",
+      "definition": "a violent storm; used figuratively",
+      "context": "chapter title 'A Tempest in the School Teapot' (figurative turmoil)"
+    },
+    {
+      "word": "puffed",
+      "definition": "swollen or inflated; used of sleeves",
+      "context": "chapter 'Matthew Insists on Puffed Sleeves' referencing fashion"
+    },
+    {
+      "word": "epoch",
+      "definition": "a notable period in history or a person’s life",
+      "context": "chapter 'An Epoch in Anne’s Life' marks a turning point"
+    },
+    {
+      "word": "impression",
+      "definition": "an effect produced on the mind",
+      "context": "chapter 'Anne’s Impressions of Sunday-school'"
+    },
+    {
+      "word": "vexation",
+      "definition": "the state of being annoyed or worried",
+      "context": "chapter 'Vanity and Vexation of Spirit'"
+    },
+    {
+      "word": "lily",
+      "definition": "a flower often used symbolically",
+      "context": "chapter 'An Unfortunate Lily Maid' refers to a symbolic mishap"
+    },
+    {
+      "word": "solemnly",
+      "definition": "with deep sincerity and gravity",
+      "context": "Anne makes vows and promises in a 'solemn' manner"
+    },
+    {
+      "word": "antagonize",
+      "definition": "to make hostile or unfriendly",
+      "context": "Anne’s rivalry with Gilbert at school 'antagonized' their relationship"
+    },
+    {
+      "word": "confession",
+      "definition": "an admission of faults or wrongs",
+      "context": "multiple chapters titled 'Anne’s Confession' or 'a Confession'"
+    },
+    {
+      "word": "imagination",
+      "definition": "the faculty of forming new ideas or images",
+      "context": "central trait: 'Anne’s good imagination gone wrong'"
+    },
+    {
+      "word": "qualm",
+      "definition": "an uneasy feeling of doubt or worry",
+      "context": "characters experience moral 'qualms' over actions"
+    },
+    {
+      "word": "adoration",
+      "definition": "deep love and respect",
+      "context": "used to describe devoted feelings toward people or places"
+    },
+    {
+      "word": "conscience",
+      "definition": "sense of right and wrong",
+      "context": "Mrs. Rachel says she won't know 'a minute’s peace of mind or conscience'"
+    },
+    {
+      "word": "incredulous",
+      "definition": "unwilling or unable to believe something",
+      "context": "Mrs. Rachel was 'actually stricken dumb' and incredulous at the news"
+    },
+    {
+      "word": "astonished",
+      "definition": "greatly surprised",
+      "context": "Mrs. Rachel 'could not have been more astonished'"
+    },
+    {
+      "word": "disapprovingly",
+      "definition": "with dislike or disapproval",
+      "context": "Mrs. Rachel speaks 'disapprovingly' about the adoption plan"
+    },
+    {
+      "word": "innovation",
+      "definition": "a new method, idea, or device",
+      "context": "Marilla calls bringing a child 'an unheard of innovation'"
+    },
+    {
+      "word": "sensible",
+      "definition": "reasonable; showing good sense",
+      "context": "discussion of 'sensible' choices for hiring help"
+    },
+    {
+      "word": "stupid",
+      "definition": "dull or slow-witted (used colloquially)",
+      "context": "Marilla criticizes 'those stupid, half-grown little French boys'"
+    },
+    {
+      "word": "cousin",
+      "definition": "the child of one's aunt or uncle",
+      "context": "Mrs. Alexander Spencer's 'cousin lives there' in Hopeton"
+    },
+    {
+      "word": "cottage",
+      "definition": "small house, typically in the country",
+      "context": "applied in rural Avonlea setting descriptions"
+    },
+    {
+      "word": "dissent",
+      "definition": "to hold or express opinions different from the majority",
+      "context": "Mrs. Rachel expresses dissent about the Cuthberts’ plan"
+    },
+    {
+      "word": "plainproof",
+      "definition": "clear and obvious indication (compound used in context 'plain proof')",
+      "context": "Matthew’s white collar was 'plain proof' that he was going out"
+    },
+    {
+      "word": "sow",
+      "definition": "to plant seed",
+      "context": "Matthew ought to have been 'sowing his turnip seed'"
+    },
+    {
+      "word": "turnip",
+      "definition": "a root vegetable",
+      "context": "common farm crop; 'turnip seed' mentioned"
+    },
+    {
+      "word": "tenacious",
+      "definition": "holding fast; persistent",
+      "context": "used to describe persistent neighborhood curiosity"
+    },
+    {
+      "word": "precise",
+      "definition": "marked by exactness and accuracy",
+      "context": "the yard was 'very green and neat and precise'"
+    },
+    {
+      "word": "stray",
+      "definition": "wandering or not in proper place",
+      "context": "Marilla kept things so neat 'Not a stray stick nor stone was to be seen'"
+    },
+    {
+      "word": "disdain",
+      "definition": "contempt or scorn",
+      "context": "Mrs. Rachel’s attitude toward living 'away back' shows disdain"
+    },
+    {
+      "word": "aggressive",
+      "definition": "boldly assertive",
+      "context": "Marilla's hairpins stuck 'aggressively through it' (descriptive usage)"
+    },
+    {
+      "word": "tuck",
+      "definition": "to gather or fold",
+      "context": "used in clothing and household descriptions"
+    },
+    {
+      "word": "propriety",
+      "definition": "conformity to established standards of behavior",
+      "context": "Mrs. Rachel’s concern for social propriety is recurrent"
+    },
+    {
+      "word": "uttermost",
+      "definition": "greatest possible degree",
+      "context": "used in emphatic descriptions of feelings or reactions"
+    },
+    {
+      "word": "contrive",
+      "definition": "to plan cleverly or with difficulty",
+      "context": "characters sometimes 'contrive' plans for social events"
+    },
+    {
+      "word": "genteel",
+      "definition": "polite, refined, or respectable",
+      "context": "used to describe social expectations in Avonlea"
+    },
+    {
+      "word": "quaint",
+      "definition": "attractively unusual or old-fashioned",
+      "context": "applies to many Avonlea customs and phrases"
+    },
+    {
+      "word": "notable",
+      "definition": "worthy of attention; remarkable",
+      "context": "Mrs. Rachel called herself a 'notable housewife'"
+    },
+    {
+      "word": "hearth",
+      "definition": "the floor of a fireplace; symbol of home",
+      "context": "used in domestic descriptive passages"
+    },
+    {
+      "word": "soberly",
+      "definition": "in a serious manner",
+      "context": "Marilla often appears 'soberly' minded and practical"
+    },
+    {
+      "word": "twitched",
+      "definition": "gave a small, sudden movement",
+      "context": "Marilla’s 'lips twitched understandingly' at Mrs. Rachel"
+    },
+    {
+      "word": "invention",
+      "definition": "the act of devising or creating",
+      "context": "applied to Anne’s imaginative fabrications or stories"
+    },
+    {
+      "word": "improvident",
+      "definition": "not thinking about or providing for the future",
+      "context": "used in moralizing passages about planning and thrift"
+    },
+    {
+      "word": "conscientious",
+      "definition": "governed by conscience; careful",
+      "context": "Marilla tries to be 'conscientious' about doing right by the child"
+    },
+    {
+      "word": "perfunctory",
+      "definition": "carried out with minimum effort or reflection",
+      "context": "describes routine tasks done without enthusiasm"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/45"
+}
