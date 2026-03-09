@@ -1,0 +1,629 @@
+{
+  "gutenberg_id": 45502,
+  "title": "How the Other Half Lives: Studies Among the Tenements of New York",
+  "author": "Riis, Jacob A. (Jacob August)",
+  "summary": "Jacob A. Riis documents New York’s tenements, exposing overcrowded, unsanitary housing that breeds disease, pauperism, crime, and moral contagion. Drawing on official records, statistics, photographs, and personal investigations, Riis traces the evolution of tenements, describes neighborhoods (Chinatown, Jewtown, the Bend, Hell’s Kitchen), and details lodging-houses, sweatshops, children’s plight, waifs, tramps, and the harvest of social ruin. He indicts speculative landlords, public neglect, and the city’s indifference while urging reform: clean homes, sanitary oversight, and humane policies. The book combines journalism, social analysis, and moral appeal to awaken citizens to a civic responsibility for the Other Half. It demands action immediately.",
+  "characters": [
+    {
+      "name": "Jacob A. Riis",
+      "age": "adult (author)",
+      "personality": "investigative, reform-minded, empathetic",
+      "lifespan": "author and narrator; documents conditions and urges reform"
+    },
+    {
+      "name": "Charles G. Wilson",
+      "age": "not specified",
+      "personality": "official, cooperative",
+      "lifespan": "President of the Board of Health; credited with kindness and assistance"
+    },
+    {
+      "name": "Chief Inspector Byrnes",
+      "age": "not specified",
+      "personality": "helpful law-enforcement contact",
+      "lifespan": "Chief Inspector of the Police Force; provided assistance to the author"
+    },
+    {
+      "name": "Dr. Roger S. Tracy",
+      "age": "not specified",
+      "personality": "methodical, expert in statistics",
+      "lifespan": "Registrar of Vital Statistics; assisted the author with tables and statistics"
+    },
+    {
+      "name": "The author's wife",
+      "age": "not specified",
+      "personality": "supportive, patient, wise",
+      "lifespan": "unnamed; described as chief helper, counsellor, and critic"
+    },
+    {
+      "name": "Secretary of the Prison Association (unnamed)",
+      "age": "not specified",
+      "personality": "observant, authoritative",
+      "lifespan": "quoted in the Introduction regarding tenements as nurseries of crime"
+    },
+    {
+      "name": "James Russell Lowell",
+      "age": "poet (historical)",
+      "personality": "moral, prophetic (via poem)",
+      "lifespan": "poet whose verse opens the book; quoted"
+    },
+    {
+      "name": "Christ (poem)",
+      "age": "symbolic",
+      "personality": "compassionate, revealing",
+      "lifespan": "figure in the Lowell poem invoked to expose social conscience"
+    },
+    {
+      "name": "The artisan (poem)",
+      "age": "adult (poetic figure)",
+      "personality": "low-browed, humble",
+      "lifespan": "poetic character set by Christ as representative of the oppressed"
+    },
+    {
+      "name": "The motherless girl (poem)",
+      "age": "young (poetic figure)",
+      "personality": "vulnerable, worn",
+      "lifespan": "poetic character used to symbolize tenement suffering"
+    },
+    {
+      "name": "A low-browed, stunted, haggard man (poem)",
+      "age": "adult (poetic figure)",
+      "personality": "broken, pitiable",
+      "lifespan": "poetic character illustrating effects of social neglect"
+    }
+  ],
+  "locations": [
+    {
+      "name": "New York City, NY, USA",
+      "latitude": 40.712776,
+      "longitude": -74.005974
+    },
+    {
+      "name": "Hell's Kitchen (Manhattan), New York, NY, USA",
+      "latitude": 40.7635,
+      "longitude": -73.998
+    },
+    {
+      "name": "Chinatown (Manhattan), New York, NY, USA",
+      "latitude": 40.71575,
+      "longitude": -73.99703
+    },
+    {
+      "name": "Five Points (historic area, Lower Manhattan), New York, NY, USA",
+      "latitude": 40.7132,
+      "longitude": -73.997
+    },
+    {
+      "name": "Ludlow Street, Lower East Side, Manhattan, NY, USA",
+      "latitude": 40.7163,
+      "longitude": -73.9875
+    },
+    {
+      "name": "Roosevelt Street, Manhattan (Chinatown area), NY, USA",
+      "latitude": 40.7136,
+      "longitude": -73.9943
+    },
+    {
+      "name": "Pell Street, Chinatown/Lower Manhattan, New York, NY, USA",
+      "latitude": 40.7137,
+      "longitude": -73.9979
+    },
+    {
+      "name": "Bayard Street, Chinatown/Lower Manhattan, NY, USA",
+      "latitude": 40.715,
+      "longitude": -73.996
+    },
+    {
+      "name": "Hart Island (Potter's Field), Bronx, NY, USA",
+      "latitude": 40.8698,
+      "longitude": -73.815
+    },
+    {
+      "name": "Riverside Buildings (Brooklyn, referenced), Brooklyn, NY, USA",
+      "latitude": 40.6772,
+      "longitude": -73.9716
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Gotham",
+      "definition": "nickname for New York City",
+      "context": "Frontispiece title 'GOTHAM COURT.'"
+    },
+    {
+      "word": "Court",
+      "definition": "a courtyard or enclosed space; here part of an address/name",
+      "context": "Used in the illustration title 'GOTHAM COURT.'"
+    },
+    {
+      "word": "tenement",
+      "definition": "a multi‑family rental building, often overcrowded",
+      "context": "Central subject: 'the tenements' and 'tenement houses' throughout"
+    },
+    {
+      "word": "sanitarian",
+      "definition": "a public health expert or reformer",
+      "context": "Mentioned: 'the sanitarian in the past generation'"
+    },
+    {
+      "word": "upheavals",
+      "definition": "sudden, violent disturbances or changes",
+      "context": "Describes social disturbances that exposed tenement issues"
+    },
+    {
+      "word": "nurseries",
+      "definition": "places where things (here, crime) are fostered",
+      "context": "Quoted: 'hiding-place and nursery of crime' (nurseries of crime)"
+    },
+    {
+      "word": "pauperism",
+      "definition": "the state of being a pauper; extreme poverty",
+      "context": "Chapter title: 'PAUPERISM IN THE TENEMENTS'"
+    },
+    {
+      "word": "asylums",
+      "definition": "institutions for the care of the insane or destitute",
+      "context": "Tenements produce 'forty thousand human wrecks to the island asylums'"
+    },
+    {
+      "word": "workhouses",
+      "definition": "institutions where the poor were provided work and shelter",
+      "context": "Referenced alongside asylums as destinations for wrecks"
+    },
+    {
+      "word": "scum",
+      "definition": "contemptible or worthless people; surface debris",
+      "context": "Describing 'scum of forty thousand human wrecks'"
+    },
+    {
+      "word": "wrecks",
+      "definition": "ruined persons; social casualties",
+      "context": "Used to describe people sent to asylums and workhouses"
+    },
+    {
+      "word": "tramps",
+      "definition": "people who travel begging or looking for work; vagrants",
+      "context": "Describes a 'standing army of ten thousand tramps'"
+    },
+    {
+      "word": "charities",
+      "definition": "organizations providing aid to the poor",
+      "context": "Mentioned when noting the burden on 'our charities'"
+    },
+    {
+      "word": "galling",
+      "definition": "annoying, humiliating, chafing",
+      "context": "Phrase 'this galling bondage' describing tenement conditions"
+    },
+    {
+      "word": "bondage",
+      "definition": "a state of subjugation or oppression",
+      "context": "Used metaphorically: 'galling bondage' of the tenement poor"
+    },
+    {
+      "word": "speculation",
+      "definition": "business practice aiming for profit, often risky or exploitative",
+      "context": "Owners made tenements a 'business, generally a speculation'"
+    },
+    {
+      "word": "contagion",
+      "definition": "spread of disease or moral corruption",
+      "context": "Called 'moral contagion' touching family life"
+    },
+    {
+      "word": "hot-beds",
+      "definition": "places where harmful things are fostered",
+      "context": "Called 'hot-beds of the epidemics that carry death'"
+    },
+    {
+      "word": "tares",
+      "definition": "weeds; metaphorically, evil elements in society",
+      "context": "Chapter title: 'THE HARVEST OF TARES'"
+    },
+    {
+      "word": "rogues'",
+      "definition": "of rogues; dishonest or unprincipled persons",
+      "context": "In the illustration caption 'TYPICAL TOUGHS (FROM THE ROGUES' GALLERY)'"
+    },
+    {
+      "word": "morgue",
+      "definition": "a place where bodies are kept; also slang for dead-house",
+      "context": "Illustration: 'A DOWNTOWN \"MORGUE,\"'"
+    },
+    {
+      "word": "waifs",
+      "definition": "homeless, abandoned children",
+      "context": "Chapter title: 'WAIFS OF THE CITY'S SLUMS'"
+    },
+    {
+      "word": "Arab",
+      "definition": "here, 'street Arab'—a street child or urchin",
+      "context": "Chapter title: 'THE STREET ARAB'"
+    },
+    {
+      "word": "Bend",
+      "definition": "a neighborhood nickname ('The Bend')",
+      "context": "Chapter title and illustrations referencing 'THE BEND'"
+    },
+    {
+      "word": "Bohemians",
+      "definition": "artists or unconventional residents, or a named group/quarter",
+      "context": "Chapter XII: 'THE BOHEMIANS--TENEMENT-HOUSE CIGARMAKING'"
+    },
+    {
+      "word": "sweaters",
+      "definition": "employers who extract excessive labor for little pay (sweating)",
+      "context": "Chapter XI: 'THE SWEATERS OF JEWTOWN'"
+    },
+    {
+      "word": "cigarmaking",
+      "definition": "manufacture of cigars, here in tenement homes",
+      "context": "Appears in chapter/illustration: 'TENEMENT-HOUSE CIGARMAKING'"
+    },
+    {
+      "word": "Chinatown",
+      "definition": "the city's Chinese immigrant neighborhood",
+      "context": "Chapter IX: 'CHINATOWN' and illustrations"
+    },
+    {
+      "word": "Jewtown",
+      "definition": "informal/historical name for Jewish quarter",
+      "context": "Chapter X: 'JEWTOWN' and related chapters"
+    },
+    {
+      "word": "Hell's",
+      "definition": "part of the place name 'Hell's Kitchen'",
+      "context": "Illustration 'HELL'S KITCHEN AND SEBASTOPOL'"
+    },
+    {
+      "word": "Kitchen",
+      "definition": "part of the neighborhood name 'Hell's Kitchen'",
+      "context": "Illustration 'HELL'S KITCHEN AND SEBASTOPOL'"
+    },
+    {
+      "word": "Sebastopol",
+      "definition": "place name used in illustration title",
+      "context": "Illustration list: 'HELL'S KITCHEN AND SEBASTOPOL'"
+    },
+    {
+      "word": "Blindman's",
+      "definition": "proper name of an alley (Blindman's Alley)",
+      "context": "Illustration: 'UPSTAIRS IN BLINDMAN'S ALLEY'"
+    },
+    {
+      "word": "Alley",
+      "definition": "a narrow lane between buildings",
+      "context": "Multiple illustrations and chapter references to back-alleys"
+    },
+    {
+      "word": "cradle",
+      "definition": "origin or birthplace of something",
+      "context": "Caption: 'AT THE CRADLE OF THE TENEMENT.'"
+    },
+    {
+      "word": "Cherry",
+      "definition": "part of the place name 'Cherry Hill'",
+      "context": "Caption: 'DOORWAY OF AN OLD-FASHIONED DWELLING ON CHERRY HILL'"
+    },
+    {
+      "word": "Hill",
+      "definition": "part of the place name 'Cherry Hill'",
+      "context": "See 'Cherry Hill' caption"
+    },
+    {
+      "word": "Roosevelt",
+      "definition": "street name in Manhattan",
+      "context": "Illustration: 'AN OLD REAR-TENEMENT IN ROOSEVELT STREET'"
+    },
+    {
+      "word": "Jersey",
+      "definition": "street name (Jersey Street)",
+      "context": "Illustration: 'IN THE HOME OF AN ITALIAN RAG-PICKER, JERSEY STREET'"
+    },
+    {
+      "word": "rag-picker",
+      "definition": "person who collects rags, paper, etc., for resale",
+      "context": "Illustration caption describing an Italian rag-picker"
+    },
+    {
+      "word": "Bayard",
+      "definition": "street name (Bayard Street)",
+      "context": "Illustration: 'LODGERS IN A CROWDED BAYARD STREET TENEMENT'"
+    },
+    {
+      "word": "Bottle",
+      "definition": "part of place name 'Bottle Alley'",
+      "context": "Illustration: 'BOTTLE ALLEY'"
+    },
+    {
+      "word": "Bunks",
+      "definition": "narrow beds often stacked in lodging-houses",
+      "context": "Illustration: 'BUNKS IN A SEVEN-CENT LODGING-HOUSE'"
+    },
+    {
+      "word": "Pell",
+      "definition": "street name (Pell Street)",
+      "context": "Pell Street lodging-house illustration"
+    },
+    {
+      "word": "Two-cent",
+      "definition": "denoting very low price (two cents)",
+      "context": "Illustration: 'AN ALL-NIGHT TWO-CENT RESTAURANT'"
+    },
+    {
+      "word": "lodger",
+      "definition": "one who rents lodging, often a single bed",
+      "context": "Illustration caption: 'LOD GERS IN A CROWDED ... TENEMENT'"
+    },
+    {
+      "word": "Tramp's",
+      "definition": "possessive form relating to a tramp (vagrant)",
+      "context": "Illustration: 'A TRAMP'S NEST IN LUDLOW STREET'"
+    },
+    {
+      "word": "Chinese",
+      "definition": "relating to China or Chinese people; used as neighborhood label",
+      "context": "Illustration: 'IN A CHINESE JOINT'"
+    },
+    {
+      "word": "Official",
+      "definition": "authorized or formal; here describing a newspaper or organ",
+      "context": "Caption: 'THE OFFICIAL ORGAN OF CHINATOWN'"
+    },
+    {
+      "word": "Organ",
+      "definition": "a publication serving as a voice for a group",
+      "context": "'OFFICIAL ORGAN' caption describing a Chinatown paper"
+    },
+    {
+      "word": "Market",
+      "definition": "a place for buying and selling goods",
+      "context": "Illustration: 'A MARKET SCENE IN THE JEWISH QUARTER'"
+    },
+    {
+      "word": "Quarter",
+      "definition": "district or neighborhood inhabited by a particular group",
+      "context": "Used in 'JEWISH QUARTER' illustration caption"
+    },
+    {
+      "word": "Knee-pants",
+      "definition": "short trousers ending at the knee (historic clothing term)",
+      "context": "Illustration caption: '\"KNEE-PANTS\" AT FORTY-FIVE CENTS A DOZEN'"
+    },
+    {
+      "word": "Ludlow",
+      "definition": "street name (Ludlow Street)",
+      "context": "Multiple illustrations reference Ludlow Street"
+    },
+    {
+      "word": "sweater",
+      "definition": "employer who profits by underpaying workers (sweating system)",
+      "context": "Caption: 'A LUDLOW STREET SWEATER'S SHOP'"
+    },
+    {
+      "word": "cigarmakers",
+      "definition": "people who make cigars, here in tenement settings",
+      "context": "Illustration: 'BOHEMIAN CIGARMAKERS AT WORK IN THEIR TENEMENT'"
+    },
+    {
+      "word": "Bohemians",
+      "definition": "free-spirited or artistic communities; used as neighborhood label",
+      "context": "Chapter and illustration referencing Bohemian cigarmakers"
+    },
+    {
+      "word": "black-and-tan",
+      "definition": "term for mixed-race establishments or teams; here a dive label",
+      "context": "Illustration: 'A BLACK-AND-TAN DIVE IN \"AFRICA,\"'"
+    },
+    {
+      "word": "Africa",
+      "definition": "used here as a local nickname for a neighborhood",
+      "context": "Illustration referencing 'AFRICA' as an area label"
+    },
+    {
+      "word": "badge",
+      "definition": "an emblem of identification; here symbolic",
+      "context": "Illustration: 'THE WHITE BADGE OF MOURNING'"
+    },
+    {
+      "word": "mourning",
+      "definition": "expression of grief, often by dress or badge",
+      "context": "Caption: 'THE WHITE BADGE OF MOURNING'"
+    },
+    {
+      "word": "bird's-eye",
+      "definition": "aerial or elevated view",
+      "context": "Illustration: 'BIRD'S-EYE VIEW OF AN EAST SIDE TENEMENT BLOCK'"
+    },
+    {
+      "word": "poverty",
+      "definition": "the state of being poor",
+      "context": "Illustration: 'IN POVERTY GAP, WEST TWENTY-EIGHTH STREET'"
+    },
+    {
+      "word": "coal-heaver",
+      "definition": "worker who loads or carries coal",
+      "context": "Caption: 'AN ENGLISH COAL-HEAVER'S HOME'"
+    },
+    {
+      "word": "dispossessed",
+      "definition": "those deprived of homes or property",
+      "context": "Illustration titled 'DISPOSSESSED'"
+    },
+    {
+      "word": "trench",
+      "definition": "a long narrow excavation; here used for mass burial trench",
+      "context": "Illustration: 'THE TRENCH IN THE POTTER'S FIELD'"
+    },
+    {
+      "word": "Potter's",
+      "definition": "part of 'Potter's Field'—a burial place for the indigent",
+      "context": "Illustration referencing the Potter's Field trench"
+    },
+    {
+      "word": "prayer-time",
+      "definition": "time set aside for prayer",
+      "context": "Caption: 'PRAYER-TIME IN THE NURSERY--FIVE POINTS HOUSE OF INDUSTRY'"
+    },
+    {
+      "word": "Five Points",
+      "definition": "historic Lower Manhattan neighborhood notorious in 19th century",
+      "context": "Referenced in illustration and chapter notes"
+    },
+    {
+      "word": "House (of Industry)",
+      "definition": "an institution aimed at reforming or aiding the poor",
+      "context": "Illustration: 'FIVE POINTS HOUSE OF INDUSTRY'"
+    },
+    {
+      "word": "morgue",
+      "definition": "see above (repeated unusual usage in text)",
+      "context": "Used in illustration captions to describe a downtown facility"
+    },
+    {
+      "word": "growler",
+      "definition": "slang here for a person or group; 'growler gang' implies toughs",
+      "context": "Illustration: 'A GROWLER GANG IN SESSION'"
+    },
+    {
+      "word": "gang",
+      "definition": "organized group of people, often engaged in crime",
+      "context": "Used in illustration captions (growler gang)"
+    },
+    {
+      "word": "rogues",
+      "definition": "dishonest or unprincipled persons",
+      "context": "Appears in 'ROGUES' GALLERY' illustration"
+    },
+    {
+      "word": "gallery",
+      "definition": "collection or display; here, a police mug-shot collection",
+      "context": "'ROGUES' GALLERY'—typical toughs from police records"
+    },
+    {
+      "word": "thieves",
+      "definition": "people who steal",
+      "context": "Illustration: 'HUNTING RIVER THIEVES'"
+    },
+    {
+      "word": "sewing",
+      "definition": "stitching garments; used to describe sweatshop work",
+      "context": "Illustration: 'SEWING AND STARVING IN AN ELIZABETH STREET ATTIC'"
+    },
+    {
+      "word": "starving",
+      "definition": "suffering severe hunger",
+      "context": "Paired with 'sewing' to show exploited workers"
+    },
+    {
+      "word": "attic",
+      "definition": "top-floor space under a roof, often used for cheap lodgings",
+      "context": "Illustration referencing an Elizabeth Street attic"
+    },
+    {
+      "word": "pauper",
+      "definition": "an impoverished person dependent on public charity",
+      "context": "Caption: 'A FLAT IN THE PAUPER BARRACKS'"
+    },
+    {
+      "word": "barracks",
+      "definition": "large buildings housing groups, here used for pauper lodging",
+      "context": "Illustration: 'PAUPER BARRACKS, WEST THIRTY-EIGHTH STREET'"
+    },
+    {
+      "word": "coffee",
+      "definition": "the beverage; used here to show cheap rations",
+      "context": "Illustration: 'COFFEE AT ONE CENT'"
+    },
+    {
+      "word": "evolution",
+      "definition": "gradual development or change",
+      "context": "Illustration caption: 'EVOLUTION OF THE TENEMENT IN TWENTY YEARS'"
+    },
+    {
+      "word": "Riverside",
+      "definition": "name of building complex ('Riverside Buildings')",
+      "context": "Illustration: 'GENERAL PLAN OF THE RIVERSIDE BUILDINGS (A. T. WHITE'S) IN BROOKLYN'"
+    },
+    {
+      "word": "Brooklyn",
+      "definition": "borough of New York City",
+      "context": "Used in illustration captions referencing Brooklyn buildings"
+    },
+    {
+      "word": "Plan",
+      "definition": "a drawing showing layout; in illustrations 'FLOOR PLAN'",
+      "context": "Illustration: 'FLOOR PLAN OF ONE DIVISION IN THE RIVERSIDE BUILDINGS'"
+    },
+    {
+      "word": "Sovereign",
+      "definition": "supreme ruler; used poetically",
+      "context": "From the Lowell poem: 'Sovereign and sole, through all our land.'"
+    },
+    {
+      "word": "hem",
+      "definition": "edge of a garment; used in poem 'garment-hem'",
+      "context": "Poem line: 'as they drew back their garment-hem'"
+    },
+    {
+      "word": "artisan",
+      "definition": "a skilled manual worker; craftsman",
+      "context": "Poem: 'Then Christ sought out an artisan'"
+    },
+    {
+      "word": "motherless",
+      "definition": "without a mother; denoting abandonment",
+      "context": "Poem: 'a motherless girl, whose fingers thin'"
+    },
+    {
+      "word": "defilement",
+      "definition": "the state of being dirty or morally tainted",
+      "context": "Poem: 'for fear of defilement, \"Lo, here,\" said he'"
+    },
+    {
+      "word": "images",
+      "definition": "representations; here used metaphorically",
+      "context": "Poem: 'The images ye have made of me!'"
+    },
+    {
+      "word": "Lo",
+      "definition": "an archaic exclamation meaning 'look' or 'behold'",
+      "context": "Poem: 'Lo, here,' said he"
+    },
+    {
+      "word": "Master",
+      "definition": "lord or ruler; used in poem 'Lord and Master'",
+      "context": "Poem invokes 'O Lord and Master'"
+    },
+    {
+      "word": "low-browed",
+      "definition": "having a low forehead; indicating roughness or lack of refinement",
+      "context": "Poem: 'A low-browed, stunted, haggard man'"
+    },
+    {
+      "word": "stunted",
+      "definition": "undersized or underdeveloped",
+      "context": "Poem describing an impoverished man: 'stunted'"
+    },
+    {
+      "word": "haggard",
+      "definition": "looking exhausted and unwell, from worry or suffering",
+      "context": "Poem: 'A low-browed, stunted, haggard man'"
+    },
+    {
+      "word": "Behold",
+      "definition": "archaic term meaning 'see' or 'observe'",
+      "context": "Poem: 'Behold thine images, how they stand'"
+    },
+    {
+      "word": "Statistics",
+      "definition": "numerical data compiled for analysis",
+      "context": "Referenced via the 'Registrar of Vital Statistics' who aided the author"
+    },
+    {
+      "word": "Illustrations",
+      "definition": "images or photographs accompanying the text",
+      "context": "Book includes 'ILLUSTRATIONS CHIEFLY FROM PHOTOGRAPHS TAKEN BY THE AUTHOR'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/45502"
+}
