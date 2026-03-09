@@ -1,0 +1,451 @@
+{
+  "gutenberg_id": 1661,
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Doyle, Arthur Conan",
+  "summary": "Sherlock Holmes and Dr. John Watson investigate a dozen compact mysteries in Victorian London. Holmes’s extraordinary powers of observation, deduction, disguise, and forensic knowledge unravel puzzles involving thefts, impersonations, secret leagues, domestic tragedies, jealousies, and bizarre devices. Cases include the cunning Irene Adler and the politically delicate Scandal in Bohemia; the Red‑Headed League’s absurd plot; the lethal Speckled Band; the Blue Carbuncle recovered from a Christmas goose; the engineer’s severed thumb; and other intrigues that reveal human weakness, cunning, and courage. Watson narrates with admiration and warmth, recording Holmes’s methods, triumphs, and occasional bemused detachment. His fame endures globally still",
+  "characters": [
+    {
+      "name": "Sherlock Holmes",
+      "age": "approx. 30-45",
+      "personality": "brilliant, observant, analytical, aloof, occasionally playful",
+      "lifespan": "Active throughout the cases; survives and continues detective work"
+    },
+    {
+      "name": "Dr. John Watson",
+      "age": "approx. 30-45",
+      "personality": "loyal, steady, empathetic, chronicler of Holmes’s cases",
+      "lifespan": "Narrator of the adventures; survives and records Holmes’s exploits"
+    },
+    {
+      "name": "Irene Adler",
+      "age": "approx. 30s",
+      "personality": "clever, resourceful, independent, captivating",
+      "lifespan": "Outwits Holmes in 'A Scandal in Bohemia'; marries and leaves public life"
+    },
+    {
+      "name": "Count Von Kramm (alias)",
+      "age": "middle-aged",
+      "personality": "imperious, wealthy, concerned with reputation",
+      "lifespan": "Appears as masked client in 'A Scandal in Bohemia'; seeks Holmes’s help"
+    },
+    {
+      "name": "Trepoff",
+      "age": "not specified",
+      "personality": "victim in a foreign case referenced by Holmes",
+      "lifespan": "Referenced as a past case Holmes was summoned to (Odessa)"
+    },
+    {
+      "name": "Atkinson brothers",
+      "age": "not specified",
+      "personality": "victims in a singular tragedy referenced by Holmes",
+      "lifespan": "Referenced as a past case at Trincomalee"
+    },
+    {
+      "name": "House of Ormstein (reigning family)",
+      "age": "not applicable",
+      "personality": "royal, politically sensitive",
+      "lifespan": "Mentioned as implicated in a delicate matter in the visit"
+    },
+    {
+      "name": "Boswell (reference)",
+      "age": "historical reference",
+      "personality": "mentioned metaphorically as Watson’s chronicling role",
+      "lifespan": "Not a character in the narrative; used as an analogy"
+    }
+  ],
+  "locations": [
+    {
+      "name": "221B Baker Street, London (Baker Street)",
+      "latitude": 51.523767,
+      "longitude": -0.1585557
+    },
+    {
+      "name": "Bohemia (region)",
+      "latitude": 49.817493,
+      "longitude": 15.473011
+    },
+    {
+      "name": "Carlsbad (Karlovy Vary), Bohemia",
+      "latitude": 50.23184,
+      "longitude": 12.87157
+    },
+    {
+      "name": "Egria (Eger/Cheb region referenced)",
+      "latitude": 50.0792,
+      "longitude": 12.3731
+    },
+    {
+      "name": "Odessa",
+      "latitude": 46.4825,
+      "longitude": 30.7233
+    },
+    {
+      "name": "Trincomalee",
+      "latitude": 8.586,
+      "longitude": 81.233
+    },
+    {
+      "name": "Holland (Netherlands, referenced)",
+      "latitude": 52.132633,
+      "longitude": 5.291266
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "vizard",
+      "definition": "a mask covering the face",
+      "context": "the Count wore a black vizard mask"
+    },
+    {
+      "word": "astrakhan",
+      "definition": "a type of fur (often from young karakul lamb)",
+      "context": "heavy bands of astrakhan on his coat"
+    },
+    {
+      "word": "gasogene",
+      "definition": "a device for producing carbonated water",
+      "context": "a gasogene in the corner of the room"
+    },
+    {
+      "word": "brougham",
+      "definition": "a closed four-wheeled carriage",
+      "context": "a nice little brougham and a pair of beauties"
+    },
+    {
+      "word": "guineas",
+      "definition": "old British gold coin unit (value used in pricing)",
+      "context": "a hundred and fifty guineas apiece"
+    },
+    {
+      "word": "Boswell",
+      "definition": "reference to James Boswell, the biographer of Dr. Johnson",
+      "context": "Watson likened himself to Boswell as Holmes’s chronicler"
+    },
+    {
+      "word": "iodoform",
+      "definition": "an antiseptic compound used medically",
+      "context": "a gentleman smelling of iodoform"
+    },
+    {
+      "word": "nitrate",
+      "definition": "chemical salt; here nitrate of silver used in medicine",
+      "context": "a black mark of nitrate of silver upon his right forefinger"
+    },
+    {
+      "word": "stethoscope",
+      "definition": "medical instrument for listening to internal sounds",
+      "context": "secreted his stethoscope in his top-hat"
+    },
+    {
+      "word": "vignette",
+      "definition": "a small ornamental design or illustration (used figuratively)",
+      "context": "Holmes’s opening descriptive vignette of characters"
+    },
+    {
+      "word": "gibe",
+      "definition": "a taunting or sarcastic remark",
+      "context": "He never spoke of the softer passions, save with a gibe"
+    },
+    {
+      "word": "sneer",
+      "definition": "a contemptuous expression or tone",
+      "context": "and that one particularly, were abhorrent to his cold... sneer"
+    },
+    {
+      "word": "drowsiness",
+      "definition": "a state of being sleepy",
+      "context": "the drowsiness of the drug, and the fierce energy..."
+    },
+    {
+      "word": "trifling",
+      "definition": "unimportant or trivial",
+      "context": "one or two of my trifling experiences"
+    },
+    {
+      "word": "insensibly",
+      "definition": "without noticing; gradually",
+      "context": "Insensibly one begins to twist facts to suit theories"
+    },
+    {
+      "word": "deduce",
+      "definition": "to infer through reasoning",
+      "context": "I deduce it. How do I know that you have been getting wet?"
+    },
+    {
+      "word": "perambulate",
+      "definition": "to walk through or about",
+      "context": "Holmes was pacing the room swiftly (perambulating)"
+    },
+    {
+      "word": "introspective",
+      "definition": "examining one's own thoughts or feelings",
+      "context": "he stood before the fire and looked me over in his singular introspective fashion"
+    },
+    {
+      "word": "salient",
+      "definition": "most noticeable or important",
+      "context": "the salient facts that Holmes observed"
+    },
+    {
+      "word": "silhouette",
+      "definition": "the dark shape of a figure seen against light",
+      "context": "I saw his tall, spare figure pass twice in a dark silhouette"
+    },
+    {
+      "word": "woeful",
+      "definition": "full of sorrow or misery",
+      "context": "Watson described a woeful state of domestic absorption"
+    },
+    {
+      "word": "cocaine",
+      "definition": "a stimulant drug mentioned as used by Holmes",
+      "context": "alternating from week to week between cocaine and ambition"
+    },
+    {
+      "word": "balmily",
+      "definition": "soothingly (archaic/adapted usage)",
+      "context": "Holmes’s manner was not effusive but kinder (balmily applied)"
+    },
+    {
+      "word": "sagacity",
+      "definition": "keen practical sense; shrewdness",
+      "context": "Holmes’s sagacity in observing the smallest detail"
+    },
+    {
+      "word": "perpendicular",
+      "definition": "at right angles; upright",
+      "context": "his tall, spare figure with head sunk upon his chest"
+    },
+    {
+      "word": "slavish",
+      "definition": "showing no originality; servile",
+      "context": "a most malignant boot-slitting specimen of the London slavey"
+    },
+    {
+      "word": "specimen",
+      "definition": "an example or sample",
+      "context": "a particularly malignant boot-slitting specimen"
+    },
+    {
+      "word": "malignant",
+      "definition": "very harmful or malicious",
+      "context": "a particularly malignant boot-slitting specimen"
+    },
+    {
+      "word": "crusted",
+      "definition": "having a hard outer layer",
+      "context": "to remove crusted mud from it"
+    },
+    {
+      "word": "bulge",
+      "definition": "a rounded swelling or protuberance",
+      "context": "a bulge on the right side of his top-hat"
+    },
+    {
+      "word": "perusal",
+      "definition": "the act of reading or examining",
+      "context": "He threw over a sheet of... paper. 'Read it aloud.'"
+    },
+    {
+      "word": "undated",
+      "definition": "without a date",
+      "context": "The note was undated, and without either signature or address"
+    },
+    {
+      "word": "vexed",
+      "definition": "annoyed or frustrated",
+      "context": "matters which vex the proud and royal house"
+    },
+    {
+      "word": "monogram",
+      "definition": "a motif of combined initials",
+      "context": "It is peculiarly strong and stiff... the name of the maker, no doubt; or his monogram"
+    },
+    {
+      "word": "Gesellschaft",
+      "definition": "German for 'company'",
+      "context": "the 'G' with the small 't' stands for 'Gesellschaft'"
+    },
+    {
+      "word": "Papier",
+      "definition": "German for 'paper'",
+      "context": "'P' of course stands for 'Papier'"
+    },
+    {
+      "word": "Gazetteer",
+      "definition": "a geographical dictionary or directory",
+      "context": "Let us glance at our Continental Gazetteer"
+    },
+    {
+      "word": "Egria",
+      "definition": "name printed in the paper-maker's mark (region)",
+      "context": "Egria. It is in a German-speaking country—in Bohemia"
+    },
+    {
+      "word": "Wallenstein",
+      "definition": "a historical figure referenced in the gazetteer entry",
+      "context": "Remarkable as being the scene of the death of Wallenstein"
+    },
+    {
+      "word": "factories",
+      "definition": "industrial buildings where goods are manufactured",
+      "context": "for its numerous glass-factories and paper-mills"
+    },
+    {
+      "word": "trifling",
+      "definition": "of little value or importance",
+      "context": "one or two of my trifling experiences"
+    },
+    {
+      "word": "insolent",
+      "definition": "boldly disrespectful",
+      "context": "the German who is so uncourteous to his verbs"
+    },
+    {
+      "word": "uncourteous",
+      "definition": "rude or impolite",
+      "context": "It is the German who is so uncourteous to his verbs"
+    },
+    {
+      "word": "slashed",
+      "definition": "cut or marked with a long narrow wound or opening",
+      "context": "heavy bands of astrakhan were slashed across the sleeves"
+    },
+    {
+      "word": "flame-coloured",
+      "definition": "having a bright reddish-yellow colour like flame",
+      "context": "a cloak lined with flame-coloured silk"
+    },
+    {
+      "word": "beryl",
+      "definition": "a mineral used as a gemstone (emerald family)",
+      "context": "a brooch which consisted of a single flaming beryl"
+    },
+    {
+      "word": "caliber",
+      "definition": "degree of quality or capacity (used contextually)",
+      "context": "the chest and limbs of a Hercules (implying caliber)"
+    },
+    {
+      "word": "barbaric",
+      "definition": "unsophisticatedly grand or foreign in taste",
+      "context": "the impression of barbaric opulence"
+    },
+    {
+      "word": "opulence",
+      "definition": "great wealth or luxuriousness",
+      "context": "barbaric opulence which was suggested by his whole appearance"
+    },
+    {
+      "word": "claret",
+      "definition": "a deep red (used figuratively of color)",
+      "context": "the deep blue cloak lined with flame-coloured silk (contrast like claret)"
+    },
+    {
+      "word": "obtrusive",
+      "definition": "noticeable in an unwelcome or intrusive way",
+      "context": "rich dress that would be looked upon as akin to bad taste"
+    },
+    {
+      "word": "imperious",
+      "definition": "assuming power without justification; arrogant",
+      "context": "a man of strong character with a thick, hanging lip"
+    },
+    {
+      "word": "obstinacy",
+      "definition": "stubbornness",
+      "context": "a long, straight chin suggestive of resolution pushed to the length of obstinacy"
+    },
+    {
+      "word": "august",
+      "definition": "respected and impressive; venerable",
+      "context": "The august person who employs me wishes his agent to be unknown"
+    },
+    {
+      "word": "discretion",
+      "definition": "the quality of behaving or speaking to avoid offense or revealing private information",
+      "context": "I understand that this gentleman... is a man of honour and discretion"
+    },
+    {
+      "word": "masking",
+      "definition": "concealing one's identity",
+      "context": "I prefer wearing a mask to showing my face"
+    },
+    {
+      "word": "imperative",
+      "definition": "of vital importance; crucial",
+      "context": "a matter of the very deepest moment"
+    },
+    {
+      "word": "reigning",
+      "definition": "ruling as monarch",
+      "context": "your recent services to one of the royal houses"
+    },
+    {
+      "word": "quarters",
+      "definition": "places or sources from which information comes",
+      "context": "This account of you we have from all quarters received"
+    },
+    {
+      "word": "chronicler",
+      "definition": "a person who records events in order",
+      "context": "Watson as the chronicler of events"
+    },
+    {
+      "word": "cab",
+      "definition": "a taxi or carriage (contextual reference to vehicles)",
+      "context": "the sound of horses’ hoofs and grating wheels against the curb"
+    },
+    {
+      "word": "curb",
+      "definition": "the edge of the pavement",
+      "context": "wheels against the curb"
+    },
+    {
+      "word": "trounce",
+      "definition": "defeat heavily (used figuratively)",
+      "context": "Holmes’s triumphs trounce official police in many cases"
+    },
+    {
+      "word": "summons",
+      "definition": "an authoritative call to appear or attend",
+      "context": "his summons to Odessa in the case of the Trepoff murder"
+    },
+    {
+      "word": "mission",
+      "definition": "an important assignment",
+      "context": "the mission which he had accomplished so delicately"
+    },
+    {
+      "word": "delicately",
+      "definition": "carefully and sensitively",
+      "context": "he had accomplished so delicately and successfully"
+    },
+    {
+      "word": "ornate",
+      "definition": "elaborately or highly decorated",
+      "context": "the ornate richness of the Count’s dress"
+    },
+    {
+      "word": "minute",
+      "definition": "extremely small; precise",
+      "context": "Holmes’s minute powers of observation"
+    },
+    {
+      "word": "chuckle",
+      "definition": "a quiet or suppressed laugh",
+      "context": "He chuckled to himself and rubbed his long, nervous hands together"
+    },
+    {
+      "word": "triumphant",
+      "definition": "having achieved victory or success",
+      "context": "a great blue triumphant cloud from his cigarette"
+    },
+    {
+      "word": "cloak",
+      "definition": "a sleeveless outer garment",
+      "context": "the deep blue cloak which was thrown over his shoulders"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1661"
+}
