@@ -1,0 +1,697 @@
+{
+  "gutenberg_id": 2701,
+  "title": "Moby Dick; Or, The Whale",
+  "author": "Melville, Herman",
+  "summary": "Moby-Dick is a sprawling sea narrative centered on whaling, the whale as mythic Leviathan, and a shipbound fate. The narrator frames etymologies, extracts, and encyclopedic cetology, then recounts voyages from Nantucket aboard the Pequod. Captain Ahab dominates as an obsessed harpooner-hunter; a varied crew—Queequeg, Starbuck, Stubb, Flask, and the Parsee Fedallah—populate the deck. Chapters mix practical whaling detail, philosophical digressions, biblical and literary allusion, and encounters with other ships. The text alternates technical description and parable, probing madness, vengeance, and the sea’s enormity while cataloguing whalebone, oil, and cetological lore.",
+  "characters": [
+    {
+      "name": "Late Consumptive Usher",
+      "age": "elderly (unspecified)",
+      "personality": "melancholic, pedantic, bookish",
+      "lifespan": "Role limited to the Etymology; fate not specified in provided excerpt"
+    },
+    {
+      "name": "Sub-Sub-Librarian",
+      "age": "adult (unspecified)",
+      "personality": "painstaking, ironic, self-deprecating commentator",
+      "lifespan": "Serves as compiler of extracts; fate not specified in provided excerpt"
+    },
+    {
+      "name": "Ahab",
+      "age": "middle-aged (estimated 40s–60s)",
+      "personality": "obsessive, monomaniacal, authoritative",
+      "lifespan": "Principal figure introduced in TOC; specific fate not described in provided excerpt"
+    },
+    {
+      "name": "Queequeg",
+      "age": "young adult (estimated 20s–30s)",
+      "personality": "tattooed harpooneer, loyal and exoticized in narration",
+      "lifespan": "Prominent crew member in chapters noted; fate not specified in provided excerpt"
+    },
+    {
+      "name": "Starbuck",
+      "age": "adult (unspecified)",
+      "personality": "serious, pious, first mate type",
+      "lifespan": "Appears in chapter references (e.g., Ahab and Starbuck); fate not specified in provided excerpt"
+    },
+    {
+      "name": "Stubb",
+      "age": "adult (unspecified)",
+      "personality": "buoyant, ironic, the second mate (comic)",
+      "lifespan": "Named in TOC and chapter headings; fate not specified in provided excerpt"
+    },
+    {
+      "name": "Flask",
+      "age": "adult (unspecified)",
+      "personality": "short, blunt, aggressive harpooneer",
+      "lifespan": "Appears paired with Stubb in TOC; fate not specified in provided excerpt"
+    },
+    {
+      "name": "Fedallah",
+      "age": "adult (unspecified)",
+      "personality": "mysterious Parsee harpooneer associated with Ahab",
+      "lifespan": "Listed as Ahab’s boat-crew member; fate not specified in provided excerpt"
+    },
+    {
+      "name": "The Carpenter",
+      "age": "adult (unspecified)",
+      "personality": "practical shipwright, matter-of-fact",
+      "lifespan": "Named in TOC (chapter 107); fate not specified in provided excerpt"
+    },
+    {
+      "name": "The Blacksmith",
+      "age": "adult (unspecified)",
+      "personality": "forging tools and gear for whaling",
+      "lifespan": "Named in TOC (chapter 112); fate not specified in provided excerpt"
+    },
+    {
+      "name": "The Gilder",
+      "age": "adult (unspecified)",
+      "personality": "artisan altering metalwork",
+      "lifespan": "Listed in TOC (chapter 114); fate not specified in provided excerpt"
+    },
+    {
+      "name": "Jeroboam",
+      "age": "n/a (ship/story title)",
+      "personality": "the name of a vessel/story referenced",
+      "lifespan": "Appears as 'The Jeroboam’s Story' in TOC; no personal fate"
+    },
+    {
+      "name": "Jonah",
+      "age": "biblical (unspecified)",
+      "personality": "biblical figure cited in extracts",
+      "lifespan": "Quoted as swallowed by a great fish in extract"
+    },
+    {
+      "name": "Job",
+      "age": "biblical (unspecified)",
+      "personality": "biblical figure used in extracts",
+      "lifespan": "Appears in extracts; fate not narrated in provided excerpt"
+    },
+    {
+      "name": "Moses",
+      "age": "biblical (unspecified)",
+      "personality": "biblical lawgiver referenced",
+      "lifespan": "Quoted in extracts; not a participant in narrative"
+    },
+    {
+      "name": "God",
+      "age": "eternal",
+      "personality": "divine presence in quoted scripture",
+      "lifespan": "Appears in scriptural extracts; not a narrative character"
+    },
+    {
+      "name": "Captain Cowley",
+      "age": "adult (unspecified)",
+      "personality": "quoted voyager/captain in extracts",
+      "lifespan": "Referenced in extracts (voyage account); fate not given in provided excerpt"
+    },
+    {
+      "name": "Richard Strafford",
+      "age": "adult (unspecified)",
+      "personality": "voyager whose letter is quoted",
+      "lifespan": "Mentioned in extracts; fate not specified in provided excerpt"
+    },
+    {
+      "name": "Hackluyt",
+      "age": "historical (unspecified)",
+      "personality": "quoted authority on nomenclature",
+      "lifespan": "Cited in Etymology; not a narrative character"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Nantucket, Massachusetts, USA",
+      "latitude": 41.2835,
+      "longitude": -70.0995
+    },
+    {
+      "name": "Spitzbergen (Svalbard), Arctic Ocean",
+      "latitude": 78,
+      "longitude": 20
+    },
+    {
+      "name": "Elbe (mouth / Hamburg region), Germany",
+      "latitude": 53.54,
+      "longitude": 9.98
+    },
+    {
+      "name": "Bermudas (Bermuda)",
+      "latitude": 32.3078,
+      "longitude": -64.7505
+    },
+    {
+      "name": "Greenland (general reference; Nuuk shown)",
+      "latitude": 64.183,
+      "longitude": -51.7216
+    },
+    {
+      "name": "Shetland Islands, Scotland",
+      "latitude": 60.3932,
+      "longitude": -1.2089
+    },
+    {
+      "name": "Fife, Scotland",
+      "latitude": 56.3,
+      "longitude": -3.2
+    },
+    {
+      "name": "Hampton Court (palace), England",
+      "latitude": 51.4036,
+      "longitude": -0.337
+    },
+    {
+      "name": "Tuileries (Paris gardens), France",
+      "latitude": 48.863,
+      "longitude": 2.327
+    },
+    {
+      "name": "Indian Sea (Indian Ocean, central reference point)",
+      "latitude": 10,
+      "longitude": 80
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Consumptive",
+      "definition": "suffering from consumption (tuberculosis)",
+      "context": "Used in the Etymology to describe the 'Late Consumptive Usher'."
+    },
+    {
+      "word": "lexicons",
+      "definition": "dictionaries or vocabularies",
+      "context": "The Usher is said to dust his old lexicons and grammars."
+    },
+    {
+      "word": "mockingly",
+      "definition": "in a derisive or scornful manner",
+      "context": "Describes the manner of the handkerchief in the Etymology."
+    },
+    {
+      "word": "Hackluyt",
+      "definition": "historical author (Richard Hakluyt)",
+      "context": "Quoted in the Etymology about the letter H and the whale."
+    },
+    {
+      "word": "CETUS",
+      "definition": "Latin for whale or sea monster",
+      "context": "Listed in the etymology table."
+    },
+    {
+      "word": "WHŒL",
+      "definition": "archaic Anglo-Saxon form cited in etymology",
+      "context": "Listed in the etymology table."
+    },
+    {
+      "word": "HVALT",
+      "definition": "Danish archaic form cited in etymology",
+      "context": "Listed in the etymology table."
+    },
+    {
+      "word": "HVALUR",
+      "definition": "Icelandic form for whale",
+      "context": "Listed in the etymology table."
+    },
+    {
+      "word": "PEKEE-NUEE-NUEE",
+      "definition": "Fijian transliteration for a whale name",
+      "context": "Listed in the etymology table."
+    },
+    {
+      "word": "PEHEE-NUEE-NUEE",
+      "definition": "Erromangoan transliteration for a whale name",
+      "context": "Listed in the etymology table."
+    },
+    {
+      "word": "higgledy-piggledy",
+      "definition": "in a chaotic or disorderly manner",
+      "context": "Applied to the whale statements collected by the Sub-Sub-Librarian."
+    },
+    {
+      "word": "Vaticans",
+      "definition": "large, ancient libraries (used figuratively)",
+      "context": "The Sub-Sub-Librarian 'went through the long Vaticans and street-stalls of the earth'."
+    },
+    {
+      "word": "Sub-Sub-Librarian",
+      "definition": "a satirical, low-ranking librarian title",
+      "context": "Denotes the extractor of whale citations in the book's prefatory material."
+    },
+    {
+      "word": "Leviathan",
+      "definition": "biblical sea monster or whale",
+      "context": "Quotations and references to Leviathan appear repeatedly in extracts."
+    },
+    {
+      "word": "paunch",
+      "definition": "the belly or abdomen (esp. of an animal)",
+      "context": "Quoted in Holland's Plutarch describing the whale swallowing things into its paunch."
+    },
+    {
+      "word": "incontinently",
+      "definition": "immediately; without delay (archaic)",
+      "context": "Used in a quotation: 'down it goes all incontinently'."
+    },
+    {
+      "word": "Balaene",
+      "definition": "archaic form referring to whales (plural)",
+      "context": "Quoted from Holland's Pliny: 'Whales and Whirlpooles called Balaene'."
+    },
+    {
+      "word": "arpens",
+      "definition": "an old French unit of land area (arpent)",
+      "context": "Used in an extract estimating whale length as so many arpens."
+    },
+    {
+      "word": "Lucian",
+      "definition": "ancient satirist and author",
+      "context": "Quoted for 'The True History' about monstrous whales."
+    },
+    {
+      "word": "Tooke",
+      "definition": "author of a version quoted (Tooke's Lucian)",
+      "context": "Cited in an extract about monstrous sea creatures."
+    },
+    {
+      "word": "plutarch",
+      "definition": "classical author Plutarch (cited)",
+      "context": "Holland’s Plutarch is quoted about the whale's mouth."
+    },
+    {
+      "word": "Bermudas",
+      "definition": "Bermuda islands (archaic spelling)",
+      "context": "Mentioned in a voyage account quoted in extracts."
+    },
+    {
+      "word": "Spitzbergen",
+      "definition": "archaic spelling of Spitsbergen (Svalbard)",
+      "context": "Mentioned in a voyage account about whales."
+    },
+    {
+      "word": "ducat",
+      "definition": "an old gold coin",
+      "context": "Quoted: 'the first discoverer has a ducat for his pains'."
+    },
+    {
+      "word": "fuzzing",
+      "definition": "a verb describing bubbling or foaming up",
+      "context": "Used to describe whales 'fuzzing up the water'."
+    },
+    {
+      "word": "vents",
+      "definition": "openings (here breathing holes of whales)",
+      "context": "Extracts describe 'pipes and vents' on whales' shoulders."
+    },
+    {
+      "word": "gudgeon",
+      "definition": "a small fish (used figuratively)",
+      "context": "Quoted from Montaigne: the sea-gudgeon retires safely into the whale's mouth."
+    },
+    {
+      "word": "Jonas-in-the-Whale",
+      "definition": "name of a ship (playful allusion to Jonah)",
+      "context": "Quoted in a voyage account: 'the ship called The Jonas-in-the-Whale'."
+    },
+    {
+      "word": "sperma-ceti",
+      "definition": "Latinized/archaic form of spermaceti (whale oil wax)",
+      "context": "Quoted in extracts debating what spermaceti is."
+    },
+    {
+      "word": "parmacetti",
+      "definition": "variant/spelling of spermacetti used in extracts",
+      "context": "Quoted as a remedy: 'The sovereignest thing on earth is parmacetti'."
+    },
+    {
+      "word": "Nescio",
+      "definition": "Latin 'I do not know' (part of phrase 'Nescio quid sit')",
+      "context": "Quoted from Sir T. Browne: 'Nescio quid sit' about spermaceti."
+    },
+    {
+      "word": "jav'lins",
+      "definition": "archaic contraction of 'javelins'",
+      "context": "Used in a quotation describing the whale's side as bearing 'fixed jav'lins'."
+    },
+    {
+      "word": "Talus",
+      "definition": "a figure in Spenser's poem (mythic enforcer)",
+      "context": "Referenced in a simile about a whale’s tail."
+    },
+    {
+      "word": "availle",
+      "definition": "archaic for 'avail' or 'help' (in older spelling)",
+      "context": "Quoted archaic line: 'no skill of leach’s art Mote him availle'."
+    },
+    {
+      "word": "mote",
+      "definition": "archaic past form 'might' or 'might'",
+      "context": "Appears in archaic quotation 'Mote him availle'."
+    },
+    {
+      "word": "sprat",
+      "definition": "small fish",
+      "context": "Used in Pilgrim's Progress citation: 'sprat in the mouth of a whale'."
+    },
+    {
+      "word": "hugest",
+      "definition": "archaic comparative meaning 'most huge'",
+      "context": "Used in Paradise Lost quotation: 'Hugest of living creatures'."
+    },
+    {
+      "word": "promontory",
+      "definition": "a high point of land projecting into a body of water",
+      "context": "Milton's lines compare Leviathan to a promontory."
+    },
+    {
+      "word": "gills",
+      "definition": "breathing organs on fish (metaphorical)",
+      "context": "Milton: 'at his gills draws in' describing Leviathan."
+    },
+    {
+      "word": "spouts",
+      "definition": "ejects water or vapor (whale action)",
+      "context": "Milton: 'at his breath spouts out a sea'."
+    },
+    {
+      "word": "Fuller",
+      "definition": "reference to the author Fuller",
+      "context": "Quoted: 'The mighty whales which swim in a sea of water...'"
+    },
+    {
+      "word": "baleine",
+      "definition": "French word for whale (listed in etymology)",
+      "context": "Appears in the etymology list."
+    },
+    {
+      "word": "ballena",
+      "definition": "Spanish word for whale (listed in etymology)",
+      "context": "Appears in the etymology list."
+    },
+    {
+      "word": "PEKEE-NUEE-NUEE",
+      "definition": "Fijian term cited for a whale",
+      "context": "Listed in the etymology table of world names for whale."
+    },
+    {
+      "word": "PEHEE-NUEE-NUEE",
+      "definition": "Erromangoan term cited for a whale",
+      "context": "Listed in the etymology table."
+    },
+    {
+      "word": "whale-bone",
+      "definition": "baleen or bone from whales' mouths",
+      "context": "Used in voyage extracts describing the jaws that supplied whale-bone."
+    },
+    {
+      "word": "Spencer",
+      "definition": "reference to poet Edmund Spenser",
+      "context": "Quoted in a line comparing whale motions to Talus."
+    },
+    {
+      "word": "Civitas",
+      "definition": "Latin term for a state or commonwealth",
+      "context": "Quoted from Hobbes: 'Civitas' as Leviathan (the state)."
+    },
+    {
+      "word": "Jonah",
+      "definition": "biblical prophet swallowed by a great fish",
+      "context": "Directly cited in extracts: 'Now the Lord had prepared a great fish to swallow up Jonah.'"
+    },
+    {
+      "word": "Isaiah",
+      "definition": "biblical prophet",
+      "context": "Quoted extract referencing punishment of Leviathan in Isaiah."
+    },
+    {
+      "word": "Pliny",
+      "definition": "ancient natural historian (Pliny the Elder)",
+      "context": "Holland’s Pliny is quoted on whale size."
+    },
+    {
+      "word": "Holland",
+      "definition": "translator/editor (cited)",
+      "context": "Holland's Pliny and Holland’s Plutarch are quoted several times."
+    },
+    {
+      "word": "Rabelais",
+      "definition": "French Renaissance writer",
+      "context": "Quoted wryly in the extracts: 'Let us fly... Leviathan'."
+    },
+    {
+      "word": "Annus Mirabilis",
+      "definition": "title of a work by Dryden",
+      "context": "Dryden is quoted likening leviathan to an ambusher."
+    },
+    {
+      "word": "Pequod",
+      "definition": "name of the whaling ship in the narrative (appears in TOC titles referencing the Pequod meeting ships)",
+      "context": "Multiple chapter headings: 'The Pequod Meets...'"
+    },
+    {
+      "word": "Gam",
+      "definition": "a social visit between whalers at sea",
+      "context": "Chapter title 'The Gam' names this rare nautical term."
+    },
+    {
+      "word": "Specksnyder",
+      "definition": "archaic occupational term for a whale-boat's officer (or expert)",
+      "context": "Used as a chapter title (chapter 33)."
+    },
+    {
+      "word": "Mat-Maker",
+      "definition": "one who weaves mats (likely whale-boat gear)",
+      "context": "Chapter title 'The Mat-Maker'."
+    },
+    {
+      "word": "Monkey-Rope",
+      "definition": "nautical term for a safety rope used aloft",
+      "context": "Chapter title 'The Monkey-Rope' describes this rigging device."
+    },
+    {
+      "word": "Fedallah",
+      "definition": "proper name (Parsee harpooneer)",
+      "context": "Listed in chapter title 'Ahab’s Boat and Crew. Fedallah.'"
+    },
+    {
+      "word": "Jeroboam",
+      "definition": "biblical king and also a large wine bottle term; here a ship's story",
+      "context": "Chapter 'The Jeroboam’s Story'."
+    },
+    {
+      "word": "Pitchpoling",
+      "definition": "a whaling maneuver using a long pole to strike",
+      "context": "Chapter 84 'Pitchpoling' uses this rare whaling word."
+    },
+    {
+      "word": "Ambergris",
+      "definition": "waxy substance from sperm whale intestines used in perfumery",
+      "context": "Chapter 92 titled 'Ambergris'."
+    },
+    {
+      "word": "Try-Works",
+      "definition": "furnaces used aboard whaling ships to render blubber into oil",
+      "context": "Chapter 96 'The Try-Works'."
+    },
+    {
+      "word": "Heidelburgh",
+      "definition": "archaic reference in the chapter title 'The Great Heidelburgh Tun' (proper name/spelling)",
+      "context": "Chapter 77 title referencing a giant tun."
+    },
+    {
+      "word": "Tun",
+      "definition": "very large cask for liquids",
+      "context": "Chapter title refers to 'The Great Heidelburgh Tun'."
+    },
+    {
+      "word": "Cistern",
+      "definition": "a tank for holding liquids",
+      "context": "Chapter 78 'Cistern and Buckets'."
+    },
+    {
+      "word": "Battering-Ram",
+      "definition": "heavy object used to force entry (metaphorical here)",
+      "context": "Chapter 76 'The Battering-Ram'."
+    },
+    {
+      "word": "Prairie",
+      "definition": "large open flat grassland",
+      "context": "Chapter 79 'The Prairie' used metaphorically about the sea."
+    },
+    {
+      "word": "Nut",
+      "definition": "a term used as chapter title (chapter 80)",
+      "context": "Chapter 80 titled 'The Nut'."
+    },
+    {
+      "word": "Sphynx",
+      "definition": "archaic spelling of sphinx; riddle-like figure",
+      "context": "Chapter 70 title 'The Sphynx'."
+    },
+    {
+      "word": "Cassock",
+      "definition": "long clerical robe",
+      "context": "Chapter 95 titled 'The Cassock'."
+    },
+    {
+      "word": "Gilder",
+      "definition": "one who covers with gold or finishes metalwork",
+      "context": "Chapter 114 'The Gilder'."
+    },
+    {
+      "word": "Bachelor",
+      "definition": "name of a ship ('The Bachelor')",
+      "context": "Chapter 115 'The Pequod Meets The Bachelor'."
+    },
+    {
+      "word": "Quadrant",
+      "definition": "navigational instrument to measure altitude",
+      "context": "Chapter 118 'The Quadrant'."
+    },
+    {
+      "word": "Candles",
+      "definition": "wax candles used onboard; also chapter title",
+      "context": "Chapter 119 'The Candles'."
+    },
+    {
+      "word": "Life-Buoy",
+      "definition": "floating device for rescue at sea",
+      "context": "Chapter 126 'The Life-Buoy'."
+    },
+    {
+      "word": "Rachel",
+      "definition": "name of a ship encountered (chapter 128)",
+      "context": "Chapter 128 'The Pequod Meets The Rachel'."
+    },
+    {
+      "word": "Delight",
+      "definition": "name of a ship encountered (chapter 131)",
+      "context": "Chapter 131 'The Pequod Meets The Delight'."
+    },
+    {
+      "word": "Symphony",
+      "definition": "musical term used as chapter title",
+      "context": "Chapter 132 'The Symphony'."
+    },
+    {
+      "word": "Etymology",
+      "definition": "study of word origins; section heading",
+      "context": "The book begins with an 'ETYMOLOGY' section."
+    },
+    {
+      "word": "Extracts",
+      "definition": "selected quotations; section heading",
+      "context": "Section 'EXTRACTS (Supplied by a Sub-Sub-Librarian)'."
+    },
+    {
+      "word": "Usher",
+      "definition": "school position (here titular character)",
+      "context": "The pale Usher is described in the Etymology."
+    },
+    {
+      "word": "Hampton",
+      "definition": "part of Hampton Court cited in a rhetorical flourish",
+      "context": "Writer mentions 'clear out Hampton Court' in address to Sub-Subs."
+    },
+    {
+      "word": "Tuileries",
+      "definition": "Paris palace/gardens referenced rhetorically",
+      "context": "Mentioned in the same flourish about elites' palaces."
+    },
+    {
+      "word": "Pilgrim's",
+      "definition": "reference to 'Pilgrim's Progress' in extracts",
+      "context": "Quotation from Bunyan's Pilgrim's Progress appears regarding Mansoul."
+    },
+    {
+      "word": "Fuller",
+      "definition": "author Thomas Fuller, cited in extracts",
+      "context": "Quoted regarding whales and oil."
+    },
+    {
+      "word": "Dryden",
+      "definition": "poet John Dryden, cited in extracts",
+      "context": "Quoted describing Leviathan lying in wait behind promontories."
+    },
+    {
+      "word": "Harris",
+      "definition": "editorial reference (Harris Coll.) in voyage citations",
+      "context": "Multiple voyage extracts cite 'Harris Coll.'."
+    },
+    {
+      "word": "Pitferren",
+      "definition": "place name cited in Sibbald's account",
+      "context": "Quoted: 'The jaws of it stand for a gate in the garden of Pitferren.'"
+    },
+    {
+      "word": "Cowley",
+      "definition": "Captain Cowley, author of a voyage account",
+      "context": "Quoted in extracts about abundance of whales."
+    },
+    {
+      "word": "Fast-Fish",
+      "definition": "legal whaling term meaning a fish fast to a vessel",
+      "context": "Chapter 89 'Fast-Fish and Loose-Fish' uses this technical term."
+    },
+    {
+      "word": "Loose-Fish",
+      "definition": "legal whaling term meaning unclaimed fish",
+      "context": "Paired with Fast-Fish in chapter title."
+    },
+    {
+      "word": "Jeroboam's",
+      "definition": "possessive form from chapter title 'The Jeroboam’s Story'",
+      "context": "Used in TOC as story title."
+    },
+    {
+      "word": "Arsacides",
+      "definition": "an obscure classical or poetic reference used as a chapter place-name",
+      "context": "Chapter 102 'A Bower in the Arsacides'."
+    },
+    {
+      "word": "Fife",
+      "definition": "region of Scotland cited in extracts",
+      "context": "Sibbald's Fife and Kinross is quoted regarding stranded whales."
+    },
+    {
+      "word": "Spermacetti",
+      "definition": "variant spelling of sperma-ceti (wax from sperm whale)",
+      "context": "Quoted multiple times in extracts and chapter titles dealing with whales' oil."
+    },
+    {
+      "word": "Heathen",
+      "definition": "archaic term used in some quotations (contextual)",
+      "context": "Appears within extracted quotations about foreign seas and peoples."
+    },
+    {
+      "word": "Fo'c'sle",
+      "definition": "colloquial contraction of 'forecastle' (nautical)",
+      "context": "Chapter headings reference 'Forecastle' and 'Forecastle Bulwarks'."
+    },
+    {
+      "word": "Hyena",
+      "definition": "animal used as chapter title metaphor",
+      "context": "Chapter 49 titled 'The Hyena'."
+    },
+    {
+      "word": "Spirit-Spout",
+      "definition": "poetic/naturalistic term for a whale's blow",
+      "context": "Chapter 51 'The Spirit-Spout'."
+    },
+    {
+      "word": "Albatross",
+      "definition": "large seabird (superstitious omen in sea lore)",
+      "context": "Chapter 52 'The Albatross'."
+    },
+    {
+      "word": "Sphynx",
+      "definition": "alternate spelling of sphinx, used as chapter title",
+      "context": "Chapter 70 'The Sphynx'."
+    },
+    {
+      "word": "Jeroboam",
+      "definition": "repeated here as a notable uncommon term (see earlier)",
+      "context": "Ship/story title in TOC."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2701"
+}
