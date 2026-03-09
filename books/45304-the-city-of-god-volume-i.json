@@ -1,0 +1,552 @@
+{
+  "gutenberg_id": 45304,
+  "title": "The City of God, Volume I",
+  "author": "Augustine, of Hippo, Saint",
+  "summary": "Augustine answers pagan accusations that Christianity caused Rome's calamities, especially the sack by the Goths under Alaric. Prompted by Marcellinus and correspondence with Volusian, Augustine defends the faith, refutes claims that pagan worship secured worldly prosperity, and contends that calamities have always afflicted mankind. The work divides into two parts: ten books rebut pagan arguments about gods and happiness, and twelve books presenting Augustine's positive doctrine of the two cities (the City of God and the earthly city), their origins, progress, and final destinies, linking history to divine providence and Christian hope.",
+  "characters": [
+    {
+      "name": "Aurelius Augustine",
+      "age": "59–72 (ages during composition)",
+      "personality": "learned, measured, persuasive, apologetic, philosophical",
+      "lifespan": "Authors the work between 413 and 426; completes the City of God in maturity (described as his life-work)"
+    },
+    {
+      "name": "Marcellinus",
+      "age": "unknown",
+      "personality": "devoted friend and encourager, earnest",
+      "lifespan": "Instrumental in urging Augustine to enlarge his defence; reported to have died shortly before the work began (died before/during early composition)"
+    },
+    {
+      "name": "Volusian",
+      "age": "unknown",
+      "personality": "courteous, intellectually inquisitive, representative of cultured pagan statesmen",
+      "lifespan": "Correspondent of Augustine; sought answers to political and social difficulties about Christianity"
+    },
+    {
+      "name": "Honorius",
+      "age": "unknown",
+      "personality": "imperial, administrative (contextual)",
+      "lifespan": "Emperor who sent Marcellinus to Africa to settle ecclesiastical disputes; appears as historical referent"
+    },
+    {
+      "name": "Alaric",
+      "age": "unknown",
+      "personality": "warlike leader (Gothic king)",
+      "lifespan": "Leader of the Goths who sacked Rome; his sack of Rome is the immediate occasion for Augustine's defence"
+    },
+    {
+      "name": "Jerome",
+      "age": "unknown",
+      "personality": "emotional, eloquent, literate",
+      "lifespan": "Quoted as lamenting Rome's fall with theatrical emotion; used to illustrate contemporary response"
+    },
+    {
+      "name": "Justin (Martyr)",
+      "age": "ancient/unspecified",
+      "personality": "early Christian apologist",
+      "lifespan": "Mentioned as a predecessor in Christian apologetics whose arguments are contrasted with Augustine's"
+    },
+    {
+      "name": "Tertullian",
+      "age": "ancient/unspecified",
+      "personality": "early Christian apologist",
+      "lifespan": "Mentioned among earlier apologists; Augustine's defence is compared to their work"
+    },
+    {
+      "name": "Varro",
+      "age": "ancient/unspecified",
+      "personality": "Roman scholar referenced for theological divisions",
+      "lifespan": "Referenced in the table of contents for discussion of his threefold division of theology"
+    },
+    {
+      "name": "Apuleius",
+      "age": "ancient/unspecified",
+      "personality": "philosopher/speculative writer",
+      "lifespan": "Mentioned in context of doctrines about demons and mediators"
+    },
+    {
+      "name": "Porphyry",
+      "age": "ancient/unspecified",
+      "personality": "philosopher",
+      "lifespan": "Referenced in discussion of doctrines of redemption"
+    },
+    {
+      "name": "Socrates",
+      "age": "ancient/unspecified",
+      "personality": "philosophical exemplar",
+      "lifespan": "Mentioned in relation to Socratic philosophy in the text"
+    },
+    {
+      "name": "Plato",
+      "age": "ancient/unspecified",
+      "personality": "philosopher",
+      "lifespan": "Referenced regarding Platonic philosophy discussed in the work"
+    },
+    {
+      "name": "Beugnot",
+      "age": "unknown",
+      "personality": "critical commentator",
+      "lifespan": "Quoted as a modern critic who minimized the work's effect"
+    },
+    {
+      "name": "Volusian's friends (unnamed)",
+      "age": "various",
+      "personality": "representative Roman elites, sceptical",
+      "lifespan": "Participants in a conversation illustrating pagan doubts about Christianity"
+    },
+    {
+      "name": "Donatists",
+      "age": "group (contemporary)",
+      "personality": "sectarian, ecclesiastical opponents",
+      "lifespan": "Their disputes prompted Marcellinus' mission to Africa, and led to contact with Augustine"
+    },
+    {
+      "name": "Marcus Dods",
+      "age": "not specified",
+      "personality": "editor / translator",
+      "lifespan": "Editor of the translation presented in this edition"
+    },
+    {
+      "name": "George Wilson",
+      "age": "not specified",
+      "personality": "translator",
+      "lifespan": "Translator of selected books (IV, XVII, XVIII) in this edition"
+    },
+    {
+      "name": "J. J. Smith",
+      "age": "not specified",
+      "personality": "translator",
+      "lifespan": "Translator of books V–VIII in this edition"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Rome",
+      "latitude": 41.902782,
+      "longitude": 12.496366
+    },
+    {
+      "name": "Hippo (Hippo Regius / modern Annaba, Algeria)",
+      "latitude": 36.898244,
+      "longitude": 7.766597
+    },
+    {
+      "name": "Africa (Roman province / Carthage region referenced)",
+      "latitude": 36.861,
+      "longitude": 10.331
+    },
+    {
+      "name": "Edinburgh, George Street (publisher location T. & T. Clark)",
+      "latitude": 55.951,
+      "longitude": -3.19
+    },
+    {
+      "name": "Glenluce",
+      "latitude": 54.9,
+      "longitude": -4.565
+    },
+    {
+      "name": "London",
+      "latitude": 51.507351,
+      "longitude": -0.127758
+    },
+    {
+      "name": "Dublin",
+      "latitude": 53.349805,
+      "longitude": -6.26031
+    },
+    {
+      "name": "New York",
+      "latitude": 40.712776,
+      "longitude": -74.005974
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "acerbity",
+      "definition": "bitterness of temper",
+      "context": "pagans blasphemed with even more than their wonted bitterness and acerbity"
+    },
+    {
+      "word": "wonted",
+      "definition": "accustomed; habitual",
+      "context": "their wonted bitterness and acerbity"
+    },
+    {
+      "word": "blaspheme",
+      "definition": "speak irreverently about God",
+      "context": "began to blaspheme the true God"
+    },
+    {
+      "word": "zeal",
+      "definition": "ardent enthusiasm",
+      "context": "which kindled my zeal for the house of God"
+    },
+    {
+      "word": "importunity",
+      "definition": "persistent solicitation",
+      "context": "it was due to the importunity of his friend Marcellinus"
+    },
+    {
+      "word": "proconsul",
+      "definition": "a governor of a Roman province",
+      "context": "Volusian, the proconsul of Africa"
+    },
+    {
+      "word": "Donatists",
+      "definition": "a schismatic Christian sect in North Africa",
+      "context": "to arrange a settlement of the differences between the Donatists and the Catholics"
+    },
+    {
+      "word": "peruse",
+      "definition": "to read thoroughly",
+      "context": "that Volusian would carefully peruse the Scriptures"
+    },
+    {
+      "word": "overture",
+      "definition": "an initial proposal or approach",
+      "context": "The first overture was on Augustine's part"
+    },
+    {
+      "word": "speculative",
+      "definition": "theoretical or philosophical",
+      "context": "the difficulties to which most weight is attached in this letter ... are speculative"
+    },
+    {
+      "word": "courteous",
+      "definition": "polite and considerate",
+      "context": "limited merely out of a courteous regard to the preciousness of the bishop's time"
+    },
+    {
+      "word": "converting",
+      "definition": "causing to adopt a new religion or belief",
+      "context": "set his heart on converting him to the true faith"
+    },
+    {
+      "word": "statesmen",
+      "definition": "skilled, experienced political leaders",
+      "context": "brought him into contact ... with two imperial statesmen"
+    },
+    {
+      "word": "overtures",
+      "definition": "initial offers or approaches",
+      "context": "The first overture was on Augustine's part"
+    },
+    {
+      "word": "profligate",
+      "definition": "recklessly extravagant or immoral",
+      "context": "ascribes her recent disgrace to the profligate manners"
+    },
+    {
+      "word": "effeminacy",
+      "definition": "unmanly softness or weakness",
+      "context": "ascribes her recent disgrace to ... the effeminacy ... of her citizens"
+    },
+    {
+      "word": "mistress",
+      "definition": "female ruler or the dominating female principle; here 'mistress of the world' (Rome)",
+      "context": "the mistress of the world"
+    },
+    {
+      "word": "enthralled",
+      "definition": "captivated or charmed",
+      "context": "that city which enthralled the world"
+    },
+    {
+      "word": "rumour",
+      "definition": "unverified report circulated",
+      "context": "A terrible rumour reaches me from the West"
+    },
+    {
+      "word": "sobs",
+      "definition": "convulsive deep breaths in crying",
+      "context": "sobs stifle the words I dictate"
+    },
+    {
+      "word": "dictate",
+      "definition": "to speak for another to write down",
+      "context": "sobs stifle the words I dictate"
+    },
+    {
+      "word": "theatrical",
+      "definition": "artificially dramatic",
+      "context": "Augustine is never so theatrical as Jerome"
+    },
+    {
+      "word": "explicit",
+      "definition": "clearly stated",
+      "context": "he is equally explicit in lamenting the fall of Rome"
+    },
+    {
+      "word": "lamenting",
+      "definition": "expressing sorrow",
+      "context": "explicit in lamenting the fall of Rome"
+    },
+    {
+      "word": "cosmopolitan",
+      "definition": "belonging to the whole world; worldly",
+      "context": "though it be as cosmopolitan as the empire of Rome"
+    },
+    {
+      "word": "crescit",
+      "definition": "Latin: it grows",
+      "context": "crescit occulto velut arbor ævo (Latin phrase quoted)"
+    },
+    {
+      "word": "occulto",
+      "definition": "Latin: secretly/hidden",
+      "context": "crescit occulto velut arbor ævo"
+    },
+    {
+      "word": "velut",
+      "definition": "Latin: as or like",
+      "context": "crescit occulto velut arbor ævo"
+    },
+    {
+      "word": "arbor",
+      "definition": "Latin: tree",
+      "context": "crescit occulto velut arbor ævo"
+    },
+    {
+      "word": "ævo",
+      "definition": "Latin: age (with ligature æ)",
+      "context": "crescit occulto velut arbor ævo"
+    },
+    {
+      "word": "antagonism",
+      "definition": "active hostility or opposition",
+      "context": "He traces the antagonism of these two grand communities"
+    },
+    {
+      "word": "consummation",
+      "definition": "completion or finalization",
+      "context": "down to the consummation of all things in the last judgment"
+    },
+    {
+      "word": "prescience",
+      "definition": "knowledge of events before they happen; foreknowledge",
+      "context": "Of fate, freewill, and God's prescience (Book V)"
+    },
+    {
+      "word": "freewill",
+      "definition": "the power of acting without constraint",
+      "context": "Of fate, freewill, and God's prescience"
+    },
+    {
+      "word": "Varro",
+      "definition": "Roman scholar (name)",
+      "context": "Of Varro's threefold division of theology (Book VI)"
+    },
+    {
+      "word": "theology",
+      "definition": "study of the divine or religious belief",
+      "context": "Varro's threefold division of theology"
+    },
+    {
+      "word": "demons",
+      "definition": "malevolent supernatural beings",
+      "context": "that the demons should be worshipped as mediators"
+    },
+    {
+      "word": "mediators",
+      "definition": "intermediaries between parties",
+      "context": "demons should be worshipped as mediators between gods and men"
+    },
+    {
+      "word": "Apuleius",
+      "definition": "ancient philosopher/author's name",
+      "context": "a refutation of the doctrine of Apuleius"
+    },
+    {
+      "word": "Socratic",
+      "definition": "relating to Socrates' method or doctrines",
+      "context": "Some account of the Socratic and Platonic philosophy"
+    },
+    {
+      "word": "Platonic",
+      "definition": "relating to Plato's doctrines",
+      "context": "Some account of the Socratic and Platonic philosophy"
+    },
+    {
+      "word": "Porphyry",
+      "definition": "ancient philosopher's name",
+      "context": "Porphyry's doctrine of redemption (Book X)"
+    },
+    {
+      "word": "redemption",
+      "definition": "act of being saved from sin",
+      "context": "Porphyry's doctrine of redemption"
+    },
+    {
+      "word": "angels",
+      "definition": "spiritual beings",
+      "context": "Of the creation of angels and men (Book XII)"
+    },
+    {
+      "word": "penal",
+      "definition": "relating to punishment",
+      "context": "That death is penal (Book XIII)"
+    },
+    {
+      "word": "Adam",
+      "definition": "biblical first man",
+      "context": "That death is penal, and had its origin in Adam's sin"
+    },
+    {
+      "word": "editor",
+      "definition": "person who prepares a text for publication",
+      "context": "Edited by the Rev. Marcus Dods"
+    },
+    {
+      "word": "preface",
+      "definition": "introductory note",
+      "context": "Editor's Preface"
+    },
+    {
+      "word": "correspondence",
+      "definition": "letters exchanged between persons",
+      "context": "we learn from the correspondence of Augustine"
+    },
+    {
+      "word": "intercourse",
+      "definition": "communication or dealings",
+      "context": "the subsequent significant intercourse between the learned and courtly bishop and the two imperial statesmen"
+    },
+    {
+      "word": "candour",
+      "definition": "frankness or openness",
+      "context": "a man of rare intelligence and candour"
+    },
+    {
+      "word": "impunity",
+      "definition": "absence of punishment (word appears in related sense?)",
+      "context": "used in broader moral-political discussion in the preface"
+    },
+    {
+      "word": "speculations",
+      "definition": "conjectural thoughts",
+      "context": "Speculations regarding the creation of the world"
+    },
+    {
+      "word": "elaborate",
+      "definition": "carefully developed and detailed",
+      "context": "to undertake the elaborate work now presented"
+    },
+    {
+      "word": "masterpiece",
+      "definition": "a great work by an artist or author",
+      "context": "may more appropriately than any other of his writings be called his masterpiece"
+    },
+    {
+      "word": "maturest",
+      "definition": "most fully developed; ripest",
+      "context": "it thus occupied the maturest years of Augustine's life"
+    },
+    {
+      "word": "triumphant",
+      "definition": "victorious, triumphant",
+      "context": "after more than eleven hundred years of steady and triumphant progress"
+    },
+    {
+      "word": "shock",
+      "definition": "sudden upsetting event",
+      "context": "It is difficult for us to appreciate the shock which was thus communicated"
+    },
+    {
+      "word": "detached",
+      "definition": "separate; issued in parts",
+      "context": "was issued in detached portions from time to time"
+    },
+    {
+      "word": "hitherto",
+      "definition": "until now (used in the preface's sense)",
+      "context": "though the impression conveyed by the extant correspondence is that it was hitherto limited"
+    },
+    {
+      "word": "imprimatur",
+      "definition": "official approval (term associated with publishing; related context)",
+      "context": "publishing and editorial references in the title pages and preface"
+    },
+    {
+      "word": "cosmogony",
+      "definition": "theory of the origin of the universe (related to creation discussions)",
+      "context": "Speculations regarding the creation of the world"
+    },
+    {
+      "word": "eschatology",
+      "definition": "doctrine of last things (implied in 'last judgment')",
+      "context": "down to the consummation of all things in the last judgment and eternal destination"
+    },
+    {
+      "word": "candid",
+      "definition": "open and honest",
+      "context": "Volusian, though as yet a pagan, took an interest in the Christian religion; the conversation is described as candid"
+    },
+    {
+      "word": "prelude",
+      "definition": "an introductory event",
+      "context": "the destruction of Rome would be the prelude to the destruction of the world"
+    },
+    {
+      "word": "rehabilitation",
+      "definition": "restoration to former standing",
+      "context": "no mere rehabilitation of the somewhat threadbare arguments"
+    },
+    {
+      "word": "threadbare",
+      "definition": "worn out; overused",
+      "context": "the somewhat threadbare, if not effete, arguments of Justin and Tertullian"
+    },
+    {
+      "word": "effete",
+      "definition": "worn out or exhausted; decadent",
+      "context": "if not effete, arguments"
+    },
+    {
+      "word": "dialectic",
+      "definition": "logical argumentation",
+      "context": "afford ample scope for his learning, dialectic, philosophical grasp"
+    },
+    {
+      "word": "acumen",
+      "definition": "keen insight",
+      "context": "afford ample scope for his learning, dialectic, philosophical grasp and acumen"
+    },
+    {
+      "word": "eloquence",
+      "definition": "persuasive speech",
+      "context": "afford ample scope for his learning... eloquence"
+    },
+    {
+      "word": "exposition",
+      "definition": "comprehensive description and explanation",
+      "context": "faculty of exposition"
+    },
+    {
+      "word": "opprobrium",
+      "definition": "harsh criticism or condemnation (related critical context)",
+      "context": "the pagans made an attempt to attribute this calamity to the Christian religion and began to blaspheme ... (critical tone)"
+    },
+    {
+      "word": "manifestly",
+      "definition": "clearly apparent",
+      "context": "whether in the presence of so manifestly sufficient a cause for Rome's downfall"
+    },
+    {
+      "word": "cosmopolis",
+      "definition": "world city (used conceptually when discussing Rome's empire)",
+      "context": "though it be as cosmopolitan as the empire of Rome"
+    },
+    {
+      "word": "apostolate",
+      "definition": "mission of an apostle (thematic term)",
+      "context": "Augustine's defence functions as an apostolic apologetic mission"
+    },
+    {
+      "word": "eschew",
+      "definition": "to avoid (implied in polemical strategy)",
+      "context": "Augustine avoids mere rhetorical flourish and seeks substantive defence"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/45304"
+}
