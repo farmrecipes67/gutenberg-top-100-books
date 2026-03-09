@@ -1,0 +1,644 @@
+{
+  "gutenberg_id": 132,
+  "title": "The Art of War",
+  "author": "Sunzi, active 6th century B.C.",
+  "summary": "Sun Tzŭ’s The Art of War is a concise ancient Chinese treatise on military strategy and command, preserved with commentary and scholarly notes. The text presents principles of leadership, discipline, planning, deception, terrain, maneuver, and use of spies, illustrated by anecdotes such as Sun Tzŭ drilling the King of Wu’s concubines and executing disobedient officers to enforce obedience. Lionel Giles provides a meticulous translation, textual concordance, and critical apparatus, discussing earlier corrupt translations, French and Japanese receptions, and native commentators. The work emphasizes clear orders, hierarchical responsibility, economy of force, strategic flexibility, and the moral and practical limits of war.",
+  "characters": [
+    {
+      "name": "Sun Tzŭ (Sun Wu)",
+      "age": "unknown (active 6th century B.C.)",
+      "personality": "disciplined, pragmatic, authoritative teacher and strategist",
+      "lifespan": "historical author of the treatise; in the anecdote he commands drills and enforces discipline"
+    },
+    {
+      "name": "Ho Lu (King of Wu)",
+      "age": "unknown",
+      "personality": "curious, indulgent monarch who tests and then doubts the severity of military discipline",
+      "lifespan": "appears in anecdote as the sovereign who commissions Sun Tzŭ and intervenes to spare concubines"
+    },
+    {
+      "name": "180 palace concubines (group)",
+      "age": "not specified",
+      "personality": "initially amused and undisciplined; then trained under Sun Tzŭ's drill",
+      "lifespan": "drilled as part of Sun Tzŭ's demonstration; serve as illustration of discipline and command"
+    },
+    {
+      "name": "Two company leaders (unnamed)",
+      "age": "not specified",
+      "personality": "appointed officers whose failure to secure obedience marks them as responsible",
+      "lifespan": "executed by Sun Tzŭ in the anecdote for failure to maintain discipline"
+    },
+    {
+      "name": "The next-in-order pair (unnamed)",
+      "age": "not specified",
+      "personality": "obedient successors installed after executions",
+      "lifespan": "installed immediately and lead the companies successfully in drill"
+    },
+    {
+      "name": "Ssu-ma Ch’ien",
+      "age": "unknown",
+      "personality": "historian and biographer; cited as source for Sun Tzŭ's life",
+      "lifespan": "quoted in the Introduction as the provider of Sun Tzŭ's biography"
+    },
+    {
+      "name": "Lionel Giles",
+      "age": "unknown (translator/editor, early 20th century)",
+      "personality": "scholarly, exacting, critical of bad translations, meticulous annotator",
+      "lifespan": "translator and annotator of the edition; provides preface, notes, concordance and criticism"
+    },
+    {
+      "name": "Captain Valentine Giles",
+      "age": "unknown",
+      "personality": "military officer (dedicatee)",
+      "lifespan": "named in the dedication as Lionel Giles's brother; no further fate in text"
+    },
+    {
+      "name": "Joseph Amiot (Père Amiot)",
+      "age": "unknown",
+      "personality": "early European translator (Jesuit) whose French rendering is criticized",
+      "lifespan": "authored an imperfect French translation; quoted and critiqued in Giles's preface"
+    },
+    {
+      "name": "Capt. E. F. Calthrop",
+      "age": "unknown",
+      "personality": "military translator whose English edition is judged unsatisfactory",
+      "lifespan": "published early English translations (Tokyo, revised editions) criticized by Giles"
+    },
+    {
+      "name": "Bob Sutton",
+      "age": "unknown",
+      "personality": "modern editor/convertor of the Project Gutenberg etext",
+      "lifespan": "prefaces the Project Gutenberg Etext and notes conversion decisions"
+    },
+    {
+      "name": "Sun Hsing-yen",
+      "age": "unknown",
+      "personality": "editor/commentator mentioned by Giles for paragraph divisions",
+      "lifespan": "cited as an editor whose paragraphing Giles broadly follows"
+    },
+    {
+      "name": "Legge",
+      "age": "unknown",
+      "personality": "scholar cited as exemplar for concordance method",
+      "lifespan": "referenced by Giles for the concordance approach"
+    },
+    {
+      "name": "Samuel B. Griffith",
+      "age": "unknown",
+      "personality": "later translator noted as more lucid but less annotated",
+      "lifespan": "mentioned as a later translator whose work complements Giles's edition"
+    },
+    {
+      "name": "Shanghai critic (unnamed)",
+      "age": "unknown",
+      "personality": "dismissive reviewer referenced by Giles",
+      "lifespan": "mentioned hypothetically as a severe reviewer who dislikes translations"
+    },
+    {
+      "name": "George (from The Vicar of Wakefield)",
+      "age": "fictional",
+      "personality": "literary figure used by Giles as a comparison in a rhetorical flourish",
+      "lifespan": "referenced by Giles in a rhetorical aside about paradoxes"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Ch'i (ancient State of Qi, capital Linzi area)",
+      "latitude": 36.45,
+      "longitude": 118.483
+    },
+    {
+      "name": "Wu (ancient State, modern Suzhou region)",
+      "latitude": 31.2989,
+      "longitude": 120.5853
+    },
+    {
+      "name": "British Museum (London)",
+      "latitude": 51.5194,
+      "longitude": -0.127
+    },
+    {
+      "name": "Tokyo (publication referenced)",
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    },
+    {
+      "name": "London (publication site)",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Shanghai (critic referenced)",
+      "latitude": 31.2304,
+      "longitude": 121.4737
+    },
+    {
+      "name": "Paris (French Mémoires publication context)",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Sun",
+      "definition": "personal name of the author",
+      "context": "Used in the title and biography as Sun Tzŭ"
+    },
+    {
+      "word": "Tzŭ",
+      "definition": "classical honorific element in Chinese names",
+      "context": "Appears in the name Sun Tzŭ throughout the text"
+    },
+    {
+      "word": "Art",
+      "definition": "skill or craft; here, military science",
+      "context": "Part of the book title 'The Art of War'"
+    },
+    {
+      "word": "War",
+      "definition": "armed conflict; subject of the treatise",
+      "context": "Part of the book title and central theme"
+    },
+    {
+      "word": "OLDEST",
+      "definition": "superlative indicating great antiquity",
+      "context": "Describes the treatise as the oldest military work"
+    },
+    {
+      "word": "MILITARY",
+      "definition": "relating to armed forces",
+      "context": "Used in the header 'MILITARY TREATISE'"
+    },
+    {
+      "word": "TREATISE",
+      "definition": "formal written work on a subject",
+      "context": "Describes the genre of the book"
+    },
+    {
+      "word": "WORLD",
+      "definition": "the earth or global human community",
+      "context": "Used in heading 'THE OLDEST MILITARY TREATISE IN THE WORLD'"
+    },
+    {
+      "word": "Translated",
+      "definition": "rendered into another language",
+      "context": "Denotes that Giles rendered the Chinese text into English"
+    },
+    {
+      "word": "Chinese",
+      "definition": "pertaining to China or its language",
+      "context": "Source language of the treatise"
+    },
+    {
+      "word": "Introduction",
+      "definition": "prefatory material providing context",
+      "context": "Giles provides an introduction to the text"
+    },
+    {
+      "word": "Critical",
+      "definition": "analytical and evaluative (scholarly) notes",
+      "context": "Part of Giles's translation subtitle"
+    },
+    {
+      "word": "Notes",
+      "definition": "scholarly annotations and comments",
+      "context": "Giles includes critical notes throughout"
+    },
+    {
+      "word": "Lionel",
+      "definition": "proper name",
+      "context": "Lionel Giles, translator"
+    },
+    {
+      "word": "Giles",
+      "definition": "surname",
+      "context": "Author/translator of this edition"
+    },
+    {
+      "word": "Assistant",
+      "definition": "position in an institution",
+      "context": "Giles is described as Assistant in a museum department"
+    },
+    {
+      "word": "Department",
+      "definition": "administrative division of an institution",
+      "context": "Giles's affiliation in 'Department of Oriental Printed Books and MSS.'"
+    },
+    {
+      "word": "Oriental",
+      "definition": "relating to East Asia (archaic usage)",
+      "context": "Part of the departmental title at the British Museum"
+    },
+    {
+      "word": "Printed",
+      "definition": "published in physical form",
+      "context": "Appears in the department name"
+    },
+    {
+      "word": "Books",
+      "definition": "bound written works",
+      "context": "Part of department name 'Printed Books'"
+    },
+    {
+      "word": "MSS.",
+      "definition": "abbreviation for manuscripts",
+      "context": "Used in the institutional title 'Books and MSS.'"
+    },
+    {
+      "word": "British",
+      "definition": "pertaining to Britain",
+      "context": "Refers to the British Museum where Giles worked"
+    },
+    {
+      "word": "Museum",
+      "definition": "institution preserving cultural items",
+      "context": "Giles is associated with the British Museum"
+    },
+    {
+      "word": "1910",
+      "definition": "year of publication of Giles's edition",
+      "context": "Printed on title page of the edition"
+    },
+    {
+      "word": "Captain",
+      "definition": "military rank and title",
+      "context": "Used in dedication and references to military translators"
+    },
+    {
+      "word": "Valentine",
+      "definition": "proper name",
+      "context": "Name of Lionel Giles's brother, Captain Valentine Giles"
+    },
+    {
+      "word": "dedicated",
+      "definition": "formally inscribed in honour of someone",
+      "context": "Giles dedicates the translation to his brother"
+    },
+    {
+      "word": "Preface",
+      "definition": "introductory remarks by the editor",
+      "context": "Several prefaces appear, including Giles's and Project Gutenberg's"
+    },
+    {
+      "word": "Project",
+      "definition": "organizational proper noun (Project Gutenberg)",
+      "context": "Source of the etext edition preface"
+    },
+    {
+      "word": "Gutenberg",
+      "definition": "proper noun for the digital library",
+      "context": "Project Gutenberg edition preface"
+    },
+    {
+      "word": "Etext",
+      "definition": "electronic text",
+      "context": "Denotes the digital conversion of Giles's edition"
+    },
+    {
+      "word": "Amiot",
+      "definition": "surname",
+      "context": "Père Joseph Amiot, early French translator"
+    },
+    {
+      "word": "Père",
+      "definition": "French title meaning 'Father' (Jesuit priest)",
+      "context": "Used before Amiot's name in the French translation citation"
+    },
+    {
+      "word": "Mémoires",
+      "definition": "title of a French journal/collection",
+      "context": "The French publication containing Amiot's translation"
+    },
+    {
+      "word": "sinologue",
+      "definition": "scholar of Chinese studies (French/archaic term)",
+      "context": "Used by Giles to describe Amiot's reputation"
+    },
+    {
+      "word": "perused",
+      "definition": "read carefully",
+      "context": "Giles quotes the King saying he 'perused' the chapters"
+    },
+    {
+      "word": "Calthrop",
+      "definition": "surname",
+      "context": "Capt. E. F. Calthrop, early English translator referenced"
+    },
+    {
+      "word": "Tokyo",
+      "definition": "capital of Japan; place of publication",
+      "context": "Calthrop's translation first published in Tokyo"
+    },
+    {
+      "word": "R.F.A.",
+      "definition": "abbreviated military designation (Royal Field Artillery)",
+      "context": "Appended to Capt. Calthrop's name in the bibliographic note"
+    },
+    {
+      "word": "lacunae",
+      "definition": "gaps or omissions in a text (Latin plural)",
+      "context": "Giles accuses earlier translations of lacunae"
+    },
+    {
+      "word": "vouchsafed",
+      "definition": "conferred or granted (archaic)",
+      "context": "Giles uses the word regarding words given or not given by translators"
+    },
+    {
+      "word": "bludgeon",
+      "definition": "heavy club; used metaphorically",
+      "context": "Giles says he 'chose to wield a bludgeon' in his criticisms"
+    },
+    {
+      "word": "concordance",
+      "definition": "alphabetical index of words or characters",
+      "context": "Giles provides a Chinese character concordance"
+    },
+    {
+      "word": "radicals",
+      "definition": "components used in organizing Chinese characters",
+      "context": "Giles notes Legge's radical-based arrangement and his own choice"
+    },
+    {
+      "word": "Legge",
+      "definition": "surname of a noted sinologist",
+      "context": "Referenced as an example for concordance method"
+    },
+    {
+      "word": "paragraphs",
+      "definition": "numbered divisions for text organization",
+      "context": "Giles divides the text into numbered paragraphs for study"
+    },
+    {
+      "word": "translation",
+      "definition": "rendering from one language into another",
+      "context": "Repeatedly discussed and critiqued in the prefaces"
+    },
+    {
+      "word": "commentary",
+      "definition": "scholarly explanations on a text",
+      "context": "Giles includes Chinese commentators and notes"
+    },
+    {
+      "word": "commentators",
+      "definition": "those who annotate or comment on texts",
+      "context": "Giles emphasizes the importance of Chinese commentators"
+    },
+    {
+      "word": "Ssu-ma",
+      "definition": "part of the historian Ssu-ma Ch'ien's name",
+      "context": "Introduced as the source of Sun Tzŭ's biography"
+    },
+    {
+      "word": "Ch’ien",
+      "definition": "part of Ssu-ma Ch'ien's name",
+      "context": "Appears in the introduction citation of the biography"
+    },
+    {
+      "word": "Ch’i",
+      "definition": "name of an ancient Chinese state (Qi)",
+      "context": "Sun Tzŭ is said to be a native of the Ch’i State"
+    },
+    {
+      "word": "Ho",
+      "definition": "part of the name of the King of Wu",
+      "context": "Ho Lu is named as the King who tests Sun Tzŭ"
+    },
+    {
+      "word": "Lu",
+      "definition": "part of the King of Wu's name",
+      "context": "Ho Lu appears in the anecdote"
+    },
+    {
+      "word": "Wu",
+      "definition": "name of the state ruled by Ho Lu",
+      "context": "King of Wu features in the drill anecdote"
+    },
+    {
+      "word": "concubines",
+      "definition": "palace women used in the anecdotal drill",
+      "context": "180 ladies taken from the palace to demonstrate discipline"
+    },
+    {
+      "word": "halberds",
+      "definition": "pole weapon combining spear and axe (archaic)",
+      "context": "Sun Tzŭ sets up halberds in the drill demonstration"
+    },
+    {
+      "word": "battle-axes",
+      "definition": "pole weapon or axe used in combat",
+      "context": "Placed along with halberds during the drill"
+    },
+    {
+      "word": "evolutions",
+      "definition": "military drill movements (archaic usage)",
+      "context": "The concubines are made to go through evolutions"
+    },
+    {
+      "word": "drum",
+      "definition": "instrument used to signal maneuvers",
+      "context": "The drum is sounded to mark the start of drill"
+    },
+    {
+      "word": "Right",
+      "definition": "directional command used in drill",
+      "context": "Sun Tzŭ commands 'Right turn' during the exercise"
+    },
+    {
+      "word": "Left",
+      "definition": "directional command used in drill",
+      "context": "Sun Tzŭ commands 'Left turn' during the exercise"
+    },
+    {
+      "word": "About",
+      "definition": "command to turn around completely; 'About turn'",
+      "context": "Used in Sun Tzŭ's explanation of commands"
+    },
+    {
+      "word": "front",
+      "definition": "direction or part of formation",
+      "context": "Sun Tzŭ instructs 'Eyes front' as a command"
+    },
+    {
+      "word": "back",
+      "definition": "rear direction in drill",
+      "context": "Used in definitions of front and back during drill"
+    },
+    {
+      "word": "command",
+      "definition": "an order given by an officer",
+      "context": "Central to the anecdote about clarity and obedience"
+    },
+    {
+      "word": "leaders",
+      "definition": "officers placed in command of companies",
+      "context": "Company leaders are appointed and later executed"
+    },
+    {
+      "word": "beheaded",
+      "definition": "executed by decapitation",
+      "context": "Sun Tzŭ has two disobedient leaders beheaded in the story"
+    },
+    {
+      "word": "meat",
+      "definition": "food; used in idiom",
+      "context": "The King says meat and drink will lose their savor if concubines die"
+    },
+    {
+      "word": "drink",
+      "definition": "beverage; used with meat in expression",
+      "context": "Paired with meat in the King's plea to spare concubines"
+    },
+    {
+      "word": "savour",
+      "definition": "taste or pleasure (archaic spelling variant)",
+      "context": "The King laments that meat and drink would lose their savour"
+    },
+    {
+      "word": "commission",
+      "definition": "official authority granted to command forces",
+      "context": "Sun Tzŭ states certain royal commands he cannot accept when acting as general"
+    },
+    {
+      "word": "obedience",
+      "definition": "compliance with orders",
+      "context": "Central lesson: failure of obedience denotes fault in officers or general"
+    },
+    {
+      "word": "installed",
+      "definition": "placed into office or position",
+      "context": "New leaders are installed after executions"
+    },
+    {
+      "word": "pair",
+      "definition": "two persons taken together",
+      "context": "The next pair in order are made leaders"
+    },
+    {
+      "word": "drill",
+      "definition": "training exercise for troops",
+      "context": "Sun Tzŭ conducts a drill with the palace ladies"
+    },
+    {
+      "word": "anecdotes",
+      "definition": "short illustrative stories",
+      "context": "Giles and the text use anecdotes to illustrate principles"
+    },
+    {
+      "word": "biography",
+      "definition": "account of a person's life",
+      "context": "Ssu-ma Ch'ien's biography of Sun Tzŭ is cited"
+    },
+    {
+      "word": "research",
+      "definition": "systematic scholarly inquiry",
+      "context": "Giles remarks on the difficulties of research without full references"
+    },
+    {
+      "word": "honesty",
+      "definition": "truthfulness in scholarly work",
+      "context": "Giles argues for honest translation practices"
+    },
+    {
+      "word": "classic",
+      "definition": "a work of acknowledged authority or lasting value",
+      "context": "Giles compares standards expected of classical translations"
+    },
+    {
+      "word": "edition",
+      "definition": "particular printing or version of a text",
+      "context": "Different editions and revisions of translations are discussed"
+    },
+    {
+      "word": "Shanghai",
+      "definition": "Chinese port city cited regarding critics",
+      "context": "Giles imagines a harsh Shanghai critic"
+    },
+    {
+      "word": "London",
+      "definition": "capital of the United Kingdom; place of publication",
+      "context": "Some translations and editions are published in London"
+    },
+    {
+      "word": "United",
+      "definition": "part of 'United States' proper name",
+      "context": "Giles's translation was later published in the United States"
+    },
+    {
+      "word": "States",
+      "definition": "part of 'United States' proper name",
+      "context": "See 'United' above"
+    },
+    {
+      "word": "Griffith",
+      "definition": "surname",
+      "context": "Samuel B. Griffith, a later translator referenced in the preface"
+    },
+    {
+      "word": "Samuel",
+      "definition": "given name",
+      "context": "Part of Samuel B. Griffith's name"
+    },
+    {
+      "word": "B.",
+      "definition": "middle initial",
+      "context": "Appears in Samuel B. Griffith's name"
+    },
+    {
+      "word": "Hsing-yen",
+      "definition": "editorial name (Sun Hsing-yen)",
+      "context": "Giles follows Sun Hsing-yen's paragraphing broadly"
+    },
+    {
+      "word": "Sonshi",
+      "definition": "Japanese form of Sun Tzŭ",
+      "context": "Calthrop's edition titled 'Sonshi' is mentioned"
+    },
+    {
+      "word": "Japanese",
+      "definition": "relating to Japan or its language",
+      "context": "Japanese collaborators and editions are referenced"
+    },
+    {
+      "word": "French",
+      "definition": "relating to France or its language",
+      "context": "Amiot's French translation and quotations appear"
+    },
+    {
+      "word": "Father",
+      "definition": "religious title; English equivalent of Père",
+      "context": "Used in reference to Père Amiot"
+    },
+    {
+      "word": "imposture",
+      "definition": "fraudulent or false representation",
+      "context": "Giles calls Amiot's so-called translation little better than an imposture"
+    },
+    {
+      "word": "asperity",
+      "definition": "harshness of tone",
+      "context": "Giles concedes his criticisms may display asperity"
+    },
+    {
+      "word": "scathing",
+      "definition": "severely critical",
+      "context": "Giles invites even a scathing review"
+    },
+    {
+      "word": "critic",
+      "definition": "one who judges or evaluates works",
+      "context": "Giles imagines critics of his translation"
+    },
+    {
+      "word": "Vicar",
+      "definition": "title of the novel 'The Vicar of Wakefield'",
+      "context": "Giles uses a literary allusion to Thackeray's character"
+    },
+    {
+      "word": "Wakefield",
+      "definition": "place/title from the novel referenced",
+      "context": "Appears in Giles's rhetorical aside comparing fates"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/132"
+}
