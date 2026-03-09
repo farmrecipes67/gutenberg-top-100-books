@@ -1,0 +1,569 @@
+{
+  "gutenberg_id": 1497,
+  "title": "The Republic",
+  "author": "Plato",
+  "summary": "The Republic is Plato’s extended dialogue where Socrates and interlocutors examine justice, constructing an ideal city to define the just soul. Through debate with Cephalus, Polemarchus, Thrasymachus, Glaucon, and Adeimantus, Socrates outlines guardian classes, education in music and gymnastic, censorship of poets, communal property and families for rulers, and the philosopher‑king who grasps the Form of the Good. The work traces degeneration from aristocracy to other regimes, analyses individual psychology, defends philosophical rule, and culminates in criticisms of poetry and an argument for the soul’s immortality and moral reward, and offers an education for lifelong philosophy study.",
+  "characters": [
+    {
+      "name": "Socrates",
+      "age": "middle-aged (as presented)",
+      "personality": "inquisitive, ironic, dialectical; leads enquiry into justice",
+      "lifespan": "Conducts the dialogues throughout the work; survives as principal interlocutor and organizer of the philosophical construction"
+    },
+    {
+      "name": "Cephalus",
+      "age": "elderly",
+      "personality": "just, blameless, conservative elder who opens the discussion",
+      "lifespan": "Appears early to introduce the question of justice and then withdraws from the main argument"
+    },
+    {
+      "name": "Polemarchus",
+      "age": "adult (younger than Cephalus)",
+      "personality": "defends conventional morality and familial obligations",
+      "lifespan": "Takes over from Cephalus and participates in early exchanges; remains an interlocutor"
+    },
+    {
+      "name": "Thrasymachus",
+      "age": "adult",
+      "personality": "aggressive, sophistical, cynical about justice as advantage of the stronger",
+      "lifespan": "Challenges Socrates, is argued against and partially refuted; exits the scene still contentious"
+    },
+    {
+      "name": "Glaucon",
+      "age": "young adult",
+      "personality": "ambitious, provocative, tests and amplifies sceptical positions",
+      "lifespan": "Demands fuller account of justice; helps drive construction of the ideal State; remains active in dialogue"
+    },
+    {
+      "name": "Adeimantus",
+      "age": "young adult",
+      "personality": "reflective, critical, supports Glaucon's challenge and highlights public perception",
+      "lifespan": "Participates in the extended argument and helps frame deeper objections; remains present at conclusion"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Athens, Greece",
+      "latitude": 37.9838,
+      "longitude": 23.7275
+    },
+    {
+      "name": "Marathon, Greece",
+      "latitude": 38.15,
+      "longitude": 24.0667
+    },
+    {
+      "name": "Salamis (island), Greece",
+      "latitude": 37.9667,
+      "longitude": 23.5167
+    },
+    {
+      "name": "Troy (Hisarlik), Turkey",
+      "latitude": 39.9572,
+      "longitude": 26.2389
+    },
+    {
+      "name": "Greece (general, Hellenic world)",
+      "latitude": 39.0742,
+      "longitude": 21.8243
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "metaphysics",
+      "definition": "branch of philosophy dealing with first principles and being",
+      "context": "Used to describe Plato’s highest philosophical aims in the introduction"
+    },
+    {
+      "word": "Philebus",
+      "definition": "title of another Platonic dialogue",
+      "context": "Mentioned among other dialogues to situate the Republic"
+    },
+    {
+      "word": "Sophist",
+      "definition": "title of a Platonic dialogue and term for a rhetorical teacher",
+      "context": "Referenced to compare philosophical approaches"
+    },
+    {
+      "word": "Politicus",
+      "definition": "Latinized title for Plato’s Statesman dialogue",
+      "context": "Cited among other Platonic works in the introduction"
+    },
+    {
+      "word": "Statesman",
+      "definition": "another Platonic dialogue's English title",
+      "context": "Used to compare the Republic with Plato’s other political works"
+    },
+    {
+      "word": "Symposium",
+      "definition": "another Platonic dialogue (banquet-themed)",
+      "context": "Referenced as a work of art comparable to parts of the Republic"
+    },
+    {
+      "word": "Protagoras",
+      "definition": "title of a Platonic dialogue and name of a sophist",
+      "context": "Listed among dialogues to indicate variety of Plato’s writings"
+    },
+    {
+      "word": "irony",
+      "definition": "literary or rhetorical device implying the opposite of literal meaning",
+      "context": "Noted as a feature of Plato’s style in the Republic"
+    },
+    {
+      "word": "imagery",
+      "definition": "vivid descriptive language or figurative pictures",
+      "context": "Used to praise Plato’s wealth of images and humor"
+    },
+    {
+      "word": "interweave",
+      "definition": "to blend elements closely together",
+      "context": "Describes how Plato mixes life and speculation in the dialogue"
+    },
+    {
+      "word": "Hellenic",
+      "definition": "relating to ancient Greek culture",
+      "context": "Used repeatedly to describe Greek religion, customs, and the State"
+    },
+    {
+      "word": "arhchegoz",
+      "definition": "Greek transliteration meaning 'leader' or 'founder'",
+      "context": "Quoted in the discussion of Plato as leader of a school"
+    },
+    {
+      "word": "logographers",
+      "definition": "early Greek prose chroniclers and historians",
+      "context": "Used in comparing Plato’s mythic history to older accounts"
+    },
+    {
+      "word": "Critias",
+      "definition": "title of another Platonic dialogue and a character therein",
+      "context": "Referred to when discussing Plato’s larger, unfinished designs"
+    },
+    {
+      "word": "Atlantis",
+      "definition": "mythical island kingdom in Plato’s dialogues",
+      "context": "Mentioned as the subject of the Critias fragment that inspired seafarers"
+    },
+    {
+      "word": "Solon",
+      "definition": "ancient Athenian lawmaker",
+      "context": "Named as possible source for Plato’s Atlantis tale"
+    },
+    {
+      "word": "navigators",
+      "definition": "mariners or explorers",
+      "context": "Said to have been inspired by Plato’s story of Atlantis"
+    },
+    {
+      "word": "mythical",
+      "definition": "relating to myth rather than factual history",
+      "context": "Characterizes the Atlantis narrative discussed in the introduction"
+    },
+    {
+      "word": "Timaeus",
+      "definition": "title of another Platonic dialogue",
+      "context": "Cited as part of the unfinished historical-mythic design"
+    },
+    {
+      "word": "hymn",
+      "definition": "song of praise",
+      "context": "Used imaginatively: Plato might have sung a hymn of triumph"
+    },
+    {
+      "word": "Marathon",
+      "definition": "site of famous Athenian victory",
+      "context": "Mentioned among historic Athenian triumphs in a speculative passage"
+    },
+    {
+      "word": "Salamis",
+      "definition": "island and site of a naval battle",
+      "context": "Referenced alongside Marathon as markers of Athenian success"
+    },
+    {
+      "word": "Herodotus",
+      "definition": "ancient Greek historian",
+      "context": "Quoted indirectly to illustrate attitudes toward Athenian speech and empire"
+    },
+    {
+      "word": "Athene",
+      "definition": "alternate spelling of Athena, Greek goddess",
+      "context": "Mentioned as a divine favor linked to Athenian success"
+    },
+    {
+      "word": "Apollo",
+      "definition": "Greek god",
+      "context": "Appears as a possible patron in speculative praise of Athens"
+    },
+    {
+      "word": "Cicero",
+      "definition": "Roman statesman and author",
+      "context": "Listed among later writers influenced by Plato’s Republic"
+    },
+    {
+      "word": "Republica",
+      "definition": "Latin form of 'Republic'",
+      "context": "Part of a reference to Cicero’s De Republica derived from Plato"
+    },
+    {
+      "word": "Augustine",
+      "definition": "St. Augustine, early Christian theologian",
+      "context": "Named as an author influenced by Plato’s political ideas"
+    },
+    {
+      "word": "Utopia",
+      "definition": "title of Thomas More’s work envisioning an ideal state",
+      "context": "Cited as a later creation in the tradition originated by Plato"
+    },
+    {
+      "word": "Aristotle",
+      "definition": "ancient Greek philosopher, student of Plato",
+      "context": "Discussed regarding indebtedness to Platonic ideas"
+    },
+    {
+      "word": "Politics",
+      "definition": "Aristotle’s work on political theory",
+      "context": "Mentioned to note influence from Plato"
+    },
+    {
+      "word": "Cambridge",
+      "definition": "refers to the Cambridge Platonists (philosophical group)",
+      "context": "Used in tracing Plato’s influence on later English thought"
+    },
+    {
+      "word": "Platonists",
+      "definition": "followers of Plato’s philosophical tradition",
+      "context": "Named as part of Plato’s intellectual legacy"
+    },
+    {
+      "word": "affinities",
+      "definition": "natural connections or likenesses",
+      "context": "Used to describe resemblances between Plato and later thinkers"
+    },
+    {
+      "word": "Berkeley",
+      "definition": "philosopher George Berkeley",
+      "context": "Mentioned among modern writers showing Platonic echoes"
+    },
+    {
+      "word": "Coleridge",
+      "definition": "poet and philosopher Samuel Taylor Coleridge",
+      "context": "Named as another writer influenced by Plato"
+    },
+    {
+      "word": "idealism",
+      "definition": "philosophical view that reality is fundamentally mental or conceptual",
+      "context": "Applied to Plato as father of political and metaphysical idealism"
+    },
+    {
+      "word": "unity",
+      "definition": "state of being one or joined",
+      "context": "Used in praise of Plato’s sense of the unity of knowledge"
+    },
+    {
+      "word": "syllogism",
+      "definition": "a form of deductive logical argument",
+      "context": "Mentioned in relation to Aristotle’s claim about logic"
+    },
+    {
+      "word": "Elenchi",
+      "definition": "title abbreviation referring to Aristotle’s Sophistic Refutations (Elenchi)",
+      "context": "Cited in a footnote-style reference in the introduction"
+    },
+    {
+      "word": "Cratyl",
+      "definition": "title of another Platonic dialogue (Cratylus)",
+      "context": "Referenced in discussing Plato’s attention to words and things"
+    },
+    {
+      "word": "contradiction",
+      "definition": "logical inconsistency between propositions",
+      "context": "Mentioned as a logical principle discussed in the Republic"
+    },
+    {
+      "word": "concupiscent",
+      "definition": "having strong sexual or sensual desires (archaic tone)",
+      "context": "Used in describing one of the soul’s parts in Plato’s psychology"
+    },
+    {
+      "word": "irascible",
+      "definition": "easily provoked to anger",
+      "context": "Named as another division of the soul alongside the rational and concupiscent"
+    },
+    {
+      "word": "essence",
+      "definition": "the intrinsic nature or indispensable quality of something",
+      "context": "Appears in philosophical distinctions between essence and accidents"
+    },
+    {
+      "word": "accidents",
+      "definition": "nonessential attributes of a thing",
+      "context": "Used in contrast with essence in philosophical analysis"
+    },
+    {
+      "word": "means",
+      "definition": "methods or instruments for achieving ends",
+      "context": "Appears in the introduction’s inventory of Platonic distinctions"
+    },
+    {
+      "word": "conditions",
+      "definition": "circumstances that affect outcomes",
+      "context": "Used in discussing causes and conditions of things"
+    },
+    {
+      "word": "division",
+      "definition": "separating into parts",
+      "context": "Discussed in relation to divisions of the Republic and of the soul"
+    },
+    {
+      "word": "germs",
+      "definition": "incipient elements or beginnings",
+      "context": "Metaphorically used to describe Plato’s early ideas that lead to later knowledge"
+    },
+    {
+      "word": "after-ages",
+      "definition": "subsequent generations (hyphenated archaic form)",
+      "context": "Used to indicate influence on later ages"
+    },
+    {
+      "word": "instruments",
+      "definition": "tools or means of investigation",
+      "context": "Refers to logical instruments derived from Platonic analyses"
+    },
+    {
+      "word": "analyses",
+      "definition": "detailed examinations of elements",
+      "context": "Used to describe Plato’s method in logic and psychology"
+    },
+    {
+      "word": "principles",
+      "definition": "fundamental truths or propositions",
+      "context": "Appears in the catalogue of Platonic contributions to thought"
+    },
+    {
+      "word": "definition",
+      "definition": "statement of the exact meaning of a term",
+      "context": "Mentioned as central to Plato’s method"
+    },
+    {
+      "word": "fallacy",
+      "definition": "a mistaken belief or error in reasoning",
+      "context": "Used in describing reasoning errors Plato identified"
+    },
+    {
+      "word": "circular",
+      "definition": "involving circular reasoning",
+      "context": "Appears in the critique of 'arguing in a circle'"
+    },
+    {
+      "word": "contemplate",
+      "definition": "to look thoughtfully at or consider deeply",
+      "context": "Used regarding the philosopher contemplating the Form of the Good"
+    },
+    {
+      "word": "veiled",
+      "definition": "partly obscured or hidden",
+      "context": "Says logic is still 'veiled in metaphysics' in Plato"
+    },
+    {
+      "word": "Iliad",
+      "definition": "Homer’s epic poem",
+      "context": "Referenced when comparing Plato’s work to Homeric epics"
+    },
+    {
+      "word": "Odyssey",
+      "definition": "Homer’s epic poem",
+      "context": "Paired with Iliad in a reflection on literary composition"
+    },
+    {
+      "word": "revelation",
+      "definition": "an unveiling or disclosure of something previously hidden",
+      "context": "Used to describe Plato’s disclosure of another life and truths"
+    },
+    {
+      "word": "reconcilement",
+      "definition": "the act of bringing into harmony (archaic usage)",
+      "context": "Used discussing Plato’s attempt to reconcile conflicting elements"
+    },
+    {
+      "word": "discordant",
+      "definition": "being at variance; incompatible",
+      "context": "Describes elements in Plato’s writing that may not fit perfectly"
+    },
+    {
+      "word": "enlargement",
+      "definition": "an expansion or extension",
+      "context": "Speculates on whether the plan grew and caused unevenness"
+    },
+    {
+      "word": "interruptions",
+      "definition": "breaks or pauses in continuity",
+      "context": "Used in considering Plato’s possible composition process"
+    },
+    {
+      "word": "continuous",
+      "definition": "unbroken in time or sequence",
+      "context": "Used when suggesting the Republic might have been composed continuously"
+    },
+    {
+      "word": "paragraph",
+      "definition": "a distinct section of writing",
+      "context": "Used in describing structural landmarks within the books"
+    },
+    {
+      "word": "appended",
+      "definition": "added as an attachment",
+      "context": "Describes material added to Book I in the modern division"
+    },
+    {
+      "word": "caricatured",
+      "definition": "exaggerated for comic or grotesque effect",
+      "context": "Applied to Thrasymachus’s treatment of justice early in the dialogue"
+    },
+    {
+      "word": "abstraction",
+      "definition": "a general idea formed by extracting common features",
+      "context": "Used to describe Glaucon and Adeimantus reducing justice to an abstraction"
+    },
+    {
+      "word": "State",
+      "definition": "political community or organized society",
+      "context": "Central term for the ideal city constructed by Socrates"
+    },
+    {
+      "word": "rulers",
+      "definition": "those who govern",
+      "context": "Used to describe the governing class and their primary concerns"
+    },
+    {
+      "word": "gymnastic",
+      "definition": "physical training (archaic singular usage)",
+      "context": "Paired with music as part of the recommended education"
+    },
+    {
+      "word": "manlier",
+      "definition": "more manly (archaic comparative)",
+      "context": "Applied to the desired strain of poetry for citizens"
+    },
+    {
+      "word": "communism",
+      "definition": "system of communal ownership",
+      "context": "Used to describe aspects of the proposed communal arrangements for rulers"
+    },
+    {
+      "word": "philosophers",
+      "definition": "lovers of wisdom, proponents of philosophical rule",
+      "context": "Central to the claim that philosophers should govern"
+    },
+    {
+      "word": "kings",
+      "definition": "monarchs or rulers",
+      "context": "Used in the famous claim 'kings are philosophers' as a paradox"
+    },
+    {
+      "word": "degenerates",
+      "definition": "falls into a worse state",
+      "context": "Describes the decline of the ideal State into worse forms"
+    },
+    {
+      "word": "oligarchy",
+      "definition": "rule by a few wealthy individuals",
+      "context": "Listed among the deviant forms of government"
+    },
+    {
+      "word": "democracy",
+      "definition": "government by the people",
+      "context": "Appears in the sequence of regime degeneration"
+    },
+    {
+      "word": "tyranny",
+      "definition": "rule by a single oppressive ruler",
+      "context": "Described as the terminal degeneration of the State"
+    },
+    {
+      "word": "thrice",
+      "definition": "three times (archaic common in classical translations)",
+      "context": "Used in describing poetry as thrice removed from truth"
+    },
+    {
+      "word": "imitation",
+      "definition": "a representation or copy",
+      "context": "Applied to poetry as an imitation removed from truth"
+    },
+    {
+      "word": "banishment",
+      "definition": "expulsion from the community",
+      "context": "Describes the proposed fate of Homer and certain poets"
+    },
+    {
+      "word": "future",
+      "definition": "time yet to come",
+      "context": "Used when introducing the revelation of a future life"
+    },
+    {
+      "word": "poetry",
+      "definition": "literary art using expressive language",
+      "context": "Subject of sustained critique and proposed censorship"
+    },
+    {
+      "word": "pleasure",
+      "definition": "feeling of satisfaction or enjoyment",
+      "context": "Analyzed in later books regarding human motivation and tyranny"
+    },
+    {
+      "word": "perversions",
+      "definition": "corruptions or distortions of an original form",
+      "context": "Used to describe degenerate states derived from the ideal"
+    },
+    {
+      "word": "condemned",
+      "definition": "expressed an unfavorable judgment; sentenced",
+      "context": "Applied to poets like Homer who are criticized and exiled"
+    },
+    {
+      "word": "quarrel",
+      "definition": "an angry dispute",
+      "context": "Names the long-standing dispute between poetry and philosophy"
+    },
+    {
+      "word": "dialogue",
+      "definition": "a conversational form of writing",
+      "context": "The Republic itself is structured as a dialogue"
+    },
+    {
+      "word": "Persons",
+      "definition": "the dramatis personae; characters listed",
+      "context": "Heading in the edition: 'PERSONS OF THE DIALOGUE'"
+    },
+    {
+      "word": "analysis",
+      "definition": "detailed examination of elements or structure",
+      "context": "Used in the introduction to frame the Republic’s method"
+    },
+    {
+      "word": "reign",
+      "definition": "period of rule or dominance",
+      "context": "Appears in phrases like 'reign of law' describing ideals Plato anticipates"
+    },
+    {
+      "word": "sexes",
+      "definition": "genders; male and female",
+      "context": "Mentioned in discussing Plato's anticipation of equality of the sexes"
+    },
+    {
+      "word": "education",
+      "definition": "formal instruction or training",
+      "context": "Central theme: the guardians’ and philosophers’ education is exhaustively discussed"
+    },
+    {
+      "word": "soul",
+      "definition": "immaterial essence or self",
+      "context": "The just soul is a principal target of definition and analysis"
+    },
+    {
+      "word": "happiness",
+      "definition": "state of well-being and fulfillment",
+      "context": "Used in describing the citizens’ assured happiness and its crowning vision"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1497"
+}
