@@ -1,0 +1,671 @@
+{
+  "gutenberg_id": 76,
+  "title": "Adventures of Huckleberry Finn",
+  "author": "Twain, Mark",
+  "summary": "Huck Finn narrates his flight from civilization and his adventures on the Mississippi River. After being taken in by the Widow Douglas and Miss Watson, Huck returns to rags, reunites with Tom Sawyer, and fakes his death to escape his abusive father. Huck meets Jim, a runaway enslaved man, and they travel on a raft, facing conmen, feuding families, wrecks, and moral dilemmas. Huck matures, questions social mores and slavery, and protects Jim. In the end Jim gains freedom, Tom is wounded but recovers, and Huck faces choices about society and independence and prepares to seek new adventures downriver westward.",
+  "characters": [
+    {
+      "name": "Huckleberry Finn",
+      "age": "about 13-15",
+      "personality": "practical, independent, skeptical of adult hypocrisy; morally developing",
+      "lifespan": "survives; ends planning further adventures"
+    },
+    {
+      "name": "Tom Sawyer",
+      "age": "about 13-15",
+      "personality": "romantic, adventurous, theatrical, obsessed with elaborate schemes",
+      "lifespan": "wounded late in the story but survives; identity clarified at end"
+    },
+    {
+      "name": "Jim",
+      "age": "adult, approximate 30s-40s",
+      "personality": "loyal, caring, superstitious, sensible",
+      "lifespan": "survives and is freed by the story's end"
+    },
+    {
+      "name": "The Widow Douglas",
+      "age": "middle-aged to elderly",
+      "personality": "pious, kindly, intent on civilizing Huck",
+      "lifespan": "remains Huck's guardian figure through much of the story"
+    },
+    {
+      "name": "Miss Watson",
+      "age": "older woman",
+      "personality": "religious, stern, hypocritical in parts",
+      "lifespan": "dies during the course of events (her death affects Jim's status)"
+    },
+    {
+      "name": "Pap Finn (Huck's father)",
+      "age": "middle-aged",
+      "personality": "violent, alcoholic, abusive, selfish",
+      "lifespan": "disappears/found dead during the narrative"
+    },
+    {
+      "name": "Judge Thatcher",
+      "age": "middle-aged",
+      "personality": "responsible, prudent, guardian of Huck's fortune",
+      "lifespan": "survives; acts as trustee for Huck's money"
+    },
+    {
+      "name": "Aunt Polly",
+      "age": "older woman",
+      "personality": "strict but affectionate; Tom's aunt who enforces discipline",
+      "lifespan": "appears at the end and survives"
+    },
+    {
+      "name": "Mary (Tom's cousin)",
+      "age": "young girl/teen",
+      "personality": "straightforward, part of Tom's domestic circle",
+      "lifespan": "appears in Tom-related scenes; survives"
+    },
+    {
+      "name": "Joe Harper",
+      "age": "boy/teen",
+      "personality": "Tom's friend and fellow adventurer",
+      "lifespan": "minor character; survives"
+    },
+    {
+      "name": "Ben Rogers",
+      "age": "boy/teen",
+      "personality": "member of Tom's circle",
+      "lifespan": "minor character; survives"
+    },
+    {
+      "name": "The Duke (of Bridgewater)",
+      "age": "adult",
+      "personality": "confidence man, theatrical, unscrupulous",
+      "lifespan": "exposed as a fraud and run out of towns by the end of episodes"
+    },
+    {
+      "name": "The King (the 'Dauphin')",
+      "age": "older adult",
+      "personality": "fraudulent, cruel in schemes, greedy",
+      "lifespan": "exposed and driven off; ends humiliated"
+    },
+    {
+      "name": "Colonel Grangerford",
+      "age": "middle-aged",
+      "personality": "genteel, proud, involved in a violent family feud",
+      "lifespan": "killed in the Grangerford–Shepherdson feud"
+    },
+    {
+      "name": "Buck Grangerford",
+      "age": "boy/teen",
+      "personality": "friendly, naive, befriends Huck",
+      "lifespan": "killed in the family feud"
+    },
+    {
+      "name": "Sophia Grangerford",
+      "age": "adolescent",
+      "personality": "romantic, elopes",
+      "lifespan": "elopes with Harney Shepherdson; survives"
+    },
+    {
+      "name": "Harney Shepherdson",
+      "age": "young man",
+      "personality": "romantic rival of the feud, elopes with Sophia",
+      "lifespan": "survives; elopes successfully"
+    },
+    {
+      "name": "Emmeline Grangerford",
+      "age": "deceased young poet",
+      "personality": "sentimental young poet (her verses read in the house)",
+      "lifespan": "already dead when Huck sees her poems"
+    },
+    {
+      "name": "Stephen Dowling Bots",
+      "age": "adult",
+      "personality": "poetical, sentimental, ridiculous in his verse",
+      "lifespan": "minor; his verses are mocked but he survives within episodes"
+    },
+    {
+      "name": "Old Hank Bunker",
+      "age": "adult/elder",
+      "personality": "local character encountered in adventures",
+      "lifespan": "minor; survives the episode"
+    },
+    {
+      "name": "Col. (or Colonel) Sherburn",
+      "age": "adult",
+      "personality": "proud, delivers a famous speech against lynch mobs after killing Boggs",
+      "lifespan": "survives; remains unlynched after confronting mob"
+    },
+    {
+      "name": "Colonel (or Old) Boggs",
+      "age": "adult",
+      "personality": "drunken, talkative town character",
+      "lifespan": "shot and killed (by Sherburn)"
+    },
+    {
+      "name": "Peter Wilks",
+      "age": "deceased adult gentleman",
+      "personality": "respected dead man whose estate becomes central to a swindle",
+      "lifespan": "dead at his funeral (central to the Wilks episode)"
+    },
+    {
+      "name": "William and Harvey (the Wilks brothers)",
+      "age": "adults",
+      "personality": "relations of Peter Wilks; targets of imposture by the Duke and King",
+      "lifespan": "their identities and estate are subjects of the con; survive within the narrative"
+    },
+    {
+      "name": "Mary Jane Wilks",
+      "age": "young woman/teen",
+      "personality": "kind, trusting, morally upright",
+      "lifespan": "survives; shown pity and trust by Huck"
+    },
+    {
+      "name": "Uncle Silas Phelps",
+      "age": "adult farmer",
+      "personality": "stolid, hospitable; owner of the farm where Tom is treated as nephew",
+      "lifespan": "survives; involved in final rescue scenes"
+    },
+    {
+      "name": "Aunt Sally Phelps",
+      "age": "adult woman",
+      "personality": "hospitable, conventional, easily flustered",
+      "lifespan": "survives; central to the final chapters"
+    },
+    {
+      "name": "Adolphus (a town character)",
+      "age": "adult",
+      "personality": "eccentric town figure (appears in comic episodes)",
+      "lifespan": "minor; survives"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mississippi River (general, scenes on the river and raft)",
+      "latitude": 39.7084,
+      "longitude": -91.3585
+    },
+    {
+      "name": "Missouri (state; setting region of many scenes)",
+      "latitude": 38.5767,
+      "longitude": -92.1735
+    },
+    {
+      "name": "Hannibal / 'St. Petersburg' (fictional town based on Hannibal, Missouri)",
+      "latitude": 39.7084,
+      "longitude": -91.3585
+    },
+    {
+      "name": "Cairo (referred to in \"Running by Cairo\"), Illinois (river town)",
+      "latitude": 37.0053,
+      "longitude": -89.1761
+    },
+    {
+      "name": "Arkansaw (Arkansas; the farm in Arkansaw referred to in the book)",
+      "latitude": 34.7465,
+      "longitude": -92.2896
+    },
+    {
+      "name": "Pike County (dialect reference; Pike County, Missouri)",
+      "latitude": 39.3562,
+      "longitude": -91.1942
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "sivilize",
+      "definition": "dialectal spelling of 'civilize'",
+      "context": "Widow Douglas 'she would sivilize me'"
+    },
+    {
+      "word": "sugar-hogshead",
+      "definition": "large cask formerly used for shipping sugar",
+      "context": "Huck returns to his 'sugar-hogshead' shelter"
+    },
+    {
+      "word": "victuals",
+      "definition": "food or provisions (archaic term)",
+      "context": "the widow grumbles over the 'victuals' at supper"
+    },
+    {
+      "word": "Bulrushers",
+      "definition": "dialectal reference to 'bulrushes' (plant)",
+      "context": "the widow teaches Huck about 'Moses and the Bulrushers'"
+    },
+    {
+      "word": "snuff",
+      "definition": "powdered tobacco inhaled through the nose",
+      "context": "the widow takes 'snuff' while condemning Huck's smoking"
+    },
+    {
+      "word": "middling",
+      "definition": "somewhat; fairly (dialectal)",
+      "context": "Miss Watson 'worked me middling hard'"
+    },
+    {
+      "word": "tolerable",
+      "definition": "fairly; moderately (dialectal usage)",
+      "context": "Miss Watson described as 'a tolerable slim old maid'"
+    },
+    {
+      "word": "goggles",
+      "definition": "spectacles; eye-glasses (colloquial)",
+      "context": "Miss Watson is described 'with goggles on'"
+    },
+    {
+      "word": "pecking",
+      "definition": "to continually criticise or nag",
+      "context": "Miss Watson 'kept pecking at me'"
+    },
+    {
+      "word": "whippowill",
+      "definition": "a nocturnal bird (whip-poor-will)",
+      "context": "Huck hears a 'whippowill' calling at night"
+    },
+    {
+      "word": "shriv(e)led",
+      "definition": "dried up and wrinkled (archaic spelling 'shriveled')",
+      "context": "the spider 'was all shriveled up' in the candle"
+    },
+    {
+      "word": "horseshoe",
+      "definition": "metal shoe nailed to a horse's hoof; superstitious protective charm",
+      "context": "Huck notes custom about 'lost a horseshoe' for luck"
+    },
+    {
+      "word": "witches",
+      "definition": "folk supernatural beings; here in superstition",
+      "context": "Huck ties a lock of hair to 'keep witches away'"
+    },
+    {
+      "word": "boom",
+      "definition": "deep sound, used onomatopoeically",
+      "context": "Huck hears the clock 'boom—boom—boom—twelve licks'"
+    },
+    {
+      "word": "whilst",
+      "definition": "archaic form of 'while'",
+      "context": "dialectal narrative voice uses 'whilst' forms elsewhere in text"
+    },
+    {
+      "word": "reckoned",
+      "definition": "judged; thought (dialectal)",
+      "context": "Huck asks if Tom Sawyer 'reckoned' would go to the good place"
+    },
+    {
+      "word": "warn't",
+      "definition": "dialect contraction of 'was not'",
+      "context": "Huck says 'it warn't no use'"
+    },
+    {
+      "word": "ain't",
+      "definition": "nonstandard contraction for 'am/are/is not'",
+      "context": "used frequently in dialect speech in narration"
+    },
+    {
+      "word": "git",
+      "definition": "colloquial/dialect for 'get'",
+      "context": "dialectal dialogue uses 'git' in speech"
+    },
+    {
+      "word": "gumption",
+      "definition": "initiative or shrewdness (older usage)",
+      "context": "dialectal dialogue and description imply 'gumption' in characters' speech"
+    },
+    {
+      "word": "raze",
+      "definition": "to demolish or level (archaic variant of 'raze')",
+      "context": "term appears in descriptive passages of wrecks and ruin"
+    },
+    {
+      "word": "calaboose",
+      "definition": "slang for jail (archaic/colloquial)",
+      "context": "used in town and mob-related episodes"
+    },
+    {
+      "word": "vittles",
+      "definition": "dialectal pronunciation/spelling of 'victuals' (food)",
+      "context": "illustration captions and dialectal speech use 'vittles'"
+    },
+    {
+      "word": "capered",
+      "definition": "leaped or pranced about (archaic)",
+      "context": "used in scenes of boys at play or animals moving"
+    },
+    {
+      "word": "wharfage",
+      "definition": "charge for use of a wharf; dockage (maritime)",
+      "context": "river commerce and wreck scenes mention wharf-related terms"
+    },
+    {
+      "word": "bullyragged",
+      "definition": "to bully or intimidate (colloquial/archaic)",
+      "context": "used to describe how a character was treated by a mob or bully)"
+    },
+    {
+      "word": "gander",
+      "definition": "to take a look (colloquial)",
+      "context": "characters 'take a gander' at sights on shore"
+    },
+    {
+      "word": "chawed",
+      "definition": "past tense of 'chew' in dialectal form",
+      "context": "characters use dialectal past forms like 'chawed' for 'chewed'"
+    },
+    {
+      "word": "jawing",
+      "definition": "talking at length; scolding (informal/archaic)",
+      "context": "illustration captions show scenes described as 'jawing'"
+    },
+    {
+      "word": "shet",
+      "definition": "dialect contraction of 'shut' (archaic/dialectal)",
+      "context": "dialectal commands in dialogue use forms like 'shet'"
+    },
+    {
+      "word": "pizen",
+      "definition": "dialectal for 'poison' or 'pizen' meaning 'annoyed/irritated' (colloquial)",
+      "context": "used in colorful dialectal speech of characters"
+    },
+    {
+      "word": "scrip",
+      "definition": "small sum of money; tickets (older term)",
+      "context": "financial details and Judge Thatcher's handling of Huck's money evoke terms like 'scrip'"
+    },
+    {
+      "word": "raze/raise (context variant)",
+      "definition": "archaic/variant spellings often present in narration",
+      "context": "riverbank and town destruction episodes use variant spellings"
+    },
+    {
+      "word": "stummick",
+      "definition": "dialect for 'stomach' (regional)",
+      "context": "colloquial speech about food and appetites uses regional words like 'stummick'"
+    },
+    {
+      "word": "plumb",
+      "definition": "completely; totally (dialectal)",
+      "context": "Huck uses 'plumb' in expressions of degree"
+    },
+    {
+      "word": "fust",
+      "definition": "dialectal 'first'",
+      "context": "dialectal narration includes 'fust' in some speech forms"
+    },
+    {
+      "word": "kiver",
+      "definition": "dialectal for 'cover'",
+      "context": "old usage appears in dialectal speech"
+    },
+    {
+      "word": "ransacked",
+      "definition": "searched thoroughly (older narrative term)",
+      "context": "used in descriptions of searches and wreck scenes"
+    },
+    {
+      "word": "steamboat",
+      "definition": "riverboat powered by steam (period term)",
+      "context": "many river scenes and wreck incidents involve a 'steamboat'"
+    },
+    {
+      "word": "rafter",
+      "definition": "wood beams or a person on a raft (contextual archaic use)",
+      "context": "raft scenes use 'raft' and associated terms like 'rafter' in descriptive passages"
+    },
+    {
+      "word": "skiff",
+      "definition": "small light boat (nautical, older)",
+      "context": "river travel descriptions include small boats like a 'skiff'"
+    },
+    {
+      "word": "snag",
+      "definition": "submerged tree trunk in a river (riverine term)",
+      "context": "the raft dodges 'snags' on the Mississippi"
+    },
+    {
+      "word": "barroom",
+      "definition": "room where alcohol is served (period usage)",
+      "context": "town episodes include scenes in a 'barroom' or saloon"
+    },
+    {
+      "word": "fixings",
+      "definition": "items accompanying a meal or setup (colloquial/archaic)",
+      "context": "descriptions of meals and camp life mention 'fixings'"
+    },
+    {
+      "word": "traps",
+      "definition": "small horse-drawn vehicles or devices (older usage)",
+      "context": "travel and local conveyances described by period terms"
+    },
+    {
+      "word": "wharf",
+      "definition": "dock or landing place (period term)",
+      "context": "river commerce scenes reference the 'wharf'"
+    },
+    {
+      "word": "hogshead",
+      "definition": "large cask for liquids or goods (archaic commercial term)",
+      "context": "Huck's 'sugar-hogshead' sleeping place"
+    },
+    {
+      "word": "slouch",
+      "definition": "to move or sit carelessly (older colloquial)",
+      "context": "Huck describes people slouching or careless postures"
+    },
+    {
+      "word": "truck",
+      "definition": "barter or exchange (archaic sense), or a cart",
+      "context": "barter and exchange on river and town scenes refer to 'truck'"
+    },
+    {
+      "word": "tomfoolery",
+      "definition": "foolish behavior (old-fashioned term)",
+      "context": "Tom's elaborate 'band of robbers' schemes called 'tomfoolery' in tone"
+    },
+    {
+      "word": "contraband",
+      "definition": "goods illegally traded; historically used of enslaved people in certain contexts",
+      "context": "period legal terminology appears in discussions about slaves and escapes"
+    },
+    {
+      "word": "hue and cry",
+      "definition": "public alarm or outcry (archaic phrase)",
+      "context": "search scenes and town alarms evoke 'hue and cry' imagery"
+    },
+    {
+      "word": "dunnage",
+      "definition": "material used to protect cargo (nautical/older term)",
+      "context": "wreck and cargo salvage scenes reference packing and 'dunnage' concepts"
+    },
+    {
+      "word": "bilge",
+      "definition": "lowest part of a ship's interior; also rubbish (nautical)",
+      "context": "wreck and boat descriptions use river-boat terms like 'bilge'"
+    },
+    {
+      "word": "saturnine",
+      "definition": "cold or gloomy temperament (older literary word)",
+      "context": "applied to grim characters or moods in narration"
+    },
+    {
+      "word": "rapscallion",
+      "definition": "mischievous person; rogue (archaic)",
+      "context": "used to color descriptions of roguish characters like the Duke and King"
+    },
+    {
+      "word": "lugubrious",
+      "definition": "excessively mournful (literary/archaic)",
+      "context": "Huck narrates mournful descriptions (funeral scenes) with such tone words"
+    },
+    {
+      "word": "cant",
+      "definition": "insincere talk, especially pious speech (older term)",
+      "context": "critique of religious hypocrisy uses 'cant' sense"
+    },
+    {
+      "word": "genteel",
+      "definition": "refined, socially elevated (period sense)",
+      "context": "Grangerford household described as 'genteel'"
+    },
+    {
+      "word": "ornery",
+      "definition": "stubborn, bad-tempered (colloquial/period)",
+      "context": "applied to ornery characters such as pap or certain townsmen"
+    },
+    {
+      "word": "shanty",
+      "definition": "small, crudely built shack (period term)",
+      "context": "Pap's 'shanty' and other crude shelters are described"
+    },
+    {
+      "word": "whelp",
+      "definition": "young dog or contemptuous term for person (older)",
+      "context": "used in insults or to describe animals in episodes"
+    },
+    {
+      "word": "skedaddle",
+      "definition": "to run away hurriedly (older slang)",
+      "context": "characters 'skedaddle' from danger or pursuit"
+    },
+    {
+      "word": "skulk",
+      "definition": "to move stealthily or lie in hiding (old-fashioned)",
+      "context": "Huck hides and 'skulks' to avoid detection"
+    },
+    {
+      "word": "tarry",
+      "definition": "to delay or linger (archaic)",
+      "context": "the narrative sometimes uses 'tarry' in descriptive passages"
+    },
+    {
+      "word": "chutzpah (usage noted as a borrowed term in some edition notes)",
+      "definition": "audacity, nerve (Yiddish/Hebrew loanword used in later editions)",
+      "context": "applied to bold schemes like the King and Duke's cons"
+    },
+    {
+      "word": "clemency",
+      "definition": "mercy or leniency (formal/older usage)",
+      "context": "invoked in legal or moral discussions in the town episodes"
+    },
+    {
+      "word": "curfew",
+      "definition": "evening bell or order (historic term)",
+      "context": "town order and night scenes reference curfew-like notions"
+    },
+    {
+      "word": "bowie",
+      "definition": "type of large knife (period term)",
+      "context": "weapons and threat scenes reference knives and period arms"
+    },
+    {
+      "word": "catamount",
+      "definition": "wildcat (regional/older term)",
+      "context": "frontier wildlife references include words like 'catamount'"
+    },
+    {
+      "word": "blithering",
+      "definition": "talking foolishly or excessively (colloquial/archaic)",
+      "context": "used proverbially in descriptions of town talk or gossip"
+    },
+    {
+      "word": "skullduggery",
+      "definition": "underhanded or unscrupulous behavior (colloquial/older)",
+      "context": "the conmen's schemes are described as 'skullduggery' in tone"
+    },
+    {
+      "word": "sawbuck",
+      "definition": "slang for ten-dollar bill (period)",
+      "context": "monetary references and Huck's found gold involve period money slang"
+    },
+    {
+      "word": "chivy",
+      "definition": "to pester or chase (colloquial/archaic)",
+      "context": "characters 'chivy' one another in pursuit scenes"
+    },
+    {
+      "word": "beguile",
+      "definition": "to charm or deceive (older literary)",
+      "context": "the Duke and King's tactics 'beguile' trusting townspeople"
+    },
+    {
+      "word": "merry-go-round (figurative period sense)",
+      "definition": "circular, repetitive activity (older usage)",
+      "context": "used figuratively to describe repetitive social rituals in town"
+    },
+    {
+      "word": "rambunctious",
+      "definition": "uncontrollably exuberant (older/colloquial)",
+      "context": "applied to the boys' behavior and camp meetings"
+    },
+    {
+      "word": "highfalutin",
+      "definition": "pretentious or pompous (colloquial/older)",
+      "context": "criticism of pretentious people in social scenes"
+    },
+    {
+      "word": "bilious",
+      "definition": "sore-tempered or sickly (archaic medical/figurative)",
+      "context": "used figuratively to describe ill-natured characters or moods"
+    },
+    {
+      "word": "addlepated",
+      "definition": "foolish or confused (colloquial/archaic)",
+      "context": "used derisively among characters in town repartee"
+    },
+    {
+      "word": "palaver",
+      "definition": "idle talk or flattery (older term)",
+      "context": "town gossip and long speeches described as 'palaver'"
+    },
+    {
+      "word": "umbra",
+      "definition": "shadow (poetic/archaic)",
+      "context": "literary descriptions of night or shade use 'umbra' tone words"
+    },
+    {
+      "word": "bivouac",
+      "definition": "temporary camp or encampment (military/older)",
+      "context": "camping on the island and raft life evokes 'bivouac' imagery"
+    },
+    {
+      "word": "threnody",
+      "definition": "a lament (poetic/archaic)",
+      "context": "funeral scenes and mournful poems evoke threnodic tones"
+    },
+    {
+      "word": "loquacious",
+      "definition": "talkative (formal/older)",
+      "context": "characters like Boggs are described as excessively talkative"
+    },
+    {
+      "word": "malapert",
+      "definition": "impudently bold (archaic)",
+      "context": "applied to saucy or impudent behavior by youth or tricksters"
+    },
+    {
+      "word": "parsimonious",
+      "definition": "excessively frugal (formal/older)",
+      "context": "town figures and money matters invite words like 'parsimonious' in narration"
+    },
+    {
+      "word": "simpering",
+      "definition": "affectedly coy or ingratiating (old-fashioned)",
+      "context": "used to describe certain genteel social affectations in households"
+    },
+    {
+      "word": "threnetic (variant poetic use)",
+      "definition": "relating to lamentation (rare)",
+      "context": "poetical effusions in the Grangerford house show archaic poetic words"
+    },
+    {
+      "word": "zeitgeist (used in commentary/paraphrase in some editions)",
+      "definition": "spirit of the times (German loanword)",
+      "context": "applied in modern commentary but appears in some editorial notes referencing period atmosphere"
+    },
+    {
+      "word": "yokel",
+      "definition": "unsophisticated rural person (older slang)",
+      "context": "town and country contrasts use 'yokel'-type descriptions"
+    },
+    {
+      "word": "zoftig (rare borrowed word in some annotations)",
+      "definition": "well-proportioned in figure (Yiddish/German loan)",
+      "context": "used sparingly in descriptive annotation of characters in certain editions"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/76"
+}
