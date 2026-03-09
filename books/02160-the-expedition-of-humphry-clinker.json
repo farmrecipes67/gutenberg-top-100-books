@@ -1,0 +1,692 @@
+{
+  "gutenberg_id": 2160,
+  "title": "The Expedition of Humphry Clinker",
+  "author": "Smollett, T. (Tobias)",
+  "summary": "Presented as a set of letters, the excerpt introduces Jonathan Dustwich, a would-be editor who offers recently recovered correspondence to a London bookseller, and a range of provincial characters assembled at Brambleton Hall. Mr. Bramble, a gouty, irascible country squire, prepares to travel to the Hot Well at Bristol; his sister Tabitha, housekeeper Mrs. Gwyllim, servants (Williams, Barns, Saul, John Thomas), and neighbours (Griffy/Griffin, Ponto the dog) populate domestic incidents. The letters mix legal anxieties about publication, comic dialect, Latin learnedisms, and preparations for travel and household removal.",
+  "characters": [
+    {
+      "name": "Jonathan Dustwich",
+      "age": "middle-aged (estimated)",
+      "personality": "pretentious, officious, solicitous about publication",
+      "lifespan": "acts as editor/collector of letters; negotiates publication in London"
+    },
+    {
+      "name": "Henry Davis",
+      "age": "middle-aged (estimated)",
+      "personality": "practical, trade-savvy London bookseller/printer",
+      "lifespan": "agrees to publish on terms; advises about legal risk"
+    },
+    {
+      "name": "Hugo Behn",
+      "age": "unknown",
+      "personality": "friend/intermediary to Dustwich",
+      "lifespan": "custodian/deliverer of the MS to Dustwich (mentioned)"
+    },
+    {
+      "name": "Davy Higgins",
+      "age": "unknown",
+      "personality": "local attorney consulted by Dustwich",
+      "lifespan": "gives legal opinion about publishability"
+    },
+    {
+      "name": "Mr Kendal",
+      "age": "unknown",
+      "personality": "host of a contested dinner where Lismahago offended",
+      "lifespan": "mentioned as present at the incident"
+    },
+    {
+      "name": "Mr Justice Lismahago",
+      "age": "unknown",
+      "personality": "foreign magistrate, viewed with suspicion",
+      "lifespan": "subject of satire and suspicion in Dustwich’s letters"
+    },
+    {
+      "name": "Charles Watson",
+      "age": "unknown",
+      "personality": "printer mentioned historically",
+      "lifespan": "cited as example of one flogged at cart's tail"
+    },
+    {
+      "name": "Dr Lewis",
+      "age": "unknown",
+      "personality": "medical correspondent and steward of Bramble’s affairs",
+      "lifespan": "holds Bramble’s keys and papers; asked to manage household business"
+    },
+    {
+      "name": "M. Bramble (Mr Bramble)",
+      "age": "elderly (suffers gout)",
+      "personality": "irascible, pedantic, conscientious about estate",
+      "lifespan": "prepares to travel to Hot Well at Bristol; gives instructions for household and charity"
+    },
+    {
+      "name": "Tabitha Bramble",
+      "age": "forty-five (explicit)",
+      "personality": "vain, starched, maiden aunt, ridiculous",
+      "lifespan": "remains to supervise household; her character noted for future description"
+    },
+    {
+      "name": "Mrs Gwyllim (housekeeper)",
+      "age": "unknown",
+      "personality": "practical, domineering housekeeper figure",
+      "lifespan": "tasked with packing and watching house during family's absence"
+    },
+    {
+      "name": "Mrs Mary Jones (Molly)",
+      "age": "unknown",
+      "personality": "servant; faithful, gossiping",
+      "lifespan": "keeps small possessions; addressed about household events"
+    },
+    {
+      "name": "Williams",
+      "age": "adult servant",
+      "personality": "dutiful servant/coachman",
+      "lifespan": "sent to bring horse and accompany to Bristol"
+    },
+    {
+      "name": "Barns",
+      "age": "adult servant",
+      "personality": "estate labourer",
+      "lifespan": "instructed to thresh and sell corn"
+    },
+    {
+      "name": "Griffin (Griffy Price)",
+      "age": "adult neighbour",
+      "personality": "contentious neighbour; proud",
+      "lifespan": "offers submission and costs; will be paid to charities if Bramble withdraws action"
+    },
+    {
+      "name": "Prig",
+      "age": "unknown",
+      "personality": "legal agent or bailiff",
+      "lifespan": "instructed to stop proceedings when requested"
+    },
+    {
+      "name": "Morgan's widow",
+      "age": "widow (adult)",
+      "personality": "needy but expected to repay",
+      "lifespan": "to receive Alderney cow and money secretly"
+    },
+    {
+      "name": "Chowder",
+      "age": "servant/employee (adult)",
+      "personality": "clumsy; suffered injury",
+      "lifespan": "attacked by a butcher’s dog; treated with medicines"
+    },
+    {
+      "name": "John Thomas",
+      "age": "adult servant",
+      "personality": "grumbling servant concerned about perquisites",
+      "lifespan": "remaining in household; complains at gifts"
+    },
+    {
+      "name": "Saul",
+      "age": "servant",
+      "personality": "trusted servant; asked to care for kitten",
+      "lifespan": "remains at Brambleton Hall in charge of small matters"
+    },
+    {
+      "name": "Miss Liddy",
+      "age": "seventeen (explicit)",
+      "personality": "naive, romantic young niece",
+      "lifespan": "nearly elopes with a player; incident causes scandal and legal bonds"
+    },
+    {
+      "name": "player-man",
+      "age": "young actor (unknown)",
+      "personality": "romantic suitor to Liddy",
+      "lifespan": "intervenes in Liddy affair; 'bound over'"
+    },
+    {
+      "name": "Ponto",
+      "age": "dog (adult)",
+      "personality": "faithful old dog",
+      "lifespan": "to be cared for by correspondents"
+    },
+    {
+      "name": "Dr Hill",
+      "age": "unknown",
+      "personality": "physician referenced for dockwater",
+      "lifespan": "his remedies used in household"
+    },
+    {
+      "name": "Sir Watkin Phillips",
+      "age": "college friend (peer age)",
+      "personality": "old college friend and correspondent",
+      "lifespan": "recipient of letters; asked for news from Oxford circle"
+    },
+    {
+      "name": "Madoc (cousin)",
+      "age": "unknown",
+      "personality": "country cousin mentioned",
+      "lifespan": "recipient of a sent almanack and court-kalendar"
+    },
+    {
+      "name": "Barns (repeated)",
+      "age": "repeat entry",
+      "personality": "estate man",
+      "lifespan": "see Barns above"
+    },
+    {
+      "name": "Alderney (cow / breed)",
+      "age": "animal",
+      "personality": "farmstock",
+      "lifespan": "cow and calf discussed and assigned to widow"
+    },
+    {
+      "name": "Dicky",
+      "age": "unknown (subject of cobbler)",
+      "personality": "person/animal injured by cobbler's cut",
+      "lifespan": "subject of local gossip about an operation"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Abergavenny, Monmouthshire, Wales, UK",
+      "latitude": 51.8216,
+      "longitude": -3.0199
+    },
+    {
+      "name": "London, England, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Gloucester (Glouces-ter / Glostar), England, UK",
+      "latitude": 51.8642,
+      "longitude": -2.2382
+    },
+    {
+      "name": "Hotwells, Bristol, England, UK (Hot Well at Bristol)",
+      "latitude": 51.4558,
+      "longitude": -2.6349
+    },
+    {
+      "name": "Jesus College, Oxford (Oxon), Oxford, England, UK",
+      "latitude": 51.7549,
+      "longitude": -1.2544
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "redargued",
+      "definition": "to refute or argue against",
+      "context": "Dustwich argues objections to printing may be redargued"
+    },
+    {
+      "word": "mala fama",
+      "definition": "Latin: 'bad repute'",
+      "context": "used to assert the letters have no tendency to mala fama"
+    },
+    {
+      "word": "usum publicum",
+      "definition": "Latin: 'for public use'",
+      "context": "letters 'to be promulgated in usum publicum'"
+    },
+    {
+      "word": "in verbo sacerdotis",
+      "definition": "Latin phrase meaning 'in the word of a priest' (vow)",
+      "context": "Dustwich declares in verbo sacerdotis he will take responsibility"
+    },
+    {
+      "word": "quoad fine and imprisonment",
+      "definition": "Latin/legal phrasing referring to fines and imprisonment",
+      "context": "offers to shoulder prosecutions quoad fine and imprisonment"
+    },
+    {
+      "word": "flagellation",
+      "definition": "whipping as punishment",
+      "context": "Dustwich jokes he would not wish to undergo flagellation"
+    },
+    {
+      "word": "Tam ad turpitudinem",
+      "definition": "Latin beginning of a phrase about shame",
+      "context": "part of a Latin quotation in Dustwich's letter"
+    },
+    {
+      "word": "quam ad amaritudinem",
+      "definition": "Latin: 'as to bitterness'",
+      "context": "continues the Latin quotation about punishment"
+    },
+    {
+      "word": "poenoe",
+      "definition": "archaic/misspelled form of 'poenae' (penalty)",
+      "context": "appears in the Latin phrase about punishment"
+    },
+    {
+      "word": "non flocci facio",
+      "definition": "Latin phrase meaning 'I do not care a straw'",
+      "context": "Dustwich uses non flocci facio regarding Lismahago"
+    },
+    {
+      "word": "intra templi parietes",
+      "definition": "Latin: 'within the walls of the temple/church'",
+      "context": "says Lismahago has never been seen intra templi parietes"
+    },
+    {
+      "word": "peradventure",
+      "definition": "perhaps; by chance (archaic)",
+      "context": "used repeatedly, e.g. 'if, peradventure, he deserveth...'"
+    },
+    {
+      "word": "barbel's row",
+      "definition": "a row caused by eating barbel (a fish) — humorous phrase",
+      "context": "Dustwich blames a barbel's row for his leaving the table"
+    },
+    {
+      "word": "violently cathartic",
+      "definition": "strongly purgative (medical term)",
+      "context": "the barbel's row is described as violently cathartic"
+    },
+    {
+      "word": "Galen",
+      "definition": "ancient physician; authority in medicine",
+      "context": "Dustwich cites Galen in 'Peri ichtos' about fish's effects"
+    },
+    {
+      "word": "Peri ichtos",
+      "definition": "Greek/Latin title meaning 'On Fish'",
+      "context": "Galen's chapter 'Peri ichtos' referenced"
+    },
+    {
+      "word": "sufficeth",
+      "definition": "archaic 'is sufficient'",
+      "context": "Dustwich uses sufficeth in legal argument"
+    },
+    {
+      "word": "Deo volente",
+      "definition": "Latin: 'God willing'",
+      "context": "Dustwich: 'I propose, Deo volente, to have the pleasure...'"
+    },
+    {
+      "word": "All-hallowtide",
+      "definition": "old term for All Hallows' period",
+      "context": "Dustwich plans to visit London towards All-hallowtide"
+    },
+    {
+      "word": "parcel of MS. sermons",
+      "definition": "a bundle of manuscript sermons (MS. = manuscript)",
+      "context": "Dustwich mentions treating about a parcel of MS. sermons"
+    },
+    {
+      "word": "cake of the right leaven",
+      "definition": "metaphorical phrase meaning suitably prepared copy",
+      "context": "Davis calls the sermons 'a cake of the right leaven'"
+    },
+    {
+      "word": "Verbum sapienti",
+      "definition": "Latin: 'a word to the wise'",
+      "context": "Dustwich signs with 'Verbum sapienti' in a postscript"
+    },
+    {
+      "word": "risque",
+      "definition": "risky; also French loanword 'risqué'",
+      "context": "Davis: 'I will, if you please, run the risque of printing'"
+    },
+    {
+      "word": "cloyed",
+      "definition": "sated or overfilled by excess",
+      "context": "Davis says the public seems cloyed with travel letters"
+    },
+    {
+      "word": "abscond",
+      "definition": "to flee/leave suddenly, often to avoid prosecution",
+      "context": "a man absconded to avoid prosecution for blasphemy"
+    },
+    {
+      "word": "blasphemy",
+      "definition": "offense against sacred things; impiety",
+      "context": "someone absconded to avoid prosecution for blasphemy"
+    },
+    {
+      "word": "manual of devotion",
+      "definition": "short religious guide/book",
+      "context": "Davis mentions an unfinished manual of devotion"
+    },
+    {
+      "word": "soundest divine",
+      "definition": "most orthodox clergyman (archaic phrasing)",
+      "context": "Davis praises a departed cleric as the soundest divine"
+    },
+    {
+      "word": "byestanders",
+      "definition": "archaic spelling of 'bystanders'",
+      "context": "used to describe witnesses when an officer threatened Davis"
+    },
+    {
+      "word": "pillory",
+      "definition": "old punishment device for public shaming",
+      "context": "Davis: 'If you should be sentenced to the pillory...'"
+    },
+    {
+      "word": "flogged",
+      "definition": "whipped as corporal punishment",
+      "context": "reference to printers flogged at the cart's tail"
+    },
+    {
+      "word": "cart's tail",
+      "definition": "back of a cart; used in describing public punishment",
+      "context": "printer flogged at the cart's tail cited"
+    },
+    {
+      "word": "reins",
+      "definition": "archaic: kidneys or loins; here bodily pain location",
+      "context": "Mr Bramble: 'I might as well swallow snowballs to cool my reins'"
+    },
+    {
+      "word": "Hot Well",
+      "definition": "thermal spring location (Hotwells in Bristol)",
+      "context": "Mr Bramble sets out for the Hot Well at Bristol"
+    },
+    {
+      "word": "Bristol waggon",
+      "definition": "old spelling of 'wagon' used for coach transporting goods",
+      "context": "instructions to send trunk by the Bristol waggon"
+    },
+    {
+      "word": "saddle-horse",
+      "definition": "horse used for riding",
+      "context": "Mr Bramble tells Williams to bring his saddle-horse"
+    },
+    {
+      "word": "demi pique",
+      "definition": "saddle type or riding term (demi-pique)",
+      "context": "Mr Bramble orders 'the demi pique' sent to Bristol"
+    },
+    {
+      "word": "thresh out",
+      "definition": "to separate grain from chaff (agricultural)",
+      "context": "Barns instructed to thresh out two old ricks"
+    },
+    {
+      "word": "shilling a bushel",
+      "definition": "price expression (one shilling per bushel)",
+      "context": "sell the corn to the poor at a shilling a bushel under market price"
+    },
+    {
+      "word": "snivelling",
+      "definition": "sneakingly whining or tearful",
+      "context": "Mr Bramble received a snivelling letter from Griffin"
+    },
+    {
+      "word": "purse-proud",
+      "definition": "proud of wealth; vainly wealthy",
+      "context": "Griffin described as purse-proud"
+    },
+    {
+      "word": "stop proceedings",
+      "definition": "legal phrase to halt legal action",
+      "context": "Mr Bramble asks Prig to stop proceedings"
+    },
+    {
+      "word": "Alderney cow",
+      "definition": "a small dairy breed from Alderney Isle",
+      "context": "Mr Bramble wills the Alderney cow to Morgan's widow"
+    },
+    {
+      "word": "iron chest",
+      "definition": "secure metal chest for papers",
+      "context": "Mr Bramble instructs Dr Lewis to take the iron chest"
+    },
+    {
+      "word": "lock up all my drawers",
+      "definition": "instruction to secure private papers",
+      "context": "Mr Bramble tells Lewis to lock up all his drawers"
+    },
+    {
+      "word": "bum-daffee",
+      "definition": "dialect/colloquial unknown object (household term)",
+      "context": "Tabitha requests Williams bring her bum-daffee"
+    },
+    {
+      "word": "dockwater",
+      "definition": "a medicinal preparation (historic)",
+      "context": "Dr Hill's dockwater listed among remedies"
+    },
+    {
+      "word": "lacksitif",
+      "definition": "misspelling/variant of 'laxative' (historic)",
+      "context": "Chowder's lacksitif cited as remedy"
+    },
+    {
+      "word": "stuprated",
+      "definition": "archaic/misspelling for 'stupified' or 'stupefied'",
+      "context": "Tabitha: 'The poor creature has been terribly stuprated ever since we left huom'"
+    },
+    {
+      "word": "pad-luck",
+      "definition": "dialect for 'padlock' (household security)",
+      "context": "order to 'clap a pad-luck on the wind-seller'"
+    },
+    {
+      "word": "wind-seller",
+      "definition": "dialectical item (possibly window-sill or windlass seller); unusual phrase",
+      "context": "Tabitha instructs to put a pad-luck on the wind-seller"
+    },
+    {
+      "word": "gate shit",
+      "definition": "dialectal miswritten instruction meaning 'shut gate'",
+      "context": "Tabitha: 'let the gate shit every evening be dark'"
+    },
+    {
+      "word": "gardnir",
+      "definition": "misspelling of 'gardener'",
+      "context": "Tabitha instructs 'The gardnir and the hind may lie below...'"
+    },
+    {
+      "word": "hind",
+      "definition": "farm labourer or farm hand",
+      "context": "mentions 'the hind' as servant lodging below"
+    },
+    {
+      "word": "landry",
+      "definition": "misspelling of 'laundry'",
+      "context": "maids to lie below in the landry"
+    },
+    {
+      "word": "blunderbuss",
+      "definition": "old short-barrel firearm",
+      "context": "keeping the blunderbuss and the great dog below"
+    },
+    {
+      "word": "rumping",
+      "definition": "colloquial for sexual activity or general frisking (dialect)",
+      "context": "Mary Jones: 'Mary Jones loves to be rumping with the men'"
+    },
+    {
+      "word": "sould",
+      "definition": "archaic spelling of 'sold'",
+      "context": "ask if Alderney's calf be sould yet"
+    },
+    {
+      "word": "cobler",
+      "definition": "misspelling of 'cobbler' (shoemaker)",
+      "context": "asks if the cobler has cut Dicky"
+    },
+    {
+      "word": "pore anemil",
+      "definition": "misspelling of 'poor animal'",
+      "context": "comment 'how pore anemil bore the operation'"
+    },
+    {
+      "word": "pillyber",
+      "definition": "dialect/household trunk or chest (unusual term in text)",
+      "context": "Mary Jones told to look after 'my box and the pillyber'"
+    },
+    {
+      "word": "importunity",
+      "definition": "pressing request or urgent entreaty (archaic emphasis)",
+      "context": "W. Jenkins opens a letter 'Heaving this importunity...'"
+    },
+    {
+      "word": "player-man",
+      "definition": "actor; itinerant stage performer",
+      "context": "Miss Liddy nearly ran away with a player-man"
+    },
+    {
+      "word": "bound over",
+      "definition": "legal term meaning bound by recognizance to keep the peace",
+      "context": "the suitors were 'bound over' after the Liddy incident"
+    },
+    {
+      "word": "adone",
+      "definition": "colloquial/archaic 'to do away with' or 'to ruin'",
+      "context": "they 'would adone themselves a mischief' in a romantic escapade"
+    },
+    {
+      "word": "sulky",
+      "definition": "sullen, petulant",
+      "context": "John Thomas is described as sulky"
+    },
+    {
+      "word": "Griffy Price",
+      "definition": "local neighbour's name (unusual proper name)",
+      "context": "Mr Bramble asks to remember Griffy Price among college friends"
+    },
+    {
+      "word": "Gwyn",
+      "definition": "name of an old companion (proper noun)",
+      "context": "salutations to Gwyn among college peers"
+    },
+    {
+      "word": "Mansel",
+      "definition": "name of an acquaintance (proper noun)",
+      "context": "mentioned in the college valediction"
+    },
+    {
+      "word": "Basset",
+      "definition": "name of an acquaintance (proper noun)",
+      "context": "cited among old Cambrian companions"
+    },
+    {
+      "word": "Cambrian",
+      "definition": "relating to Wales (archaic/regional)",
+      "context": "refers to 'old Cambrian companions'"
+    },
+    {
+      "word": "bedmaker",
+      "definition": "servant in charge of beds; archaic household role",
+      "context": "asks to 'Salute the bedmaker in my name'"
+    },
+    {
+      "word": "Ponto",
+      "definition": "name of the family dog (proper noun)",
+      "context": "request to take care of poor Ponto"
+    },
+    {
+      "word": "vails",
+      "definition": "archaic term for gratuities or small payments",
+      "context": "argument about vails and perquisites among servants"
+    },
+    {
+      "word": "perquisites",
+      "definition": "rights, benefits or tips associated with a position",
+      "context": "John Thomas complains about loss of perquisites"
+    },
+    {
+      "word": "maste",
+      "definition": "truncated/misspelled 'master'",
+      "context": "letter cuts off 'for the sake of his old maste'"
+    },
+    {
+      "word": "GLOSTAR",
+      "definition": "dialectal/spelling variant of 'Gloucester' (as signed)",
+      "context": "signatures read 'GLOSTAR' in local letters"
+    },
+    {
+      "word": "GLOUCESTER",
+      "definition": "county town spelled normally in the text",
+      "context": "addressed 'GLOUCESTER, April 2.'"
+    },
+    {
+      "word": "Hot Well",
+      "definition": "thermal spa area in Bristol (variant spelling)",
+      "context": "Mr Bramble intends to go to the Hot Well at Bristol"
+    },
+    {
+      "word": "cums",
+      "definition": "misspelling of 'comes' in dialectal letter",
+      "context": "Mrs Gwyllim: 'When this cums to hand...'"
+    },
+    {
+      "word": "Macklin",
+      "definition": "proper name (hairpiece or headpiece reference)",
+      "context": "Tabitha lists 'Macklin head and lappets' among apparel"
+    },
+    {
+      "word": "litel",
+      "definition": "dialect spelling of 'little'",
+      "context": "Tabitha mentions 'the litel box with my jowls'"
+    },
+    {
+      "word": "easings",
+      "definition": "remedial applications to ease pain (medical term)",
+      "context": "mentions 'the easings of Dr Hill's dockwater'"
+    },
+    {
+      "word": "pore",
+      "definition": "dialect spelling of 'poor'",
+      "context": "Mary Jones: 'how pore anemil bore the operation'"
+    },
+    {
+      "word": "Oxon",
+      "definition": "abbreviation for 'Oxonia' (Oxford)",
+      "context": "Sir Watkin Phillips, Bart. of Jesus college, Oxon."
+    },
+    {
+      "word": "Lismahago",
+      "definition": "proper name of a justice (unusual surname)",
+      "context": "Mr Justice Lismahago criticized in letters"
+    },
+    {
+      "word": "Brambleton-hall",
+      "definition": "fictional estate name",
+      "context": "addressed 'To Mrs GWYLLIM, house-keeper at Brambleton-hall'"
+    },
+    {
+      "word": "Bramble",
+      "definition": "family surname, signifies the squire family",
+      "context": "Mr and Mrs Bramble names recur in letters"
+    },
+    {
+      "word": "Charles Watson",
+      "definition": "proper name of a printer mentioned historically",
+      "context": "cited as the only printer flogged at the cart's tail in thirty years"
+    },
+    {
+      "word": "Prig",
+      "definition": "proper name/agent referred to about proceedings",
+      "context": "instruction 'tell Prig to stop proceedings'"
+    },
+    {
+      "word": "Morgan's widow",
+      "definition": "description of a local widow beneficiary",
+      "context": "to receive the Alderney cow and forty shillings"
+    },
+    {
+      "word": "Alderney's calf",
+      "definition": "the calf of the Alderney cow",
+      "context": "question whether Alderney's calf be sould yet"
+    },
+    {
+      "word": "John Thomas",
+      "definition": "servant's proper name",
+      "context": "John Thomas described as in good health but sulky"
+    },
+    {
+      "word": "Saul",
+      "definition": "servant's proper name",
+      "context": "Mrs Gwyllim told to take care of 'you and Saul'"
+    },
+    {
+      "word": "Mrs GWYLLIM",
+      "definition": "housekeeper's name in capitals as signed",
+      "context": "letters addressed 'To Mrs GWYLLIM' with dialectal instructions"
+    },
+    {
+      "word": "Jesus college, Oxon",
+      "definition": "college at Oxford University (archaic address form)",
+      "context": "Sir Watkin Phillips styled as 'of Jesus college, Oxon.'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2160"
+}
