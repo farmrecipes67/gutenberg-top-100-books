@@ -1,0 +1,646 @@
+{
+  "gutenberg_id": 6761,
+  "title": "The Adventures of Ferdinand Count Fathom — Complete",
+  "author": "Smollett, T. (Tobias)",
+  "summary": "Tobias Smollett's The Adventures of Ferdinand Count Fathom follows a cunning, unscrupulous protagonist whose cold-blooded roguery propels a rambling series of schemes across Europe. Reared with a fierce camp-follower mother, Fathom practices seduction, imposture, theft, and military stratagems in Vienna, Paris, and England. He entangles lovers, confederates, nobles, and a virtuous friend Renaldo (Count de Melvil) in plots involving assignations, smuggling, and legal intrigues. Persistent spite and blind ambition bring temporary triumphs but eventual ruin: fortunes strangled, a matrimonial snare, and moral exposure. The novel ends with recognitions, retrospective revelations, and fitting consequences for vice and virtue and poetic justice.",
+  "characters": [
+    {
+      "name": "Ferdinand Count Fathom",
+      "age": "estimated 20s–40s",
+      "personality": "cunning, unscrupulous adventurer; cold-blooded, ambitious, skilled in imposture and seduction",
+      "lifespan": "rises by fraud, seduction, and stratagems across Europe; ultimately suffers financial and moral ruin (fortunes 'strangled', trapped by a matrimonial noose) and is 'safely housed' as narrative concludes"
+    },
+    {
+      "name": "Fathom's Mother",
+      "age": "middle-aged (adult)",
+      "personality": "hardened camp-follower; Amazon-like, rapacious and bold",
+      "lifespan": "described as killed by an officer of the hussars (death on the battlefield)"
+    },
+    {
+      "name": "Renaldo (Count de Melvil)",
+      "age": "young noble, c. 20s–30s",
+      "personality": "virtuous, noble friend and foil to Fathom; steadfast and honourable",
+      "lifespan": "suffers distress and deception, reduced nearly to despair by events and a letter, but survives, returns to England, uncovers mysteries, and achieves recognition"
+    },
+    {
+      "name": "Monimia",
+      "age": "young woman",
+      "personality": "virtuous heroine, the object of protective and romantic interest",
+      "lifespan": "her honour is protected by providence; later she is represented as dead (a midnight pilgrimage to Monimia's tomb)"
+    },
+    {
+      "name": "Mademoiselle de Melvil",
+      "age": "young woman",
+      "personality": "less vivified sister-in-law; composed and conventional",
+      "lifespan": "present in the narrative as relation of Renaldo/Count de Melvil; specific fate not detailed in provided text"
+    },
+    {
+      "name": "Joshua",
+      "age": "middle-aged (adult)",
+      "personality": "high-minded, saint-like Jew (moral and steadfast)",
+      "lifespan": "portrayed as virtuous; exact fate not specified in provided excerpt"
+    },
+    {
+      "name": "Don Diego",
+      "age": "adult (elderly suggested by 'tedious, foolish')",
+      "personality": "tedious, foolish, comic or pitiable figure",
+      "lifespan": "his history is treated as essential to the plot; precise fate not given in excerpt"
+    },
+    {
+      "name": "Elenor",
+      "age": "young woman",
+      "personality": "fair and virtuous; a victim of Fathom's assaulting designs",
+      "lifespan": "subject of a singular attack and triumph by Fathom; subsequent fate not fully detailed in excerpt"
+    },
+    {
+      "name": "Noble Castilian",
+      "age": "unspecified",
+      "personality": "remarkable personage with a related history",
+      "lifespan": "his history is recounted (Chapter 26); fate not specified in provided text"
+    },
+    {
+      "name": "The Jeweller",
+      "age": "adult",
+      "personality": "rich tradesman whose household is infiltrated by Fathom",
+      "lifespan": "house is the scene of Fathom's intrigue (daughter and wife endangered); specific outcome not detailed in excerpt"
+    },
+    {
+      "name": "Daughter of the Jeweller",
+      "age": "young woman",
+      "personality": "object of romantic/intriguing attention",
+      "lifespan": "exposed to a perilous incident during Fathom's intrigue; exact fate unclear in excerpt"
+    },
+    {
+      "name": "Wife of the Jeweller",
+      "age": "adult",
+      "personality": "another object of Fathom's assignation and plot",
+      "lifespan": "entangled by Fathom; fate unspecified in provided excerpt"
+    },
+    {
+      "name": "Female Associate / Confederate",
+      "age": "adult",
+      "personality": "partner in Fathom's schemes and consort in crime",
+      "lifespan": "participates in several plot attempts; individual fate(s) not specified in excerpt"
+    },
+    {
+      "name": "Step-dame",
+      "age": "middle-aged",
+      "personality": "suspicious and scheming, lays snares",
+      "lifespan": "sets a snare for Fathom but is thwarted by his 'Good Genius'; further fate not detailed"
+    },
+    {
+      "name": "Smuggler",
+      "age": "adult",
+      "personality": "ingenious conjecturer who almost detects Fathom",
+      "lifespan": "nearly exposes Fathom's schemes; a providential deliverance prevents full capture as described"
+    },
+    {
+      "name": "Fathom's Good Genius",
+      "age": "n/a",
+      "personality": "benevolent, providential force/personification aiding Fathom at times",
+      "lifespan": "interposes to save the hero from traps on occasion (as narrated)"
+    },
+    {
+      "name": "Matthew Bramble, Esq.",
+      "age": "n/a",
+      "personality": "referenced (from Humphry Clinker) as comparative testimony",
+      "lifespan": "not a character in this novel; mentioned in the introduction as a literary comparison"
+    },
+    {
+      "name": "Doctor ——— (dedicatory addressee)",
+      "age": "n/a",
+      "personality": "addressee of the dedication; representative figure",
+      "lifespan": "appears only as the dedicatee in the book's front matter"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Vienna, Austria",
+      "latitude": 48.2081743,
+      "longitude": 16.3738189
+    },
+    {
+      "name": "Paris, France",
+      "latitude": 48.856614,
+      "longitude": 2.3522219
+    },
+    {
+      "name": "Bristol, England (Bristol Spring reference)",
+      "latitude": 51.454513,
+      "longitude": -2.58791
+    },
+    {
+      "name": "London (the Metropolis), England",
+      "latitude": 51.5073509,
+      "longitude": -0.1277583
+    },
+    {
+      "name": "Strait of Messina region (Scylla)",
+      "latitude": 38.216667,
+      "longitude": 15.716667
+    },
+    {
+      "name": "Strait of Messina region (Charybdis)",
+      "latitude": 38.193,
+      "longitude": 15.554
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "sagacity",
+      "definition": "keenness of judgment; wisdom",
+      "context": "Chapter 4 title: 'together with some Instances of his own Sagacity'"
+    },
+    {
+      "word": "infancy",
+      "definition": "early childhood or beginning period",
+      "context": "Chapter 2 title: 'A superficial View of our Hero’s Infancy'"
+    },
+    {
+      "word": "initiated",
+      "definition": "introduced into a practice or profession",
+      "context": "Chapter 3 title: 'He is initiated in a Military Life'"
+    },
+    {
+      "word": "patron",
+      "definition": "a benefactor or supporter",
+      "context": "Chapter 3 title: 'and has the good Fortune to acquire a generous Patron'"
+    },
+    {
+      "word": "prowess",
+      "definition": "bravery or exceptional skill",
+      "context": "Chapter 4 title: 'His Mother’s Prowess and Death'"
+    },
+    {
+      "word": "associate",
+      "definition": "partner or companion in activity",
+      "context": "Chapter 7 title: 'Engages in Partnership with a female Associate'"
+    },
+    {
+      "word": "digression",
+      "definition": "a temporary departure from the main subject",
+      "context": "Chapter 8 title: 'Their first Attempt; with a Digression...'"
+    },
+    {
+      "word": "battery",
+      "definition": "in this context: an artillery or figurative attack; a set of devices",
+      "context": "Chapter 9 title: 'The Confederates change their Battery'"
+    },
+    {
+      "word": "levy",
+      "definition": "to impose or collect (a tax or contribution)",
+      "context": "Chapter 10 title: 'They proceed to levy Contributions'"
+    },
+    {
+      "word": "Vienna",
+      "definition": "capital city of Austria (real place)",
+      "context": "Chapter 10 title: 'sets out with the young Count for Vienna'"
+    },
+    {
+      "word": "gallantry",
+      "definition": "polite attention or romantic behaviour",
+      "context": "Chapter 11 title: 'Fathom makes various Efforts in the World of Gallantry'"
+    },
+    {
+      "word": "lodgment",
+      "definition": "a place of shelter or residence; a secure position",
+      "context": "Chapter 12 title: 'He effects a Lodgment in the House of a rich Jeweller'"
+    },
+    {
+      "word": "perilous",
+      "definition": "full of danger or risk",
+      "context": "Chapter 13 title: 'He is exposed to a most perilous Incident...'"
+    },
+    {
+      "word": "assignation",
+      "definition": "a secret meeting for lovers; an appointment",
+      "context": "Chapter 14 title: 'in consequence of an Assignation with the Wife'"
+    },
+    {
+      "word": "Dulcinea",
+      "definition": "literary allusion to an idealized beloved (from Don Quixote)",
+      "context": "Chapter 16 title: 'his Dulcinea’s Apartment'"
+    },
+    {
+      "word": "step-dame",
+      "definition": "stepmother (archaic form)",
+      "context": "Chapter 17 title: 'The Step-dame’s Suspicions being awakened...'"
+    },
+    {
+      "word": "Venus",
+      "definition": "Roman goddess of love (used figuratively for love affairs)",
+      "context": "Chapter 18 title: 'quits the Domain of Venus'"
+    },
+    {
+      "word": "Mars",
+      "definition": "Roman god of war (used figuratively for military life)",
+      "context": "Chapter 18 title: 'for the rough Field of Mars'"
+    },
+    {
+      "word": "French",
+      "definition": "relating to France; here indicating the French camp",
+      "context": "Chapter 19 title: 'stumbles upon the French Camp'"
+    },
+    {
+      "word": "stratagem",
+      "definition": "a plan or scheme, especially to outwit an opponent",
+      "context": "Chapter 20 title: 'He prepares a Stratagem'"
+    },
+    {
+      "word": "countermined",
+      "definition": "undermined or foiled by a counter-action",
+      "context": "Chapter 20 title: 'but finds himself countermined'"
+    },
+    {
+      "word": "tempest",
+      "definition": "a violent storm (literal or metaphorical)",
+      "context": "Chapter 20 title: 'is overtaken by a terrible Tempest'"
+    },
+    {
+      "word": "Scylla",
+      "definition": "mythical sea monster; used as a perilous choice",
+      "context": "Chapter 21 title: 'He falls upon Scylla, seeking to avoid Charybdis'"
+    },
+    {
+      "word": "Charybdis",
+      "definition": "mythical sea monster opposite Scylla; used figuratively",
+      "context": "Chapter 21 title: 'seeking to avoid Charybdis'"
+    },
+    {
+      "word": "Paris",
+      "definition": "capital city of France (real place)",
+      "context": "Chapter 22 title: 'He arrives at Paris, and is pleased with his Reception'"
+    },
+    {
+      "word": "nocturnal",
+      "definition": "occurring at night",
+      "context": "Chapter 23 title: 'Acquits himself with Address in a Nocturnal Riot'"
+    },
+    {
+      "word": "provindential",
+      "definition": "see 'providential' (fortunate, as if by divine Providence)",
+      "context": "Chapter 29 title: 'Another providential Deliverance...'"
+    },
+    {
+      "word": "smuggler",
+      "definition": "one who engages in clandestine trade",
+      "context": "Chapter 29 title: 'Another providential Deliverance from the Effects of the Smuggler’s ingenious Conjecture'"
+    },
+    {
+      "word": "Elenor",
+      "definition": "personal name of a fair woman in the narrative",
+      "context": "Chapter 30 title: 'Triumph over the Virtue of the fair Elenor'"
+    },
+    {
+      "word": "conference",
+      "definition": "a formal meeting for discussion",
+      "context": "Chapter 31 title: 'by accident encounters his old Friend, with whom he holds a Conference'"
+    },
+    {
+      "word": "applause",
+      "definition": "approval or praise publicly expressed",
+      "context": "Chapter 32 title: 'appears in the great World with universal Applause and Admiration'"
+    },
+    {
+      "word": "envy",
+      "definition": "resentful longing aroused by someone else's possessions or qualities",
+      "context": "Chapter 33 title: 'He attracts the Envy and Ill Offices...'"
+    },
+    {
+      "word": "knights",
+      "definition": "title-bearing gentlemen; here minor order members",
+      "context": "Chapter 33 title: 'the minor Knights of his own Order'"
+    },
+    {
+      "word": "Bristol",
+      "definition": "city in England associated with spring assemblies",
+      "context": "Chapters 35–37: 'He repairs to Bristol Spring...'"
+    },
+    {
+      "word": "paramount",
+      "definition": "supreme or dominant",
+      "context": "Chapters 35–37 title: 'where he reigns paramount during the whole Season'"
+    },
+    {
+      "word": "biter",
+      "definition": "one who bites (used idiomatically in 'The Biter is Bit')",
+      "context": "Chapter 38 title: 'The Biter is Bit'"
+    },
+    {
+      "word": "eclipse",
+      "definition": "diminution of power or prominence",
+      "context": "Chapter 40 title: 'contemplates Majesty and its Satellites in Eclipse'"
+    },
+    {
+      "word": "satellites",
+      "definition": "attendants or lesser associated figures (figurative)",
+      "context": "Chapter 40 title: 'and its Satellites in Eclipse'"
+    },
+    {
+      "word": "Quarrel",
+      "definition": "an angry dispute or argument",
+      "context": "Chapter 41 title: 'One Quarrel is compromised...'"
+    },
+    {
+      "word": "unusual",
+      "definition": "not common or ordinary; notable",
+      "context": "Chapter 41 title: 'another decided by unusual Arms'"
+    },
+    {
+      "word": "Renaldo",
+      "definition": "personal name (the young Count / friend of Fathom)",
+      "context": "multiple chapter titles in Part II reference 'Renaldo' and his affairs"
+    },
+    {
+      "word": "bred",
+      "definition": "raised or formed by; used in proverb",
+      "context": "Chapters 43–44 title: 'What's bred in the Bone will never come out of the Flesh'"
+    },
+    {
+      "word": "phenomenon",
+      "definition": "an unusual or remarkable occurrence",
+      "context": "Chapter 47 title: 'an Account of a Strange Phenomenon'"
+    },
+    {
+      "word": "unmasks",
+      "definition": "exposes the true character or hidden plan",
+      "context": "Chapter 48 title: 'Count Fathom unmasks his Battery; is repulsed...'"
+    },
+    {
+      "word": "interposition",
+      "definition": "the act of intervening on behalf of someone",
+      "context": "Chapter 49 title: 'Monimia’s Honour is protected by the Interposition of Heaven'"
+    },
+    {
+      "word": "Paean",
+      "definition": "a song of praise or triumph (classical reference)",
+      "context": "Chapter 52 title: 'enrols himself among the Sons of Paean'"
+    },
+    {
+      "word": "enrols",
+      "definition": "registers or joins formally",
+      "context": "Chapter 52 title: 'enrols himself among the Sons of Paean'"
+    },
+    {
+      "word": "miscarriage",
+      "definition": "an accidental failure; here a fortunate mishap",
+      "context": "Chapter 53 title: 'Acquires Employment in consequence of a lucky Miscarriage'"
+    },
+    {
+      "word": "declination",
+      "definition": "a period of decline or falling off",
+      "context": "Chapter 54 title: 'His Eclipse, and gradual Declination'"
+    },
+    {
+      "word": "Matrimonial",
+      "definition": "relating to marriage",
+      "context": "Chapter 55 title: 'he has recourse to the Matrimonial Noose'"
+    },
+    {
+      "word": "Noose",
+      "definition": "a trap or snare (figurative here)",
+      "context": "Chapter 55 title: 'the Matrimonial Noose'"
+    },
+    {
+      "word": "strangled",
+      "definition": "choked off or stopped (figurative of fortune being ruined)",
+      "context": "Chapter 56 title: 'in which his Fortune is effectually strangled'"
+    },
+    {
+      "word": "retrospect",
+      "definition": "a review or look back at past events",
+      "context": "Chapter 57 title: 'the Reader is entertained with a Retrospect'"
+    },
+    {
+      "word": "abridges",
+      "definition": "shortens or condenses",
+      "context": "Chapter 58 title: 'Renaldo abridges the Proceedings at Law'"
+    },
+    {
+      "word": "proceedings",
+      "definition": "formal legal actions or steps",
+      "context": "Chapter 58 title: 'the Proceedings at Law'"
+    },
+    {
+      "word": "penetration",
+      "definition": "insight or understanding; figurative clarity of perception",
+      "context": "Chapter 59 title: 'removes the film which had long obstructed his Penetration'"
+    },
+    {
+      "word": "verge",
+      "definition": "edge or brink of (something)",
+      "context": "Chapter 60 title: 'reduces him to the Verge of Death and Distraction'"
+    },
+    {
+      "word": "distraction",
+      "definition": "mental disturbance or extreme agitation",
+      "context": "Chapter 60 title: 'the Verge of Death and Distraction'"
+    },
+    {
+      "word": "monument",
+      "definition": "an enduring reminder or example; here 'living Monument of Justice'",
+      "context": "Chapter 61 title: 'meets with a living Monument of Justice'"
+    },
+    {
+      "word": "pilgrimage",
+      "definition": "a journey to a sacred or significant place",
+      "context": "Chapter 62 title: 'Midnight Pilgrimage to Monimia’s Tomb'"
+    },
+    {
+      "word": "midnight",
+      "definition": "the middle of the night; used to enhance solemnity",
+      "context": "Chapter 62 title: 'Midnight Pilgrimage...'"
+    },
+    {
+      "word": "rites",
+      "definition": "ceremonies or formal observances",
+      "context": "Chapter 63 title: 'He renews the Rites of Sorrow'"
+    },
+    {
+      "word": "entranced",
+      "definition": "held spellbound or in a delighted trance",
+      "context": "Chapter 63 title: 'and is entranced'"
+    },
+    {
+      "word": "mystery",
+      "definition": "something secret or unexplained",
+      "context": "Chapter 64 title: 'The Mystery unfolded'"
+    },
+    {
+      "word": "recognition",
+      "definition": "identification or discovery of a true identity",
+      "context": "Chapter 64 title: 'Another Recognition'"
+    },
+    {
+      "word": "concatenation",
+      "definition": "a linking together in a chain or series",
+      "context": "Chapter 65 title: 'necessary for the Concatenation of these Memoirs'"
+    },
+    {
+      "word": "period",
+      "definition": "an end or termination; completion",
+      "context": "Chapter 66 title: 'The History draws near a Period'"
+    },
+    {
+      "word": "longest",
+      "definition": "most lengthy; superlative of long",
+      "context": "Chapter 67 title: 'The Longest and the Last'"
+    },
+    {
+      "word": "frontispiece",
+      "definition": "an illustrative plate facing the title page",
+      "context": "Front matter: 'Frontispiece of Part One/Part Two'"
+    },
+    {
+      "word": "introduction",
+      "definition": "prefatory material presenting the work",
+      "context": "Front matter: 'INTRODUCTION' by G. H. Maynadier"
+    },
+    {
+      "word": "dedication",
+      "definition": "a short address dedicating the book to someone",
+      "context": "Introduction: reference to 'the dedication of Fathom to Doctor ———'"
+    },
+    {
+      "word": "candid",
+      "definition": "frank and open",
+      "context": "Introduction: 'a candid revelation of his character'"
+    },
+    {
+      "word": "metamorphosed",
+      "definition": "changed in form or character",
+      "context": "Introduction: 'his own oddly-metamorphosed acquaintances'"
+    },
+    {
+      "word": "hurly-burly",
+      "definition": "noisy disorder or commotion (archaic)",
+      "context": "Introduction: 'that rough Georgian hurly-burly...'"
+    },
+    {
+      "word": "camp-follower",
+      "definition": "one who follows an army to profit from its presence",
+      "context": "Introduction: 'the hardened camp-follower' (Fathom's mother)"
+    },
+    {
+      "word": "vitalised",
+      "definition": "given life or animation",
+      "context": "Introduction: 'we confidently expect to become vitalised...'"
+    },
+    {
+      "word": "dagger",
+      "definition": "a short stabbing weapon",
+      "context": "Introduction: 'making sure with her dagger that all those on the field... are really dead'"
+    },
+    {
+      "word": "hussars",
+      "definition": "light cavalry soldiers (historical military term)",
+      "context": "Introduction: 'an officer of the hussars... puts a brace of bullets into the lady’s brain'"
+    },
+    {
+      "word": "lucrative",
+      "definition": "producing profit or gain",
+      "context": "Introduction: 'watching her lucrative progress'"
+    },
+    {
+      "word": "brace",
+      "definition": "a pair (here, a pair of bullets)",
+      "context": "Introduction: 'puts a brace of bullets into the lady’s brain'"
+    },
+    {
+      "word": "smite",
+      "definition": "to strike forcefully",
+      "context": "Introduction: 'just as she raises her hand to smite him to the heart'"
+    },
+    {
+      "word": "poignant",
+      "definition": "deeply affecting or touching",
+      "context": "Introduction: 'before our disappointment at the non-fulfilment of her promise becomes poignant'"
+    },
+    {
+      "word": "Amazon",
+      "definition": "a formidable, warrior-like woman",
+      "context": "Introduction: 'this interesting Amazon would sooner or later have turned into a wooden figure'"
+    },
+    {
+      "word": "placarded",
+      "definition": "posted or labeled publicly (archaic sense)",
+      "context": "Introduction: 'Because he is placarded, “Shrewd villain of monstrous inhumanity,”'"
+    },
+    {
+      "word": "fain",
+      "definition": "gladly or willingly (archaic)",
+      "context": "Introduction: 'we are fain to accept him for what his creator intended'"
+    },
+    {
+      "word": "foil",
+      "definition": "a character who contrasts with another to highlight particular qualities",
+      "context": "Introduction: 'His friend and foil, the noble young Count de Melvil'"
+    },
+    {
+      "word": "peerless",
+      "definition": "without equal; unmatched",
+      "context": "Introduction: 'the peerless Monimia'"
+    },
+    {
+      "word": "melodrama",
+      "definition": "a dramatic work with exaggerated characters and exciting events",
+      "context": "Introduction: 'The “second lady” of the melodrama'"
+    },
+    {
+      "word": "vivified",
+      "definition": "made alive or lively",
+      "context": "Introduction: 'though by no means vivified, is yet more real...'"
+    },
+    {
+      "word": "perpetrates",
+      "definition": "commits (a wrongdoing)",
+      "context": "Introduction: 'all his villainies, which he perpetrates without any apparent qualms'"
+    },
+    {
+      "word": "qualms",
+      "definition": "feelings of doubt or unease about the rightness of an action",
+      "context": "Introduction: 'without any apparent qualms of conscience'"
+    },
+    {
+      "word": "mortified",
+      "definition": "humiliated or subdued; here meaning subdued morally",
+      "context": "Introduction: 'his vice and ambition was now quite mortified within him'"
+    },
+    {
+      "word": "roguery",
+      "definition": "dishonest or unprincipled behavior",
+      "context": "Introduction: 'to show that cold-blooded roguery... will come to grief'"
+    },
+    {
+      "word": "scoundrel",
+      "definition": "a dishonest or unscrupulous person",
+      "context": "Introduction: 'To heighten the effect of his scoundrel...'"
+    },
+    {
+      "word": "conspicuous",
+      "definition": "clearly visible or attracting attention",
+      "context": "Introduction: 'though not conspicuous for its originality'"
+    },
+    {
+      "word": "clumsy",
+      "definition": "awkward in movement or construction (here, of plot)",
+      "context": "Introduction: 'often clumsy though it may be'"
+    },
+    {
+      "word": "hitherto",
+      "definition": "until now; previously",
+      "context": "Introduction: 'Smollett, hitherto indifferent to structure...'"
+    },
+    {
+      "word": "pensioner",
+      "definition": "one who receives a pension; here used of a dependent",
+      "context": "Introduction: 'inflict justice on his basely ungrateful pensioner'"
+    },
+    {
+      "word": "indispensable",
+      "definition": "absolutely necessary",
+      "context": "Introduction: 'Not all of them, indeed, nor all of the adventures, are indispensable'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/6761"
+}
