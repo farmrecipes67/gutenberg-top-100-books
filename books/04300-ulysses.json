@@ -1,0 +1,578 @@
+{
+  "gutenberg_id": 4300,
+  "title": "Ulysses",
+  "author": "Joyce, James",
+  "summary": "On a mild morning at the Martello tower Buck Mulligan theatrically shaves, mocks and banters with Stephen Dedalus. Mulligan’s loud irreverence, classical quips and insults—calling Stephen Kinch and accusing him of refusing his dying mother—contrast with Stephen’s brooding, memory of his dead mother’s decay and private anguish. They discuss the uneasy lodger Haines, college friends and social scenes, and Mulligan’s schemes and mockery of Irish life. Sea and classical images recur: Greek phrases, snotgreen sea, Thalatta. Tension between public levity and personal grief frames their strained friendship and hints at artistic, social and moral conflicts and psychological interiority tensions persist.",
+  "characters": [
+    {
+      "name": "Buck Mulligan",
+      "age": "mid-20s (young adult)",
+      "personality": "brash, theatrical, irreverent, mocking; witty and extroverted",
+      "lifespan": "present and active in opening scene; survives within the excerpt"
+    },
+    {
+      "name": "Malachi Mulligan (alternative name for Buck Mulligan)",
+      "age": "mid-20s (same as Buck)",
+      "personality": "boastful, humorous, playful with classical references",
+      "lifespan": "same as Buck Mulligan (present in scene)"
+    },
+    {
+      "name": "Stephen Dedalus",
+      "age": "early 20s (young adult)",
+      "personality": "brooding, introspective, artistic, guilt-ridden",
+      "lifespan": "present in scene; living but grieving his deceased mother"
+    },
+    {
+      "name": "Haines",
+      "age": "adult (visitor/lodger)",
+      "personality": "English, uneasy, raving at night (described as ponderous and Saxon)",
+      "lifespan": "present as uneasy lodger in the tower within the excerpt"
+    },
+    {
+      "name": "Stephen’s mother",
+      "age": "deceased (older woman)",
+      "personality": "described through memory: wasting, pitiable in death",
+      "lifespan": "dead (her death and decay are recounted in Stephen's memory)"
+    },
+    {
+      "name": "Mulligan’s aunt",
+      "age": "middle-aged to older",
+      "personality": "practical, disapproving (refuses close association with Stephen)",
+      "lifespan": "alive and mentioned as withholding support in the excerpt"
+    },
+    {
+      "name": "Ursula",
+      "age": "young servant",
+      "personality": "plainlooking skivvy (servant) mentioned briefly",
+      "lifespan": "alive and referenced as Mulligan’s servant"
+    },
+    {
+      "name": "Algy",
+      "age": "young friend/acquaintance",
+      "personality": "lighthearted, referenced by Mulligan (calls the sea)",
+      "lifespan": "mentioned only by name; alive in referenced social circle"
+    },
+    {
+      "name": "Connolly Norman",
+      "age": "young adult (student)",
+      "personality": "mentioned as associate (Dottyville)",
+      "lifespan": "mentioned; no further fate in excerpt"
+    },
+    {
+      "name": "Seymour",
+      "age": "young adult (friend/acquaintance)",
+      "personality": "named as someone who could be brought down for a ragging",
+      "lifespan": "mentioned only; fate not described"
+    },
+    {
+      "name": "Clive Kempthorpe",
+      "age": "student (young adult)",
+      "personality": "mocked in college scenes; target of college pranks",
+      "lifespan": "mentioned as part of college revelry; no fate in excerpt"
+    },
+    {
+      "name": "Aubrey",
+      "age": "young adult (student)",
+      "personality": "named in college shouting, comic figure in mockery",
+      "lifespan": "mentioned only in shouted college scene"
+    },
+    {
+      "name": "Ades of Magdalen",
+      "age": "student (young adult)",
+      "personality": "college prankster (chasing with tailor’s shears)",
+      "lifespan": "mentioned in a comic college episode"
+    },
+    {
+      "name": "Cranly",
+      "age": "young adult (friend/associate)",
+      "personality": "briefly referenced as companion (arm mentioned)",
+      "lifespan": "mentioned only; no further detail in excerpt"
+    },
+    {
+      "name": "Deaf gardener",
+      "age": "adult (older)",
+      "personality": "silent, described pushing mower and watching the lawn",
+      "lifespan": "present in scene as background figure"
+    },
+    {
+      "name": "Hired mute from Lalouette’s",
+      "age": "adult (servant/performer)",
+      "personality": "referred to as an example of whingeing/non-whingeing contrast",
+      "lifespan": "mentioned only"
+    },
+    {
+      "name": "Sir Peter Teazle (doctor, referenced)",
+      "age": "adult/medical figure (referenced)",
+      "personality": "named as the doctor Stephen’s mother calls",
+      "lifespan": "mentioned only in Stephen’s memory"
+    },
+    {
+      "name": "Caliban",
+      "age": "literary figure (Shakespearean)",
+      "personality": "invoked metaphorically (rage of Caliban)",
+      "lifespan": "literary reference only"
+    },
+    {
+      "name": "Wilde (Oscar Wilde referenced)",
+      "age": "literary figure referenced",
+      "personality": "invoked as a cultural reference",
+      "lifespan": "referenced only"
+    },
+    {
+      "name": "Fergus",
+      "age": "mythic/literary figure referenced",
+      "personality": "appears in sung lines quoted by Mulligan",
+      "lifespan": "referenced in a song"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Martello Tower (Sandycove, Dublin)",
+      "latitude": 53.2833,
+      "longitude": -6.1315
+    },
+    {
+      "name": "Dublin Bay",
+      "latitude": 53.3333,
+      "longitude": -6.1
+    },
+    {
+      "name": "Kingstown (historical name; modern Dún Laoghaire)",
+      "latitude": 53.2938,
+      "longitude": -6.1367
+    },
+    {
+      "name": "Bray Head (County Wicklow)",
+      "latitude": 53.2046,
+      "longitude": -6.1117
+    },
+    {
+      "name": "Magdalen College (Oxford) [referenced]",
+      "latitude": 51.754,
+      "longitude": -1.2548
+    },
+    {
+      "name": "Mater (hospital, Dublin) [referenced]",
+      "latitude": 53.357,
+      "longitude": -6.259
+    },
+    {
+      "name": "Richmond (historical hospital reference, Dublin)",
+      "latitude": 53.344,
+      "longitude": -6.266
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Introibo",
+      "definition": "Latin: 'I will go in' (liturgical phrase)",
+      "context": "Appears in the intoned phrase 'Introibo ad altare Dei.'"
+    },
+    {
+      "word": "altare",
+      "definition": "Latin for 'altar'",
+      "context": "Part of the Latin liturgical phrase 'Introibo ad altare Dei.'"
+    },
+    {
+      "word": "Dei",
+      "definition": "Latin for 'God'",
+      "context": "Final word of 'Introibo ad altare Dei.'"
+    },
+    {
+      "word": "ungirdled",
+      "definition": "not fastened by a girdle; loose",
+      "context": "Describes the yellow dressinggown 'ungirdled' behind Mulligan."
+    },
+    {
+      "word": "dactyls",
+      "definition": "a metrical foot in poetry (long-short-short)",
+      "context": "Mulligan jokes his name is 'two dactyls.'"
+    },
+    {
+      "word": "Hellenic",
+      "definition": "relating to ancient Greece",
+      "context": "Mulligan says his name has a 'Hellenic ring.'"
+    },
+    {
+      "word": "jejune",
+      "definition": "immature, simplistic or dull",
+      "context": "Mulligan calls Haines 'the jejune jesuit.'"
+    },
+    {
+      "word": "ponderous",
+      "definition": "heavy, labored or unwieldy",
+      "context": "Describes Haines as a 'ponderous Saxon.'"
+    },
+    {
+      "word": "Saxon",
+      "definition": "used here to mean English or Anglo-Saxon",
+      "context": "Mulligan refers to Haines as a 'ponderous Saxon.'"
+    },
+    {
+      "word": "guncase",
+      "definition": "case for carrying a gun",
+      "context": "Stephen asks 'Where is his guncase?' about Haines."
+    },
+    {
+      "word": "Scutter",
+      "definition": "exclamation/call (used colloquially here)",
+      "context": "Buck Mulligan cries 'Scutter!' while searching pockets."
+    },
+    {
+      "word": "noserag",
+      "definition": "handkerchief used for the nose",
+      "context": "Mulligan borrows Stephen’s 'noserag' to wipe his razor."
+    },
+    {
+      "word": "snotgreen",
+      "definition": "gross descriptive color (coined compound)",
+      "context": "Mulligan coins 'snotgreen' as a new art colour for poets."
+    },
+    {
+      "word": "scrotumtightening",
+      "definition": "coined compound evoking a physical tightening sensation",
+      "context": "Mulligan describes the sea as the 'scrotumtightening sea.'"
+    },
+    {
+      "word": "Epi",
+      "definition": "Greek preposition 'upon' (part of phrase)",
+      "context": "Begins the Greek phrase 'Epi oinopa ponton.'"
+    },
+    {
+      "word": "oinopa",
+      "definition": "Greek: 'wine-dark' (poetic epithet for the sea)",
+      "context": "Part of 'Epi oinopa ponton' referring to the sea."
+    },
+    {
+      "word": "ponton",
+      "definition": "Greek transliteration of 'ponton' (sea)",
+      "context": "Appears in the phrase 'Epi oinopa ponton.'"
+    },
+    {
+      "word": "Thalatta",
+      "definition": "Greek for 'the sea' (exclamation)",
+      "context": "Mulligan cries 'Thalatta! Thalatta!' meaning 'the sea'."
+    },
+    {
+      "word": "hyperborean",
+      "definition": "of extreme northern regions; here used figuratively",
+      "context": "Mulligan says 'I’m hyperborean as much as you.'"
+    },
+    {
+      "word": "mummer",
+      "definition": "masked or theatrical performer",
+      "context": "Mulligan calls Stephen a 'lovely mummer.'"
+    },
+    {
+      "word": "poxy",
+      "definition": "contemptuous adjective meaning worthless or diseased",
+      "context": "Mulligan says 'God knows what poxy bowsy left them off.'"
+    },
+    {
+      "word": "bowsy",
+      "definition": "slang for a drunk or messy person",
+      "context": "Used in 'poxy bowsy' describing who left off the trousers."
+    },
+    {
+      "word": "Secondleg",
+      "definition": "coinage/variant humorously referring to 'secondhand leg' or trousers",
+      "context": "Mulligan jokes 'Secondleg they should be.'"
+    },
+    {
+      "word": "spiffing",
+      "definition": "slang meaning excellent or smart-looking",
+      "context": "Mulligan says 'You’ll look spiffing in them.'"
+    },
+    {
+      "word": "g. p. i.",
+      "definition": "abbreviated slang for 'general paralysis of the insane'",
+      "context": "Mulligan alleges Stephen has 'g. p. i.'"
+    },
+    {
+      "word": "jalap",
+      "definition": "a purgative drug (historical medicine)",
+      "context": "Mulligan says someone made tin 'by selling jalap to Zulus.'"
+    },
+    {
+      "word": "Caliban",
+      "definition": "Shakespearean creature (The Tempest)",
+      "context": "Mulligan mentions 'The rage of Caliban' metaphorically."
+    },
+    {
+      "word": "Chrysostomos",
+      "definition": "reference to Saint John Chrysostom or golden-mouthed speaker",
+      "context": "Mulligan whistles and says 'Chrysostomos.'"
+    },
+    {
+      "word": "prelate",
+      "definition": "a high-ranking member of the clergy",
+      "context": "Mulligan’s shadowed face recalled 'a prelate.'"
+    },
+    {
+      "word": "equine",
+      "definition": "horse-like in appearance",
+      "context": "Stephen notes Mulligan’s face was 'equine in its length.'"
+    },
+    {
+      "word": "jesuit",
+      "definition": "member of the Society of Jesus; used as an epithet",
+      "context": "Mulligan insults Stephen as 'you fearful jesuit!'"
+    },
+    {
+      "word": "corpuscles",
+      "definition": "small cells or particles (biological term)",
+      "context": "Mulligan jokes about 'those white corpuscles.'"
+    },
+    {
+      "word": "woful",
+      "definition": "archaic variant of 'woeful' meaning very sad or pitiable",
+      "context": "Mulligan calls Haines 'A woful lunatic!'"
+    },
+    {
+      "word": "ragging",
+      "definition": "college prank or rough treatment",
+      "context": "Mulligan threatens 'we’ll give him a ragging.'"
+    },
+    {
+      "word": "debagged",
+      "definition": "stripped of trousers (slang)",
+      "context": "A student exclaims 'I don’t want to be debagged!'"
+    },
+    {
+      "word": "harpstrings",
+      "definition": "strings of a harp (used poetically)",
+      "context": "A hand is 'plucking the harpstrings' in a poetic image."
+    },
+    {
+      "word": "Fergus",
+      "definition": "mythic or literary name used in a song",
+      "context": "Lines quoted include 'For Fergus rules the brazen cars.'"
+    },
+    {
+      "word": "graveclothes",
+      "definition": "shrouds or burial garments",
+      "context": "Stephen remembers his mother 'within its loose brown graveclothes.'"
+    },
+    {
+      "word": "odour",
+      "definition": "archaic spelling of 'odor' (smell)",
+      "context": "Describes the 'odour of wax and rosewood' from the corpse."
+    },
+    {
+      "word": "rosewood",
+      "definition": "a fragrant hardwood; used descriptively of smell",
+      "context": "The corpse gives off an odour of 'wax and rosewood.'"
+    },
+    {
+      "word": "bile",
+      "definition": "digestive fluid; used vividly to describe illness",
+      "context": "A bowl held 'the green sluggish bile' from his mother."
+    },
+    {
+      "word": "trip es",
+      "definition": "tripes (abdominal organs) used contemptuously",
+      "context": "He sees bodies 'cut up into tripes in the dissectingroom.'"
+    },
+    {
+      "word": "dissectingroom",
+      "definition": "room for anatomical dissection (compound)",
+      "context": "Stephen mentions 'cut up into tripes in the dissectingroom.'"
+    },
+    {
+      "word": "dogsbody",
+      "definition": "pejorative for a drudge or lowly person",
+      "context": "Mulligan calls Stephen 'Ah, poor dogsbody!'"
+    },
+    {
+      "word": "skivvy",
+      "definition": "domestic servant (informal)",
+      "context": "Mulligan 'pinched it out of the skivvy’s room.'"
+    },
+    {
+      "word": "lookingglass",
+      "definition": "archaic term for mirror",
+      "context": "Stephen calls the mirror 'the cracked lookingglass of a servant.'"
+    },
+    {
+      "word": "oxy chap",
+      "definition": "slang for an Oxonian (Oxford man)",
+      "context": "Mulligan says 'Tell that to the oxy chap downstairs.'"
+    },
+    {
+      "word": "guinea",
+      "definition": "historic British coin (slang for a fee)",
+      "context": "Mulligan says 'touch him for a guinea.'"
+    },
+    {
+      "word": "tin",
+      "definition": "slang for money or cash",
+      "context": "Mulligan says 'His old fellow made his tin by selling jalap.'"
+    },
+    {
+      "word": "Zulus",
+      "definition": "South African people (used to indicate exotic market)",
+      "context": "Used in 'selling jalap to Zulus' to mock commercial schemes."
+    },
+    {
+      "word": "swindle",
+      "definition": "fraud or dishonest scheme",
+      "context": "Mulligan mentions 'some bloody swindle or other.'"
+    },
+    {
+      "word": "palefaces",
+      "definition": "slang denoting pale-faced students or Englishmen",
+      "context": "Crowd described as 'Palefaces: they hold their ribs with laughter.'"
+    },
+    {
+      "word": "mower",
+      "definition": "machine for cutting grass",
+      "context": "A deaf gardener 'pushes his mower on the sombre lawn.'"
+    },
+    {
+      "word": "aproned",
+      "definition": "wearing an apron",
+      "context": "The deaf gardener is described as 'aproned.'"
+    },
+    {
+      "word": "marmalade",
+      "definition": "preserved citrus spread; used metaphorically",
+      "context": "A scared calf’s face 'gilded with marmalade.'"
+    },
+    {
+      "word": "omphalos",
+      "definition": "navel or central point (Greek origin), used poetically",
+      "context": "Phrase 'To ourselves... new paganism... omphalos.'"
+    },
+    {
+      "word": "grasshalms",
+      "definition": "archaic for blades or stalks of grass",
+      "context": "The mower watches 'the dancing motes of grasshalms.'"
+    },
+    {
+      "word": "paganism",
+      "definition": "religious practices outside the dominant faith; here rhetorical",
+      "context": "Mulligan utters 'new paganism...' in a flippant aside."
+    },
+    {
+      "word": "Loyola",
+      "definition": "reference to Ignatius Loyola (founder of Jesuits)",
+      "context": "Mulligan says 'Chuck Loyola, Kinch, and come on down.'"
+    },
+    {
+      "word": "Sassenach",
+      "definition": "Gaelic term for an English person",
+      "context": "Mulligan says 'The Sassenach wants his morning rashers.'"
+    },
+    {
+      "word": "inconsequent",
+      "definition": "lacking sequence or consistency; here meaning inconsistent",
+      "context": "Mulligan claims 'I’m inconsequent.'"
+    },
+    {
+      "word": "stairhead",
+      "definition": "top of a staircase (compound usage)",
+      "context": "Mulligan comes from the 'stairhead' and booms down the stairhead."
+    },
+    {
+      "word": "gunrest",
+      "definition": "support or rest for a gun; here a round stone parapet",
+      "context": "They sit and stand upon the 'round gunrest.'"
+    },
+    {
+      "word": "parapet",
+      "definition": "low protective wall along the edge of a roof or terrace",
+      "context": "Mulligan props his mirror on the 'parapet.'"
+    },
+    {
+      "word": "smokeblue",
+      "definition": "compound color adjective (smoke-blue)",
+      "context": "Used to describe Mulligan’s 'smokeblue mobile eyes.'"
+    },
+    {
+      "word": "lancet",
+      "definition": "surgical instrument or metaphor for sharp instrument",
+      "context": "Stephen fears 'the lancet of my art' as Mulligan fears his."
+    },
+    {
+      "word": "Hellenise",
+      "definition": "to make Greek or adopt Greek culture",
+      "context": "Mulligan fantasizes 'if you and I could ... Hellenise it.'"
+    },
+    {
+      "word": "Algy",
+      "definition": "nickname (short for Algernon), personal name",
+      "context": "Mulligan says 'Isn’t the sea what Algy calls it.'"
+    },
+    {
+      "word": "brazen",
+      "definition": "made of brass; bold or impudent",
+      "context": "Quoted line 'For Fergus rules the brazen cars.'"
+    },
+    {
+      "word": "twining",
+      "definition": "twisting together",
+      "context": "The 'twining stresses, two by two' describes poetic imagery."
+    },
+    {
+      "word": "aproned",
+      "definition": "wearing an apron (duplicate entry appears in text)",
+      "context": "Describes the gardener 'aproned' while mowing the lawn."
+    },
+    {
+      "word": "dressinggown",
+      "definition": "housecoat worn at home",
+      "context": "Mulligan wears a 'yellow dressinggown.'"
+    },
+    {
+      "word": "quid",
+      "definition": "slang for a pound sterling (money)",
+      "context": "Mulligan asks if he can get the aunt to 'fork out twenty quid.'"
+    },
+    {
+      "word": "funk",
+      "definition": "a state of fear or panic",
+      "context": "Mulligan asks 'Were you in a funk?' after Haines’s raving."
+    },
+    {
+      "word": "mailboat",
+      "definition": "boat carrying mail and passengers",
+      "context": "Stephen watches the 'mailboat clearing the harbourmouth of Kingstown.'"
+    },
+    {
+      "word": "harbourmouth",
+      "definition": "entrance to a harbour (compound)",
+      "context": "The mailboat clears the 'harbourmouth of Kingstown.'"
+    },
+    {
+      "word": "wellknit",
+      "definition": "tightly muscled or compact (compound adjective)",
+      "context": "Mulligan’s 'strong wellknit trunk' is described when he laughs."
+    },
+    {
+      "word": "hair stripe",
+      "definition": "narrow stripe in fabric resembling hairline pattern",
+      "context": "Mulligan mentions 'a lovely pair with a hair stripe, grey.'"
+    },
+    {
+      "word": "whinge",
+      "definition": "to complain or whine (British informal)",
+      "context": "Mulligan notes 'I don’t whinge like some hired mute from Lalouette’s.'"
+    },
+    {
+      "word": "seaward",
+      "definition": "toward the sea",
+      "context": "Woodshadows float 'from the stairhead seaward where he gazed.'"
+    },
+    {
+      "word": "gurgling",
+      "definition": "to make bubbling sounds as liquid does",
+      "context": "Mulligan 'gurgling in his throat' while making the sign of the cross."
+    },
+    {
+      "word": "jowl",
+      "definition": "the lower part of a person’s cheek or jaw",
+      "context": "Mulligan’s 'sullen oval jowl' is used to describe his face."
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/4300"
+}
