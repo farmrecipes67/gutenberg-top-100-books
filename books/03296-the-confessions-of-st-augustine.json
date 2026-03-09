@@ -1,0 +1,559 @@
+{
+  "gutenberg_id": 3296,
+  "title": "The Confessions of St. Augustine",
+  "author": "Augustine, of Hippo, Saint",
+  "summary": "Augustine's Confessions Book I is a prayerful interior monologue in which the narrator addresses God, praising divine greatness, wrestling with how finite humans can call on an infinite Creator, and confessing personal sinfulness. He recalls infancy and dependence on mother and nurses, the formation of desires, childish indignation and envy, and questions about memory, being, and God's presence everywhere. Augustine pleads for cleansing, enlargement of his narrow soul, and divine mercy. He meditates on God's attributes—omnipotence, mercy, justice— and acknowledges human restlessness until the heart finds repose in God, whose mercy and providence shaped his life and invites humble praise.",
+  "characters": [
+    {
+      "name": "Augustine (narrator)",
+      "age": "adult (writing as a mature Christian)",
+      "personality": "introspective, penitential, philosophical, longing for God",
+      "lifespan": "living in the present narrative; remembers infancy and seeks divine mercy"
+    },
+    {
+      "name": "God / The Lord",
+      "age": "eternal",
+      "personality": "omnipotent, merciful, just, incomprehensible as described by the narrator",
+      "lifespan": "eternal; sovereign presence throughout the narrative"
+    },
+    {
+      "name": "Mother",
+      "age": "adult (mother at his infancy)",
+      "personality": "nurturing, provider of early sustenance",
+      "lifespan": "appears as Augustine's biological mother who nursed him—no further fate given in the excerpt"
+    },
+    {
+      "name": "Nurses",
+      "age": "adult women",
+      "personality": "compassionate, caring, instrumental in infant care",
+      "lifespan": "present in Augustine's infancy as caregivers; no further fate given"
+    },
+    {
+      "name": "Parents of my flesh",
+      "age": "adults",
+      "personality": "providers of life and early care",
+      "lifespan": "receive Augustine in infancy (biological parents); no further fate detailed"
+    },
+    {
+      "name": "The Preacher",
+      "age": "adult",
+      "personality": "ministerial, instrumental in transmitting faith and doctrine",
+      "lifespan": "preaches the Incarnation and shapes Augustine's faith formation in the narrative"
+    },
+    {
+      "name": "The Son (Incarnation of Thy Son)",
+      "age": "eternal/divine and incarnate",
+      "personality": "mediator referenced as part of salvation history",
+      "lifespan": "eternal divine person, mentioned as incarnate in the preaching that reached Augustine"
+    },
+    {
+      "name": "Elders",
+      "age": "older adults",
+      "personality": "authoritative but not always submissive to infant will; represent social order",
+      "lifespan": "figure in Augustine's childhood memories; no detailed fate given"
+    },
+    {
+      "name": "Foster-brother",
+      "age": "child (contemporary of Augustine's infancy)",
+      "personality": "rival in infancy; object of envy in Augustine's memory",
+      "lifespan": "appears in a remembered incident of infant envy; no further fate given"
+    },
+    {
+      "name": "The Enemy",
+      "age": "not age-specific (spiritual adversary)",
+      "personality": "spiritual adversary from whom Augustine asks to be spared",
+      "lifespan": "mentioned as a power from which Augustine seeks deliverance"
+    },
+    {
+      "name": "Women with child",
+      "age": "pregnant women (adults)",
+      "personality": "examples Augustine observes when pondering pre-birth existence",
+      "lifespan": "cited in memory/observation; no personal fates given"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hippo Regius (Hippo)",
+      "latitude": 36.9,
+      "longitude": 7.7667
+    },
+    {
+      "name": "Algeria",
+      "latitude": 28.0339,
+      "longitude": 1.6596
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "inebriate",
+      "definition": "to intoxicate or fill with joy/enthusiasm",
+      "context": "appears in 'enter into my heart, and inebriate it'"
+    },
+    {
+      "word": "iniquity",
+      "definition": "gross injustice or wickedness; moral wickedness",
+      "context": "appears in 'for if Thou, Lord, shouldest mark iniquities...'"
+    },
+    {
+      "word": "suppliant",
+      "definition": "one who humbly begs or petitions",
+      "context": "appears in 'Say, Lord, to me, Thy suppliant;'"
+    },
+    {
+      "word": "pitiable",
+      "definition": "deserving or arousing pity",
+      "context": "appears in 'to me, Thy pitiable one;'"
+    },
+    {
+      "word": "mansion",
+      "definition": "a dwelling or abode (here: metaphor for the soul)",
+      "context": "appears in 'Narrow is the mansion of my soul;'"
+    },
+    {
+      "word": "ruinous",
+      "definition": "in a state of decay or disrepair",
+      "context": "appears in 'It is ruinous; repair Thou it.'"
+    },
+    {
+      "word": "offend",
+      "definition": "to cause displeasure or resentment; to sin against",
+      "context": "appears in 'which must offend Thine eyes;'"
+    },
+    {
+      "word": "confess",
+      "definition": "to acknowledge guilt or wrongdoing",
+      "context": "appears in 'I confess and know it.'"
+    },
+    {
+      "word": "spare",
+      "definition": "to refrain from harming; to pity or forbear",
+      "context": "appears in 'spare Thy servant from the power of the enemy.'"
+    },
+    {
+      "word": "mortality",
+      "definition": "the state of being subject to death",
+      "context": "appears in 'man, that bears about him his mortality;'"
+    },
+    {
+      "word": "resistest",
+      "definition": "archaic 2nd-person singular of 'resist' (to oppose)",
+      "context": "appears in 'Thou resistest the proud:'"
+    },
+    {
+      "word": "repose",
+      "definition": "rest or tranquility",
+      "context": "appears in 'our heart is restless, until it repose in Thee.'"
+    },
+    {
+      "word": "Incarnation",
+      "definition": "the embodiment of the divine in human form",
+      "context": "appears in 'through the Incarnation of Thy Son,'"
+    },
+    {
+      "word": "ministry",
+      "definition": "the work or service of a religious minister",
+      "context": "appears in 'through the ministry of the Preacher.'"
+    },
+    {
+      "word": "particle",
+      "definition": "a small portion or fragment",
+      "context": "appears in 'man, but a particle of Thy creation;'"
+    },
+    {
+      "word": "awakest",
+      "definition": "archaic 2nd-person singular of 'awake' (to rouse)",
+      "context": "appears in 'Thou awakest us to delight in Thy praise;'"
+    },
+    {
+      "word": "wherein",
+      "definition": "in which; in the place or respect that",
+      "context": "appears in 'and wherein Thou hast made me, contain Thee?'"
+    },
+    {
+      "word": "inebriate (duplicate check)",
+      "definition": "see earlier entry",
+      "context": "duplicate avoided in use but originally appears as noted"
+    },
+    {
+      "word": "potent",
+      "definition": "having great power or influence",
+      "context": "appears in 'most potent, most omnipotent;'"
+    },
+    {
+      "word": "omnipotent",
+      "definition": "all-powerful",
+      "context": "appears in 'most potent, most omnipotent;'"
+    },
+    {
+      "word": "incomprehensible",
+      "definition": "impossible to fully understand",
+      "context": "appears in 'stable, yet incomprehensible;'"
+    },
+    {
+      "word": "maturing",
+      "definition": "becoming mature or developed",
+      "context": "appears in 'creating, nourishing, and maturing;'"
+    },
+    {
+      "word": "covetous",
+      "definition": "greedy for wealth or possessions",
+      "context": "appears in 'never covetous, yet exacting usury.'"
+    },
+    {
+      "word": "usury",
+      "definition": "the practice of charging excessive interest",
+      "context": "appears in 'yet exacting usury.'"
+    },
+    {
+      "word": "repentest",
+      "definition": "archaic 2nd-person singular of 'repent' (to feel regret)",
+      "context": "appears in 'repentest, yet grievest not;'"
+    },
+    {
+      "word": "grievest",
+      "definition": "archaic 2nd-person singular of 'grieve' (to feel sorrow)",
+      "context": "appears in 'repentest, yet grievest not;'"
+    },
+    {
+      "word": "serene",
+      "definition": "calm, peaceful, untroubled",
+      "context": "appears in 'art angry, yet serene;'"
+    },
+    {
+      "word": "jealous",
+      "definition": "zealous in guarding what is one's own (here, divine jealousy)",
+      "context": "appears in 'Thou lovest, without passion; art jealous, without anxiety;'"
+    },
+    {
+      "word": "changest",
+      "definition": "archaic 2nd-person singular of 'change'",
+      "context": "appears in 'changest Thy works, Thy purpose unchanged;'"
+    },
+    {
+      "word": "remittest",
+      "definition": "archaic 2nd-person singular of 'remit' (to forgive)",
+      "context": "appears in 'Thou remittest debts, losing nothing.'"
+    },
+    {
+      "word": "overspreading",
+      "definition": "spreading over or covering broadly",
+      "context": "appears in 'supporting, filling, and overspreading;'"
+    },
+    {
+      "word": "compacting",
+      "definition": "compressing or making compact",
+      "context": "appears in 'compacting its limbs,'"
+    },
+    {
+      "word": "ornamenting",
+      "definition": "decorating or adorning",
+      "context": "appears in 'ornamenting its proportions,'"
+    },
+    {
+      "word": "implanting",
+      "definition": "fixing or embedding firmly",
+      "context": "appears in 'for its general good and safety, implanting in it all vital functions,'"
+    },
+    {
+      "word": "rudiments",
+      "definition": "first principles or beginnings",
+      "context": "appears in 'my first rudiments of being,'"
+    },
+    {
+      "word": "unabiding",
+      "definition": "not lasting; transient",
+      "context": "appears in 'the first causes of all things unabiding;'"
+    },
+    {
+      "word": "reproved",
+      "definition": "criticized or rebuked",
+      "context": "appears in 'should I now so do for food suitable to my age, justly should I be laughed at and reproved.'"
+    },
+    {
+      "word": "avenged",
+      "definition": "took vengeance or retaliated",
+      "context": "appears in 'and avenged myself on them by tears.'"
+    },
+    {
+      "word": "indignant",
+      "definition": "feeling or showing anger at unjust treatment",
+      "context": "appears in 'then I was indignant with my elders for not submitting to me,'"
+    },
+    {
+      "word": "foster-brother",
+      "definition": "a child reared in the same household but not biologically related",
+      "context": "appears in 'I saw... it turned pale and looked bitterly on its foster-brother.'"
+    },
+    {
+      "word": "extremest",
+      "definition": "most extreme; utmost",
+      "context": "appears in 'though in extremest need,'"
+    },
+    {
+      "word": "prunes",
+      "definition": "trims or cuts away (here figurative)",
+      "context": "appears in 'no man, though he prunes, wittingly casts away what is good.'"
+    },
+    {
+      "word": "wittingly",
+      "definition": "knowingly; intentionally",
+      "context": "appears in 'no man, though he prunes, wittingly casts away what is good.'"
+    },
+    {
+      "word": "tempers",
+      "definition": "dispositions or moods of mind",
+      "context": "appears in 'the very same tempers are utterly intolerable when found in riper years.'"
+    },
+    {
+      "word": "tolerated",
+      "definition": "allowed or endured",
+      "context": "appears in 'though tolerated now, the very same tempers are utterly intolerable...'"
+    },
+    {
+      "word": "intolerable",
+      "definition": "unable to be endured",
+      "context": "appears in 'utterly intolerable when found in riper years.'"
+    },
+    {
+      "word": "mould",
+      "definition": "a form or shape in which something is formed",
+      "context": "appears in 'from Thy \"to-day,\" and from it received the measure and the mould of such being as they had;'"
+    },
+    {
+      "word": "infinite",
+      "definition": "without limits; immeasurable",
+      "context": "appears in 'Thy wisdom infinite.'"
+    },
+    {
+      "word": "witness",
+      "definition": "a sign or testimony of something",
+      "context": "appears in 'that bears about him his mortality, the witness of his sin,'"
+    },
+    {
+      "word": "doth",
+      "definition": "archaic 3rd-person singular of 'do'",
+      "context": "appears in 'doth therefore whatever exists contain Thee?'"
+    },
+    {
+      "word": "shouldest",
+      "definition": "archaic 2nd-person singular subjunctive of 'should'",
+      "context": "appears in 'why do I seek that Thou shouldest enter into me...'"
+    },
+    {
+      "word": "thereof",
+      "definition": "of that or of it",
+      "context": "appears in 'this age then, Lord, whereof I have no remembrance;'"
+    },
+    {
+      "word": "mock",
+      "definition": "to ridicule or make fun of",
+      "context": "appears in 'Dost Thou mock me for asking this,'"
+    },
+    {
+      "word": "behold",
+      "definition": "to see or observe (often as a call to attention)",
+      "context": "appears in 'Behold, Lord, my heart is before Thee;'"
+    },
+    {
+      "word": "wroth",
+      "definition": "archaic for 'angry, enraged'",
+      "context": "appears in 'and, if I give it not, art wroth with me,'"
+    },
+    {
+      "word": "grievous",
+      "definition": "causing grief or great sorrow; grievous",
+      "context": "appears in 'and threatenest me with grievous woes?'"
+    },
+    {
+      "word": "father",
+      "definition": "male parent",
+      "context": "appears in 'neither father nor mother,'"
+    },
+    {
+      "word": "breasts",
+      "definition": "mammary glands; here used for nursing",
+      "context": "appears in 'nor my nurses stored their own breasts for me;'"
+    },
+    {
+      "word": "springs",
+      "definition": "sources or fountains",
+      "context": "appears in 'through the hidden springs of all things.'"
+    },
+    {
+      "word": "ordinance",
+      "definition": "a regulation or established law/order (here: divine ordinance)",
+      "context": "appears in 'according to Thine ordinance, whereby Thou distributest Thy riches'"
+    },
+    {
+      "word": "abounded",
+      "definition": "was plentiful or in great supply",
+      "context": "appears in 'they abounded with from Thee.'"
+    },
+    {
+      "word": "proclaiming",
+      "definition": "announcing publicly or declaring",
+      "context": "appears in 'Thou, through these Thy gifts, within me and without, proclaiming Thyself unto me.'"
+    },
+    {
+      "word": "hurtful",
+      "definition": "causing harm or damage",
+      "context": "appears in 'my wishes being hurtful or unintelligible,'"
+    },
+    {
+      "word": "unintelligible",
+      "definition": "not able to be understood",
+      "context": "appears in 'my wishes being hurtful or unintelligible,'"
+    },
+    {
+      "word": "submit",
+      "definition": "to yield to the authority or will of another",
+      "context": "appears in 'when I was not presently obeyed... I was indignant with my elders for not submitting to me,'"
+    },
+    {
+      "word": "elders",
+      "definition": "older or senior persons in authority",
+      "context": "appears in 'I was indignant with my elders for not submitting to me,'"
+    },
+    {
+      "word": "unconscious",
+      "definition": "not aware or not conscious",
+      "context": "appears in 'they, all unconscious, have shown me better than my nurses'"
+    },
+    {
+      "word": "mute",
+      "definition": "silent; unable to speak",
+      "context": "appears in 'yet woe to him that speaketh not, since mute are even the most eloquent.'"
+    },
+    {
+      "word": "eloquent",
+      "definition": "fluent or persuasive in speaking",
+      "context": "appears in 'since mute are even the most eloquent.'"
+    },
+    {
+      "word": "restless",
+      "definition": "unable to rest or be still; uneasy",
+      "context": "appears in 'our heart is restless, until it repose in Thee.'"
+    },
+    {
+      "word": "unreasoning",
+      "definition": "not governed by reason; irrational",
+      "context": "appears in 'the eternal reasons of all things unreasoning and temporal.'"
+    },
+    {
+      "word": "temporal",
+      "definition": "relating to time or worldly affairs (not eternal)",
+      "context": "appears in 'unreasoning and temporal.'"
+    },
+    {
+      "word": "despisest",
+      "definition": "archaic 2nd-person singular of 'despise' (to scorn)",
+      "context": "appears in 'Thou too, perhaps, despisest me,'"
+    },
+    {
+      "word": "tears",
+      "definition": "drops of clear salty liquid secreted by glands in the eyes (here as expression of sorrow)",
+      "context": "appears in 'and avenged myself on them by tears.'"
+    },
+    {
+      "word": "root",
+      "definition": "to remove by or as if by pulling up by the roots; here 'root out'",
+      "context": "appears in 'those habits, when grown, we root out and cast away.'"
+    },
+    {
+      "word": "proud",
+      "definition": "having or showing a high opinion of oneself; haughty",
+      "context": "appears in 'for Thou resistest the proud:'"
+    },
+    {
+      "word": "payest",
+      "definition": "archaic 2nd-person singular of 'pay'",
+      "context": "appears in 'Thou payest debts, owing nothing;'"
+    },
+    {
+      "word": "owing",
+      "definition": "being in debt; as a present participle",
+      "context": "appears in 'owing nothing; remittest debts, losing nothing.'"
+    },
+    {
+      "word": "gains",
+      "definition": "acquisitions or profits",
+      "context": "appears in 'never in need, yet rejoicing in gains;'"
+    },
+    {
+      "word": "exacting",
+      "definition": "demanding and strict; requiring much",
+      "context": "appears in 'never covetous, yet exacting usury.'"
+    },
+    {
+      "word": "receivest",
+      "definition": "archaic 2nd-person singular of 'receive'",
+      "context": "appears in 'receivest again what Thou findest,'"
+    },
+    {
+      "word": "findest",
+      "definition": "archaic 2nd-person singular of 'find'",
+      "context": "appears in 'receivest again what Thou findest,'"
+    },
+    {
+      "word": "art",
+      "definition": "archaic 2nd-person singular of 'be' (are)",
+      "context": "appears throughout: 'Art Thou... art not...' etc."
+    },
+    {
+      "word": "wert",
+      "definition": "archaic past tense 2nd-person singular of 'be' (were)",
+      "context": "appears in 'who were not, wert Thou not in me?'"
+    },
+    {
+      "word": "sometime",
+      "definition": "at some time in the past; formerly",
+      "context": "appears in 'out of whose substance Thou didst sometime fashion me.'"
+    },
+    {
+      "word": "contend",
+      "definition": "to argue or assert; to struggle in debate",
+      "context": "appears in 'I contend not in judgment with Thee, who art the truth;'"
+    },
+    {
+      "word": "judgment",
+      "definition": "the process of forming an opinion or conclusion",
+      "context": "appears in 'I contend not in judgment with Thee,'"
+    },
+    {
+      "word": "deceive",
+      "definition": "to mislead or cause to believe what is false",
+      "context": "appears in 'I fear to deceive myself; lest mine iniquity lie unto itself.'"
+    },
+    {
+      "word": "mark",
+      "definition": "to notice or record; to take account of",
+      "context": "appears in 'for if Thou, Lord, shouldest mark iniquities, O Lord, who shall abide it?'"
+    },
+    {
+      "word": "suffer",
+      "definition": "to allow or permit; here: permit speech to continue",
+      "context": "appears in 'Yet suffer me to speak unto Thy mercy, me, dust and ashes.'"
+    },
+    {
+      "word": "memory",
+      "definition": "the faculty by which the mind stores and remembers information",
+      "context": "appears in 'for this have I none to tell me, neither father nor mother, nor experience of others, nor mine own memory.'"
+    },
+    {
+      "word": "parents",
+      "definition": "mother and father; progenitors",
+      "context": "appears in 'from the parents of my flesh, out of whose substance Thou didst sometime fashion me.'"
+    },
+    {
+      "word": "willingly",
+      "definition": "done by choice or consent; readily",
+      "context": "appears in 'and to my nurses willingly to give me what Thou gavest them.'"
+    },
+    {
+      "word": "distributest",
+      "definition": "archaic 2nd-person singular of 'distribute' (to give out)",
+      "context": "appears in 'according to Thine ordinance, whereby Thou distributest Thy riches through the hidden springs of all things.'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/3296"
+}
