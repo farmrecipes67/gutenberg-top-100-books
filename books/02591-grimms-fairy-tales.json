@@ -1,0 +1,569 @@
+{
+  "gutenberg_id": 2591,
+  "title": "Grimms' Fairy Tales",
+  "author": "Grimm, Jacob",
+  "summary": "Grimms’ Fairy Tales collects traditional German folk stories translated into English, presenting magical adventures, tests of character, and moral lessons. Tales feature kings, peasants, clever animals, wicked witches, and brave youths who encounter enchanted objects, talking beasts, and perilous tasks. Recurrent motifs include golden treasures, lost children, cunning helpers, trials for marriage, and rescue from danger. Stories blend wonder and severity: rewards for kindness, punishments for greed or disobedience. The Golden Bird exemplifies these themes: three brothers, a talking fox, a princess, golden treasures, betrayal, and eventual justice. The anthology preserves folk motifs, archaic language, and stark moral contrasts faithfully.",
+  "characters": [
+    {
+      "name": "The King",
+      "age": "middle-aged or older (unspecified)",
+      "personality": "authoritative, proud of his treasures, demands justice and rare items",
+      "lifespan": "remains ruler in the tale; commands quests and judges actions"
+    },
+    {
+      "name": "The Gardener",
+      "age": "adult (unspecified)",
+      "personality": "dutiful, anxious for his children’s safety, responsible for the garden",
+      "lifespan": "stays with his family; orders his sons to keep watch"
+    },
+    {
+      "name": "Eldest Son",
+      "age": "young adult (estimated 18–25)",
+      "personality": "ambitious but easily tempted and dismissive of counsel",
+      "lifespan": "fails quest, becomes lost/forgets home; later revealed to turn robber and is punished or arrested"
+    },
+    {
+      "name": "Second Son",
+      "age": "young adult (estimated 16–24)",
+      "personality": "similar to eldest, tempted by pleasure and merrymaking",
+      "lifespan": "fails quest, disappears for a time and later turns robber with brother"
+    },
+    {
+      "name": "Youngest Son",
+      "age": "young adult / youngest (estimated 15–20)",
+      "personality": "obstinate but kind, obedient to helpful counsel, humble and brave",
+      "lifespan": "succeeds through trials with fox's help, suffers betrayal by brothers but is ultimately rescued and restored"
+    },
+    {
+      "name": "The Fox",
+      "age": "animal (ageless)",
+      "personality": "clever, patient, sacrificial, offers repeated counsel and aid",
+      "lifespan": "helps the youngest son through many tasks; requests to be killed at end but instead gives final counsel and departs"
+    },
+    {
+      "name": "The Princess",
+      "age": "young adult (unspecified)",
+      "personality": "beautiful, emotional, prone to pleading but ultimately a prize to be protected",
+      "lifespan": "taken and reclaimed during the story; marries or departs with the hero depending on tale resolution"
+    },
+    {
+      "name": "The Groom",
+      "age": "adult attendant (unspecified)",
+      "personality": "caretaker of the horse, asleep and negligent at critical moments",
+      "lifespan": "falls asleep and alerts guards when golden saddle is taken"
+    },
+    {
+      "name": "Soldiers / Guards",
+      "age": "adults",
+      "personality": "suspicious, dutiful, respond to alarms",
+      "lifespan": "arrest trespassers and enforce the king's sentences"
+    },
+    {
+      "name": "King's Council",
+      "age": "adults",
+      "personality": "advisory body, values the golden feather and treasures",
+      "lifespan": "convene to assess the feather's worth and advise the king"
+    },
+    {
+      "name": "The Two Brothers (turned robbers)",
+      "age": "adult (the eldest and second sons)",
+      "personality": "dishonest, envious, treacherous toward their youngest brother",
+      "lifespan": "betray the youngest, steal his prizes, and are later unmasked or punished"
+    },
+    {
+      "name": "Villagers / People",
+      "age": "mixed",
+      "personality": "practical, sometimes harsh (they demand ransom for prisoners)",
+      "lifespan": "participate as crowd, jurors, or executioners in the story's events"
+    }
+  ],
+  "locations": [],
+  "unusual_words": [
+    {
+      "word": "eBook",
+      "definition": "electronic version of a book",
+      "context": "appears in the header as 'The Project Gutenberg eBook'"
+    },
+    {
+      "word": "Preparer's",
+      "definition": "belonging to the person who prepared the edition",
+      "context": "used in the heading 'PREPARER’S NOTE'"
+    },
+    {
+      "word": "Kinder",
+      "definition": "German for 'children'",
+      "context": "part of the original German title 'Kinder und Hausmärchen'"
+    },
+    {
+      "word": "Hausmärchen",
+      "definition": "German for 'household tales' or 'house-myths'",
+      "context": "part of the original German title"
+    },
+    {
+      "word": "council",
+      "definition": "an advisory assembly",
+      "context": "all the council was called together to value the feather"
+    },
+    {
+      "word": "garden",
+      "definition": "enclosed area where plants grow",
+      "context": "a certain king had a beautiful garden"
+    },
+    {
+      "word": "tree",
+      "definition": "woody plant in the garden bearing apples",
+      "context": "in the garden stood a tree which bore golden apples"
+    },
+    {
+      "word": "golden",
+      "definition": "made of or colored like gold; precious",
+      "context": "describes the bird, apples, cage, and horse amenities"
+    },
+    {
+      "word": "apples",
+      "definition": "fruit produced by the tree",
+      "context": "the golden apples were counted and stolen each night"
+    },
+    {
+      "word": "gardener",
+      "definition": "one who tends the garden",
+      "context": "the king ordered the gardener to keep watch"
+    },
+    {
+      "word": "watch",
+      "definition": "to keep guard or vigil",
+      "context": "sons set to watch under the tree by night"
+    },
+    {
+      "word": "eldest",
+      "definition": "oldest of siblings",
+      "context": "the gardener's eldest son was sent to watch first"
+    },
+    {
+      "word": "midnight",
+      "definition": "twelve o'clock at night",
+      "context": "the bird came as the clock struck twelve"
+    },
+    {
+      "word": "rustling",
+      "definition": "soft, fluttering sound",
+      "context": "he heard a rustling noise in the air"
+    },
+    {
+      "word": "bird",
+      "definition": "winged creature central to the tale",
+      "context": "a bird came flying that was of pure gold"
+    },
+    {
+      "word": "gold",
+      "definition": "precious metal; color of the bird",
+      "context": "the bird was of pure gold and dropped a golden feather"
+    },
+    {
+      "word": "snapping",
+      "definition": "quick biting motion",
+      "context": "the bird was snapping at one of the apples with its beak"
+    },
+    {
+      "word": "beak",
+      "definition": "bird's bill used for pecking",
+      "context": "the bird snapped an apple with its beak"
+    },
+    {
+      "word": "arrow",
+      "definition": "projectile shot from a bow",
+      "context": "he shot an arrow at the golden bird"
+    },
+    {
+      "word": "feather",
+      "definition": "plume from the bird's tail",
+      "context": "a golden feather dropped from its tail"
+    },
+    {
+      "word": "king",
+      "definition": "ruler of the kingdom in the tale",
+      "context": "the king became very angry about the stolen apples"
+    },
+    {
+      "word": "wealth",
+      "definition": "great riches or value",
+      "context": "the council agreed the feather was worth more than wealth"
+    },
+    {
+      "word": "son",
+      "definition": "male child of the gardener",
+      "context": "the gardener's sons are the primary questing figures"
+    },
+    {
+      "word": "wood",
+      "definition": "small forest area encountered on the road",
+      "context": "as he had gone a little way he came to a wood"
+    },
+    {
+      "word": "fox",
+      "definition": "an animal who speaks and gives counsel",
+      "context": "a fox sat by the wood and gave advice"
+    },
+    {
+      "word": "bow",
+      "definition": "weapon used to shoot arrows",
+      "context": "he took his bow and made ready to shoot the fox"
+    },
+    {
+      "word": "shoot",
+      "definition": "to fire an arrow",
+      "context": "he shot at the fox and later at the bird"
+    },
+    {
+      "word": "village",
+      "definition": "small settlement on the hero's route",
+      "context": "they reached a village in the evening with two inns"
+    },
+    {
+      "word": "inns",
+      "definition": "taverns or lodging houses",
+      "context": "two inns stood opposite each other in the village"
+    },
+    {
+      "word": "pleasant",
+      "definition": "agreeable or attractive",
+      "context": "one inn was very pleasant and beautiful to look at"
+    },
+    {
+      "word": "shabby",
+      "definition": "worn or poor in appearance",
+      "context": "the fox advised to rest in the shabby inn"
+    },
+    {
+      "word": "night",
+      "definition": "period of darkness when people sleep",
+      "context": "rest for the night in the other inn"
+    },
+    {
+      "word": "singing",
+      "definition": "making musical vocal sounds",
+      "context": "in one inn were people singing and dancing"
+    },
+    {
+      "word": "dancing",
+      "definition": "moving rhythmically to music",
+      "context": "merrymaking inside the smart inn"
+    },
+    {
+      "word": "feasting",
+      "definition": "eating and celebrating",
+      "context": "people were feasting in the smart inn"
+    },
+    {
+      "word": "consent",
+      "definition": "permission granted",
+      "context": "the gardener at last consented to let his son go"
+    },
+    {
+      "word": "tail",
+      "definition": "rear appendage of the fox",
+      "context": "sit upon my tail, and you will travel faster"
+    },
+    {
+      "word": "stock",
+      "definition": "tree trunks and branches; rough ground",
+      "context": "away they went over stock and stone"
+    },
+    {
+      "word": "stone",
+      "definition": "rocky ground encountered on the route",
+      "context": "over stock and stone till their hair whistled"
+    },
+    {
+      "word": "hair",
+      "definition": "the hero's hair, used figuratively",
+      "context": "their hair whistled in the wind"
+    },
+    {
+      "word": "whistled",
+      "definition": "produced a high sound from wind",
+      "context": "their hair whistled in the wind as they ran"
+    },
+    {
+      "word": "castle",
+      "definition": "large fortified residence of a noble or king",
+      "context": "go straight forward till you come to a castle"
+    },
+    {
+      "word": "soldiers",
+      "definition": "armed men guarding the castle",
+      "context": "before the castle lay a whole troop of soldiers fast asleep"
+    },
+    {
+      "word": "snoring",
+      "definition": "making loud breathing sounds while asleep",
+      "context": "a groom lay snoring by the horse's stall"
+    },
+    {
+      "word": "cage",
+      "definition": "enclosure for keeping the bird",
+      "context": "the golden bird sits in a wooden cage"
+    },
+    {
+      "word": "wooden",
+      "definition": "made of wood",
+      "context": "the bird hung in a wooden cage"
+    },
+    {
+      "word": "beautiful",
+      "definition": "pleasing to the senses",
+      "context": "by his side stands a beautiful golden cage"
+    },
+    {
+      "word": "apple",
+      "definition": "fruit lost from the garden",
+      "context": "the three golden apples that had been lost lay close by"
+    },
+    {
+      "word": "droll",
+      "definition": "curious or odd in a humorous way",
+      "context": "it will be a very droll thing to bring away the bird in a shabby cage"
+    },
+    {
+      "word": "prisoner",
+      "definition": "one taken captive",
+      "context": "they took him prisoner and carried him before the king"
+    },
+    {
+      "word": "court",
+      "definition": "the king's judicial assembly",
+      "context": "the next morning the court sat to judge him"
+    },
+    {
+      "word": "judge",
+      "definition": "to decide guilt or innocence",
+      "context": "the court judged and sentenced him to die"
+    },
+    {
+      "word": "die",
+      "definition": "to be executed if conditions are not met",
+      "context": "sentenced to die unless he brings the golden horse"
+    },
+    {
+      "word": "horse",
+      "definition": "a swift golden steed desired by the king",
+      "context": "the golden horse which could run as swiftly as the wind"
+    },
+    {
+      "word": "swift",
+      "definition": "very fast",
+      "context": "run as swiftly as the wind"
+    },
+    {
+      "word": "groom",
+      "definition": "stable attendant who cares for the horse",
+      "context": "by his side lay the groom fast asleep"
+    },
+    {
+      "word": "leathern",
+      "definition": "made of leather; archaic adjective",
+      "context": "be sure to put the old leathern saddle upon him"
+    },
+    {
+      "word": "saddle",
+      "definition": "seat placed on a horse's back",
+      "context": "the old leathern saddle and the golden saddle lay by the horse"
+    },
+    {
+      "word": "princess",
+      "definition": "the king's daughter",
+      "context": "if he could bring the beautiful princess, he should live"
+    },
+    {
+      "word": "bathing-house",
+      "definition": "place where the princess went to bathe",
+      "context": "at twelve o'clock the princess goes to the bathing-house"
+    },
+    {
+      "word": "kiss",
+      "definition": "a token of affection used to gain consent",
+      "context": "go up to her and give her a kiss, and she will let you lead her away"
+    },
+    {
+      "word": "tears",
+      "definition": "drops of sorrowful emotion",
+      "context": "she begged with many tears that he would let her take leave"
+    },
+    {
+      "word": "work",
+      "definition": "to labor, as when the hero digs the hill",
+      "context": "when he had worked for seven days he had done very little"
+    },
+    {
+      "word": "hill",
+      "definition": "elevated land obstructing the king's view",
+      "context": "dig away the hill that stops the view from my window"
+    },
+    {
+      "word": "view",
+      "definition": "sight or panorama from a window",
+      "context": "the hill that stops the view from my window"
+    },
+    {
+      "word": "world",
+      "definition": "used hyperbolically to indicate something vast",
+      "context": "the hill was so big that the whole world could not take it away"
+    },
+    {
+      "word": "morning",
+      "definition": "early part of the day after dawn",
+      "context": "in the morning he awoke and the hill was gone"
+    },
+    {
+      "word": "obliged",
+      "definition": "compelled by duty or necessity",
+      "context": "the king was obliged to keep his word"
+    },
+    {
+      "word": "spurs",
+      "definition": "metal points worn on boots to urge a horse",
+      "context": "clap your spurs to his side, and gallop away"
+    },
+    {
+      "word": "ride",
+      "definition": "to sit and travel on a horse",
+      "context": "mount the golden horse and ride off with the princess"
+    },
+    {
+      "word": "gallop",
+      "definition": "fast gait of a horse",
+      "context": "clap your spurs and gallop away as fast as you can"
+    },
+    {
+      "word": "river",
+      "definition": "a flowing body of water the hero encounters",
+      "context": "sit down by the side of no river"
+    },
+    {
+      "word": "bank",
+      "definition": "edge of the river",
+      "context": "they threw him down the bank and took the princess"
+    },
+    {
+      "word": "bed",
+      "definition": "river's bed, the bottom of the river",
+      "context": "the youngest son fell to the bottom of the river's bed"
+    },
+    {
+      "word": "bones",
+      "definition": "the hero's bones, injured after the fall",
+      "context": "his bones were almost broken"
+    },
+    {
+      "word": "steep",
+      "definition": "having a sharp inclination",
+      "context": "the bank was so steep that he could find no way to get out"
+    },
+    {
+      "word": "pull",
+      "definition": "to exert force; fox pulls him out",
+      "context": "lay hold of my tail and hold fast; then he pulled him out"
+    },
+    {
+      "word": "fast",
+      "definition": "firmly or securely",
+      "context": "lay hold of my tail and hold fast"
+    },
+    {
+      "word": "scolded",
+      "definition": "chastised verbally",
+      "context": "the old fox came and scolded him for not following advice"
+    },
+    {
+      "word": "counsel",
+      "definition": "advice or guidance",
+      "context": "the fox gave him counsel repeatedly about what to do"
+    },
+    {
+      "word": "ransom",
+      "definition": "payment for release from captivity",
+      "context": "they asked that he bestow all his money and buy their liberty"
+    },
+    {
+      "word": "gallows",
+      "definition": "structure used for execution by hanging",
+      "context": "beware of two things; ransom no one from the gallows"
+    },
+    {
+      "word": "robbers",
+      "definition": "criminals who steal; the two brothers become robbers",
+      "context": "he saw that the two men were his brothers, who had turned robbers"
+    },
+    {
+      "word": "uproar",
+      "definition": "loud disturbance or commotion",
+      "context": "there he heard a great noise and uproar"
+    },
+    {
+      "word": "rascals",
+      "definition": "mischievous or dishonest people",
+      "context": "the people said he must bestow his money upon the rascals"
+    },
+    {
+      "word": "home",
+      "definition": "the protagonist's native place",
+      "context": "the brothers forgot the golden bird and his country"
+    },
+    {
+      "word": "merrily",
+      "definition": "in a cheerful or joyful way",
+      "context": "so he went merrily to the king after the hill was removed"
+    },
+    {
+      "word": "sighing",
+      "definition": "breathing showing sorrow",
+      "context": "he set out once more on his journey, sighing, and in great despair"
+    },
+    {
+      "word": "despair",
+      "definition": "loss of hope",
+      "context": "he set out in great despair when taken prisoner"
+    },
+    {
+      "word": "last",
+      "definition": "coming after all others",
+      "context": "shake hands with the princess last"
+    },
+    {
+      "word": "notice",
+      "definition": "take heed or pay attention to",
+      "context": "take no notice of them but go into the castle"
+    },
+    {
+      "word": "lead",
+      "definition": "to guide or bring someone along",
+      "context": "she agreed to let you lead her away after a kiss"
+    },
+    {
+      "word": "away",
+      "definition": "to a different place; used for departure",
+      "context": "ride away with the princess"
+    },
+    {
+      "word": "back",
+      "definition": "return to previous place",
+      "context": "they forgot his country and did not come back"
+    },
+    {
+      "word": "again",
+      "definition": "once more",
+      "context": "again they met or events repeated several times"
+    },
+    {
+      "word": "gave",
+      "definition": "past of give; to offer",
+      "context": "the fox gave him good counsel"
+    },
+    {
+      "word": "scream",
+      "definition": "a loud cry",
+      "context": "the bird set up such a loud scream that the soldiers awoke"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2591"
+}
