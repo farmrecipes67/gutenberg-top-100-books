@@ -1,0 +1,593 @@
+{
+  "gutenberg_id": 345,
+  "title": "Dracula",
+  "author": "Stoker, Bram",
+  "summary": "Jonathan Harker, a young English solicitor, travels from Munich and Vienna into the Carpathians to visit Count Dracula’s castle. He records impressions of Transylvania’s peoples, food, and superstitions—paprika dishes, mamaliga, and fearful villagers who cross themselves and warn him on the eve of St. George. At the Golden Krone he receives a courteous letter from Dracula; an anxious landlady gives him a rosary and crucifix. On the coach toward the Borgo Pass passengers name demons—Ordog, pokol, stregoica, vrolok—and hint at vampiric dangers. Harker’s journal mixes practical notes with growing unease as he nears the castle, and fears for his safety.",
+  "characters": [
+    {
+      "name": "Jonathan Harker",
+      "age": "unknown (adult)",
+      "personality": "observant, dutiful, pragmatic; keeps a detailed journal",
+      "lifespan": "Arrives at Castle Dracula and records events in his journal; fate beyond this excerpt is not revealed here"
+    },
+    {
+      "name": "Count Dracula",
+      "age": "unknown (implied ancient)",
+      "personality": "polite, mysterious, foreboding; nobleman of Transylvania",
+      "lifespan": "Addressed in letters and awaited by Harker; presence established but ultimate fate not shown in excerpt"
+    },
+    {
+      "name": "Mina Murray (Mina Harker)",
+      "age": "unknown (adult)",
+      "personality": "beloved, practical (referred to as recipient of Harker's notes)",
+      "lifespan": "Mentioned as the person to whom Harker hopes his papers will go; no fate given in excerpt"
+    },
+    {
+      "name": "Lucy Westenra",
+      "age": "unknown",
+      "personality": "not described in this excerpt (listed in contents)",
+      "lifespan": "Mentioned in contents only; fate not given in excerpt"
+    },
+    {
+      "name": "Dr. Seward",
+      "age": "unknown",
+      "personality": "medical practitioner (appears in contents as diary writer)",
+      "lifespan": "Referenced in contents; no events concerning him in this excerpt"
+    },
+    {
+      "name": "Professor Van Helsing",
+      "age": "unknown",
+      "personality": "learned physician and investigator (listed in contents)",
+      "lifespan": "Referenced in contents (phonograph diary spoken by Van Helsing); no direct action in this excerpt"
+    },
+    {
+      "name": "Golden Krone Landlady (elderly woman)",
+      "age": "elderly",
+      "personality": "superstitious, kindly, anxious; devout (gives a rosary)",
+      "lifespan": "Warns Harker and gives him a crucifix and rosary; remains at the inn in the excerpt"
+    },
+    {
+      "name": "Golden Krone Landlord (elderly man)",
+      "age": "elderly",
+      "personality": "reticent, uneasy, non-communicative about Count Dracula",
+      "lifespan": "Receives letter from Count and interacts with Harker; remains in inn in excerpt"
+    },
+    {
+      "name": "Fellow-passenger",
+      "age": "unknown",
+      "personality": "briefly helpful (explains charm and local words)",
+      "lifespan": "Assists Harker with translations and local customs on coach; unnamed in excerpt"
+    },
+    {
+      "name": "Hommy-Beg",
+      "age": "unknown",
+      "personality": "dedicatee (friend of author)",
+      "lifespan": "Named in dedication; not a character in the narrative"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Munich, Germany",
+      "latitude": 48.1351,
+      "longitude": 11.582
+    },
+    {
+      "name": "Vienna, Austria",
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    {
+      "name": "Buda-Pesth (Budapest), Hungary",
+      "latitude": 47.4979,
+      "longitude": 19.0402
+    },
+    {
+      "name": "Klausenburgh (historical name for Cluj-Napoca), Romania",
+      "latitude": 46.7712,
+      "longitude": 23.6236
+    },
+    {
+      "name": "Bistritz (Bistrița), Romania",
+      "latitude": 47.1391,
+      "longitude": 24.5034
+    },
+    {
+      "name": "Borgo Pass (historical Borgo Pass / Tihuța Pass), Romania",
+      "latitude": 47.5675,
+      "longitude": 25.0113
+    },
+    {
+      "name": "Carpathian Mountains (representative point)",
+      "latitude": 46.5,
+      "longitude": 25.3
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Bistritz",
+      "definition": "Anglicized form of Bistrița, a Transylvanian town",
+      "context": "Arrival and post-town named by Count Dracula"
+    },
+    {
+      "word": "Munich",
+      "definition": "Major city in Germany (München)",
+      "context": "Harker leaves Munich on his journey"
+    },
+    {
+      "word": "Vienna",
+      "definition": "Capital of Austria",
+      "context": "Harker arrives at Vienna on his route east"
+    },
+    {
+      "word": "Buda-Pesth",
+      "definition": "Historic spelling of Budapest, Hungary",
+      "context": "Harker remarks upon Buda-Pesth from his train"
+    },
+    {
+      "word": "Klausenburgh",
+      "definition": "Historic name for Cluj (Cluj-Napoca) in Transylvania",
+      "context": "Harker stops the night at Klausenburgh"
+    },
+    {
+      "word": "paprika",
+      "definition": "A spice made from ground peppers, used in regional cooking",
+      "context": "Harker eats dishes seasoned with red pepper"
+    },
+    {
+      "word": "hendl",
+      "definition": "German/Austro-Bavarian for chicken (Hendl)",
+      "context": "Part of dish name 'paprika hendl' mentioned by Harker"
+    },
+    {
+      "word": "mamaliga",
+      "definition": "A maize porridge traditional in Eastern Europe",
+      "context": "Harker describes eating a porridge called 'mamaliga'"
+    },
+    {
+      "word": "impletata",
+      "definition": "A regional dish (eggplant stuffed with forcemeat) named in text",
+      "context": "Harker tastes 'impletata' at breakfast"
+    },
+    {
+      "word": "Ordnance",
+      "definition": "Official military mapping; here referencing authoritative maps",
+      "context": "Harker contrasts local maps with the Ordnance Survey maps"
+    },
+    {
+      "word": "missals",
+      "definition": "Liturgical books containing texts for Mass",
+      "context": "Castles and towns compared to illustrations in old missals"
+    },
+    {
+      "word": "Carpathians",
+      "definition": "Mountain range in Central and Eastern Europe",
+      "context": "Region into which Harker travels toward Dracula's castle"
+    },
+    {
+      "word": "Transylvania",
+      "definition": "Historical region in central Romania",
+      "context": "The district Harker is entering and studies in the British Museum"
+    },
+    {
+      "word": "Moldavia",
+      "definition": "Historic region neighboring Transylvania",
+      "context": "Count Dracula's castle is on the borders of Moldavia"
+    },
+    {
+      "word": "Bukovina",
+      "definition": "Another historical region neighboring Transylvania",
+      "context": "Area near the castle; Borgo Pass leads into Bukovina"
+    },
+    {
+      "word": "Szekelys",
+      "definition": "Ethnic Hungarian group in Transylvania",
+      "context": "Harker notes Szekelys among the population"
+    },
+    {
+      "word": "Saxons",
+      "definition": "A German-speaking population in parts of Transylvania",
+      "context": "Listed among the four nationalities in Transylvania"
+    },
+    {
+      "word": "Wallachs",
+      "definition": "Refers to Wallachians (Romanians), historically linked to Dacians",
+      "context": "Harker notes Wallachs mixed with Saxons"
+    },
+    {
+      "word": "Dacians",
+      "definition": "Ancient people of the region, ancestors of Wallachs",
+      "context": "Mentioned as ancestors of the Wallachs"
+    },
+    {
+      "word": "Magyars",
+      "definition": "Ethnic Hungarians",
+      "context": "Listed among the Transylvanian nationalities"
+    },
+    {
+      "word": "horseshoe",
+      "definition": "Literal horseshoe; used figuratively in the text",
+      "context": "Superstitions gathered into the 'horseshoe of the Carpathians'"
+    },
+    {
+      "word": "imaginative",
+      "definition": "Pertaining to the imagination; fanciful",
+      "context": "Harker notes a whirlpool of superstition as 'imaginative'"
+    },
+    {
+      "word": "robber",
+      "definition": "Highwayman; used in name of a rustic dish",
+      "context": "Harker dines on what they called 'robber steak'"
+    },
+    {
+      "word": "steak",
+      "definition": "Cut of meat roasted; here in a rustic dish",
+      "context": "'robber steak' described by Harker"
+    },
+    {
+      "word": "Golden",
+      "definition": "Part of a proper name (Golden Krone / Golden Mediasch)",
+      "context": "Used in names of hotel and wine in the narrative"
+    },
+    {
+      "word": "Mediasch",
+      "definition": "A named wine (Golden Mediasch) mentioned by Harker",
+      "context": "Harker drinks 'Golden Mediasch' wine"
+    },
+    {
+      "word": "diligence",
+      "definition": "Old term for a coach or stagecoach",
+      "context": "Harker is told the 'diligence' will start for Bukovina"
+    },
+    {
+      "word": "Borgo",
+      "definition": "Historic place name (Borgo Pass region)",
+      "context": "Borgo Pass is described as leading into Bukovina"
+    },
+    {
+      "word": "carriage",
+      "definition": "Horse-drawn vehicle; a carriage awaited Harker at the pass",
+      "context": "Count's carriage will bring Harker to the castle"
+    },
+    {
+      "word": "Borgo Pass",
+      "definition": "Mountain pass in the region (named in the novel)",
+      "context": "Pass mentioned as route to the castle"
+    },
+    {
+      "word": "word-bearer",
+      "definition": "Literal translation of a local term used for a bench or place",
+      "context": "Harker notes a bench called by a name meaning 'word-bearer'"
+    },
+    {
+      "word": "Ordog",
+      "definition": "Hungarian for 'Satan' or 'devil'",
+      "context": "Villagers mutter 'Ordog' as they watch Harker"
+    },
+    {
+      "word": "pokol",
+      "definition": "Serves as a Slavonic word for 'hell'",
+      "context": "Harker hears 'pokol' among the names muttered by the crowd"
+    },
+    {
+      "word": "stregoica",
+      "definition": "Local term for a witch or female evil being",
+      "context": "One of the superstitious words Harker notes from the crowd"
+    },
+    {
+      "word": "vrolok",
+      "definition": "Slovak word used in text for a vampiric or were-figure",
+      "context": "Harker records 'vrolok' as a local term for a supernatural creature"
+    },
+    {
+      "word": "vlkoslak",
+      "definition": "Servian term related to were-wolf/vampiric folklore",
+      "context": "Listed alongside 'vrolok' as regional superstition words"
+    },
+    {
+      "word": "Satan",
+      "definition": "Name for the devil",
+      "context": "The crowd murmurs names like 'Satan' as an ominous sign"
+    },
+    {
+      "word": "witch",
+      "definition": "A woman believed to have magic powers",
+      "context": "'stregoica' is glossed as witch or similar"
+    },
+    {
+      "word": "were-wolf",
+      "definition": "Variant spelling of werewolf; a shapeshifting mythic creature",
+      "context": "Used while Harker is looking up regional words"
+    },
+    {
+      "word": "vampire",
+      "definition": "Undead creature who feeds on the living's blood",
+      "context": "Harker notes that local words point to vampire-like beings"
+    },
+    {
+      "word": "Herr",
+      "definition": "German honorific 'Mr.'",
+      "context": "Villagers address Harker as 'The Herr Englishman?'"
+    },
+    {
+      "word": "Englishman",
+      "definition": "A man from England",
+      "context": "Harker identified as an 'Englishman' in the inn"
+    },
+    {
+      "word": "rosary",
+      "definition": "Catholic string of prayer beads",
+      "context": "The landlady puts a rosary around Harker's neck"
+    },
+    {
+      "word": "crucifix",
+      "definition": "Cross bearing the figure of Christ; devotional object",
+      "context": "The landlady offers Harker a crucifix for protection"
+    },
+    {
+      "word": "St. George's Day",
+      "definition": "Feast day venerating Saint George",
+      "context": "Landlady fears the eve of St. George's Day when evil has sway"
+    },
+    {
+      "word": "eve",
+      "definition": "The day or period before an event",
+      "context": "The landlady warns Harker it is the eve of St. George's Day"
+    },
+    {
+      "word": "cat’s meat",
+      "definition": "Colloquial comparison; used to disparage a dish",
+      "context": "Harker likens robber steak to 'the London cat’s meat!'"
+    },
+    {
+      "word": "polyglot",
+      "definition": "A person or book using multiple languages",
+      "context": "Harker fetches his polyglot dictionary to look up words"
+    },
+    {
+      "word": "Golden Krone",
+      "definition": "Name of the hotel where Harker stays",
+      "context": "Harker is directed to the Golden Krone Hotel in Bistritz"
+    },
+    {
+      "word": "landlady",
+      "definition": "Female proprietor of an inn or lodging",
+      "context": "The elderly landlady receives Harker at the inn and warns him"
+    },
+    {
+      "word": "landlord",
+      "definition": "Male proprietor of property or inn",
+      "context": "An elderly man at the inn interacts with Harker and receives a letter"
+    },
+    {
+      "word": "reticent",
+      "definition": "Reserved or reluctant to speak",
+      "context": "The landlord appears reticent when Harker questions him"
+    },
+    {
+      "word": "mumbled",
+      "definition": "Spoken unclearly or in an undertone",
+      "context": "The landlord 'mumbled' about the money being sent"
+    },
+    {
+      "word": "implored",
+      "definition": "Begged earnestly",
+      "context": "The landlady implored Harker not to go"
+    },
+    {
+      "word": "dawdled",
+      "definition": "Moved slowly or idled",
+      "context": "Harker says the train 'dawdled' through beautiful country"
+    },
+    {
+      "word": "picturesque",
+      "definition": "Visually attractive in a quaint way",
+      "context": "Harker describes many of the people and scenes as picturesque"
+    },
+    {
+      "word": "petticoats",
+      "definition": "Undergarments worn under skirts",
+      "context": "Harker notes villagers' skirts and petticoats"
+    },
+    {
+      "word": "baggy",
+      "definition": "Loose-fitting",
+      "context": "Harker describes 'baggy dirty-white trousers' of Slovaks"
+    },
+    {
+      "word": "cow-boy",
+      "definition": "Hyphenated descriptive: 'cow-boy hats' in text",
+      "context": "Used to characterize Slovak hats"
+    },
+    {
+      "word": "studded",
+      "definition": "Decorated with studs or nails",
+      "context": "Belts 'studded over with brass nails' described"
+    },
+    {
+      "word": "moustaches",
+      "definition": "Facial hair on the upper lip",
+      "context": "Harker notes long black hair and heavy moustaches"
+    },
+    {
+      "word": "undergarment",
+      "definition": "A garment worn beneath outer clothing",
+      "context": "The landlady's 'white undergarment' is described"
+    },
+    {
+      "word": "apron",
+      "definition": "Protective garment worn over front of clothes",
+      "context": "The landlady wears a long double apron"
+    },
+    {
+      "word": "forcemeat",
+      "definition": "A seasoned mixture of minced meat used as stuffing",
+      "context": "Harker eats egg-plant stuffed with forcemeat called 'impletata'"
+    },
+    {
+      "word": "strung",
+      "definition": "Placed on a string or skewered",
+      "context": "Bits of meat 'strung on sticks' for roasting"
+    },
+    {
+      "word": "roasted",
+      "definition": "Cooked with dry heat, especially over a fire",
+      "context": "Harker's meal is roasted over the fire"
+    },
+    {
+      "word": "sting",
+      "definition": "A sharp flavor or sensation",
+      "context": "Golden Mediasch wine produces a 'queer sting on the tongue'"
+    },
+    {
+      "word": "carafe",
+      "definition": "A glass container for water or wine",
+      "context": "Harker drinks all the water in his carafe"
+    },
+    {
+      "word": "coach",
+      "definition": "Horse-drawn public carriage; stagecoach",
+      "context": "Harker waits for the coach to start toward Bukovina"
+    },
+    {
+      "word": "bench",
+      "definition": "A long seat; here descriptive of seating outside the inn",
+      "context": "Passengers sat on the bench outside called 'word-bearer'"
+    },
+    {
+      "word": "pityingly",
+      "definition": "With pity or compassion",
+      "context": "Villagers looked at Harker 'most of them pityingly'"
+    },
+    {
+      "word": "prepossessing",
+      "definition": "Attractive or appealing (used negatively in text)",
+      "context": "The Slovaks 'do not look prepossessing' according to Harker"
+    },
+    {
+      "word": "brigands",
+      "definition": "Bandits or outlaws",
+      "context": "Harker says Slovaks would be 'set down as some old Oriental band of brigands' on stage"
+    },
+    {
+      "word": "Attila",
+      "definition": "Leader of the Huns, historical reference",
+      "context": "Szekelys claim descent from Attila and the Huns"
+    },
+    {
+      "word": "Huns",
+      "definition": "Nomadic people associated historically with Attila",
+      "context": "Mentioned in relation to Szekely ancestry"
+    },
+    {
+      "word": "siege",
+      "definition": "A military blockade and assault on a town",
+      "context": "Bistritz underwent a siege of three weeks mentioned by Harker"
+    },
+    {
+      "word": "famine",
+      "definition": "Widespread scarcity of food",
+      "context": "Famine accompanied the historical siege of Bistritz"
+    },
+    {
+      "word": "disease",
+      "definition": "Sickness or illness affecting many",
+      "context": "Disease is cited as compounding casualties in the town's history"
+    },
+    {
+      "word": "fires",
+      "definition": "Large destructive blazes",
+      "context": "Bistritz suffered a series of great fires historically"
+    },
+    {
+      "word": "havoc",
+      "definition": "Widespread destruction",
+      "context": "The fires 'made terrible havoc' in Bistritz"
+    },
+    {
+      "word": "cheery-looking",
+      "definition": "Pleasant or bright in appearance",
+      "context": "Harker describes the elderly woman at the inn as 'cheery-looking'"
+    },
+    {
+      "word": "polyglot-dictionary",
+      "definition": "A dictionary covering multiple languages",
+      "context": "Harker takes out his polyglot dictionary to look up terms"
+    },
+    {
+      "word": "shorthand",
+      "definition": "A method of rapid writing using symbols, noted in heading",
+      "context": "Jonathan Harker's journal is noted as 'Kept in shorthand.'"
+    },
+    {
+      "word": "journal",
+      "definition": "A daily record of events; Harker's account",
+      "context": "The opening section is 'Jonathan Harker's Journal'"
+    },
+    {
+      "word": "contemporary",
+      "definition": "Existing or occurring at the same time",
+      "context": "Prefatory note mentions records are 'exactly contemporary'"
+    },
+    {
+      "word": "ungracious",
+      "definition": "Lacking grace or politeness",
+      "context": "Harker hesitates to refuse the landlady and calls it 'ungracious'"
+    },
+    {
+      "word": "imperative",
+      "definition": "Of vital importance; compulsory",
+      "context": "Harker states his duty was 'imperative' so he must go"
+    },
+    {
+      "word": "delight",
+      "definition": "Great pleasure",
+      "context": "Harker expresses 'great delight' at the hotel's old-fashioned nature"
+    },
+    {
+      "word": "clock",
+      "definition": "Timekeeping device; mentioned regarding midnight",
+      "context": "The landlady warns that 'when the clock strikes midnight' evil will have sway"
+    },
+    {
+      "word": "midnight",
+      "definition": "Twelve o'clock at night; time of ominous significance",
+      "context": "The landlady fears midnight on St. George's Eve"
+    },
+    {
+      "word": "English Churchman",
+      "definition": "Member of the Church of England",
+      "context": "Harker refers to himself as an 'English Churchman' when considering the crucifix"
+    },
+    {
+      "word": "Mem.",
+      "definition": "Abbreviation of 'Memorandum' used by Harker as a note to self",
+      "context": "Parenthetical notes '(Mem._)' appear throughout Harker's journal"
+    },
+    {
+      "word": "waiter",
+      "definition": "Person serving at a table in a restaurant or inn",
+      "context": "Harker asks the waiter the name of a dish ('paprika hendl')"
+    },
+    {
+      "word": "Hotel Royale",
+      "definition": "Proper name of the hotel where Harker stopped en route",
+      "context": "Harker stayed at the Hotel Royale in Klausenburgh"
+    },
+    {
+      "word": "supper",
+      "definition": "Evening meal",
+      "context": "Harker records having supper of 'paprika hendl'"
+    },
+    {
+      "word": "breakfast",
+      "definition": "Morning meal",
+      "context": "Harker describes breakfast including mamaliga and impletata"
+    },
+    {
+      "word": "porridge",
+      "definition": "Soft food made by boiling grains, here maize porridge",
+      "context": "Harker ate a porridge of maize flour called 'mamaliga'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/345"
+}
