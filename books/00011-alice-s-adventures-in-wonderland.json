@@ -1,0 +1,413 @@
+{
+  "gutenberg_id": 11,
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Carroll, Lewis",
+  "summary": "Alice, a curious young girl, follows a talking White Rabbit down a rabbit-hole into a strange subterranean world. She falls a long way, finds a hall of locked doors, and discovers a tiny golden key and a little door leading to a lovely garden she cannot enter. At a glass table she finds a bottle labelled “DRINK ME” and a cake labelled “EAT ME,” whose effects make her shrink and grow unpredictably. Her changing size causes comic distress and problem-solving, she worries about Dinah the cat, and a panicked White Rabbit hints at further absurd adventures.",
+  "characters": [
+    {
+      "name": "Alice",
+      "age": "child (approx. 7–12, estimated)",
+      "personality": "curious, imaginative, self-advising, sometimes critical of herself",
+      "lifespan": "Enters Wonderland in the narrative; experiences size changes and remains the central protagonist in the excerpt"
+    },
+    {
+      "name": "White Rabbit",
+      "age": "adult (rabbit; age unspecified)",
+      "personality": "anxious, hurried, polite (wears gloves, carries a fan and a watch)",
+      "lifespan": "Runs through the hall and continues deeper into Wonderland; remains at large in the excerpt"
+    },
+    {
+      "name": "Dinah",
+      "age": "adult cat (age unspecified)",
+      "personality": "Alice’s pet; typical catlike creature, source of comfort and imaginative reference for Alice",
+      "lifespan": "Mentioned as remaining at home and missed by Alice; no further fate in the excerpt"
+    },
+    {
+      "name": "Alice's sister",
+      "age": "young woman (teen/adult; unspecified)",
+      "personality": "quiet, reading (silent presence at story start)",
+      "lifespan": "Present at the opening scene, reading on the bank; remains outside Wonderland in the excerpt"
+    },
+    {
+      "name": "The Duchess",
+      "age": "adult noblewoman (unspecified)",
+      "personality": "mentioned as potentially savage; otherwise not described in excerpt",
+      "lifespan": "Only referred to by the White Rabbit; no direct appearance or fate in the excerpt"
+    }
+  ],
+  "locations": [
+    {
+      "name": "New Zealand",
+      "latitude": -40.900557,
+      "longitude": 174.885971
+    },
+    {
+      "name": "Australia",
+      "latitude": -25.274398,
+      "longitude": 133.775136
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "peeped",
+      "definition": "looked quickly or furtively",
+      "context": "Alice had peeped into the book her sister was reading"
+    },
+    {
+      "word": "waistcoat-pocket",
+      "definition": "a pocket in a waistcoat (vest)",
+      "context": "the Rabbit took a watch out of its waistcoat-pocket"
+    },
+    {
+      "word": "rabbit-hole",
+      "definition": "a burrow or tunnel made by a rabbit; here, the portal into Wonderland",
+      "context": "she saw it pop down a large rabbit-hole under the hedge"
+    },
+    {
+      "word": "telescope",
+      "definition": "an optical instrument; used here as a simile for contracting or expanding",
+      "context": "I wish I could shut up like a telescope!"
+    },
+    {
+      "word": "marmalade",
+      "definition": "a preserve made from citrus fruit",
+      "context": "a jar ... labelled 'ORANGE MARMALADE'"
+    },
+    {
+      "word": "book-shelves",
+      "definition": "shelves for holding books",
+      "context": "the sides of the well were filled with cupboards and book-shelves"
+    },
+    {
+      "word": "pegs",
+      "definition": "hooks or pegs for hanging things",
+      "context": "maps and pictures hung upon pegs"
+    },
+    {
+      "word": "labelled",
+      "definition": "marked with a label",
+      "context": "a jar ... labelled 'ORANGE MARMALADE'"
+    },
+    {
+      "word": "rat-hole",
+      "definition": "a very small hole (like a rat's burrow)",
+      "context": "it led into a small passage, not much larger than a rat-hole"
+    },
+    {
+      "word": "loveliest",
+      "definition": "most beautiful",
+      "context": "into the loveliest garden you ever saw"
+    },
+    {
+      "word": "fountains",
+      "definition": "ornamental water features",
+      "context": "beds of bright flowers and those cool fountains"
+    },
+    {
+      "word": "curtsey",
+      "definition": "a formal bow by women, bending the knees",
+      "context": "and she tried to curtsey as she spoke"
+    },
+    {
+      "word": "curtseying",
+      "definition": "making a curtsey",
+      "context": "fancy curtseying as you’re falling through the air!"
+    },
+    {
+      "word": "Latitude",
+      "definition": "geographic coordinate measuring north–south position",
+      "context": "I wonder what Latitude or Longitude I’ve got to?"
+    },
+    {
+      "word": "Longitude",
+      "definition": "geographic coordinate measuring east–west position",
+      "context": "I wonder what Latitude or Longitude I’ve got to?"
+    },
+    {
+      "word": "Antipathies",
+      "definition": "a mistaken use here for 'Antipodes'; literally means strong dislikes",
+      "context": "The Antipathies, I think—"
+    },
+    {
+      "word": "daisy-chain",
+      "definition": "a chain of daisies linked by their stems",
+      "context": "whether the pleasure of making a daisy-chain would be worth the trouble"
+    },
+    {
+      "word": "thump",
+      "definition": "a heavy dull blow or sound",
+      "context": "when suddenly, thump! thump! down she came"
+    },
+    {
+      "word": "sticks",
+      "definition": "small pieces of wood",
+      "context": "down she came upon a heap of sticks and dry leaves"
+    },
+    {
+      "word": "dry",
+      "definition": "not wet; here describing leaves",
+      "context": "a heap of sticks and dry leaves"
+    },
+    {
+      "word": "heap",
+      "definition": "a pile",
+      "context": "down she came upon a heap of sticks and dry leaves"
+    },
+    {
+      "word": "skurried",
+      "definition": "moved hurriedly with short steps",
+      "context": "the Rabbit ... skurried away into the darkness"
+    },
+    {
+      "word": "lamps",
+      "definition": "lighting fixtures",
+      "context": "a long, low hall, which was lit up by a row of lamps"
+    },
+    {
+      "word": "three-legged",
+      "definition": "having three legs",
+      "context": "a little three-legged table"
+    },
+    {
+      "word": "glass",
+      "definition": "a transparent material; here used as table material",
+      "context": "all made of solid glass"
+    },
+    {
+      "word": "golden",
+      "definition": "made of or like gold",
+      "context": "a tiny golden key"
+    },
+    {
+      "word": "key",
+      "definition": "a small object for opening locks",
+      "context": "a tiny golden key"
+    },
+    {
+      "word": "curtain",
+      "definition": "a hanging cloth used to conceal or separate",
+      "context": "she came upon a low curtain she had not noticed before"
+    },
+    {
+      "word": "bottle",
+      "definition": "a container with a neck for liquids",
+      "context": "this time she found a little bottle on it"
+    },
+    {
+      "word": "DRINK",
+      "definition": "an imperative verb used on the bottle label",
+      "context": "a paper label, with the words 'DRINK ME'"
+    },
+    {
+      "word": "poison",
+      "definition": "a toxic substance",
+      "context": "see whether it’s marked 'poison' or not"
+    },
+    {
+      "word": "cherry-tart",
+      "definition": "a pastry filled with cherries",
+      "context": "a sort of mixed flavour of cherry-tart"
+    },
+    {
+      "word": "custard",
+      "definition": "a sweet dessert made with milk and eggs",
+      "context": "a sort of mixed flavour of ... custard"
+    },
+    {
+      "word": "pine-apple",
+      "definition": "pineapple (spelled with hyphen in text)",
+      "context": "a sort of mixed flavour of ... pine-apple"
+    },
+    {
+      "word": "roast",
+      "definition": "cooked by dry heat",
+      "context": "a sort of mixed flavour of ... roast turkey"
+    },
+    {
+      "word": "turkey",
+      "definition": "a large bird eaten as food",
+      "context": "a sort of mixed flavour of ... roast turkey"
+    },
+    {
+      "word": "toffee",
+      "definition": "a sweet made by caramelizing sugar with butter",
+      "context": "a sort of mixed flavour of ... toffee"
+    },
+    {
+      "word": "buttered",
+      "definition": "spread with butter",
+      "context": "hot buttered toast"
+    },
+    {
+      "word": "toast",
+      "definition": "sliced bread browned by heat",
+      "context": "hot buttered toast"
+    },
+    {
+      "word": "shutting",
+      "definition": "closing or contracting",
+      "context": "I must be shutting up like a telescope"
+    },
+    {
+      "word": "inches",
+      "definition": "units of length; here indicating small size",
+      "context": "she was now only ten inches high"
+    },
+    {
+      "word": "creep",
+      "definition": "to move slowly on hands and knees",
+      "context": "I can creep under the door"
+    },
+    {
+      "word": "slippery",
+      "definition": "difficult to hold on to because smooth or greasy",
+      "context": "one of the legs of the table ... was too slippery"
+    },
+    {
+      "word": "gallons",
+      "definition": "large units of liquid measure; used hyperbolically",
+      "context": "she went on shedding gallons of tears"
+    },
+    {
+      "word": "pattering",
+      "definition": "making light, rapid tapping sounds",
+      "context": "she heard a little pattering of feet"
+    },
+    {
+      "word": "gloves",
+      "definition": "hand coverings",
+      "context": "a pair of white kid gloves in one hand"
+    },
+    {
+      "word": "kid",
+      "definition": "leather made from young goats; used for gloves",
+      "context": "white kid gloves"
+    },
+    {
+      "word": "fan",
+      "definition": "an object used to create a current of air",
+      "context": "and a large fan in the other"
+    },
+    {
+      "word": "Duchess",
+      "definition": "a noblewoman; title",
+      "context": "Oh! the Duchess, the Duchess! Oh! won’t she be savage"
+    },
+    {
+      "word": "savage",
+      "definition": "fierce or violent; here, angry",
+      "context": "won’t she be savage if I’ve kept her waiting!"
+    },
+    {
+      "word": "hurry",
+      "definition": "a state of urgency or haste",
+      "context": "he came trotting along in a great hurry"
+    },
+    {
+      "word": "muttering",
+      "definition": "speaking in a low, indistinct voice",
+      "context": "muttering to himself as he came"
+    },
+    {
+      "word": "hastily",
+      "definition": "done quickly or rashly",
+      "context": "After a time she heard ... and she hastily dried her eyes"
+    },
+    {
+      "word": "fender",
+      "definition": "a protective guard by a fireplace",
+      "context": "Alice’s Right Foot, Esq., Hearthrug, near the Fender"
+    },
+    {
+      "word": "hearthrug",
+      "definition": "a rug placed before a fireplace",
+      "context": "Alice’s Right Foot, Esq., Hearthrug"
+    },
+    {
+      "word": "Esq.",
+      "definition": "abbreviation of Esquire, a courtesy title",
+      "context": "Alice’s Right Foot, Esq."
+    },
+    {
+      "word": "carrier",
+      "definition": "a person or company that transports goods",
+      "context": "They must go by the carrier"
+    },
+    {
+      "word": "croquet",
+      "definition": "a lawn game played with mallets and balls",
+      "context": "a game of croquet she was playing against herself"
+    },
+    {
+      "word": "scolded",
+      "definition": "reprimanded angrily",
+      "context": "she sometimes scolded herself so severely"
+    },
+    {
+      "word": "box",
+      "definition": "to strike with the hand; used in 'box her own ears'",
+      "context": "trying to box her own ears"
+    },
+    {
+      "word": "ears",
+      "definition": "organs of hearing",
+      "context": "trying to box her own ears"
+    },
+    {
+      "word": "pretending",
+      "definition": "acting as if something is true when it is not",
+      "context": "this curious child was very fond of pretending to be two people"
+    },
+    {
+      "word": "respectable",
+      "definition": "regarded by society as proper or correct",
+      "context": "hardly enough of me left to make one respectable person"
+    },
+    {
+      "word": "glass-box",
+      "definition": "a small container made of glass (appears as 'little glass box')",
+      "context": "Soon her eye fell on a little glass box that was lying under the table"
+    },
+    {
+      "word": "currants",
+      "definition": "small dried berries used in baking",
+      "context": "on which the words 'EAT ME' were beautifully marked in currants"
+    },
+    {
+      "word": "EAT",
+      "definition": "imperative verb used on the cake label",
+      "context": "a very small cake, on which the words 'EAT ME' were beautifully marked"
+    },
+    {
+      "word": "anxiously",
+      "definition": "with worry or unease",
+      "context": "She ate a little bit, and said anxiously to herself"
+    },
+    {
+      "word": "dozing",
+      "definition": "half-asleep; nodding",
+      "context": "Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way"
+    },
+    {
+      "word": "dreamy",
+      "definition": "having the quality of a dream; absent-minded",
+      "context": "she went on saying to herself, in a dreamy sort of way"
+    },
+    {
+      "word": "pattering",
+      "definition": "light tapping sounds (duplicate entry retained because used twice in the text)",
+      "context": "she heard a little pattering of feet in the distance"
+    },
+    {
+      "word": "hurrying",
+      "definition": "moving quickly",
+      "context": "the White Rabbit was still in sight, hurrying down it"
+    },
+    {
+      "word": "bank",
+      "definition": "the slope at the edge of a river (here, a place to sit)",
+      "context": "sitting by her sister on the bank"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/11"
+}
