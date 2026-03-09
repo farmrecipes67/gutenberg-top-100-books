@@ -1,0 +1,651 @@
+{
+  "gutenberg_id": 19315,
+  "title": "The Poems of Giacomo Leopardi",
+  "author": "Leopardi, Giacomo",
+  "summary": "Giacomo Leopardi’s Poems, translated by Frederick Townsend, present a grave, erudite body of lyric and philosophic verse. The excerpts and prefatory material emphasize Leopardi’s intense sensibility, lifelong illness, skeptical thought, and patriotic lament for Italy’s fallen glory. Poems mix classical allusion (Dante, Simonides, Sappho) with personal sorrow, national agitation, and reflective meditations. The translator and friends (including Antonio Ranieri) are invoked; the dedication mourns lost consolations of study. Styles range from odes and satires to hymns and fragments, marked by learned imagery, mythic reference, and elegiac tone, offering a melancholic, learned poetic voice seeking consolation in art and historical reflection.",
+  "characters": [
+    {
+      "name": "Giacomo Leopardi",
+      "age": "born 1798 (age varies through career), died 1837",
+      "personality": "sensitive, melancholic, erudite poet-philosopher with skeptical tendencies",
+      "lifespan": "1798–June 14, 1837 (death date given in the Preface)"
+    },
+    {
+      "name": "Frederick Townsend",
+      "age": "not specified in excerpt",
+      "personality": "scholarly, sympathetic translator and editor",
+      "lifespan": "not described in provided excerpt (translator of the volume)"
+    },
+    {
+      "name": "O. B. Frothingham",
+      "age": "not specified in excerpt",
+      "personality": "preface writer who praises Leopardi and the translator",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "M. N. M.",
+      "age": "not specified in excerpt",
+      "personality": "sister of the translator, dedicatee of the printed volume",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Antonio Ranieri",
+      "age": "not specified in excerpt",
+      "personality": "loyal friend and companion, attendant in Leopardi’s last days",
+      "lifespan": "present at Leopardi’s death; further fate not described in excerpt"
+    },
+    {
+      "name": "Paolina",
+      "age": "not specified in excerpt",
+      "personality": "addressed as Leopardi’s sister in the table of contents",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Angelo Mai",
+      "age": "not specified in excerpt",
+      "personality": "addressee of a poem (scholarly/political allusion)",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Dante",
+      "age": "not specified in excerpt",
+      "personality": "historical poet invoked in a poem title ('On Dante’s Monument')",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Victor (the Victor in the Game of Pallone)",
+      "age": "not specified in excerpt",
+      "personality": "anonymous winner celebrated in a poem title",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "The Younger Brutus",
+      "age": "not specified in excerpt",
+      "personality": "historic/poetic figure invoked in a poem title",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Sappho",
+      "age": "not specified in excerpt",
+      "personality": "ancient poetess invoked as poetic subject ('The Last Song of Sappho')",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Sylvia",
+      "age": "not specified in excerpt",
+      "personality": "romantic addressee in a poem title",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Consalvo",
+      "age": "not specified in excerpt",
+      "personality": "named character/subject of a poem",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Count Carlo Pepoli",
+      "age": "not specified in excerpt",
+      "personality": "addressee of a poem (named noble figure)",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Aspasia",
+      "age": "not specified in excerpt",
+      "personality": "historic/poetic figure invoked in a poem title",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Simonides",
+      "age": "not specified in excerpt",
+      "personality": "quoted ancient poet in the 'To Italy' passage, reflective and mournful",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Xerxes",
+      "age": "not specified in excerpt",
+      "personality": "historical king referenced in the 'To Italy' poem as a foil",
+      "lifespan": "not described in provided excerpt"
+    },
+    {
+      "name": "Italy (personified)",
+      "age": "timeless/personified",
+      "personality": "portrayed as once-glorious, now disconsolate and enslaved",
+      "lifespan": "portrayed as fallen from former greatness in the poem 'To Italy'"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Recanati, Italy",
+      "latitude": 43.4519,
+      "longitude": 13.6205
+    },
+    {
+      "name": "Ancona, Italy",
+      "latitude": 43.6158,
+      "longitude": 13.5189
+    },
+    {
+      "name": "Siena, Italy",
+      "latitude": 43.3183,
+      "longitude": 11.3308
+    },
+    {
+      "name": "Naples, Italy",
+      "latitude": 40.8518,
+      "longitude": 14.2681
+    },
+    {
+      "name": "Hellespont (Dardanelles)",
+      "latitude": 40.129,
+      "longitude": 26.405
+    },
+    {
+      "name": "Anthela / Thermopylae area, Greece",
+      "latitude": 38.7929,
+      "longitude": 22.537
+    },
+    {
+      "name": "Thessaly region, Greece",
+      "latitude": 39.444,
+      "longitude": 22.4697
+    },
+    {
+      "name": "Italy (central reference)",
+      "latitude": 41.8719,
+      "longitude": 12.5674
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "laurel",
+      "definition": "a wreath symbolizing honor or victory",
+      "context": "Used in 'To Italy' to lament the loss of the laurel that once graced ancestors"
+    },
+    {
+      "word": "diadem",
+      "definition": "a crown or royal headband",
+      "context": "In 'To Italy' asks who has robbed her of robe and diadem"
+    },
+    {
+      "word": "disconsolate",
+      "definition": "unable to be comforted; dejected",
+      "context": "Describes Italy sitting disconsolate upon the ground in the poem 'To Italy'"
+    },
+    {
+      "word": "dishevelled",
+      "definition": "untidy or disordered (usually of hair)",
+      "context": "Italy is described with hair dishevelled in 'To Italy'"
+    },
+    {
+      "word": "votive",
+      "definition": "offered in fulfillment of a vow; dedicated",
+      "context": "Leopardi speaks of 'a votive offering' of his blood in 'To Italy'"
+    },
+    {
+      "word": "hireling",
+      "definition": "one who works for hire; mercenary",
+      "context": "The poem criticizes the 'hireling swords' of Italy’s youth"
+    },
+    {
+      "word": "wavering",
+      "definition": "trembling or undecided movement; flickering",
+      "context": "A 'wavering of horse and foot' is seen in 'To Italy'"
+    },
+    {
+      "word": "Tartarus",
+      "definition": "in classical mythology, a deep abyss used as a dungeon of torment",
+      "context": "Quoted in the Simonides passage within 'To Italy': 'Tartarus awaited ye'"
+    },
+    {
+      "word": "Stygian",
+      "definition": "relating to the River Styx; dark, bleak, or infernal",
+      "context": "Used in the Simonides quotation: 'cold Stygian wave'"
+    },
+    {
+      "word": "bedewed",
+      "definition": "moistened with drops (often of dew or tears)",
+      "context": "Simonides is described as 'cheeks with tears bedewed' in the quoted passage"
+    },
+    {
+      "word": "lyre",
+      "definition": "an ancient stringed musical instrument associated with poetry",
+      "context": "Simonides 'his lyre in hand and sang' in the quoted lyric"
+    },
+    {
+      "word": "o'erwhelming",
+      "definition": "archaic form of 'overwhelming'",
+      "context": "Appears in 'To Italy' as 'o'erwhelming horde' describing invaders"
+    },
+    {
+      "word": "Anthela's",
+      "definition": "possessive of Anthela, an ancient place near Thermopylae",
+      "context": "The poem references 'Anthela’s hill' where the sacred Band fell"
+    },
+    {
+      "word": "Hellespont",
+      "definition": "the ancient name for the Dardanelles strait",
+      "context": "Mentioned in the poem comparing Persian invasion at the Hellespont"
+    },
+    {
+      "word": "Thessalian",
+      "definition": "pertaining to Thessaly, a region of ancient Greece",
+      "context": "The 'Thessalian straits' are invoked in 'To Italy' as brave grounds"
+    },
+    {
+      "word": "chariots",
+      "definition": "two-wheeled horse-drawn vehicles used in ancient warfare and ceremony",
+      "context": "The poet hears the sound of 'chariots' as part of war imagery"
+    },
+    {
+      "word": "plaintive",
+      "definition": "expressing sorrow or melancholy; mournful",
+      "context": "Trees, rocks, and waves are said to tell the wondrous tale with a 'low and plaintive voice'"
+    },
+    {
+      "word": "withered",
+      "definition": "dried up or shriveled; weakened",
+      "context": "In the Dedication Leopardi calls himself 'a withered branch'"
+    },
+    {
+      "word": "affliction",
+      "definition": "something that causes pain or suffering",
+      "context": "Leopardi refers to the 'consciousness of the depth of my affliction' in the Dedication"
+    },
+    {
+      "word": "lamentations",
+      "definition": "expressions of sorrow or grief",
+      "context": "The Dedication says 'the consciousness... admits not of complaints and lamentations'"
+    },
+    {
+      "word": "erudition",
+      "definition": "extensive knowledge acquired chiefly from books; learning",
+      "context": "Praised in the Preface as part of Leopardi’s learned poetic formation"
+    },
+    {
+      "word": "archæological",
+      "definition": "relating to archaeology (archaic spelling with æ)",
+      "context": "The Preface refers to Leopardi’s 'archæological knowledge' which fascinated Niebuhr"
+    },
+    {
+      "word": "bard",
+      "definition": "a poet, traditionally one who composes lyric or epic verse",
+      "context": "The Preface notes the patriotic conception that the singer should be a 'bard'"
+    },
+    {
+      "word": "ardent",
+      "definition": "enthusiastic or passionate",
+      "context": "Used in the Preface to describe Leopardi’s temperament and impulses"
+    },
+    {
+      "word": "zeal",
+      "definition": "great energy or enthusiasm in pursuit of a cause",
+      "context": "The poet praises the 'fiery zeal' of those who rushed to defend their country"
+    },
+    {
+      "word": "skeptical",
+      "definition": "inclined to doubt; questioning",
+      "context": "Preface mentions Leopardi’s 'skeptical tendencies' that worried his father"
+    },
+    {
+      "word": "predisposition",
+      "definition": "a tendency to suffer from a condition; inclination",
+      "context": "The Preface discusses Leopardi’s health predisposition to decay"
+    },
+    {
+      "word": "commotion",
+      "definition": "a state of confused and noisy disturbance",
+      "context": "The translator finished his work at Siena 'the summer of the earthquake, and... the commotion outside not interrupting him'"
+    },
+    {
+      "word": "pallone",
+      "definition": "an Italian ball game referenced in a poem title",
+      "context": "Appears in the Contents as 'To a Victor in the Game of Pallone'"
+    },
+    {
+      "word": "Palinodia",
+      "definition": "a poem of recantation or retraction",
+      "context": "Listed among the poems in the Contents as 'Palinodia'"
+    },
+    {
+      "word": "Ginestra",
+      "definition": "the name of a poetic subject (broom plant) used as a poem title",
+      "context": "Appears as a poem title in the Contents ('The Ginestra')"
+    },
+    {
+      "word": "sepulchral",
+      "definition": "of or relating to a tomb; gloomy or dismal",
+      "context": "Used in the Contents: 'On an Old Sepulchral Bas-Relief'"
+    },
+    {
+      "word": "bas-relief",
+      "definition": "a low-relief sculptural carving where figures slightly project",
+      "context": "Appears in the poem title 'On an Old Sepulchral Bas-Relief' in the Contents"
+    },
+    {
+      "word": "Scherzo",
+      "definition": "a playful or light musical or literary piece",
+      "context": "Listed in the Contents as one of the short pieces: 'Scherzo'"
+    },
+    {
+      "word": "Sappho",
+      "definition": "ancient Greek lyric poetess referenced as subject",
+      "context": "Appears as 'The Last Song of Sappho' in the Contents"
+    },
+    {
+      "word": "Aspasia",
+      "definition": "historic female figure of antiquity invoked in poetry",
+      "context": "Included as a poem title 'Aspasia' in the Contents"
+    },
+    {
+      "word": "Consalvo",
+      "definition": "proper name used as poem subject",
+      "context": "Appears as a poem title in the Contents ('Consalvo')"
+    },
+    {
+      "word": "Sylvia",
+      "definition": "female proper name used as an addressee in a poem",
+      "context": "Listed in the Contents as 'To Sylvia'"
+    },
+    {
+      "word": "Paolina",
+      "definition": "proper name, addressed as Leopardi’s sister in a poem title",
+      "context": "Appears as 'To His Sister Paolina' in the Contents"
+    },
+    {
+      "word": "Angelo",
+      "definition": "proper name (in this text Angelo Mai)",
+      "context": "Included in the Contents as 'To Angelo Mai' (an addressee)"
+    },
+    {
+      "word": "Dante",
+      "definition": "name of the Italian poet, here invoked in a poem title",
+      "context": "Title 'On Dante’s Monument' appears in the Contents"
+    },
+    {
+      "word": "Ranieri",
+      "definition": "proper surname of Antonio Ranieri, friend of Leopardi",
+      "context": "Mentioned in the Preface as a devoted friend who 'stayed by him in all vicissitudes'"
+    },
+    {
+      "word": "Recanati",
+      "definition": "town in Italy, Leopardi’s birthplace",
+      "context": "Preface states 'Leopardi was born at Recanati' and it appears in the front matter"
+    },
+    {
+      "word": "Ancona",
+      "definition": "port city on the Adriatic in Italy",
+      "context": "Preface places Recanati about fifteen miles from Ancona"
+    },
+    {
+      "word": "Siena",
+      "definition": "city in Tuscany, Italy",
+      "context": "Translator finished the version 'at Siena' as noted in the Preface"
+    },
+    {
+      "word": "Naples",
+      "definition": "major city in southern Italy",
+      "context": "Antonio Ranieri 'took him to Naples' as mentioned in the Preface"
+    },
+    {
+      "word": "Tuscany",
+      "definition": "region of central Italy",
+      "context": "The Dedication is 'To my Friends in Tuscany' and the Preface references Tuscan editions"
+    },
+    {
+      "word": "Florentine",
+      "definition": "relating to Florence; used as edition locale",
+      "context": "Dedication notes 'From the first Florentine Edition of the Poems'"
+    },
+    {
+      "word": "inscribed",
+      "definition": "dedicated or written in dedication",
+      "context": "The translator dedicated the poems 'affectionately inscribed' to his sister"
+    },
+    {
+      "word": "consolation",
+      "definition": "comfort received after loss or distress",
+      "context": "Leopardi had hoped studies would be 'the consolation of my old age' (Dedication)"
+    },
+    {
+      "word": "revision",
+      "definition": "the act of reviewing or correcting",
+      "context": "Leopardi states he was 'compelled to entrust their revision to other eyes and other hands'"
+    },
+    {
+      "word": "compelled",
+      "definition": "forced or obliged to do something",
+      "context": "Used in the Dedication describing being compelled to entrust revision"
+    },
+    {
+      "word": "bared",
+      "definition": "to uncover or expose",
+      "context": "In 'To Italy' the 'hireling swords for other lands have bared'"
+    },
+    {
+      "word": "naked",
+      "definition": "bare; uncovered",
+      "context": "Italy is described as presenting a 'naked brow, a naked breast'"
+    },
+    {
+      "word": "foeman",
+      "definition": "an enemy or foe (archaic use)",
+      "context": "Simonides quote in 'To Italy' refers to 'the foeman’s lance'"
+    },
+    {
+      "word": "invincible",
+      "definition": "too powerful to be defeated or overcome",
+      "context": "The poem praises 'Heroes invincible who gave their lives'"
+    },
+    {
+      "word": "Band",
+      "definition": "a military unit; here capitalized as the 'sacred Band' of Thermopylae",
+      "context": "Reference to the sacred Band that won 'immortal life' in the quoted passage"
+    },
+    {
+      "word": "slow-climbing",
+      "definition": "ascending gradually (hyphenated descriptive)",
+      "context": "Simonides 'slow-climbing, thoughtfully' is used in the quoted lyric"
+    },
+    {
+      "word": "speculative",
+      "definition": "engaged in intellectual conjecture or theorizing",
+      "context": "Preface refers to Leopardi’s 'speculative and poetical genius'"
+    },
+    {
+      "word": "mournfulness",
+      "definition": "the quality of being mournful or sorrowful",
+      "context": "Preface notes a 'sad tone of his speculations' giving 'an impression of mournfulness'"
+    },
+    {
+      "word": "pathos",
+      "definition": "a quality that evokes pity or sadness",
+      "context": "Preface mentions the 'pathos' deepened by his sad tone"
+    },
+    {
+      "word": "feverish",
+      "definition": "marked by intense emotion or agitation",
+      "context": "Dedication describes Leopardi’s early disposition as 'feverish joy'"
+    },
+    {
+      "word": "nerves",
+      "definition": "the nervous system or disposition; here referring to frail health",
+      "context": "Dedication cites a 'weakness of nerves and of stomach' destroying his life"
+    },
+    {
+      "word": "undermined",
+      "definition": "weakened or eroded (often gradually)",
+      "context": "Preface notes 'severe application undermined a system that was never robust'"
+    },
+    {
+      "word": "Niebuhr",
+      "definition": "proper name of a scholar who admired Leopardi's knowledge",
+      "context": "Preface states Leopardi’s archæological knowledge 'fascinated Niebuhr'"
+    },
+    {
+      "word": "speculations",
+      "definition": "theorizing or contemplative thought",
+      "context": "Preface mentions Leopardi’s 'speculations about the universe and human destiny'"
+    },
+    {
+      "word": "philosophical",
+      "definition": "relating to the study of fundamental nature of knowledge and existence",
+      "context": "Preface describes Leopardi as esteemed among 'philosophers and poets'"
+    },
+    {
+      "word": "dialogues",
+      "definition": "conversations or written works presented as exchanges of speech",
+      "context": "Preface mentions Charles Edwards published a translation of the essays and dialogues"
+    },
+    {
+      "word": "version",
+      "definition": "a translation or rendering of a text",
+      "context": "Preface praises Townsend’s 'version' of the poems"
+    },
+    {
+      "word": "metrical",
+      "definition": "relating to poetic meter or rhythm",
+      "context": "Preface commends the preservation of 'metrical grace' in the translation"
+    },
+    {
+      "word": "Imitation",
+      "definition": "the act of emulating another's style; also a poem title here",
+      "context": "Listed as a poem title 'Imitation' in the Contents"
+    },
+    {
+      "word": "Fragments",
+      "definition": "incomplete pieces or excerpts; a poem title here",
+      "context": "Appears as 'Fragments' in the Contents"
+    },
+    {
+      "word": "Resurrection",
+      "definition": "the act of rising from the dead; used as a poem title",
+      "context": "Included as a poem title in the Contents"
+    },
+    {
+      "word": "Recollections",
+      "definition": "memories or retrospections; a poem title",
+      "context": "Listed among the Contents as 'Recollections'"
+    },
+    {
+      "word": "Calm",
+      "definition": "tranquility or absence of disturbance",
+      "context": "Appears in the poem title 'Calm after Storm' in the Contents"
+    },
+    {
+      "word": "Storm",
+      "definition": "a violent disturbance of weather; used figuratively in a poem title",
+      "context": "Part of the poem title 'Calm after Storm' in the Contents"
+    },
+    {
+      "word": "patriarchs",
+      "definition": "founding fathers or ancient leaders; used as poem subject",
+      "context": "Appears in the Contents as 'Hymn to the Patriarchs'"
+    },
+    {
+      "word": "sires",
+      "definition": "ancestors or forefathers",
+      "context": "In 'To Italy' the poet refers to 'Our sires of old'"
+    },
+    {
+      "word": "miseries",
+      "definition": "great suffering or distress",
+      "context": "Italy 'bewails her miseries' in the poem 'To Italy'"
+    },
+    {
+      "word": "robbed",
+      "definition": "deprived of something by theft or force",
+      "context": "The poem asks who 'robbed thee of thy robe and diadem?'"
+    },
+    {
+      "word": "helplessness",
+      "definition": "lack of ability to manage or defend oneself",
+      "context": "The poet laments Italy's 'utter helplessness' in 'To Italy'"
+    },
+    {
+      "word": "shame",
+      "definition": "a painful feeling of humiliation or distress",
+      "context": "The poem declares a volume of tears could not express Italy's 'shame'"
+    },
+    {
+      "word": "subdue",
+      "definition": "to bring under control, conquer, or suppress",
+      "context": "The poem addresses who 'hath reduced her to this pass? Who hath subdue[n]?'"
+    },
+    {
+      "word": "glory",
+      "definition": "splendor or magnificence; renown",
+      "context": "The poem contrasts present condition with the 'glory' of ancestors"
+    },
+    {
+      "word": "ancestors",
+      "definition": "forebears or previous generations",
+      "context": "The opening of 'To Italy' lists walls, arches, columns of ancestors"
+    },
+    {
+      "word": "columns",
+      "definition": "vertical architectural supports common in classical buildings",
+      "context": "Images of 'columns, statues, and the towers' appear in the poem's opening"
+    },
+    {
+      "word": "arches",
+      "definition": "curved structures spanning an opening; architectural feature",
+      "context": "The poem opens 'I the walls, the arches see' describing ruins"
+    },
+    {
+      "word": "statues",
+      "definition": "sculpted figures of persons or deities",
+      "context": "Listed among the remnants Leopardi sees in 'To Italy'"
+    },
+    {
+      "word": "towers",
+      "definition": "tall structures rising above buildings; used in visual imagery",
+      "context": "Included in the opening list of ruins in 'To Italy'"
+    },
+    {
+      "word": "walls",
+      "definition": "vertical structures forming enclosures; architectural imagery",
+      "context": "The poem begins 'My country, I the walls, the arches see'"
+    },
+    {
+      "word": "aloud",
+      "definition": "spoken audibly; not silently",
+      "context": "The poem records the poet crying 'to heaven cry aloud, and to the world'"
+    },
+    {
+      "word": "hath",
+      "definition": "archaic third-person singular of 'have'",
+      "context": "The poem uses archaic phrasing: 'Who hath reduced her to this pass?'"
+    },
+    {
+      "word": "thou",
+      "definition": "archaic or poetic form of 'you' (singular)",
+      "context": "Used throughout the poem 'To Italy' addressing the nation: 'thou who wast born...'"
+    },
+    {
+      "word": "ye",
+      "definition": "archaic or poetic plural form of 'you'",
+      "context": "Simonides quotation in 'To Italy' opens 'O ye, forever blessed'"
+    },
+    {
+      "word": "dost",
+      "definition": "archaic second-person singular of 'do'",
+      "context": "In 'To Italy' the poet asks 'Dost turn away thy eyes...?'"
+    },
+    {
+      "word": "Ah",
+      "definition": "exclamatory interjection expressing emotion",
+      "context": "Used multiple times in the poem as an exclamation ('Ah, me', 'Ah, me, how many wounds')"
+    },
+    {
+      "word": "alas",
+      "definition": "an expression of sorrow, regret, or concern",
+      "context": "Used in 'To Italy' as a lament ('and worst of all, alas')"
+    },
+    {
+      "word": "behold",
+      "definition": "to see or observe (often used dramatically)",
+      "context": "The poem exclaims 'She once was great, but, oh, behold her now' in 'To Italy'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/19315"
+}
