@@ -1,0 +1,582 @@
+{
+  "gutenberg_id": 1080,
+  "title": "A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick",
+  "author": "Swift, Jonathan",
+  "summary": "Swift's narrator offers a savage satirical proposal: to solve Ireland's poverty by selling and consuming poor infants. He computes numbers, recommends reserving some for breeding, fattening year-old children for market, and suggests culinary preparations, skins for gloves, and tavern demand. The scheme supposedly reduces parish burdens, increases landlords' incomes, discourages abortions, and diminishes Roman Catholic influence. He cites informants — an American, a Cavan gentleman, merchants, and a Formosan tale — and mock-justifies cruelty by invented economic advantages. The essay exposes British indifference, class exploitation, and the brutality of political rhetoric through corrosive irony and calculated figures and bitter satire.",
+  "characters": [
+    {
+      "name": "Narrator / Proposer (first-person 'I')",
+      "age": "adult (unspecified)",
+      "personality": "mock-rational, ironic, calculating",
+      "lifespan": "remains the voice of the essay; proposes selling infants as a satirical indictment of policies"
+    },
+    {
+      "name": "A very knowing American (of the narrator's acquaintance in London)",
+      "age": "adult (unspecified)",
+      "personality": "worldly, informant",
+      "lifespan": "cited as source for culinary claims about infants; used to buttress the narrator's satire"
+    },
+    {
+      "name": "Principal gentleman (of the county of Cavan)",
+      "age": "adult (unspecified)",
+      "personality": "practical, cynical",
+      "lifespan": "quoted by narrator about learning to steal; serves as an anecdotal authority"
+    },
+    {
+      "name": "Our merchants",
+      "age": "collective adults",
+      "personality": "commercial, pragmatic",
+      "lifespan": "referenced for being aware of child 'value' on the exchange; part of the satire on commerce"
+    },
+    {
+      "name": "A very worthy person, a true lover of his country (patriot)",
+      "age": "adult (unspecified)",
+      "personality": "pretended patriot; offers a refinement to the scheme",
+      "lifespan": "suggests selling older youths; used to amplify the narrator's ironic claims"
+    },
+    {
+      "name": "His friend",
+      "age": "adult (unspecified)",
+      "personality": "conversational source",
+      "lifespan": "relates the Formosan anecdote; helps trace the idea's supposed origin"
+    },
+    {
+      "name": "Psalmanaazor (native of Formosa)",
+      "age": "adult (unspecified)",
+      "personality": "exoticized storyteller (as reported)",
+      "lifespan": "described as having related a tale of selling executed bodies in Formosa; used by narrator as an odd corroboration"
+    },
+    {
+      "name": "The Emperor (referenced in the Formosan anecdote)",
+      "age": "adult (unspecified)",
+      "personality": "powerful, distant",
+      "lifespan": "mentioned only in the anecdote about imperial consumption of bodies"
+    },
+    {
+      "name": "Imperial majesty's prime minister (referenced)",
+      "age": "adult (unspecified)",
+      "personality": "official, gourmand in anecdote",
+      "lifespan": "appears only in the Formosan anecdote"
+    },
+    {
+      "name": "Squire (landlord, class example)",
+      "age": "adult (unspecified)",
+      "personality": "landholding, predatory in narrator's satire",
+      "lifespan": "portrayed as beneficiary of the scheme; emblematic of landlord greed"
+    },
+    {
+      "name": "Mothers / Beggars (female sex)",
+      "age": "adults",
+      "personality": "desperate, exploited",
+      "lifespan": "portrayed as impoverished and compelled to sell infants; used to dramatize social misery"
+    },
+    {
+      "name": "Poor children / infants",
+      "age": "newborn to year-old",
+      "personality": "victims, dehumanized in proposal",
+      "lifespan": "proposed to be sold and eaten at one year old; central victims of the satire"
+    },
+    {
+      "name": "Papists / Roman Catholics (Popish community)",
+      "age": "collective",
+      "personality": "described as numerous and politically suspect by narrator",
+      "lifespan": "targeted rhetorically; suggested the scheme would lessen their numbers"
+    },
+    {
+      "name": "Young labourers",
+      "age": "adolescents/young adults",
+      "personality": "impoverished, weakened",
+      "lifespan": "depicted as starving or dying from want; used to underline social neglect"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Ireland",
+      "latitude": 53.1423672,
+      "longitude": -7.6920536
+    },
+    {
+      "name": "Dublin",
+      "latitude": 53.349805,
+      "longitude": -6.26031
+    },
+    {
+      "name": "County Cavan",
+      "latitude": 54,
+      "longitude": -7.5
+    },
+    {
+      "name": "London",
+      "latitude": 51.5073509,
+      "longitude": -0.1277583
+    },
+    {
+      "name": "Formosa (Taiwan)",
+      "latitude": 25.033964,
+      "longitude": 121.564468
+    },
+    {
+      "name": "Barbadoes (Barbados)",
+      "latitude": 13.193887,
+      "longitude": -59.543198
+    },
+    {
+      "name": "Spain (Madrid as representative)",
+      "latitude": 40.4167754,
+      "longitude": -3.7037902
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "melancholy",
+      "definition": "deep sadness or gloom",
+      "context": "Opening: 'It is a melancholy object to those...'"
+    },
+    {
+      "word": "cabbin-doors",
+      "definition": "archaic spelling of cabin doors or small house doors",
+      "context": "Describes streets and 'cabbin-doors' crowded with beggars"
+    },
+    {
+      "word": "stroling",
+      "definition": "archaic form of strolling (wandering, roaming)",
+      "context": "Mothers 'are forced to employ all their time in stroling to beg sustenance'"
+    },
+    {
+      "word": "importuning",
+      "definition": "persistently begging or entreating",
+      "context": "Children 'importuning every passenger for an alms'"
+    },
+    {
+      "word": "alms",
+      "definition": "charitable gifts given to the poor",
+      "context": "Passengers asked 'for an alms' in the streets"
+    },
+    {
+      "word": "prodigious",
+      "definition": "extraordinary in size or extent",
+      "context": "Refers to 'a prodigious number of children' as a grievance"
+    },
+    {
+      "word": "preserver",
+      "definition": "one who preserves or saves",
+      "context": "Would 'deserve ... to have his statue set up for a preserver of the nation'"
+    },
+    {
+      "word": "projectors",
+      "definition": "those who propose schemes or plans",
+      "context": "The narrator criticizes 'the several schemes of our projectors'"
+    },
+    {
+      "word": "solar",
+      "definition": "relating to the sun; here meaning a year",
+      "context": "A child 'may be supported by her milk, for a solar year'"
+    },
+    {
+      "word": "dropt",
+      "definition": "archaic past participle of drop; newly born",
+      "context": "A child 'just dropt from its dam'"
+    },
+    {
+      "word": "dam",
+      "definition": "mother (of an animal or, used here, metaphorically of a child)",
+      "context": "A child 'just dropt from its dam' is supported on its mother's milk"
+    },
+    {
+      "word": "nutriments",
+      "definition": "nourishing substances or food",
+      "context": "Costs 'at most not above the value of two shillings' in nutriments"
+    },
+    {
+      "word": "encreaseth",
+      "definition": "archaic form of 'increases'",
+      "context": "A child 'in a solar year, if tolerably nursed, encreaseth to 28 pounds'"
+    },
+    {
+      "word": "probationers",
+      "definition": "those on trial or under probation",
+      "context": "Children 'can however be properly looked upon only as probationers'"
+    },
+    {
+      "word": "towardly",
+      "definition": "having promise or being forward in development",
+      "context": "Some are 'of towardly parts' for learning skills early"
+    },
+    {
+      "word": "saleable",
+      "definition": "able to be sold; marketable",
+      "context": "A child before twelve 'is no saleable commodity'"
+    },
+    {
+      "word": "ragoust",
+      "definition": "archaic variant of ragout, a meat stew",
+      "context": "The narrator: 'it will equally serve in a fricasee, or a ragoust'"
+    },
+    {
+      "word": "fricasee",
+      "definition": "archaic spelling of fricassee, a stewed or fried dish",
+      "context": "Child 'will equally serve in a fricasee'"
+    },
+    {
+      "word": "encreased",
+      "definition": "archaic spelling of increased",
+      "context": "The nation's stock 'will be thereby encreased fifty thousand pounds'"
+    },
+    {
+      "word": "popish",
+      "definition": "derogatory term for Roman Catholic",
+      "context": "Refers to 'Popish infants' being more plentiful"
+    },
+    {
+      "word": "Pretender",
+      "definition": "title for a claimant to a throne (here the Jacobite claimant)",
+      "context": "Some children 'leave their... country, to fight for the Pretender in Spain'"
+    },
+    {
+      "word": "Barbadoes",
+      "definition": "archaic spelling of Barbados (Caribbean island)",
+      "context": "Children 'sell themselves to the Barbadoes'"
+    },
+    {
+      "word": "publick",
+      "definition": "archaic spelling of public",
+      "context": "Used in full title and throughout: 'publick consideration' or 'publick advantage'"
+    },
+    {
+      "word": "parish",
+      "definition": "a local church district responsible for poor relief",
+      "context": "Children would no longer be a charge 'upon their parents, or the parish'"
+    },
+    {
+      "word": "cottagers",
+      "definition": "people living in small rural cottages; smallholders",
+      "context": "Includes 'all cottagers, labourers, and four-fifths of the farmers' as beggars"
+    },
+    {
+      "word": "maimed",
+      "definition": "physically injured or crippled",
+      "context": "Worries about 'poor people, who are aged, diseased, or maimed'"
+    },
+    {
+      "word": "incumbrance",
+      "definition": "archaic form of 'incumbrance', meaning burden",
+      "context": "Refers to the aged and maimed as a grievous 'incumbrance'"
+    },
+    {
+      "word": "rotting",
+      "definition": "decaying, decomposition",
+      "context": "The aged are 'every day dying, and rotting, by cold and famine'"
+    },
+    {
+      "word": "vermin",
+      "definition": "noxious parasites or pests",
+      "context": "People die 'by cold and famine, and filth, and vermin'"
+    },
+    {
+      "word": "maidens",
+      "definition": "young unmarried women",
+      "context": "Suggestion to sell 'young lads and maidens, not exceeding fourteen years'"
+    },
+    {
+      "word": "plump",
+      "definition": "well-rounded, fat and fleshy",
+      "context": "Describes a 'plump girl of fifteen' in the Formosan anecdote"
+    },
+    {
+      "word": "mandarins",
+      "definition": "high-ranking officials in imperial China (used in anecdote)",
+      "context": "The carcass in the anecdote was sold 'to his imperial majesty’s prime minister of state, and other great mandarins'"
+    },
+    {
+      "word": "crucified",
+      "definition": "executed by being nailed to a cross",
+      "context": "A plump girl 'who was crucified for an attempt to poison the Emperor'"
+    },
+    {
+      "word": "gibbet",
+      "definition": "a gallows-like structure for public execution/display",
+      "context": "Bodies sold 'in joints from the gibbet'"
+    },
+    {
+      "word": "carcass",
+      "definition": "the dead body of an animal or person (used provocatively)",
+      "context": "Repeated references to the 'carcass' of children as marketable goods"
+    },
+    {
+      "word": "shambles",
+      "definition": "butchers' market or slaughterhouse",
+      "context": "Proposes 'shambles may be appointed' in Dublin for selling infants"
+    },
+    {
+      "word": "vintners",
+      "definition": "wine sellers; tavern keepers",
+      "context": "This food 'would likewise bring great custom to taverns, where the vintners will... procure the best receipts'"
+    },
+    {
+      "word": "emulation",
+      "definition": "competitive striving to equal or excel",
+      "context": "Predicts 'an honest emulation among the married women' to produce the fattest child"
+    },
+    {
+      "word": "farrow",
+      "definition": "to give birth to pigs; used metaphorically for animals birthing",
+      "context": "Men would care for wives 'as they are now of their mares in foal, their cows in calf, or sows when they are ready to farrow'"
+    },
+    {
+      "word": "sows",
+      "definition": "adult female pigs",
+      "context": "Used in simile comparing care for pregnant women to animals: 'sows when they are ready to farrow'"
+    },
+    {
+      "word": "livelihood",
+      "definition": "means of supporting life; earning a living",
+      "context": "Mothers unable 'to work for their honest livelihood' and forced to beg"
+    },
+    {
+      "word": "sustenance",
+      "definition": "food or provision sustaining life",
+      "context": "Mothers 'stroling to beg sustenance for their helpless infants'"
+    },
+    {
+      "word": "professed",
+      "definition": "openly declared or avowed",
+      "context": "Not limited 'only to the children of professed beggars'"
+    },
+    {
+      "word": "shillings",
+      "definition": "former unit of British currency",
+      "context": "Costs 'at most not above the value of two shillings' to support a baby by milk"
+    },
+    {
+      "word": "scraps",
+      "definition": "leftover bits of food",
+      "context": "Mother may get 'two shillings, which the mother may certainly get, or the value in scraps'"
+    },
+    {
+      "word": "miscarry",
+      "definition": "to have a miscarriage; lose a pregnancy",
+      "context": "Subtracts fifty thousand for women 'who miscarry, or whose children die...'"
+    },
+    {
+      "word": "merchants",
+      "definition": "traders or businessmen",
+      "context": "Merchants assert a child 'before twelve years old, is no saleable commodity'"
+    },
+    {
+      "word": "stewed",
+      "definition": "cooked slowly in liquid",
+      "context": "A child 'is, at a year old, a most delicious nourishing and wholesome food, whether stewed, roasted...'"
+    },
+    {
+      "word": "quarter",
+      "definition": "a region or a quarter of an animal (fore or hind quarter)",
+      "context": "A 'fore or hind quarter will make a reasonable dish'"
+    },
+    {
+      "word": "medium",
+      "definition": "an average or middle estimate",
+      "context": "Narrator 'has reckoned upon a medium' for child weight"
+    },
+    {
+      "word": "neat",
+      "definition": "clear, exact; here meaning net or clean profit",
+      "context": "Mother will have 'eight shillings neat profit'"
+    },
+    {
+      "word": "flay",
+      "definition": "to strip off the skin",
+      "context": "Those thrifty 'may flay the carcass; the skin... will make admirable gloves'"
+    },
+    {
+      "word": "scrupulous",
+      "definition": "having moral qualms or conscience",
+      "context": "Some 'scrupulous people might be apt to censure such a practice... as bordering upon cruelty'"
+    },
+    {
+      "word": "Psalmanaazor",
+      "definition": "proper name used in the anecdote (Formosan native)",
+      "context": "Cited as 'the famous Psalmanaazor, a native of the island Formosa'"
+    },
+    {
+      "word": "Formosa",
+      "definition": "archaic name for the island of Taiwan",
+      "context": "Psalmanaazor is described as 'a native of the island Formosa'"
+    },
+    {
+      "word": "groat",
+      "definition": "an old small-denomination coin",
+      "context": "Describes girls 'without one single groat to their fortunes'"
+    },
+    {
+      "word": "chair",
+      "definition": "here means a sedan-chair used for personal transport",
+      "context": "Cannot 'stir abroad without a chair' describing poor fashion-conscious people"
+    },
+    {
+      "word": "playhouse",
+      "definition": "theater or venue for plays",
+      "context": "Appear 'at a playhouse and assemblies in foreign fineries'"
+    },
+    {
+      "word": "fineries",
+      "definition": "fine or showy dress and ornament",
+      "context": "People appearing 'in foreign fineries which they never will pay for'"
+    },
+    {
+      "word": "desponding",
+      "definition": "in low spirits from loss of hope",
+      "context": "Some 'persons of a desponding spirit are in great concern' about the poor aged"
+    },
+    {
+      "word": "diseased",
+      "definition": "ill or afflicted with disease",
+      "context": "Concerns 'poor people, who are aged, diseased, or maimed'"
+    },
+    {
+      "word": "filth",
+      "definition": "dirt or foul matter",
+      "context": "They die 'by cold and famine, and filth, and vermin'"
+    },
+    {
+      "word": "pine",
+      "definition": "to waste away through longing or suffering",
+      "context": "Young labourers 'pine away from want of nourishment'"
+    },
+    {
+      "word": "digressed",
+      "definition": "departed temporarily from the main subject",
+      "context": "The narrator admits 'I have too long digressed'"
+    },
+    {
+      "word": "annum",
+      "definition": "year (Latin)",
+      "context": "Refers to sums 'per annum' when calculating national gain"
+    },
+    {
+      "word": "maintainance",
+      "definition": "archaic spelling of maintenance (upkeep or support)",
+      "context": "Notes 'Whereas the maintainance of a hundred thousand children...'"
+    },
+    {
+      "word": "barrel'd",
+      "definition": "contracted form of 'barrelled', meaning put into barrels",
+      "context": "Addition of carcasses to 'our exportation of barrel'd beef'"
+    },
+    {
+      "word": "Lord Mayor",
+      "definition": "title of a city's chief magistrate (here Dublin)",
+      "context": "A 'well grown, fat yearling child' might grace 'a Lord Mayor's feast'"
+    },
+    {
+      "word": "merry",
+      "definition": "festive, jovial",
+      "context": "Customers would eat infant flesh at 'merry meetings, particularly at weddings and christenings'"
+    },
+    {
+      "word": "christenings",
+      "definition": "baptismal ceremonies",
+      "context": "Listed as occasions where the meat might be served"
+    },
+    {
+      "word": "carcasses",
+      "definition": "plural of carcass; dead bodies",
+      "context": "Counts 'the addition of some thousand carcasses in our exportation'"
+    },
+    {
+      "word": "Emperor",
+      "definition": "ruler of an empire (used in anecdote)",
+      "context": "A girl 'was crucified for an attempt to poison the Emperor' in the anecdote"
+    },
+    {
+      "word": "imperial",
+      "definition": "relating to an empire or emperor",
+      "context": "Refers to 'his imperial majesty's prime minister' in the anecdote"
+    },
+    {
+      "word": "principal",
+      "definition": "most important or chief (used as title to a gentleman)",
+      "context": "Describes 'a principal gentleman in the county of Cavan'"
+    },
+    {
+      "word": "renowned",
+      "definition": "famous or well known",
+      "context": "Cavan described as 'so renowned for the quickest proficiency' in theft"
+    },
+    {
+      "word": "twelve",
+      "definition": "number; age used as a market threshold",
+      "context": "Merchants assert that 'before twelve years old, is no saleable commodity'"
+    },
+    {
+      "word": "tithes",
+      "definition": "a tenth part of income given to the church",
+      "context": "Protests about people leaving rather than 'pay tithes against their conscience to an episcopal curate'"
+    },
+    {
+      "word": "episcopal",
+      "definition": "related to bishops or the established church",
+      "context": "Refers to 'an episcopal curate' receiving tithes"
+    },
+    {
+      "word": "curate",
+      "definition": "a clergyman serving as assistant in a parish",
+      "context": "Mentions paying 'tithes... to an episcopal curate'"
+    },
+    {
+      "word": "customers",
+      "definition": "people who buy goods or services",
+      "context": "'Supposing that one thousand families in this city, would be constant customers for infants flesh'"
+    },
+    {
+      "word": "taverns",
+      "definition": "public houses selling food and drink",
+      "context": "This food 'would likewise bring great custom to taverns'"
+    },
+    {
+      "word": "receipts",
+      "definition": "archaic term for recipes or instructions for cooking",
+      "context": "Vintners will 'procure the best receipts for dressing it to perfection'"
+    },
+    {
+      "word": "skilful",
+      "definition": "having skill or expertise",
+      "context": "A 'skilful cook' could make the meat as expensive as desired"
+    },
+    {
+      "word": "labourers",
+      "definition": "manual workers",
+      "context": "Mentions 'young labourers' who cannot find work and pine away"
+    },
+    {
+      "word": "prolifick",
+      "definition": "archaic spelling of prolific (producing abundantly)",
+      "context": "Cites 'an eminent French physician, that fish being a prolifick dyet'"
+    },
+    {
+      "word": "dyet",
+      "definition": "archaic spelling of diet",
+      "context": "Says 'fish being a prolifick dyet' resulting in more births"
+    },
+    {
+      "word": "Roman",
+      "definition": "relating to Rome; used with Catholick",
+      "context": "Refers to 'Roman Catholick countries' in demographic claim"
+    },
+    {
+      "word": "Catholick",
+      "definition": "archaic spelling of Catholic",
+      "context": "Used in phrase 'Roman Catholick countries' and 'Popish infants'"
+    },
+    {
+      "word": "conscience",
+      "definition": "moral sense of right and wrong",
+      "context": "People 'leave their country, than stay at home and pay tithes against their conscience'"
+    },
+    {
+      "word": "Protestants",
+      "definition": "members of non-Catholic Christian churches",
+      "context": "Contrasts 'so many good Protestants' who leave the country"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/1080"
+}
