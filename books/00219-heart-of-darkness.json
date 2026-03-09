@@ -1,0 +1,623 @@
+{
+  "gutenberg_id": 219,
+  "title": "Heart of Darkness",
+  "author": "Conrad, Joseph",
+  "summary": "Companions lounge on the Nellie, a cruising yawl anchored on the Thames, while Marlow recalls voyages and muses that the river has been a dark place. He evokes Roman voyagers, triremes and legionaries, then later traders and conquerors whose enterprise amounted to robbery and aggravated murder. Marlow reflects on the fascination and abomination of imperial ventures, on efficiency, pretence and sacrifice. Restless after service in eastern seas, he recalls a childhood passion for maps and longing for an inland river seen as a snake on the chart, leading him to seek charge of a steamboat for a Continental trading concern.",
+  "characters": [
+    {
+      "name": "Unnamed Narrator",
+      "age": "adult",
+      "personality": "observant, framing listener to Marlow's tale",
+      "lifespan": "present on the Nellie; fate unspecified in excerpt"
+    },
+    {
+      "name": "Marlow",
+      "age": "adult (estimated 30s–40s)",
+      "personality": "thoughtful, wandering seaman, ascetic, storyteller",
+      "lifespan": "survives to narrate experiences; fate beyond excerpt unspecified"
+    },
+    {
+      "name": "Director of Companies",
+      "age": "middle-aged to older adult",
+      "personality": "authoritative, nautical in appearance, host and captain of the Nellie",
+      "lifespan": "present on the yacht; fate unspecified in excerpt"
+    },
+    {
+      "name": "The Lawyer",
+      "age": "older adult",
+      "personality": "respectable, the 'best of old fellows', genteel",
+      "lifespan": "lies on the deck rug during framing scene; fate unspecified in excerpt"
+    },
+    {
+      "name": "The Accountant",
+      "age": "adult",
+      "personality": "meticulous, amused by dominoes, architectural in habit",
+      "lifespan": "present on the Nellie; fate unspecified in excerpt"
+    },
+    {
+      "name": "The Poor Chap",
+      "age": "adult (unnamed)",
+      "personality": "pitiful, encountered by Marlow later in his tale",
+      "lifespan": "met at the farthest point of navigation; fate unspecified in excerpt"
+    },
+    {
+      "name": "Commander of a Trireme (hypothetical)",
+      "age": "adult (imagined)",
+      "personality": "hardy Roman commander envisaged by Marlow",
+      "lifespan": "imagined to have suffered disease and death in hostile climate (as Marlow suggests)"
+    },
+    {
+      "name": "Decent Young Citizen in a Toga (hypothetical)",
+      "age": "young adult (imagined)",
+      "personality": "naïve, uninitiated into wilderness mysteries in Marlow's example",
+      "lifespan": "imagined to feel regret and despair; fate unspecified"
+    },
+    {
+      "name": "Legionaries (group)",
+      "age": "adults (imagined)",
+      "personality": "capable builders and fighters in Roman example",
+      "lifespan": "imagined participants in Roman expeditions; fate unspecified"
+    },
+    {
+      "name": "Prefect / Tax-gatherer / Trader (types)",
+      "age": "adults (types)",
+      "personality": "administrators or opportunists in Marlow's illustrations",
+      "lifespan": "mentioned as roles; individual fates unspecified"
+    }
+  ],
+  "locations": [
+    {
+      "name": "River Thames (London, lower reach)",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Gravesend (mentioned)",
+      "latitude": 51.4416,
+      "longitude": 0.37
+    },
+    {
+      "name": "Deptford (mentioned)",
+      "latitude": 51.4814,
+      "longitude": -0.016
+    },
+    {
+      "name": "Greenwich (mentioned)",
+      "latitude": 51.4826,
+      "longitude": 0
+    },
+    {
+      "name": "Erith (mentioned)",
+      "latitude": 51.48,
+      "longitude": 0.175
+    },
+    {
+      "name": "Ravenna (mentioned)",
+      "latitude": 44.4143,
+      "longitude": 12.2014
+    },
+    {
+      "name": "North Pole (mentioned)",
+      "latitude": 90,
+      "longitude": 0
+    },
+    {
+      "name": "Indian Ocean (mentioned)",
+      "latitude": -20,
+      "longitude": 80
+    },
+    {
+      "name": "Pacific Ocean (mentioned)",
+      "latitude": 0,
+      "longitude": -160
+    },
+    {
+      "name": "China Seas (mentioned)",
+      "latitude": 15,
+      "longitude": 115
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "yawl",
+      "definition": "a small sailing vessel with two masts",
+      "context": "The Nellie is described as a 'cruising yawl' anchored on the Thames."
+    },
+    {
+      "word": "anchor",
+      "definition": "heavy device dropped to hold a vessel in place",
+      "context": "The yawl 'swung to her anchor' and was at rest."
+    },
+    {
+      "word": "tide",
+      "definition": "the rise and fall of sea levels",
+      "context": "The flood had made and they waited for the turn of the tide."
+    },
+    {
+      "word": "offing",
+      "definition": "the area of sea visible from shore; near offshore",
+      "context": "In the offing the sea and the sky were welded together."
+    },
+    {
+      "word": "welded",
+      "definition": "joined seamlessly or fused together (figurative)",
+      "context": "The sea and the sky were 'welded together without a joint'."
+    },
+    {
+      "word": "luminous",
+      "definition": "emitting light; bright",
+      "context": "The luminous space showed the tanned sails of barges."
+    },
+    {
+      "word": "tanned",
+      "definition": "darkened in color, like tanned leather or skin",
+      "context": "The tanned sails of the barges were visible in the estuary."
+    },
+    {
+      "word": "barges",
+      "definition": "large flat-bottomed boats for cargo on rivers",
+      "context": "Tanned sails of the barges drifting up with the tide seemed to stand still."
+    },
+    {
+      "word": "sprits",
+      "definition": "spars extending diagonally across a sail",
+      "context": "Gleams of varnished sprits were noted on the barges."
+    },
+    {
+      "word": "varnished",
+      "definition": "coated with a shiny protective finish",
+      "context": "Gleams of varnished sprits were mentioned among the barges' sails."
+    },
+    {
+      "word": "haze",
+      "definition": "a slight obscuration of the lower atmosphere",
+      "context": "A haze rested on the low shores that ran out to sea."
+    },
+    {
+      "word": "marsh",
+      "definition": "wet, low-lying land with grasses",
+      "context": "The mist on the Essex marsh was like a gauzy and radiant fabric."
+    },
+    {
+      "word": "mournful",
+      "definition": "expressing sorrow or gloom",
+      "context": "The air was dark above Gravesend and condensed into a mournful gloom."
+    },
+    {
+      "word": "gloom",
+      "definition": "partial or total darkness; a somber atmosphere",
+      "context": "A mournful gloom brooded motionless over the great town."
+    },
+    {
+      "word": "bows",
+      "definition": "the forward part of a ship",
+      "context": "The Director stood in the bows looking to seaward."
+    },
+    {
+      "word": "nautical",
+      "definition": "relating to sailors, ships, or navigation",
+      "context": "On the whole river there was nothing that looked half so nautical."
+    },
+    {
+      "word": "pilot",
+      "definition": "a seaman qualified to guide ships through difficult waters",
+      "context": "The Director resembled a pilot, 'trustworthiness personified.'"
+    },
+    {
+      "word": "trustworthiness",
+      "definition": "the quality of being reliable and dependable",
+      "context": "The Director resembled a pilot, which to a seaman is trustworthiness personified."
+    },
+    {
+      "word": "bond",
+      "definition": "a tie or connection between people",
+      "context": "There was the bond of the sea between the companions."
+    },
+    {
+      "word": "yarns",
+      "definition": "long tales or stories, especially of seamen",
+      "context": "The bond of the sea made them tolerant of each other's yarns."
+    },
+    {
+      "word": "cushion",
+      "definition": "a soft pad for sitting",
+      "context": "The Lawyer had the only cushion on deck and lay on the rug."
+    },
+    {
+      "word": "dominoes",
+      "definition": "a gaming set of small rectangular tiles",
+      "context": "The Accountant had brought out a box of dominoes."
+    },
+    {
+      "word": "architecturally",
+      "definition": "in a manner related to building or structured arrangement",
+      "context": "The Accountant was toying architecturally with the bones (dominoes)."
+    },
+    {
+      "word": "bones",
+      "definition": "slang for domino tiles",
+      "context": "Architecturally toying with the bones refers to arranging domino tiles."
+    },
+    {
+      "word": "cross-legged",
+      "definition": "sitting with legs crossed",
+      "context": "Marlow sat cross-legged right aft, leaning against the mizzen-mast."
+    },
+    {
+      "word": "mizzen-mast",
+      "definition": "the aftmost mast on a three-masted vessel",
+      "context": "Marlow leaned against the mizzen-mast as he sat cross-legged."
+    },
+    {
+      "word": "sunken",
+      "definition": "hollowed or depressed, often describing cheeks",
+      "context": "Marlow had sunken cheeks and a yellow complexion."
+    },
+    {
+      "word": "ascetic",
+      "definition": "practicing strict self-discipline and abstention",
+      "context": "Marlow had an ascetic aspect, resembling an idol."
+    },
+    {
+      "word": "idol",
+      "definition": "an image or representation worshipped as a god; used metaphorically",
+      "context": "With arms dropped and palms outwards he resembled an idol."
+    },
+    {
+      "word": "aft",
+      "definition": "toward the stern or rear of a vessel",
+      "context": "Marlow sat right aft, near the stern of the yawl."
+    },
+    {
+      "word": "placid",
+      "definition": "calm and peaceful",
+      "context": "They felt meditative and fit for nothing but placid staring."
+    },
+    {
+      "word": "exquisite",
+      "definition": "extremely beautiful or delicate",
+      "context": "The day was ending in a serenity of still and exquisite brilliance."
+    },
+    {
+      "word": "gauzy",
+      "definition": "thin and translucent, like gauze",
+      "context": "The mist was like a gauzy and radiant fabric draping the low shores."
+    },
+    {
+      "word": "radiant",
+      "definition": "shining or glowing brightly",
+      "context": "A gauzy and radiant fabric hung from the wooded rises inland."
+    },
+    {
+      "word": "diaphanous",
+      "definition": "very sheer and light; almost transparent",
+      "context": "The mist draping the low shores was described as diaphanous folds."
+    },
+    {
+      "word": "sombre",
+      "definition": "dark or dull in tone; gloomy",
+      "context": "Only the gloom to the west became more sombre every minute."
+    },
+    {
+      "word": "ominously",
+      "definition": "in a way that suggests something bad will happen",
+      "context": "The monstrous town was still marked ominously on the sky."
+    },
+    {
+      "word": "lurid",
+      "definition": "very vivid in color, especially to create an unpleasant effect",
+      "context": "A lurid glare marked the upper reaches under the stars."
+    },
+    {
+      "word": "flood",
+      "definition": "the rising tide",
+      "context": "They waited patiently until the end of the flood."
+    },
+    {
+      "word": "ebb",
+      "definition": "the receding tide",
+      "context": "They would hear Marlow's tale before the ebb began to run."
+    },
+    {
+      "word": "august",
+      "definition": "respected and impressive; majestic",
+      "context": "The river was seen in the august light of abiding memories."
+    },
+    {
+      "word": "reverence",
+      "definition": "deep respect or awe",
+      "context": "A man who had 'followed the sea' with reverence could evoke the spirit of the past."
+    },
+    {
+      "word": "evoke",
+      "definition": "bring or recall to the conscious mind",
+      "context": "Nothing is easier than to evoke the great spirit of the past upon the lower reaches."
+    },
+    {
+      "word": "venerable",
+      "definition": "accorded a great deal of respect because of age or dignity",
+      "context": "They looked at the venerable stream in tranquillity."
+    },
+    {
+      "word": "unceasing",
+      "definition": "never stopping or pausing; continuous",
+      "context": "The tidal current runs to and fro in its unceasing service."
+    },
+    {
+      "word": "knights-errant",
+      "definition": "wandering knights seeking adventure",
+      "context": "The river had borne men like knights-errant of the sea."
+    },
+    {
+      "word": "rotund",
+      "definition": "round in shape; stout",
+      "context": "From the Golden Hind returning with her rotund flanks full of treasure."
+    },
+    {
+      "word": "flanks",
+      "definition": "the sides of a ship",
+      "context": "The Golden Hind returned with her rotund flanks full of treasure."
+    },
+    {
+      "word": "Erebus",
+      "definition": "name of a famous ship (also mythological darkness), used here historically",
+      "context": "Ships like the Erebus and Terror are mentioned as bound on conquests."
+    },
+    {
+      "word": "Terror",
+      "definition": "name of a famous ship; paired with Erebus",
+      "context": "The Erebus and Terror bound on other conquests—and that never returned."
+    },
+    {
+      "word": "interlopers",
+      "definition": "people who intrude into a place or sphere of activity",
+      "context": "The dark 'interlopers' of the Eastern trade are mentioned among seafarers."
+    },
+    {
+      "word": "adventurers",
+      "definition": "people who seek risky or exciting experiences",
+      "context": "Adventurers and the settlers had sailed from Deptford and Greenwich."
+    },
+    {
+      "word": "settlers",
+      "definition": "people who establish a community in a new place",
+      "context": "The river had borne settlers and adventurers to distant lands."
+    },
+    {
+      "word": "trireme",
+      "definition": "an ancient Mediterranean warship with three banks of oars",
+      "context": "Marlow imagines a commander of a fine trireme ordered to the north."
+    },
+    {
+      "word": "Gauls",
+      "definition": "ancient peoples of what is now France and surrounding regions",
+      "context": "Running overland across the Gauls to reach the river is imagined."
+    },
+    {
+      "word": "legionaries",
+      "definition": "soldiers of a Roman legion",
+      "context": "Marlow imagines putting legionaries in charge of such craft."
+    },
+    {
+      "word": "Falernian",
+      "definition": "a celebrated ancient Roman wine (Falernian wine)",
+      "context": "Marlow contrasts Falernian wine with the Thames water they must drink."
+    },
+    {
+      "word": "brag",
+      "definition": "to boast about achievements",
+      "context": "A commander might later brag about what he had gone through."
+    },
+    {
+      "word": "savagery",
+      "definition": "the state of being fierce, cruel, or uncivilized",
+      "context": "In some inland post the savagery had closed round him."
+    },
+    {
+      "word": "incomprehensible",
+      "definition": "impossible to understand or comprehend",
+      "context": "To live amidst the incomprehensible is also detestable, Marlow says."
+    },
+    {
+      "word": "detestable",
+      "definition": "deserving intense dislike",
+      "context": "Marlow says the incomprehensible is also detestable."
+    },
+    {
+      "word": "fascination",
+      "definition": "the power to attract and hold attention",
+      "context": "There is a fascination, too, that goes to work upon him."
+    },
+    {
+      "word": "abomination",
+      "definition": "a thing that causes disgust or hatred",
+      "context": "Marlow calls it 'the fascination of the abomination.'"
+    },
+    {
+      "word": "surrender",
+      "definition": "to give up resistance",
+      "context": "He imagines the growing regrets, the surrender, the hate."
+    },
+    {
+      "word": "hate",
+      "definition": "intense dislike or hostility",
+      "context": "Marlow lists surrender and the hate growing in men in the wilderness."
+    },
+    {
+      "word": "efficiency",
+      "definition": "ability to accomplish a job with minimum waste",
+      "context": "What saves us is efficiency—the devotion to efficiency."
+    },
+    {
+      "word": "squeeze",
+      "definition": "a crushing or constricting action; here metaphorical",
+      "context": "Their administration was merely a squeeze, and nothing more."
+    },
+    {
+      "word": "conquerors",
+      "definition": "those who acquire territory by force",
+      "context": "They were conquerors, and for that you want only brute force."
+    },
+    {
+      "word": "brute",
+      "definition": "savaged strength or force without refinement",
+      "context": "For that you want only brute force—nothing to boast of."
+    },
+    {
+      "word": "robbery",
+      "definition": "the action of taking property unlawfully",
+      "context": "It was just robbery with violence, aggravated murder on a great scale."
+    },
+    {
+      "word": "aggravated",
+      "definition": "made more serious or severe",
+      "context": "Aggravated murder on a great scale is the phrase used."
+    },
+    {
+      "word": "murder",
+      "definition": "the unlawful premeditated killing of one human by another",
+      "context": "Marlow characterizes the enterprise as aggravated murder on a great scale."
+    },
+    {
+      "word": "idea",
+      "definition": "a concept or belief that motivates action",
+      "context": "What redeems it is the idea only—an unselfish belief in the idea."
+    },
+    {
+      "word": "unselfish",
+      "definition": "free from selfishness; putting others first",
+      "context": "An unselfish belief in the idea is what redeems conquest, Marlow says."
+    },
+    {
+      "word": "pretence",
+      "definition": "an attempt to make something that is not the case appear true",
+      "context": "Not a sentimental pretence but an idea; an unselfish belief."
+    },
+    {
+      "word": "sacrifice",
+      "definition": "giving up something valued for the sake of something else",
+      "context": "Something you can set up and bow down before, and offer a sacrifice to."
+    },
+    {
+      "word": "flames",
+      "definition": "visible, gaseous part of a fire",
+      "context": "Flames glided in the river—small green flames, red flames, white flames."
+    },
+    {
+      "word": "glided",
+      "definition": "moved smoothly and quietly",
+      "context": "Flames glided in the river, pursuing and overtaking each other."
+    },
+    {
+      "word": "Chapman",
+      "definition": "proper name used in the phrase 'Chapman light-house'",
+      "context": "The Chapman light-house, a three-legged thing erect on a mud-flat, shone strongly."
+    },
+    {
+      "word": "light-house",
+      "definition": "a tower with a light to warn or guide ships",
+      "context": "The Chapman light-house is described as a three-legged thing."
+    },
+    {
+      "word": "three-legged",
+      "definition": "having three supports or legs",
+      "context": "The Chapman lighthouse is called a three-legged thing on a mud-flat."
+    },
+    {
+      "word": "fairway",
+      "definition": "the navigable channel for vessels",
+      "context": "Lights of ships moved in the fairway—a great stir of lights."
+    },
+    {
+      "word": "monstrous",
+      "definition": "vast, unnatural, or shockingly large",
+      "context": "The place of the monstrous town was still marked ominously on the sky."
+    },
+    {
+      "word": "glare",
+      "definition": "a strong or dazzling light",
+      "context": "A lurid glare under the stars marked the town."
+    },
+    {
+      "word": "flicker",
+      "definition": "a brief, wavering movement of light",
+      "context": "We live in the flicker—may it last as long as the old earth keeps rolling!"
+    },
+    {
+      "word": "hesitating",
+      "definition": "unsure or tentative in speech or action",
+      "context": "He said, in a hesitating voice, 'I suppose you fellows remember...'"
+    },
+    {
+      "word": "fresh-water",
+      "definition": "living or operating on inland waters as opposed to the sea",
+      "context": "Marlow says he did once turn fresh-water sailor for a bit."
+    },
+    {
+      "word": "sailor",
+      "definition": "one who works aboard a ship",
+      "context": "Marlow references turning fresh-water sailor before his river voyage."
+    },
+    {
+      "word": "inconclusive",
+      "definition": "not leading to a firm conclusion; unresolved",
+      "context": "Marlow calls his experiences 'inconclusive experiences.'"
+    },
+    {
+      "word": "culminating",
+      "definition": "reaching a highest point or climax",
+      "context": "He refers to the culminating point of his experience at the farthest navigation."
+    },
+    {
+      "word": "pitiful",
+      "definition": "deserving or arousing pity",
+      "context": "His experience was sombre enough, too—and pitiful—not extraordinary."
+    },
+    {
+      "word": "dose",
+      "definition": "an amount of something taken at one time; metaphorical here",
+      "context": "He had a regular dose of the East—Indian Ocean, Pacific, China Seas."
+    },
+    {
+      "word": "loafing",
+      "definition": "spending time in a lazy or idle way",
+      "context": "He was loafing about, hindering you fellows in your work."
+    },
+    {
+      "word": "hindering",
+      "definition": "creating difficulties that result in delay",
+      "context": "He was hindering the others in their work while he loafed."
+    },
+    {
+      "word": "invading",
+      "definition": "entering as an intruder",
+      "context": "He was invading their homes 'just as though I had got a heavenly mission.'"
+    },
+    {
+      "word": "heavenly",
+      "definition": "of or like heaven; here used sarcastically",
+      "context": "He felt as though he had a 'heavenly mission to civilize you.'"
+    },
+    {
+      "word": "civilize",
+      "definition": "to bring out of a savage or primitive condition",
+      "context": "He spoke of having a heavenly mission to civilize them."
+    },
+    {
+      "word": "hankering",
+      "definition": "a strong desire or craving",
+      "context": "He had a hankering after the biggest blank space on the map."
+    },
+    {
+      "word": "maps",
+      "definition": "charts representing areas of the earth",
+      "context": "As a child he had a passion for maps and would lose himself in them."
+    },
+    {
+      "word": "snake",
+      "definition": "here a metaphor for a river's winding shape on a map",
+      "context": "He describes the great river as resembling 'an immense snake uncoiled.'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/219"
+}
