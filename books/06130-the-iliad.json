@@ -1,0 +1,681 @@
+{
+  "gutenberg_id": 6130,
+  "title": "The Iliad",
+  "author": "Homer",
+  "summary": "This edition presents Alexander Pope’s translation of Homer’s Iliad, with Theodore A. Buckley’s notes and Flaxman’s illustrations. The introductory essay surveys literary scepticism, critiques modern criticism, and debates Homeric authorship and biography. It reproduces a Herodotean life of Homer—Melesigenes—tracing origins in Cumæ and Smyrna, his adoption by Phemius, journeys with Mentes, and eventual poverty-driven wanderings through Phocœa, Chios, and Erythræ. The edition includes full contents (twenty-four books), maps, and numerous plates depicting gods, heroes, scenes, and funeral rites, framing the epic’s narrative of the Trojan War and its principal figures. It also reproduces Pope’s preface and explanatory notes for readers.",
+  "characters": [
+    {
+      "name": "Homer",
+      "age": "unknown (traditionally aged)",
+      "personality": "talented, itinerant poet; subject of biographical tradition",
+      "lifespan": "Per the provided life account: orphaned, itinerant, alleged blindness; later life in Cumæ and other towns (details not fully given)"
+    },
+    {
+      "name": "Melesigenes",
+      "age": "same as Homer (name used for Homer)",
+      "personality": "same as Homer (name derived from river Meles)",
+      "lifespan": "see Homer; called Melesigenes in biographical tradition"
+    },
+    {
+      "name": "Menapolus",
+      "age": "adult (ancestor figure)",
+      "personality": "immigrant settler (briefly described)",
+      "lifespan": "mentioned as father of Critheïs; further fate not described"
+    },
+    {
+      "name": "Critheïs",
+      "age": "young woman (in narrative)",
+      "personality": "modest; mother of Homer (per tradition)",
+      "lifespan": "left orphaned early; becomes mother of Melesigenes; later life not detailed"
+    },
+    {
+      "name": "Cleanax",
+      "age": "adult guardian",
+      "personality": "guardian figure in Argos",
+      "lifespan": "served as guardian to Critheïs; further fate not described"
+    },
+    {
+      "name": "Phemius",
+      "age": "adult teacher/preceptor",
+      "personality": "teacher of literature and music; patron/adoptive father figure",
+      "lifespan": "dies, leaving property to Homer (per account)"
+    },
+    {
+      "name": "Mentes",
+      "age": "adult patron",
+      "personality": "travelling patron who exposes Homer to wider world",
+      "lifespan": "travels to Leucadia and persuades Homer to travel; further fate not described"
+    },
+    {
+      "name": "Mentor",
+      "age": "adult host",
+      "personality": "hospitable and intelligent host; caregiver",
+      "lifespan": "hosts Homer at Ithaca; further fate not described"
+    },
+    {
+      "name": "Alcinor",
+      "age": "adult (father of Mentor)",
+      "personality": "fatherly figure mentioned in genealogy",
+      "lifespan": "not detailed in provided text"
+    },
+    {
+      "name": "Tychias",
+      "age": "adult armourer",
+      "personality": "supporter of Homer in Neon Teichos; hospitable tradesman",
+      "lifespan": "befriends Homer; locale remembered for his hospitality"
+    },
+    {
+      "name": "Thestorides",
+      "age": "adult",
+      "personality": "parasitic, appropriates Homeric poetry for his own gain",
+      "lifespan": "takes Homer’s verses and profits by them; later abandoned (per account)"
+    },
+    {
+      "name": "Glaucus",
+      "age": "goat-herd (adult)",
+      "personality": "caretaker who aids Homer in rural hamlet",
+      "lifespan": "meets Homer and shows hospitality; further fate not described"
+    },
+    {
+      "name": "Achilles",
+      "age": "warrior (young adult)",
+      "personality": "central Greek hero (subject heading); proud and martial",
+      "lifespan": "principal figure of the epic; specific fate not fully recounted in the provided excerpt"
+    },
+    {
+      "name": "Briseis",
+      "age": "young woman",
+      "personality": "captive woman connected to Achilles",
+      "lifespan": "depicted in illustrations (departure from Achilles’ tent); detailed narrative not included in excerpt"
+    },
+    {
+      "name": "Briareus",
+      "age": "ancient giant (mythic)",
+      "personality": "powerful mythic figure invoked in illustration titles",
+      "lifespan": "appears in illustration listing; not described in text excerpt"
+    },
+    {
+      "name": "Thetis",
+      "age": "sea-nymph (immortal)",
+      "personality": "motherly protector of Achilles",
+      "lifespan": "shown entreating gods in illustrations; narrative detail not in excerpt"
+    },
+    {
+      "name": "Jupiter",
+      "age": "chief god (immortal)",
+      "personality": "sovereign of gods; judge in divine council",
+      "lifespan": "portrayed in plates and introduced in contents; actions in Iliad not detailed in this excerpt"
+    },
+    {
+      "name": "Vulcan",
+      "age": "immortal",
+      "personality": "divine smith",
+      "lifespan": "appears in illustration list; full role not in provided text"
+    },
+    {
+      "name": "Juno",
+      "age": "immortal",
+      "personality": "divine protector of Greeks",
+      "lifespan": "appears in illustrations and contents; fate not described here"
+    },
+    {
+      "name": "Venus",
+      "age": "immortal",
+      "personality": "divine protector related to Paris and Helen",
+      "lifespan": "included in plates (presenting Helen); full narrative not in excerpt"
+    },
+    {
+      "name": "Iris",
+      "age": "immortal messenger",
+      "personality": "divine messenger and intermediary",
+      "lifespan": "featured in illustration captions; no further detail in excerpt"
+    },
+    {
+      "name": "Paris",
+      "age": "prince (young adult)",
+      "personality": "Trojan prince; cause of war through Helen",
+      "lifespan": "appears in illustrations and contents; specific fate not recounted in excerpt"
+    },
+    {
+      "name": "Helen",
+      "age": "adult woman",
+      "personality": "woman whose abduction sparked the Trojan War",
+      "lifespan": "depicted in plates; textual fate not included in this excerpt"
+    },
+    {
+      "name": "Diomed",
+      "age": "Greek warrior (adult)",
+      "personality": "valiant Greek fighter depicted in illustrations",
+      "lifespan": "present in plates; not further described in excerpt"
+    },
+    {
+      "name": "Ulysses",
+      "age": "adult statesman-warrior",
+      "personality": "wily Greek leader (Odyssean figure)",
+      "lifespan": "mentioned in illustrations (with Diomed); not described further here"
+    },
+    {
+      "name": "Ajax",
+      "age": "Greek warrior (adult)",
+      "personality": "stalwart defender of ships",
+      "lifespan": "featured in illustration captions; no detailed fate in excerpt"
+    },
+    {
+      "name": "Hector",
+      "age": "Trojan prince (adult)",
+      "personality": "noble Trojan commander and family man",
+      "lifespan": "central Trojan hero depicted in plates; fate not narrated in provided excerpt"
+    },
+    {
+      "name": "Andromache",
+      "age": "adult woman",
+      "personality": "Hector’s devoted wife",
+      "lifespan": "appears in illustrations (meeting Hector); no further detail in excerpt"
+    },
+    {
+      "name": "Priam",
+      "age": "older king",
+      "personality": "king of Troy, father-figure",
+      "lifespan": "mentioned in plates (seeking Hector’s body); narrative not given here"
+    },
+    {
+      "name": "Sarpedon",
+      "age": "ally (young adult)",
+      "personality": "notable Trojan ally",
+      "lifespan": "named in illustrations (conveyed to Lycia); specific account not in excerpt"
+    },
+    {
+      "name": "Patroclus",
+      "age": "young man, Achilles’ companion",
+      "personality": "close comrade of Achilles",
+      "lifespan": "featured in plates (funeral pile); detailed fate not included in the excerpt"
+    },
+    {
+      "name": "Polydamas",
+      "age": "Trojan commander (adult)",
+      "personality": "counsellor to Hector",
+      "lifespan": "mentioned among illustrations; no fate given in excerpt"
+    },
+    {
+      "name": "Rhesus",
+      "age": "Thracian ally",
+      "personality": "ally of Trojans; source of spoils in an illustration",
+      "lifespan": "appears in illustration list; not narrated here"
+    },
+    {
+      "name": "Hercules",
+      "age": "heroic demigod",
+      "personality": "famed for labours; appears as motif in illustrations",
+      "lifespan": "present in plates; not part of Herodotean biography passage"
+    },
+    {
+      "name": "Castor",
+      "age": "immortal/heroic twin",
+      "personality": "one of Dioscuri (twin)",
+      "lifespan": "appears in plate titles; not discussed further"
+    },
+    {
+      "name": "Pollux",
+      "age": "immortal/heroic twin",
+      "personality": "one of Dioscuri",
+      "lifespan": "appears in illustrations; no further detail in excerpt"
+    },
+    {
+      "name": "Proserpine",
+      "age": "immortal",
+      "personality": "underworld goddess (illustration)",
+      "lifespan": "included in plates; not expanded upon"
+    },
+    {
+      "name": "Neptune",
+      "age": "immortal sea-god",
+      "personality": "divine power of the sea",
+      "lifespan": "listed among illustrations; no narrative fate provided"
+    },
+    {
+      "name": "Minerva",
+      "age": "immortal",
+      "personality": "goddess of wisdom and war",
+      "lifespan": "depicted in plates; actions not detailed in this excerpt"
+    },
+    {
+      "name": "Mars",
+      "age": "immortal",
+      "personality": "god of war",
+      "lifespan": "appears in illustration list; not narrated here"
+    },
+    {
+      "name": "Bacchus",
+      "age": "immortal",
+      "personality": "god of wine and revelry",
+      "lifespan": "shown in illustrations; not otherwise mentioned in passage"
+    },
+    {
+      "name": "Æsculapius",
+      "age": "divine healer",
+      "personality": "god associated with healing",
+      "lifespan": "included in plates; not described in excerpt"
+    },
+    {
+      "name": "Pluto",
+      "age": "immortal",
+      "personality": "god of the underworld",
+      "lifespan": "appears in illustration captions; specific actions not in excerpt"
+    },
+    {
+      "name": "Diana",
+      "age": "immortal",
+      "personality": "goddess of the hunt",
+      "lifespan": "featured in plates; no narrative in provided text"
+    },
+    {
+      "name": "Ceres",
+      "age": "immortal",
+      "personality": "goddess of agriculture",
+      "lifespan": "listed among illustration subjects; not elaborated here"
+    },
+    {
+      "name": "Charis",
+      "age": "immortal/figure associated with Vulcan",
+      "personality": "grace figure associated in illustration",
+      "lifespan": "appears in illustrations; not described further"
+    },
+    {
+      "name": "Socrates",
+      "age": "historical philosopher (adult)",
+      "personality": "used as comparative example in the introduction",
+      "lifespan": "mentioned by the introducer; not part of Homeric narrative"
+    },
+    {
+      "name": "Shakespere",
+      "age": "historic (referenced)",
+      "personality": "exemplar of literature (name spelled as in text)",
+      "lifespan": "cited rhetorically in introduction"
+    },
+    {
+      "name": "Plato",
+      "age": "historical philosopher (adult)",
+      "personality": "philosopher whose works contrast with Xenophon",
+      "lifespan": "mentioned in discussion of Socratic sources"
+    },
+    {
+      "name": "Xenophon",
+      "age": "historical (adult)",
+      "personality": "alternate biographer of Socrates",
+      "lifespan": "referenced in introduction context"
+    },
+    {
+      "name": "Alexander the Great",
+      "age": "historic conqueror (adult)",
+      "personality": "example in skeptical discussion",
+      "lifespan": "mentioned in introduction for comparison"
+    },
+    {
+      "name": "Romulus",
+      "age": "founder-figure",
+      "personality": "legendary founder used for rhetorical contrast",
+      "lifespan": "cited by introducer; no narrative fate in provided text"
+    },
+    {
+      "name": "Numa Pompilius",
+      "age": "legendary king",
+      "personality": "idealized figure mentioned illustratively",
+      "lifespan": "referred to as literary example in introduction"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Smyrna (modern İzmir, Turkey)",
+      "latitude": 38.423734,
+      "longitude": 27.142826
+    },
+    {
+      "name": "Ithaca (island, Greece)",
+      "latitude": 38.368889,
+      "longitude": 20.724444
+    },
+    {
+      "name": "Troy (Hisarlik, Turkey)",
+      "latitude": 39.957,
+      "longitude": 26.238
+    },
+    {
+      "name": "Chios (island, Greece)",
+      "latitude": 38.367,
+      "longitude": 26.1379
+    },
+    {
+      "name": "Phocaea (Phocœa; Foça, Turkey)",
+      "latitude": 38.6761,
+      "longitude": 26.7378
+    },
+    {
+      "name": "Erythrae (Ildırı, Turkey)",
+      "latitude": 38.2922,
+      "longitude": 26.5794
+    },
+    {
+      "name": "Larissa (Thessaly, Greece)",
+      "latitude": 39.638,
+      "longitude": 22.4194
+    },
+    {
+      "name": "Leucadia (Lefkada, Greece)",
+      "latitude": 38.8333,
+      "longitude": 20.7
+    },
+    {
+      "name": "Colophon (ancient Ionia, near modern Değirmendere, Turkey)",
+      "latitude": 38.4333,
+      "longitude": 27.0667
+    },
+    {
+      "name": "Meles (river of ancient Smyrna area)",
+      "latitude": 38.445,
+      "longitude": 27.12
+    },
+    {
+      "name": "Cumæ (Aeolian Kyme, Asia Minor region)",
+      "latitude": 38.85,
+      "longitude": 26.9
+    },
+    {
+      "name": "Phrygia (region, Anatolia)",
+      "latitude": 38.5,
+      "longitude": 29
+    },
+    {
+      "name": "Tyrrhenia (Tyrrhenian coast, Italy; general region)",
+      "latitude": 40.8392,
+      "longitude": 14.0722
+    },
+    {
+      "name": "Iberia (Iberian Peninsula, general reference)",
+      "latitude": 40,
+      "longitude": -4
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "scepticism",
+      "definition": "doubt about accepted opinions",
+      "context": "Used in the introduction discussing critical doubt about Homeric tradition"
+    },
+    {
+      "word": "emancipate",
+      "definition": "to free from restraint or influence",
+      "context": "Used when describing how learning requires unlearning older notions"
+    },
+    {
+      "word": "ascendancy",
+      "definition": "a position of dominance",
+      "context": "Describes progress gaining ascendancy over prejudice"
+    },
+    {
+      "word": "chastisement",
+      "definition": "punishment or severe criticism",
+      "context": "Refers to scepticism serving as a chastisement to credulity"
+    },
+    {
+      "word": "induction",
+      "definition": "reasoning from particulars to general principles",
+      "context": "Used in discussing how human experience aids literary criticism"
+    },
+    {
+      "word": "dramatis personæ",
+      "definition": "characters in a play or narrative",
+      "context": "Latin phrase used when discussing Socrates as a dramatic figure"
+    },
+    {
+      "word": "indiscretion",
+      "definition": "lack of good judgment; imprudence",
+      "context": "Applied to Critheïs’ youthful conduct in the biographical tale"
+    },
+    {
+      "word": "Melesigenes",
+      "definition": "name given to Homer meaning 'born of the Meles' (proper name)",
+      "context": "Biographical name for Homer derived from the river Meles"
+    },
+    {
+      "word": "Cumæ",
+      "definition": "ancient city (Aeolian Cumæ)",
+      "context": "Place where Homer is said to have lived in the Herodotean life"
+    },
+    {
+      "word": "Æolia",
+      "definition": "region inhabited by the Aeolians",
+      "context": "Cumæ in Æolia referenced as seat of immigrations"
+    },
+    {
+      "word": "Ithagenes",
+      "definition": "proper name (father in narrative)",
+      "context": "Father of Menapolus in the biographical account"
+    },
+    {
+      "word": "Critheïs",
+      "definition": "proper name (mother of Homer in the life)",
+      "context": "Name of Homer’s mother in the Herodotean biography"
+    },
+    {
+      "word": "Cleanax",
+      "definition": "proper name (guardian)",
+      "context": "Guardian of Critheïs mentioned in the life account"
+    },
+    {
+      "word": "Phemius",
+      "definition": "proper name (teacher of literature and music)",
+      "context": "Described as Homer’s adoptive father and teacher"
+    },
+    {
+      "word": "Mentes",
+      "definition": "proper name (travelling patron)",
+      "context": "Friend who persuades Homer to travel and see lands"
+    },
+    {
+      "word": "Leucadia",
+      "definition": "island (modern Lefkada)",
+      "context": "Leucadia (Santa Maura) mentioned as Mentes’ origin"
+    },
+    {
+      "word": "Santa Maura",
+      "definition": "alternate name for Leucadia (Lefkada)",
+      "context": "Used parenthetically to identify Leucadia"
+    },
+    {
+      "word": "Mentor",
+      "definition": "proper name (host, guardian)",
+      "context": "Mentor, son of Alcinor, hosts Homer at Ithaca"
+    },
+    {
+      "word": "Alcinor",
+      "definition": "proper name (father of Mentor)",
+      "context": "Father of Mentor mentioned in the account"
+    },
+    {
+      "word": "Smyrna",
+      "definition": "ancient city (modern İzmir)",
+      "context": "City where Homer taught and returned to study poetry"
+    },
+    {
+      "word": "Tyrrhenia",
+      "definition": "region of the Tyrrhenian Sea/Italy",
+      "context": "Place from which a voyage is described in Homer’s travels"
+    },
+    {
+      "word": "Iberia",
+      "definition": "peninsula in southwestern Europe (Spain/Portugal)",
+      "context": "Mentioned among sailing destinations visited by Homer and patron"
+    },
+    {
+      "word": "Ithaca",
+      "definition": "island in the Ionian Sea, Greece",
+      "context": "Homer visits Ithaca and learns local legends there"
+    },
+    {
+      "word": "Colophomans",
+      "definition": "inhabitants of Colophon",
+      "context": "People who claim Homer became blind in Colophon"
+    },
+    {
+      "word": "Phocœa",
+      "definition": "ancient city of Phocaea",
+      "context": "Town where Thestorides kept Homer and appropriated his verses"
+    },
+    {
+      "word": "Thestorides",
+      "definition": "proper name (poet-appropriator)",
+      "context": "Man who allegedly recited Homer’s verses in his own name"
+    },
+    {
+      "word": "Erythræ",
+      "definition": "ancient Ionian city (Erythrae)",
+      "context": "Town Homer visits en route to Chios in the biographical tale"
+    },
+    {
+      "word": "Pithys",
+      "definition": "small hamlet mentioned in the life",
+      "context": "Hamlet where Homer meets the goat-herd Glaucus"
+    },
+    {
+      "word": "Glaucus",
+      "definition": "proper name (goat-herd)",
+      "context": "Goat-herd who greets and helps Homer in Pithys"
+    },
+    {
+      "word": "Neon Teichos",
+      "definition": "place name meaning 'New Wall' colony",
+      "context": "Colony of Cumæ where Homer is said to have journeyed"
+    },
+    {
+      "word": "Larissa",
+      "definition": "city in Greece",
+      "context": "Place Homer passes through; associated with an epitaph composition"
+    },
+    {
+      "word": "Gordius",
+      "definition": "proper name (king of Phrygia)",
+      "context": "Epitaph on Gordius attributed in part to Homer or Cleobulus"
+    },
+    {
+      "word": "Cleobulus",
+      "definition": "proper name (poet/philosopher)",
+      "context": "Attributed by some as author of an epitaph Homer is said to have composed"
+    },
+    {
+      "word": "Cumæa",
+      "definition": "adjectival form of Cumæ",
+      "context": "Used to describe inhabitants or products of Cumæ (e.g., 'Cumæa might')"
+    },
+    {
+      "word": "Homers",
+      "definition": "term for blind men in Cumæ",
+      "context": "Explains a local etymology for Homer’s name in the life account"
+    },
+    {
+      "word": "poplar",
+      "definition": "a type of tree",
+      "context": "A poplar is said to have sprung up where Homer recited verses"
+    },
+    {
+      "word": "sinecurists",
+      "definition": "holders or seekers of sinecures (office with salary and little work)",
+      "context": "Used in critique of social abuses in the introduction"
+    },
+    {
+      "word": "pluralist",
+      "definition": "one holding more than one ecclesiastical benefice",
+      "context": "Mentioned in criticism of church abuses"
+    },
+    {
+      "word": "credulity",
+      "definition": "tendency to believe too readily",
+      "context": "Contrasted with scepticism in the introduction"
+    },
+    {
+      "word": "pertinacious",
+      "definition": "holding firmly to an opinion or course",
+      "context": "Used to describe consistency in critical standards"
+    },
+    {
+      "word": "exacting",
+      "definition": "demanding perfection or accuracy",
+      "context": "Qualifies how consistency demands of critics are strict"
+    },
+    {
+      "word": "probability",
+      "definition": "likelihood or plausibility",
+      "context": "Described as a troublesome but powerful test for historical evidence"
+    },
+    {
+      "word": "consistency",
+      "definition": "logical coherence",
+      "context": "Argued as necessary for sound historical judgment"
+    },
+    {
+      "word": "Achilles",
+      "definition": "Greek hero of the Iliad",
+      "context": "Listed among subjects and illustration captions"
+    },
+    {
+      "word": "Briseis",
+      "definition": "captive woman associated with Achilles",
+      "context": "Mentioned in illustration captions regarding her departure from Achilles' tent"
+    },
+    {
+      "word": "Briareus",
+      "definition": "mythic giant (also called Aegaeon)",
+      "context": "Appears in illustration list (Thetis calling Briareus)"
+    },
+    {
+      "word": "Thetis",
+      "definition": "sea-nymph, mother of Achilles",
+      "context": "Featured in illustrations pleading to the gods for Achilles' honour"
+    },
+    {
+      "word": "Jupiter",
+      "definition": "chief Roman god (Zeus equivalent)",
+      "context": "Appears frequently in illustration titles and council of the gods"
+    },
+    {
+      "word": "Vulcan",
+      "definition": "Roman smith-god (Hephaestus equivalent)",
+      "context": "Listed among illustrations; depicted forging arms for Achilles"
+    },
+    {
+      "word": "Juno",
+      "definition": "Roman queen of the gods (Hera equivalent)",
+      "context": "Depicted attending to the Greeks in illustrations"
+    },
+    {
+      "word": "Venus",
+      "definition": "Roman goddess of love (Aphrodite equivalent)",
+      "context": "Shown presenting Helen to Paris in the plates"
+    },
+    {
+      "word": "Iris",
+      "definition": "divine messenger",
+      "context": "Mentioned as advising and conducting characters in illustration captions"
+    },
+    {
+      "word": "Paris",
+      "definition": "Trojan prince who takes Helen",
+      "context": "Appears in depiction and judgment scenes in illustrations"
+    },
+    {
+      "word": "Helen",
+      "definition": "woman whose abduction sparks the Trojan War",
+      "context": "Depicted in various scenes in the illustrations"
+    },
+    {
+      "word": "Diomed",
+      "definition": "Greek warrior (Diomedes)",
+      "context": "Appears in illustrations engaging gods and fighters"
+    },
+    {
+      "word": "Ulysses",
+      "definition": "Greek leader known for cunning (Odysseus)",
+      "context": "Mentioned in plates and contents alongside other Greeks"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/6130"
+}
