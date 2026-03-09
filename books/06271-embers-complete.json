@@ -1,0 +1,651 @@
+{
+  "gutenberg_id": 6271,
+  "title": "Embers, Complete",
+  "author": "Parker, Gilbert",
+  "summary": "Embers is a collected volume of lyrical poems by Gilbert Parker that gathers youthful memories, Irish ballads, travel impressions, and narrative lyrics. Voices range from soldiers and lovers to an introspective pilgrim who brings “one perfect yesterday” to an angel. Poems move through Inniskillen, Kildare, Donegal and distant lands, mixing dialect, song, and elegiac reflection. Themes include love and loss, homecoming, memory’s consolation, and the small rituals of village life. The book pairs popular singable ballads with more contemplative pieces—Proem and epigraph framing memory as the poet’s chief possession amid transient worldly travail and modest irony about fame and sorrow.",
+  "characters": [
+    {
+      "name": "The Angel",
+      "age": "ageless",
+      "personality": "inquisitive, solemn celestial questioner",
+      "lifespan": "eternal; questions the pilgrim about his life in the Proem"
+    },
+    {
+      "name": "The Man (Proem)",
+      "age": "middle-aged (estimated)",
+      "personality": "introspective, nostalgic, resigned",
+      "lifespan": "survivor of experience; brings one perfect yesterday as his chief possession"
+    },
+    {
+      "name": "Rosleen",
+      "age": "young woman (estimated)",
+      "personality": "beloved, admired, lively",
+      "lifespan": "leaves the narrator for another; remains an object of longing"
+    },
+    {
+      "name": "Mary Callaghan",
+      "age": "young woman (married in poem)",
+      "personality": "cheerful, domestic, beloved",
+      "lifespan": "marries and becomes mother; celebrated in the wedding and christening poems"
+    },
+    {
+      "name": "Clancy",
+      "age": "adult (groom)",
+      "personality": "groom/participant in local life",
+      "lifespan": "marries in the church scene; role in community event"
+    },
+    {
+      "name": "Father Tryon",
+      "age": "adult/clergyman",
+      "personality": "benedictory, clerical",
+      "lifespan": "officiates at Mary Callaghan's wedding; present in community rites"
+    },
+    {
+      "name": "The Sergeant",
+      "age": "adult (soldier)",
+      "personality": "authoritative, tempting presence",
+      "lifespan": "recruits or tempts narrator with a shilling; figure in departure from home"
+    },
+    {
+      "name": "Black Care",
+      "age": "unknown",
+      "personality": "feared or notorious (name suggests personified trouble)",
+      "lifespan": "is said to have been killed by the man praised in 'Kildare'"
+    },
+    {
+      "name": "Lord Lieutenant",
+      "age": "adult/official",
+      "personality": "ceremonial authority",
+      "lifespan": "orders drums for celebration in 'Kildare'; appears as a civic figure"
+    },
+    {
+      "name": "The Gossoon",
+      "age": "child",
+      "personality": "playful, familial",
+      "lifespan": "appears as Mary Callaghan's young child in the christening scene"
+    },
+    {
+      "name": "Narrator ('me')",
+      "age": "adult (varies by poem)",
+      "personality": "reminiscent, lyrical, often Irish-accented",
+      "lifespan": "speaks in first person across many pieces; survives as the vantage voice"
+    },
+    {
+      "name": "W. E. H.",
+      "age": "unknown (initials used as dedication/title)",
+      "personality": "unspecified dedicatee",
+      "lifespan": "named in contents; exact role unspecified in excerpt"
+    },
+    {
+      "name": "Mr. Max Muller",
+      "age": "adult (composer)",
+      "personality": "musical adaptor",
+      "lifespan": "sets 'Mary Callaghan and Me' to music (mentioned in introduction)"
+    },
+    {
+      "name": "Sir Edward Elgar",
+      "age": "adult (composer)",
+      "personality": "distinguished, musical",
+      "lifespan": "composed settings for several of the poet's pieces (mentioned in introduction)"
+    },
+    {
+      "name": "Sir Alexander Mackenzie",
+      "age": "adult (composer)",
+      "personality": "musician",
+      "lifespan": "credited with musical settings (mentioned in introduction)"
+    },
+    {
+      "name": "Arthur Foote",
+      "age": "adult (composer)",
+      "personality": "musical arranger",
+      "lifespan": "arranged 'You'll Travel Far and Wide' and brought it fame (mentioned in introduction)"
+    },
+    {
+      "name": "Mrs. Amy Woodforde Finden",
+      "age": "adult (composer)",
+      "personality": "musical adapter",
+      "lifespan": "set 'O Flower of All the World' to music (mentioned in introduction)"
+    },
+    {
+      "name": "Robert Somerville",
+      "age": "adult (composer)",
+      "personality": "musician",
+      "lifespan": "mentioned as having set pieces to music (introduction)"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Inniskillen",
+      "latitude": 54.347,
+      "longitude": -7.6333
+    },
+    {
+      "name": "Kildare (town)",
+      "latitude": 53.1599,
+      "longitude": -6.9093
+    },
+    {
+      "name": "Donegal (Donegal town)",
+      "latitude": 54.652,
+      "longitude": -8.1093
+    },
+    {
+      "name": "Lynn (King's Lynn)",
+      "latitude": 52.752,
+      "longitude": 0.395
+    },
+    {
+      "name": "Granada",
+      "latitude": 37.1773,
+      "longitude": -3.5986
+    },
+    {
+      "name": "Camden Town",
+      "latitude": 51.5416,
+      "longitude": -0.142
+    },
+    {
+      "name": "Nile (representative point: Cairo)",
+      "latitude": 30.0444,
+      "longitude": 31.2357
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "travail",
+      "definition": "arduous labor or suffering",
+      "context": "Proem: 'What hast thou for all thy travail'"
+    },
+    {
+      "word": "sheaf",
+      "definition": "a bundle (of grain); figuratively a gathered memory",
+      "context": "Proem: 'I bring one perfect yesterday! Behold, I bring one sheaf of memory.'"
+    },
+    {
+      "word": "betake",
+      "definition": "to go or withdraw to (archaic usage)",
+      "context": "Poem title: 'Where shall we betake us?'"
+    },
+    {
+      "word": "stedfast",
+      "definition": "steadfast; resolute (archaic spelling)",
+      "context": "Epigraph: '...with a stedfast mind'"
+    },
+    {
+      "word": "hospitable",
+      "definition": "friendly and welcoming to guests",
+      "context": "Epigraph: 'at the hospitable fire'"
+    },
+    {
+      "word": "comrade",
+      "definition": "companion, fellow traveler",
+      "context": "Epigraph: 'safe tent of the good comrade'"
+    },
+    {
+      "word": "Rosleen",
+      "definition": "proper name (female), heroine of a ballad",
+      "context": "Title and poem 'ROSLEEN' describing the beloved of the parish"
+    },
+    {
+      "word": "Inniskillen",
+      "definition": "place name in County Fermanagh, Ireland",
+      "context": "Rosleen: 'She’s the darlin’ of the parish... Inniskillen'"
+    },
+    {
+      "word": "lep",
+      "definition": "dialect for 'leap' (to jump)",
+      "context": "Rosleen: '’Twould make your heart lep up to see her trippin’ down the glen'"
+    },
+    {
+      "word": "trippin’",
+      "definition": "trotting lightly; dialectal form of 'tripping'",
+      "context": "Rosleen: 'see her trippin’ down the glen'"
+    },
+    {
+      "word": "glen",
+      "definition": "a narrow valley (Scottish/Irish)",
+      "context": "Used repeatedly in ballad scenes: 'down the glen'"
+    },
+    {
+      "word": "shillin’",
+      "definition": "dialectal 'shilling' (coin, enlistment bounty)",
+      "context": "Rosleen: 'she’d take her shillin’... so I took the Sergeant’s shillin’'"
+    },
+    {
+      "word": "inlist",
+      "definition": "dialectal form of 'enlist' (to join military service)",
+      "context": "Rosleen: 'And inlist inside her service'"
+    },
+    {
+      "word": "rigiment",
+      "definition": "dialectal spelling of 'regiment' (military unit)",
+      "context": "Rosleen: 'The rigiment come marchin’'"
+    },
+    {
+      "word": "marchin’",
+      "definition": "marching (dialectal contraction)",
+      "context": "Rosleen: 'The rigiment come marchin’--I hear the call once more'"
+    },
+    {
+      "word": "shure",
+      "definition": "dialectal 'sure' (expression of assent)",
+      "context": "Rosleen and other poems: 'Shure, a woman’s but a woman...'"
+    },
+    {
+      "word": "clargy",
+      "definition": "dialectal form of 'clergy' (church clergy)",
+      "context": "Mary Callaghan poem: 'There was singers, there was clargy--“Bless ye both,” says Father Tryon'"
+    },
+    {
+      "word": "gossoon",
+      "definition": "an Irish Hiberno-English term for a boy or lad",
+      "context": "Mary Callaghan and Me: 'There’s a young gossoon in yander...'"
+    },
+    {
+      "word": "tarried",
+      "definition": "stayed or delayed",
+      "context": "Mary Callaghan and Me: 'I was the guest that tarried'"
+    },
+    {
+      "word": "clapt",
+      "definition": "dialectal past of 'clap' meaning 'see' or 'look at'",
+      "context": "Mary Callaghan and Me: 'It was as fine a churchful as you ever clapt an eye on'"
+    },
+    {
+      "word": "christenin’",
+      "definition": "dialectal 'christening' (naming ceremony)",
+      "context": "Mary Callaghan and Me: 'There’s a churchful for the christenin’--do you hear the imp a-callin’?'"
+    },
+    {
+      "word": "imp",
+      "definition": "small mischievous child or sprite",
+      "context": "Mary Callaghan and Me: 'do you hear the imp a-callin’?'"
+    },
+    {
+      "word": "Kildare",
+      "definition": "county/town name in Ireland",
+      "context": "Title and poem 'KILDARE' celebrating a man of Kildare"
+    },
+    {
+      "word": "Black Care",
+      "definition": "proper name; possibly personified trouble or an outlaw",
+      "context": "Kildare: 'He’s the man that killed Black Care'"
+    },
+    {
+      "word": "Lord Lieutenant",
+      "definition": "representative of the crown in an Irish county (official title)",
+      "context": "Kildare: 'And the Lord Lieutenant orders out the drums'"
+    },
+    {
+      "word": "hangin’",
+      "definition": "hanging (dialectal contraction)",
+      "context": "Kildare: 'For his hangin’, all the drums'"
+    },
+    {
+      "word": "rowan",
+      "definition": "a small tree also called mountain-ash",
+      "context": "You’ll Travel Far and Wide: 'You’ll not forget the rowan beside your father’s home'"
+    },
+    {
+      "word": "heather",
+      "definition": "low shrubs with purple flowers common on moors",
+      "context": "You’ll Travel Far and Wide: 'Although we should be lyin’ ‘neath the heather grasses then'"
+    },
+    {
+      "word": "stile",
+      "definition": "a step or set of steps for crossing a fence or wall",
+      "context": "You’ll Travel Far and Wide: 'the farewell by the stile'"
+    },
+    {
+      "word": "hearthstone",
+      "definition": "stone forming the fireplace hearth; figurative home centre",
+      "context": "You’ll Travel Far and Wide: 'You’ll hunger for the hearthstone where, a child, you used to lie'"
+    },
+    {
+      "word": "hillock",
+      "definition": "small hill or mound",
+      "context": "You’ll Travel Far and Wide: 'Ah, the hillock cannot cover...'"
+    },
+    {
+      "word": "tide",
+      "definition": "the ebb and flow of the sea; figurative change",
+      "context": "You’ll Travel Far and Wide: 'whatever wind or tide'"
+    },
+    {
+      "word": "Farcalladen",
+      "definition": "proper name (place in poem; likely fictional)",
+      "context": "Farcalladen Rise: 'Oh, it’s down the long side of Farcalladen Rise'"
+    },
+    {
+      "word": "gallop",
+      "definition": "fast run of a horse",
+      "context": "Farcalladen Rise: 'rest when the gallop is over'"
+    },
+    {
+      "word": "spur",
+      "definition": "metal point on rider's heel to urge a horse",
+      "context": "Farcalladen Rise: 'ring of the chain and the spur'"
+    },
+    {
+      "word": "hedge",
+      "definition": "row of shrubs forming a boundary",
+      "context": "Farcalladen Rise: 'And it’s hey for the hedge, and it’s hey for the wall'"
+    },
+    {
+      "word": "lasses",
+      "definition": "young women (Scots/Irish dialect)",
+      "context": "Farcalladen Rise: 'And it’s here’s to the lasses we leave in the glen'"
+    },
+    {
+      "word": "lads",
+      "definition": "young men or boys",
+      "context": "Farcalladen Rise: 'here’s to the lads that have ridden their last'"
+    },
+    {
+      "word": "cherish",
+      "definition": "to hold dear; care for lovingly",
+      "context": "Give Me the Light Heart: 'I will help where I can, I will cherish my own'"
+    },
+    {
+      "word": "betake",
+      "definition": "to go to or take oneself to (repeated entry as used in heading)",
+      "context": "Where Shall We Betake Us?: repeated title usage"
+    },
+    {
+      "word": "Eden",
+      "definition": "biblical garden; used poetically for paradise",
+      "context": "Where Shall We Betake Us?: 'Sing the song, the Eden song, again.'"
+    },
+    {
+      "word": "maying",
+      "definition": "May-day revelry or festival activities",
+      "context": "No Man's Land: 'we have been a-maying, dear, beyond the city gates'"
+    },
+    {
+      "word": "jocund",
+      "definition": "cheerful, lighthearted (poetic/archaic)",
+      "context": "No Man's Land: 'we have seen the jocund smile upon the lips of Fate'"
+    },
+    {
+      "word": "splendours",
+      "definition": "magnificent appearances or brilliance (British spelling)",
+      "context": "No Man's Land: 'And we have known the splendours of our will'"
+    },
+    {
+      "word": "hut",
+      "definition": "small simple dwelling",
+      "context": "No Man's Land: 'A little hut we built upon the sand'"
+    },
+    {
+      "word": "Embers",
+      "definition": "small glowing pieces of coal or wood in a dying fire; title metaphor",
+      "context": "Title of the collection and recurring image"
+    },
+    {
+      "word": "Athenian",
+      "definition": "relating to Athens (classical or modern)",
+      "context": "Contents: 'ATHENIAN' (poem title)"
+    },
+    {
+      "word": "aloes",
+      "definition": "succulent plants often used historically in medicine and embalmment",
+      "context": "Contents: 'ALOES AND MYRRH'"
+    },
+    {
+      "word": "myrrh",
+      "definition": "aromatic resin used in ancient incense and embalming",
+      "context": "Contents: 'ALOES AND MYRRH'"
+    },
+    {
+      "word": "Granada",
+      "definition": "city in southern Spain",
+      "context": "Contents: 'GRANADA, GRANADA'"
+    },
+    {
+      "word": "Aphrodite",
+      "definition": "Greek goddess of love (classical reference)",
+      "context": "Contents: 'THE NEW APHRODITE'"
+    },
+    {
+      "word": "Hath",
+      "definition": "archaic third-person singular of 'have' used in titles/poetry",
+      "context": "Contents: 'THE TRIBUTE OF KING HATH'"
+    },
+    {
+      "word": "epitaphs",
+      "definition": "inscriptions on a tomb or brief commemorative verses",
+      "context": "Contents: 'EPITAPHS' (section/title)"
+    },
+    {
+      "word": "Garaine",
+      "definition": "proper name (appears in poem title 'Little Garaine')",
+      "context": "Contents: 'Little Garaine'"
+    },
+    {
+      "word": "L’Empereur",
+      "definition": "French for 'The Emperor' (used in title)",
+      "context": "Contents: 'L’EMPEREUR, MORT' (the emperor, dead)"
+    },
+    {
+      "word": "Phyllis",
+      "definition": "classical proper name used for a beloved",
+      "context": "Contents: 'PHYLLIS'"
+    },
+    {
+      "word": "Bairnie",
+      "definition": "Scottish/Scottish-dialect term or proper name (title 'BAIRNIE')",
+      "context": "Contents: 'BAIRNIE'"
+    },
+    {
+      "word": "Camden",
+      "definition": "district in London; used in title 'Camden Town'",
+      "context": "Contents: 'IN CAMDEN TOWN'"
+    },
+    {
+      "word": "Ishmael",
+      "definition": "biblical name often used as a poetic figure of exile or wanderer",
+      "context": "Contents: 'ISHMAEL'"
+    },
+    {
+      "word": "Juniper",
+      "definition": "type of shrub; used in place name 'Juniper Cove'",
+      "context": "Contents: 'IN CAMP AT JUNIPER COVE'"
+    },
+    {
+      "word": "Daboon",
+      "definition": "proper name as in 'THE TALL DABOON' (likely exotic or fictional)",
+      "context": "Contents: 'THE TALL DABOON'"
+    },
+    {
+      "word": "Nile",
+      "definition": "major North African river",
+      "context": "Contents: 'A SON OF THE NILE'"
+    },
+    {
+      "word": "Harem",
+      "definition": "the private women's quarters in a Muslim household; used in romantic poem title",
+      "context": "Contents: 'A FAREWELL FROM THE HAREM'"
+    },
+    {
+      "word": "Australian",
+      "definition": "relating to Australia",
+      "context": "Contents: 'THE AUSTRALIAN STOCKRIDER'"
+    },
+    {
+      "word": "Latore",
+      "definition": "proper name (surname in poem title 'NELL LATORE')",
+      "context": "Contents: 'NELL LATORE'"
+    },
+    {
+      "word": "Qui Vive",
+      "definition": "French phrase meaning 'who goes there?' or state of alert",
+      "context": "Contents: 'QUI VIVE' (poem title)"
+    },
+    {
+      "word": "embers",
+      "definition": "small live coals in a dying fire (lowercase use within poems)",
+      "context": "Title theme and imagery across the collection"
+    },
+    {
+      "word": "hey",
+      "definition": "exclamation used in hunting/cheering calls",
+      "context": "Farcalladen Rise: 'And it’s hey for the hedge, and it’s hey for the wall'"
+    },
+    {
+      "word": "spans",
+      "definition": "bridge sections or extents (as in 'hundred spans')",
+      "context": "Contents: 'THE BRIDGE OF THE HUNDRED SPANS'"
+    },
+    {
+      "word": "wayfarers",
+      "definition": "travelers on foot; wanderers",
+      "context": "Contents: 'WAYFARERS'"
+    },
+    {
+      "word": "scarlet",
+      "definition": "bright red color, often symbolic",
+      "context": "Contents: 'THE SCARLET HILLS'"
+    },
+    {
+      "word": "woodsman",
+      "definition": "one who works in woods; a forester",
+      "context": "Contents: 'THE WOODSMAN LOVER'"
+    },
+    {
+      "word": "crowning",
+      "definition": "act of placing a crown or symbolic elevation",
+      "context": "Contents: 'THE CROWNING' (poem on the Coronation)"
+    },
+    {
+      "word": "irrevocable",
+      "definition": "not able to be changed or reversed",
+      "context": "Contents: 'IRREVOCABLE' (poem title)"
+    },
+    {
+      "word": "twilight",
+      "definition": "period between daylight and darkness; metaphorical ending",
+      "context": "Contents: 'THE TWILIGHT OF LOVE'"
+    },
+    {
+      "word": "remedial",
+      "definition": "intended to correct or improve",
+      "context": "Contents: 'REMEDIAL' (poem title)"
+    },
+    {
+      "word": "Suzon",
+      "definition": "proper name (female), appears in contents",
+      "context": "Contents: 'SUZON'"
+    },
+    {
+      "word": "nevertheless",
+      "definition": "nonetheless; in spite of that (slightly archaic poetic usage)",
+      "context": "Contents: 'NEVERTHELESS'"
+    },
+    {
+      "word": "deliverer",
+      "definition": "one who rescues or saves",
+      "context": "Contents: 'THE DELIVERER'"
+    },
+    {
+      "word": "desert",
+      "definition": "arid region; used in 'I Heard the Desert Calling'",
+      "context": "Contents and poem referencing distant lands"
+    },
+    {
+      "word": "camel-driver",
+      "definition": "one who drives or guides camels; exotic occupational title",
+      "context": "Contents: 'THE CAMEL-DRIVER TO HIS CAMEL'"
+    },
+    {
+      "word": "stockrider",
+      "definition": "rider who manages livestock (Australian term)",
+      "context": "Contents: 'THE AUSTRALIAN STOCKRIDER'"
+    },
+    {
+      "word": "No Man's Land",
+      "definition": "territory unoccupied or under dispute; poetic title",
+      "context": "Title: 'NO MAN’S LAND' describing an outing beyond the city gates"
+    },
+    {
+      "word": "proem",
+      "definition": "a preface or introductory poem",
+      "context": "Heading: 'PROEM' which opens the collection"
+    },
+    {
+      "word": "W. E. H.",
+      "definition": "initials used as a dedication or reference",
+      "context": "Contents includes 'W. E. H.' as an item"
+    },
+    {
+      "word": "hew",
+      "definition": "to shape or cut (often wood or stone); also a short poetic title",
+      "context": "Contents: 'HEW' (poem title)"
+    },
+    {
+      "word": "compunctions",
+      "definition": "feelings of guilt or moral scruple",
+      "context": "Introduction: 'to soothe away my own compunctions'"
+    },
+    {
+      "word": "subscription",
+      "definition": "an edition produced for subscribers",
+      "context": "Introduction: 'subscription edition'"
+    },
+    {
+      "word": "verse",
+      "definition": "poetic lines; used in author commentary",
+      "context": "Introduction: 'impressionism in verse'"
+    },
+    {
+      "word": "spontaneous",
+      "definition": "arising without premeditation; unforced",
+      "context": "Introduction: 'At least it was all spontaneous'"
+    },
+    {
+      "word": "handful",
+      "definition": "a small quantity; figuratively a small selection",
+      "context": "Introduction: 'a handful left from very many handfuls destroyed'"
+    },
+    {
+      "word": "darlin’",
+      "definition": "dialectal 'darling' (term of endearment)",
+      "context": "Rosleen and other ballads: 'She’s the darlin’ of the parish'"
+    },
+    {
+      "word": "beyand",
+      "definition": "dialectal form of 'beyond'",
+      "context": "Rosleen: 'Across the seas, beyand the hills'"
+    },
+    {
+      "word": "lep up",
+      "definition": "to leap up (dialect phrase)",
+      "context": "Rosleen: '’Twould make your heart lep up to see her trippin’ down the glen'"
+    },
+    {
+      "word": "hurted",
+      "definition": "dialectal past of 'hurt' (nonstandard)",
+      "context": "Rosleen: 'And the heart of me was hurted--but there’s none that’s like Rosleen!'"
+    },
+    {
+      "word": "plucked",
+      "definition": "taken out suddenly; here used figuratively",
+      "context": "Mary Callaghan and Me: 'An hour plucked from Paradise'"
+    },
+    {
+      "word": "gossoon",
+      "definition": "see earlier entry; repeated dialectal boy",
+      "context": "Repeated use in Mary Callaghan poem"
+    },
+    {
+      "word": "marchin’",
+      "definition": "see earlier entry; dialect contraction of 'marching'",
+      "context": "Military imagery in Rosleen"
+    },
+    {
+      "word": "hoofs",
+      "definition": "plural of 'hoof' (horse foot), variant form",
+      "context": "Farcalladen Rise: 'With the sparks from the hoofs giving light to the eyes'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/6271"
+}
