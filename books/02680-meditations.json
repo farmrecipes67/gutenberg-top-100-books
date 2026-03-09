@@ -1,0 +1,713 @@
+{
+  "gutenberg_id": 2680,
+  "title": "Meditations",
+  "author": "Marcus Aurelius, Emperor of Rome",
+  "summary": "Meditations is a collection of personal reflections by Marcus Aurelius, Roman emperor and Stoic philosopher, written as private notes during troubled reigns. He records gratitude to teachers and relatives, counsels self-discipline, duty, acceptance of fate, and rational governance. The Introduction recounts his life—education under Hadrian and Antoninus, wars with Parthia and northern tribes, domestic losses, Avidius Cassius's revolt, Faustina's death, and Commodus's succession. Stoic doctrine—physics, logic, ethics, virtue as living according to nature, the Criterion and impressions—frames his practice. Themes include mortality, providence, restraint of passion, service, and aligning individual reason with the cosmic order and practical daily moral guidance.",
+  "characters": [
+    {
+      "name": "Marcus Aurelius Antoninus",
+      "age": "born 121, died 180 (aged ~58-59)",
+      "personality": "philosophical, gentle, self-disciplined, dutiful, Stoic",
+      "lifespan": "Born 121; ruled as emperor; campaigned on frontiers; died in Pannonia in 180"
+    },
+    {
+      "name": "M. Annius Verus (father)",
+      "age": "died young (no age given)",
+      "personality": "remembered affectionately by Marcus",
+      "lifespan": "Died in Marcus's childhood"
+    },
+    {
+      "name": "Annius Verus (grandfather, consular)",
+      "age": "elder (no specific dates)",
+      "personality": "gentle, meek, influential teacher",
+      "lifespan": "Adopted Marcus; served as consular; predeceased Marcus's adult life"
+    },
+    {
+      "name": "Hadrian",
+      "age": "emperor during Marcus's youth (reigned 117–138)",
+      "personality": "perceptive; praised Marcus as 'Verissimus'",
+      "lifespan": "Imperial sponsor of Marcus's early honors"
+    },
+    {
+      "name": "Annia Galeria Faustina (aunt)",
+      "age": "adult contemporary of Antoninus Pius",
+      "personality": "family link to imperial house",
+      "lifespan": "Married to Antoninus Pius; aunt of Marcus"
+    },
+    {
+      "name": "Antoninus Pius",
+      "age": "emperor until 161",
+      "personality": "stable, adoptive father figure",
+      "lifespan": "Adopted Marcus; reigned until his death in 161"
+    },
+    {
+      "name": "Faustina (wife)",
+      "age": "wife of Marcus; adult (no specific ages)",
+      "personality": "beloved by Marcus though subject to scandal in sources",
+      "lifespan": "Bore many children; died on eastern journey during Marcus's reign"
+    },
+    {
+      "name": "L. Ceionius Commodus / Lucius Aurelius Verus",
+      "age": "co-emperor; died 169",
+      "personality": "junior colleague; indulged in excess according to text",
+      "lifespan": "Associated emperor who died during campaigns (169)"
+    },
+    {
+      "name": "Pertinax",
+      "age": "adult military commander (no dates in excerpt)",
+      "personality": "able lieutenant praised by Marcus",
+      "lifespan": "Served under Marcus in military command"
+    },
+    {
+      "name": "Vologeses III",
+      "age": "Parthian leader at time of revolt",
+      "personality": "rebellious opponent",
+      "lifespan": "Led Parthian uprising against Rome mentioned in text"
+    },
+    {
+      "name": "Avidius Cassius",
+      "age": "senior governor/commander (no precise age)",
+      "personality": "able captain who rebelled",
+      "lifespan": "Proclaimed himself emperor in report of Marcus's death; assassinated"
+    },
+    {
+      "name": "Commodus",
+      "age": "son of Marcus (survived to adulthood; age at succession not given)",
+      "personality": "described as weak, worthless, and a bloodthirsty tyrant",
+      "lifespan": "Succeeded Marcus; his reign (12 years) undone many of Marcus's policies"
+    },
+    {
+      "name": "Justin",
+      "age": "Christian leader/martyr (no age given)",
+      "personality": "faithful Christian who became martyr",
+      "lifespan": "Mentioned as martyred during Marcus's reign"
+    },
+    {
+      "name": "Polycarp",
+      "age": "Christian bishop/martyr (no age given)",
+      "personality": "faithful Christian martyr",
+      "lifespan": "Martyred at Smyrna during this period"
+    },
+    {
+      "name": "Zeno",
+      "age": "philosopher (c. 4th–3rd century BC)",
+      "personality": "founder of Stoicism; teacher of virtue according to nature",
+      "lifespan": "Ancient philosopher credited with founding the Stoic school"
+    },
+    {
+      "name": "Chrysippus",
+      "age": "philosopher (c. 3rd century BC)",
+      "personality": "systematiser of Stoic doctrine",
+      "lifespan": "Major early Stoic whose work organized the school"
+    },
+    {
+      "name": "Crates (the Cynic)",
+      "age": "earlier philosopher/teacher of Zeno",
+      "personality": "cynic mentor influencing Zeno",
+      "lifespan": "Mentioned as one of Zeno's teachers"
+    },
+    {
+      "name": "Numa",
+      "age": "legendary early king of Rome",
+      "personality": "pious ancestral figure claimed in family descent",
+      "lifespan": "Ancient legendary ancestor cited by Marcus's family"
+    },
+    {
+      "name": "Diocletian",
+      "age": "later emperor referenced historically",
+      "personality": "strong ruler whose later actions are compared historically",
+      "lifespan": "Mentioned as later emperor under whom empire split"
+    },
+    {
+      "name": "Trajan",
+      "age": "earlier emperor referenced",
+      "personality": "praised as better in treatment of Christians",
+      "lifespan": "Referenced for comparative policy"
+    },
+    {
+      "name": "Marcomanni (tribe)",
+      "age": "barbarian tribal group",
+      "personality": "northern tribal opponent in wars",
+      "lifespan": "Participated in frontier wars against Rome"
+    },
+    {
+      "name": "Quadi (tribe)",
+      "age": "barbarian tribal group",
+      "personality": "northern tribal opponent; involved in battle with storm legend",
+      "lifespan": "Engaged in wars mentioned in Marcus's campaigns"
+    },
+    {
+      "name": "Sarmatians (tribe)",
+      "age": "tribal group",
+      "personality": "frontier adversaries",
+      "lifespan": "Mentioned among tribes opposing Rome"
+    },
+    {
+      "name": "Catti (tribe)",
+      "age": "tribal group",
+      "personality": "northern opponent",
+      "lifespan": "Mentioned among frontier tribes"
+    },
+    {
+      "name": "Jazyges (tribe)",
+      "age": "tribal group",
+      "personality": "northern opponent",
+      "lifespan": "Mentioned among frontier tribes"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Rome",
+      "latitude": 41.902783,
+      "longitude": 12.496366
+    },
+    {
+      "name": "Syria (region mentioned in Parthian campaign)",
+      "latitude": 34.802075,
+      "longitude": 38.996815
+    },
+    {
+      "name": "Parthia (ancient region)",
+      "latitude": 32.427909,
+      "longitude": 53.688046
+    },
+    {
+      "name": "Pannonia",
+      "latitude": 46,
+      "longitude": 16
+    },
+    {
+      "name": "Smyrna (modern İzmir)",
+      "latitude": 38.423734,
+      "longitude": 27.142826
+    },
+    {
+      "name": "Cyprus",
+      "latitude": 35.126413,
+      "longitude": 33.429859
+    },
+    {
+      "name": "Athens (Painted Porch / Stoa)",
+      "latitude": 37.98381,
+      "longitude": 23.727539
+    },
+    {
+      "name": "Germany (region of northern frontier wars)",
+      "latitude": 51.165691,
+      "longitude": 10.451526
+    },
+    {
+      "name": "Bohemia (approximate Marcomanni region)",
+      "latitude": 49.817502,
+      "longitude": 15.473
+    },
+    {
+      "name": "Quadi region (approximate, modern Moravia/Slovakia area)",
+      "latitude": 48.669026,
+      "longitude": 19.699024
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "sprung",
+      "definition": "born or descended from",
+      "context": "Used to describe Marcus's family origin: 'sprung of a noble family'"
+    },
+    {
+      "word": "pious",
+      "definition": "devoutly religious or reverent",
+      "context": "Describes Marcus's ancestral religious character"
+    },
+    {
+      "word": "noble",
+      "definition": "of high birth or rank",
+      "context": "Characterizes Marcus's family standing"
+    },
+    {
+      "word": "descent",
+      "definition": "lineage or ancestry",
+      "context": "Used when claiming descent from Numa"
+    },
+    {
+      "word": "consular",
+      "definition": "relating to a consul (Roman magistrate)",
+      "context": "Refers to Marcus's grandfather as 'consular Annius Verus'"
+    },
+    {
+      "word": "refrain",
+      "definition": "hold back from an impulse",
+      "context": "Marcus learned to refrain from anger and passion"
+    },
+    {
+      "word": "passion",
+      "definition": "strong emotion, often to be restrained in Stoicism",
+      "context": "Marcus is taught to avoid passion"
+    },
+    {
+      "word": "divined",
+      "definition": "perceived or discovered intuitively",
+      "context": "Hadrian 'divined the fine character of the lad'"
+    },
+    {
+      "word": "Verissimus",
+      "definition": "Latin for 'most truthful'",
+      "context": "Hadrian called Marcus 'Verissimus'"
+    },
+    {
+      "word": "equestrian",
+      "definition": "of the Roman equestrian social rank",
+      "context": "Marcus was raised to equestrian rank at six"
+    },
+    {
+      "word": "Salian",
+      "definition": "relating to the ancient Salian priesthood",
+      "context": "Marcus made a member of the Salian priesthood"
+    },
+    {
+      "word": "priesthood",
+      "definition": "the office or position of a priest",
+      "context": "Marcus's early religious appointment"
+    },
+    {
+      "word": "betrothed",
+      "definition": "formally promised in marriage",
+      "context": "Marcus was betrothed to Antoninus's daughter"
+    },
+    {
+      "word": "Stoic",
+      "definition": "adherent of Stoicism, a philosophical school",
+      "context": "Marcus was trained in Stoic philosophy"
+    },
+    {
+      "word": "softness",
+      "definition": "luxurious indulgence or lack of hardness",
+      "context": "He was taught to avoid softness and luxury"
+    },
+    {
+      "word": "hardihood",
+      "definition": "hardiness; robustness and endurance",
+      "context": "His body was trained to hardihood by outdoor games"
+    },
+    {
+      "word": "boars",
+      "definition": "wild pigs, hunted in ancient sport",
+      "context": "Marcus showed courage to encounter the fiercest boars"
+    },
+    {
+      "word": "extravagancies",
+      "definition": "excessive luxuries or extravagances",
+      "context": "He was kept from the extravagancies of his day"
+    },
+    {
+      "word": "chariots",
+      "definition": "two-wheeled horse-drawn vehicles used in races",
+      "context": "Racing chariots caused public excitement"
+    },
+    {
+      "word": "partisans",
+      "definition": "supporters or adherents of a faction",
+      "context": "Races produced eager partisans among the crowd"
+    },
+    {
+      "word": "aloof",
+      "definition": "emotionally distant or detached",
+      "context": "Marcus held severely aloof from circus corruptions"
+    },
+    {
+      "word": "consulship",
+      "definition": "the office or term of a Roman consul",
+      "context": "Marcus was raised to the consulship in 140"
+    },
+    {
+      "word": "tribunate",
+      "definition": "the office of a tribune",
+      "context": "Marcus received the tribunate and other honours"
+    },
+    {
+      "word": "associate",
+      "definition": "to join as a partner or colleague",
+      "context": "He associated L. Ceionius Commodus as colleague in the empire"
+    },
+    {
+      "word": "colleagues",
+      "definition": "partners in office",
+      "context": "Marcus and Lucius Verus were colleagues in the empire"
+    },
+    {
+      "word": "revolt",
+      "definition": "an uprising against authority",
+      "context": "Vologeses III. of Parthia began a revolt"
+    },
+    {
+      "word": "legion",
+      "definition": "a large unit of the Roman army",
+      "context": "A whole Roman Legion was destroyed at the start of the Parthian trouble"
+    },
+    {
+      "word": "Syria",
+      "definition": "eastern Roman province and region",
+      "context": "Parthian invasion into Syria mentioned"
+    },
+    {
+      "word": "quell",
+      "definition": "to suppress or put an end to",
+      "context": "Lucius Verus was sent off to quell the rising"
+    },
+    {
+      "word": "debauchery",
+      "definition": "excessive indulgence in sensual pleasures",
+      "context": "Verus plunged into drunkenness and debauchery"
+    },
+    {
+      "word": "coalition",
+      "definition": "an alliance of groups",
+      "context": "A coalition of tribes on the northern frontier"
+    },
+    {
+      "word": "frontier",
+      "definition": "border region of the empire",
+      "context": "Northern frontier troubles described"
+    },
+    {
+      "word": "Marcomanni",
+      "definition": "a Germanic tribal group opposing Rome",
+      "context": "Listed among the tribes Marcus fought"
+    },
+    {
+      "word": "Quadi",
+      "definition": "a Germanic/Sarmatian tribal group",
+      "context": "One of the tribes mentioned in the northern wars"
+    },
+    {
+      "word": "Sarmatians",
+      "definition": "a nomadic people of the Pontic steppe",
+      "context": "Named among the northern foe tribes"
+    },
+    {
+      "word": "Catti",
+      "definition": "a Germanic tribe",
+      "context": "Included among the tribes in the narrative"
+    },
+    {
+      "word": "Jazyges",
+      "definition": "a Sarmatian tribe (also Iazyges)",
+      "context": "One of the groups opposing Rome"
+    },
+    {
+      "word": "pestilence",
+      "definition": "a deadly epidemic disease",
+      "context": "Pestilence spread from the east by legions"
+    },
+    {
+      "word": "starvation",
+      "definition": "death or suffering from lack of food",
+      "context": "There was pestilence and starvation in Rome"
+    },
+    {
+      "word": "famine",
+      "definition": "extreme scarcity of food",
+      "context": "Floods destroyed grain and caused famine"
+    },
+    {
+      "word": "jewels",
+      "definition": "valuable gemstones or ornamentation",
+      "context": "Marcus sold imperial jewels to find money"
+    },
+    {
+      "word": "campaigns",
+      "definition": "military operations collectively",
+      "context": "Marcus's wars and campaigns are recounted"
+    },
+    {
+      "word": "renown",
+      "definition": "fame or widespread reputation",
+      "context": "Avidius Cassius had gained renown in Parthian wars"
+    },
+    {
+      "word": "Thundering",
+      "definition": "causing thunder-like effect; named in a legend",
+      "context": "The legend of the Thundering Legion is recounted"
+    },
+    {
+      "word": "Legion",
+      "definition": "a Roman military unit",
+      "context": "A legion allegedly aided by a storm in battle"
+    },
+    {
+      "word": "carved",
+      "definition": "cut or engraved in relief",
+      "context": "A scene is carved on Antonine's Column"
+    },
+    {
+      "word": "Column",
+      "definition": "a monumental column (Antonine's Column)",
+      "context": "Depicts scenes commemorating wars"
+    },
+    {
+      "word": "commemorates",
+      "definition": "honors the memory of",
+      "context": "The column commemorates these wars"
+    },
+    {
+      "word": "Avidius",
+      "definition": "personal name (of Cassius)",
+      "context": "Part of the name Avidius Cassius"
+    },
+    {
+      "word": "Cassius",
+      "definition": "Roman name, here of a rebel general",
+      "context": "Avidius Cassius proclaimed himself emperor and was assassinated"
+    },
+    {
+      "word": "assassinated",
+      "definition": "murdered, especially for political reasons",
+      "context": "Cassius was assassinated when his support failed"
+    },
+    {
+      "word": "indignantly",
+      "definition": "with anger or scorn at an unjust action",
+      "context": "Marcus indignantly refused the head of Cassius"
+    },
+    {
+      "word": "triumph",
+      "definition": "a ceremonial victory celebration in Rome",
+      "context": "Marcus celebrated a triumph after returning from the east"
+    },
+    {
+      "word": "repaired",
+      "definition": "went or returned to a place; repaired as 'went to'",
+      "context": "He repaired to Germany to take up war again"
+    },
+    {
+      "word": "burden",
+      "definition": "a heavy responsibility",
+      "context": "He took up once more the burden of war"
+    },
+    {
+      "word": "Pannonia",
+      "definition": "Roman province in central Europe",
+      "context": "Marcus died in Pannonia in 180"
+    },
+    {
+      "word": "domestic",
+      "definition": "relating to the home or family",
+      "context": "Marcus was not spared domestic troubles"
+    },
+    {
+      "word": "scandal",
+      "definition": "rumor or public disgrace",
+      "context": "Scandal surrounded Marcus's wife Faustina"
+    },
+    {
+      "word": "calumny",
+      "definition": "a false and malicious statement",
+      "context": "Charges against Faustina are said to rest on no sure evidence; labeled calumny"
+    },
+    {
+      "word": "charitable",
+      "definition": "relating to charity or aid",
+      "context": "Charitable foundations were endowed by Marcus"
+    },
+    {
+      "word": "foundations",
+      "definition": "institutions established for a purpose",
+      "context": "Endowed to rear and educate poor children"
+    },
+    {
+      "word": "slaves",
+      "definition": "persons held in servitude",
+      "context": "Marcus sought laws to make the lot of slaves less hard"
+    },
+    {
+      "word": "oppression",
+      "definition": "unjust or cruel exercise of authority",
+      "context": "Provinces were protected against oppression"
+    },
+    {
+      "word": "Christians",
+      "definition": "followers of Christianity",
+      "context": "Marcus's reign saw persecutions and martyrs"
+    },
+    {
+      "word": "martyr",
+      "definition": "one who dies for a religious cause",
+      "context": "Justin and Polycarp became martyrs"
+    },
+    {
+      "word": "Polycarp",
+      "definition": "early Christian bishop and martyr",
+      "context": "Named among martyrs in Marcus's reign"
+    },
+    {
+      "word": "fanaticism",
+      "definition": "extreme zeal, often leading to violence",
+      "context": "Outbreaks of fanaticism caused deaths of faithful"
+    },
+    {
+      "word": "religion",
+      "definition": "system of faith and worship",
+      "context": "Roman religion is critiqued as unsatisfying in text"
+    },
+    {
+      "word": "legends",
+      "definition": "traditional stories often of heroic deeds",
+      "context": "Roman religious legends are called childish or impossible"
+    },
+    {
+      "word": "bargain",
+      "definition": "an exchange or pact",
+      "context": "Roman religion characterized as a bargain of rites for favor"
+    },
+    {
+      "word": "sacrifices",
+      "definition": "ritual offerings to gods",
+      "context": "Men paid sacrifices and rites in Roman religion"
+    },
+    {
+      "word": "Stoicism",
+      "definition": "the philosophical school founded by Zeno",
+      "context": "One of the rival philosophical schools in the empire"
+    },
+    {
+      "word": "Epicureanism",
+      "definition": "philosophical school emphasizing pleasure and tranquility",
+      "context": "The rival school to Stoicism mentioned"
+    },
+    {
+      "word": "Zeno",
+      "definition": "founder of Stoicism",
+      "context": "Zeno born in Cyprus and opened the Painted Porch school"
+    },
+    {
+      "word": "Chrysippus",
+      "definition": "important early Stoic who organized the doctrine",
+      "context": "Said 'But for Chrysippus, there had been no Porch.'"
+    },
+    {
+      "word": "Porch",
+      "definition": "the Painted Porch (Stoa) in Athens where Stoics met",
+      "context": "Gave Stoicism its name from the Stoa or Painted Porch"
+    },
+    {
+      "word": "ὁμολογουμένος",
+      "definition": "Greek for 'agreeing' or 'in accordance'",
+      "context": "Part of Stoic dictum ὁμολογουμένος ζῆν (to live consistently)"
+    },
+    {
+      "word": "ζῆν",
+      "definition": "Greek for 'to live'",
+      "context": "Appears in the Stoic phrase ὁμολογουμένος ζῆν"
+    },
+    {
+      "word": "φύσει",
+      "definition": "Greek for 'by nature' or 'with nature'",
+      "context": "Appears in ὁμολογουμένος τῇ φύσει ζῆν (to live according to nature)"
+    },
+    {
+      "word": "Physics",
+      "definition": "branch of philosophy dealing with nature and the cosmos",
+      "context": "One of Stoicism's threefold divisions"
+    },
+    {
+      "word": "Logic",
+      "definition": "study of reasoning and argument",
+      "context": "Another division training the mind to discern true from false"
+    },
+    {
+      "word": "Ethics",
+      "definition": "moral philosophy applying knowledge to life",
+      "context": "The practical application of Stoic teaching"
+    },
+    {
+      "word": "materialism",
+      "definition": "philosophical view that matter is fundamental",
+      "context": "Stoic system of physics described as materialism"
+    },
+    {
+      "word": "pantheism",
+      "definition": "belief that the universe and God are identical",
+      "context": "Stoic infusion of pantheism into materialism"
+    },
+    {
+      "word": "immanent",
+      "definition": "existing or operating within",
+      "context": "A spiritual force immanent in the material universe"
+    },
+    {
+      "word": "æther",
+      "definition": "classical element thought to fill celestial space",
+      "context": "Manifestation form of the divine ruling principle"
+    },
+    {
+      "word": "spirit",
+      "definition": "non-physical principle or soul",
+      "context": "Used among manifestations of the divine force"
+    },
+    {
+      "word": "emanation",
+      "definition": "something that flows out from a source",
+      "context": "The soul of man described as an emanation from the godhead"
+    },
+    {
+      "word": "re-absorbed",
+      "definition": "taken back into a larger whole",
+      "context": "The soul will eventually be re-absorbed into the godhead"
+    },
+    {
+      "word": "Providence",
+      "definition": "divine guidance or care",
+      "context": "The divine ruling principle makes all things work together for good"
+    },
+    {
+      "word": "virtue",
+      "definition": "moral excellence; central Stoic good",
+      "context": "Virtue alone enables man to work with God for the common good"
+    },
+    {
+      "word": "Criterion",
+      "definition": "a test or standard of judgment",
+      "context": "Stoic theory as to the test of truth"
+    },
+    {
+      "word": "sheet",
+      "definition": "a flat piece of material (metaphorically paper)",
+      "context": "New-born soul compared to a sheet of paper ready for writing"
+    },
+    {
+      "word": "impressions",
+      "definition": "sensory perceptions recorded by the mind",
+      "context": "Senses write impressions (φαντασίαι) on the soul"
+    },
+    {
+      "word": "φαντασίαι",
+      "definition": "Greek for 'appearances' or 'impressions'",
+      "context": "Stoic term for sensory impressions"
+    },
+    {
+      "word": "κοιναὶ",
+      "definition": "Greek for 'common' or 'general'",
+      "context": "Appears in κοιναὶ ἔννοιαι (general notions)"
+    },
+    {
+      "word": "ἔννοιαι",
+      "definition": "Greek for 'notions' or 'concepts'",
+      "context": "Used in discussing how general notions form"
+    },
+    {
+      "word": "προλήψεις",
+      "definition": "Greek for 'anticipations' or 'preconceptions'",
+      "context": "Used to describe unconscious concept formation"
+    },
+    {
+      "word": "καταληπτικὴ",
+      "definition": "Greek adjective meaning 'grasping' or 'comprehending'",
+      "context": "Used in 'καταληπτικὴ φαντασία' referring to an irresistible impression"
+    },
+    {
+      "word": "φαντασία",
+      "definition": "Greek for 'impression' or 'appearance'",
+      "context": "Appears in the phrase καταληπτικὴ φαντασία describing firm impression"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2680"
+}
