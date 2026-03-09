@@ -1,0 +1,620 @@
+{
+  "gutenberg_id": 74,
+  "title": "The Adventures of Tom Sawyer, Complete",
+  "author": "Twain, Mark",
+  "summary": "The Adventures of Tom Sawyer follows mischievous Tom, a clever Missouri boy, through pranks, friendships, moral trials, and escapades along a Mississippi-side village. Raised by Aunt Polly, Tom dupes adults, whitewashes fences, joins pretend pirate bands, witnesses a graveyard murder, and wrestles with fear, conscience, and loyalty. He befriends Huck Finn, courts Becky Thatcher, faces Injun Joe’s menace, helps exonerate an innocent man, and explores haunted houses and caves. Play, danger, superstition, and youthful bravado yield moments of courage, guilt, and redemption as Tom matures while preserving boyish imagination and the river-town’s vivid social life, and small-town humor and nostalgia.",
+  "characters": [
+    {
+      "name": "Tom Sawyer",
+      "age": "about 12–14 (boy)",
+      "personality": "mischievous, imaginative, daring, sentimental",
+      "lifespan": "survives the adventures; matures somewhat by story's end"
+    },
+    {
+      "name": "Aunt Polly",
+      "age": "middle-aged",
+      "personality": "fond, moralistic, inconsistent disciplinarian",
+      "lifespan": "remains guardian of Tom throughout the story"
+    },
+    {
+      "name": "Sid (Sidney)",
+      "age": "younger boy (Tom’s half-brother)",
+      "personality": "quiet, tattletale, model child",
+      "lifespan": "continues at home; foil to Tom"
+    },
+    {
+      "name": "Jim (the small colored boy)",
+      "age": "young adolescent (helper)",
+      "personality": "loyal, hardworking, affable",
+      "lifespan": "serves Tom and family; remains in household duties"
+    },
+    {
+      "name": "Huck Finn (Huckleberry Finn)",
+      "age": "about 12–14 (boy)",
+      "personality": "free-spirited, independent, streetwise",
+      "lifespan": "survives; later transformed toward respectability"
+    },
+    {
+      "name": "Becky Thatcher",
+      "age": "schoolgirl (Tom’s love interest)",
+      "personality": "proud, girlish, romantic",
+      "lifespan": "courtship with Tom; remains part of Tom’s social circle"
+    },
+    {
+      "name": "Injun Joe",
+      "age": "adult",
+      "personality": "menacing, vengeful, violent",
+      "lifespan": "pursued; fate resolved in story (see chapters)"
+    },
+    {
+      "name": "Muff Potter",
+      "age": "adult",
+      "personality": "simple, shiftless, good-natured",
+      "lifespan": "initially suspected of murder; later saved/exonerated"
+    },
+    {
+      "name": "Joe Harper",
+      "age": "boy (Tom’s friend)",
+      "personality": "playful, patriotic in games (pirate)",
+      "lifespan": "joins Tom’s adventures; safe return with others"
+    },
+    {
+      "name": "Aunt Mary (Mary)",
+      "age": "young woman/teens? (relative)",
+      "personality": "maternal, sober (as portrayed)",
+      "lifespan": "caretaker figure in household"
+    },
+    {
+      "name": "Widow Douglas",
+      "age": "adult",
+      "personality": "charitable, genteel",
+      "lifespan": "offers shelter; interacts with Huck and others"
+    },
+    {
+      "name": "Amy Lawrence",
+      "age": "girl (Tom’s early sweetheart)",
+      "personality": "romantic interest displaced by Becky",
+      "lifespan": "relegated in Tom’s affections"
+    },
+    {
+      "name": "Uncle Jake",
+      "age": "adult",
+      "personality": "minor supporting relative/figure",
+      "lifespan": "appears in later sequences"
+    },
+    {
+      "name": "Buck (Buck)', \"age\": \"boy (friend/comrade)",
+      "personality": "young, energetic, companion in adventures",
+      "lifespan": "participates in group exploits"
+    },
+    {
+      "name": "Mother Hopkins",
+      "age": "adult (widow/charity figure)",
+      "personality": "stern, comic in depiction",
+      "lifespan": "appears in minor episodes"
+    },
+    {
+      "name": "Peter (the gravedigger)",
+      "age": "adult",
+      "personality": "practical, incidental to graveyard scene",
+      "lifespan": "appears in graveyard episode"
+    },
+    {
+      "name": "The Judge",
+      "age": "adult",
+      "personality": "authoritative local official",
+      "lifespan": "presides at court scenes"
+    },
+    {
+      "name": "Mr. Jones",
+      "age": "adult",
+      "personality": "citizen involved in town matters",
+      "lifespan": "appears in chapters concerning social events"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Missouri (state)",
+      "latitude": 38.576702,
+      "longitude": -92.173516
+    },
+    {
+      "name": "Mississippi River (Hannibal/St. Petersburg region)",
+      "latitude": 39.7086,
+      "longitude": -91.3586
+    },
+    {
+      "name": "Hartford, Connecticut (author location noted in preface)",
+      "latitude": 41.763711,
+      "longitude": -72.685093
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "Y-o-u-u",
+      "definition": "stylized drawn-out calling of 'you'",
+      "context": "Chapter opening: 'Y-o-u-u Tom—Aunt Polly Decides Upon her Duty' and the old lady’s shout 'Y-o-u-u TOM!'"
+    },
+    {
+      "word": "spectacles",
+      "definition": "eyeglasses; in genteel style",
+      "context": "Aunt Polly pulled her spectacles down and looked over them"
+    },
+    {
+      "word": "stove-lids",
+      "definition": "large, reflective cooking lids used humorously to imply opaque lenses",
+      "context": "she could have seen through a pair of stove-lids just as well"
+    },
+    {
+      "word": "resurrected",
+      "definition": "brought up or produced again",
+      "context": "She resurrected nothing but the cat (searching under the bed)"
+    },
+    {
+      "word": "jimpson",
+      "definition": "variant of 'jimson' (jimsonweed), a weed",
+      "context": "tomato vines and 'jimpson' weeds that constituted the garden"
+    },
+    {
+      "word": "roundabout",
+      "definition": "a type of short jacket or coat",
+      "context": "a small boy by the slack of his roundabout"
+    },
+    {
+      "word": "slack",
+      "definition": "the loose part of clothing",
+      "context": "seize a small boy by the slack of his roundabout"
+    },
+    {
+      "word": "switch",
+      "definition": "a small slender twig used as a rod for punishment",
+      "context": "Hand me that switch."
+    },
+    {
+      "word": "punctuate",
+      "definition": "to mark with pauses or emphasis",
+      "context": "she needed breath to punctuate the punches with"
+    },
+    {
+      "word": "dander",
+      "definition": "temper or anger (dialect)",
+      "context": "he ’pears to know just how long he can torment me before I get my dander up"
+    },
+    {
+      "word": "resurrected",
+      "definition": "see above (repeated in text)",
+      "context": "She resurrected nothing but the cat"
+    },
+    {
+      "word": "spare the rod and spile the child",
+      "definition": "old proverb variant meaning spare the rod and spoil the child; 'spile' archaic spelling",
+      "context": "Spare the rod and spile the child, as the Good Book says."
+    },
+    {
+      "word": "obleeged",
+      "definition": "dialectal 'obliged' (forced/compelled)",
+      "context": "I’ll just be obleeged to make him work, tomorrow, to punish him."
+    },
+    {
+      "word": "Old Scratch",
+      "definition": "folk name for the devil",
+      "context": "He’s full of the Old Scratch, but laws-a-me! he’s my own dead sister’s boy"
+    },
+    {
+      "word": "hookey",
+      "definition": "dialect spelling of 'hooky' (playing truant)",
+      "context": "He’ll play hookey this evening, and I’ll just be obleeged to make him work"
+    },
+    {
+      "word": "pump (on our heads)",
+      "definition": "to pour water over the head from a pump (local phrase)",
+      "context": "Some of us pumped on our heads—mine’s damp yet."
+    },
+    {
+      "word": "lapels",
+      "definition": "folded flaps on a jacket",
+      "context": "two large needles which were thrust into the lapels of his jacket"
+    },
+    {
+      "word": "natty",
+      "definition": "smartly dressed, trim in appearance",
+      "context": "His cap was a dainty thing, his close-buttoned blue cloth roundabout was new and natty"
+    },
+    {
+      "word": "pantaloons",
+      "definition": "old-fashioned trousers",
+      "context": "and so were his pantaloons."
+    },
+    {
+      "word": "citified",
+      "definition": "having characteristics of a city dweller",
+      "context": "He had a citified air about him that ate into Tom’s vitals."
+    },
+    {
+      "word": "vitals",
+      "definition": "vital feelings; figurative core feelings",
+      "context": "that ate into Tom’s vitals."
+    },
+    {
+      "word": "lam",
+      "definition": "to beat or thrash (slang)",
+      "context": "I’ll lam Sid for that. I’ll learn him!"
+    },
+    {
+      "word": "gee-miny",
+      "definition": "colloquial oath or mild expletive (dialect)",
+      "context": "I wish to gee-miny she’d stick to one or t’other—I can’t keep the run of ’em."
+    },
+    {
+      "word": "warble",
+      "definition": "a melodious trill or quavering sound",
+      "context": "a sort of liquid warble, produced by touching the tongue to the roof of the mouth"
+    },
+    {
+      "word": "whistling",
+      "definition": "producing tune by the lips",
+      "context": "this new interest was a valued novelty in whistling"
+    },
+    {
+      "word": "beguiled",
+      "definition": "deceived or charmed",
+      "context": "The Innocents Beguiled (chapter title)"
+    },
+    {
+      "word": "acrobatic(s)",
+      "definition": "skillful, nimble mental or physical feats",
+      "context": "Mental Acrobatics—Attending Sunday-School (chapter title)"
+    },
+    {
+      "word": "superintendent",
+      "definition": "one who presides or oversees (in this case at school)",
+      "context": "Attending Sunday-School—The Superintendent—“Showing off”—Tom Lionized"
+    },
+    {
+      "word": "lionized",
+      "definition": "treated as a celebrity",
+      "context": "Tom Lionized (chapter heading)"
+    },
+    {
+      "word": "dentistry",
+      "definition": "branch of medical practice dealing with teeth",
+      "context": "Self-Examination—Dentistry—The Midnight Charm (chapter title)"
+    },
+    {
+      "word": "ha'nted",
+      "definition": "dialect spelling of 'haunted'",
+      "context": "The Haunted House (chapter title) spelled in dialect as 'Ha'nted' in illustrations"
+    },
+    {
+      "word": "rendezvous",
+      "definition": "a meeting or gathering place (French loanword)",
+      "context": "Going to the Rendezvous (chapter title)"
+    },
+    {
+      "word": "pic-nic",
+      "definition": "variant spelling of 'picnic'",
+      "context": "The Pic-nic (chapter title)"
+    },
+    {
+      "word": "coils",
+      "definition": "spirals or winding; used figuratively in an illustration caption 'In the Coils'",
+      "context": "In the Coils (illustration caption)"
+    },
+    {
+      "word": "vampires",
+      "definition": "supernatural undead; used jokingly by children",
+      "context": "Vampires (illustration caption)"
+    },
+    {
+      "word": "barlow",
+      "definition": "a type of pocketknife ('the Barlow')",
+      "context": "Using the 'Barlow' (illustration caption)"
+    },
+    {
+      "word": "Tendin’",
+      "definition": "dialect contraction of 'Tending' (as in 'Tendin’ to Business')",
+      "context": "Illustration caption '’Tendin’ to Business'"
+    },
+    {
+      "word": "Ain’t",
+      "definition": "colloquial/dialect contraction of 'is not' or 'are not'",
+      "context": "Illustration caption 'Ain’t that Work?'"
+    },
+    {
+      "word": "Necessities",
+      "definition": "things necessary, sometimes used ironically in captions",
+      "context": "Illustration caption 'Necessities'"
+    },
+    {
+      "word": "lionized",
+      "definition": "see above (appears in text headings)",
+      "context": "Tom Lionized (chapter title)"
+    },
+    {
+      "word": "felicity",
+      "definition": "great happiness; used in chapter title 'Dismal Felicity'",
+      "context": "Triumph and Reward—Dismal Felicity—Commission and Omission"
+    },
+    {
+      "word": "injun",
+      "definition": "dialectal or pejorative rendering of 'Indian' (archaic)",
+      "context": "Injun Joe (character name; appears in chapter titles)"
+    },
+    {
+      "word": "solemn",
+      "definition": "serious or grave in tone",
+      "context": "A Solemn Situation—Grave Subjects Introduced (chapter title)"
+    },
+    {
+      "word": "muff",
+      "definition": "nickname as in 'Muff Potter' (a man’s sobriquet)",
+      "context": "Muff Potter Comes Himself—Tom’s Conscience at Work (chapter headings)"
+    },
+    {
+      "word": "trunk",
+      "definition": "large box; used in various contexts (illustration captions)",
+      "context": "Treasures and boxes referenced in treasure-hunt chapters"
+    },
+    {
+      "word": "rummage",
+      "definition": "to search untidily; implied in searching scenes",
+      "context": "Search for the Treasure—Hidden Treasures Unearthed"
+    },
+    {
+      "word": "ha'nted-room",
+      "definition": "dialectal compound referring to haunted room",
+      "context": "The Haunted Room (illustration caption)"
+    },
+    {
+      "word": "cozened",
+      "definition": "cheated or tricked (archaic)",
+      "context": "The Innocents Beguiled (tricks and deception theme)"
+    },
+    {
+      "word": "reconnoiters",
+      "definition": "makes a preliminary inspection (military term applied playfully)",
+      "context": "Tom Reconnoiters—Learns the Situation—Reports at Camp"
+    },
+    {
+      "word": "ringleader",
+      "definition": "chief of a group in mischief",
+      "context": "Tom as a General—Triumph and Reward (Tom leads boys)"
+    },
+    {
+      "word": "mourn(er)",
+      "definition": "one who grieves; used in description 'The Mourner'",
+      "context": "Illustration caption 'The Mourner'"
+    },
+    {
+      "word": "cadet",
+      "definition": "junior or trainee (used in illustration 'The Cadet')",
+      "context": "Illustration caption 'The Cadet'"
+    },
+    {
+      "word": "exonerate",
+      "definition": "to free from blame",
+      "context": "Muff Potter Saved (chapter implies exoneration)"
+    },
+    {
+      "word": "demoralized",
+      "definition": "disheartened or thrown into disorder",
+      "context": "Illustration caption 'Demoralized'"
+    },
+    {
+      "word": "rendezvous",
+      "definition": "see above (meeting place)",
+      "context": "Going to the Rendezvous (chapter title)"
+    },
+    {
+      "word": "coils",
+      "definition": "see above",
+      "context": "In the Coils (illustration)"
+    },
+    {
+      "word": "sepulchral",
+      "definition": "funereal; gloomy (implied in graveyard chapter)",
+      "context": "The Grave in the Woods (chapter evokes sepulchral mood)"
+    },
+    {
+      "word": "forewarnings",
+      "definition": "precursors of danger",
+      "context": "Illustration caption 'Forewarnings' (graveyard scenes)"
+    },
+    {
+      "word": "replies",
+      "definition": "responses (formal term used in some chapter headings)",
+      "context": "Various dialogues and exchanges in chapters"
+    },
+    {
+      "word": "pirate(s)",
+      "definition": "boys’ pretend pirate band",
+      "context": "The Young Pirates—Going to the Rendezvous—The Camp"
+    },
+    {
+      "word": "rummaging",
+      "definition": "searching disorderly (variant of rummage)",
+      "context": "Search for treasure sequences"
+    },
+    {
+      "word": "mystic",
+      "definition": "related to mysterious or supernatural; used with 'writing' and 'ghosts'",
+      "context": "The Mysterious Writing—Dead People and Ghosts (chapter themes)"
+    },
+    {
+      "word": "ha'nts",
+      "definition": "dialect plural of 'haunts' or 'haints' (ghosts)",
+      "context": "Ha'nted House (dialect spelling indicates local speech)"
+    },
+    {
+      "word": "necromancy",
+      "definition": "communication with the dead (implied by ghost motifs)",
+      "context": "Children’s superstitions and haunted-house scenes"
+    },
+    {
+      "word": "reckon",
+      "definition": "to suppose; colloquial (used throughout)",
+      "context": "I reckon it’s so."
+    },
+    {
+      "word": "middling",
+      "definition": "moderately; dialect or regional adjective",
+      "context": "Tom, it was middling warm in school, warn’t it?"
+    },
+    {
+      "word": "mister",
+      "definition": "formal address; appears in various conversations",
+      "context": "Titles and addresses in town dialogue"
+    },
+    {
+      "word": "t’other",
+      "definition": "dialect contraction of 'the other'",
+      "context": "stick to one or t’other—I can’t keep the run of ’em."
+    },
+    {
+      "word": "shew",
+      "definition": "archaic variant of 'show' (appears in older printings/phrasing)",
+      "context": "Older idioms in chapter headings and dialogue (e.g., 'Showing off')"
+    },
+    {
+      "word": "whilom",
+      "definition": "former or erstwhile (archaic; implied by reminiscence)",
+      "context": "Reminiscences and adults recalling boyhood in Preface and chapters"
+    },
+    {
+      "word": "canty",
+      "definition": "cheerful or lively (archaic/scots; thematic in boyish scenes)",
+      "context": "Tone of many group play sequences"
+    },
+    {
+      "word": "trim",
+      "definition": "neat or smart in dress (connected to 'natty')",
+      "context": "Description of the new boy’s neat clothing"
+    },
+    {
+      "word": "vamoose",
+      "definition": "to depart quickly (slang/colloquial)",
+      "context": "Tom flees over the high board-fence and vamooses from Aunt Polly)"
+    },
+    {
+      "word": "stint",
+      "definition": "a fixed or allotted period of work (implied in chores)",
+      "context": "Tom required to do his stint of work as punishment)"
+    },
+    {
+      "word": "notion",
+      "definition": "an idea or whim (common in dialect)",
+      "context": "Tom’s various notions and enterprises)"
+    },
+    {
+      "word": "bung",
+      "definition": "to stop or make bungling attempts (implied in comic mishaps)",
+      "context": "Humorous botchings and partial successes)"
+    },
+    {
+      "word": "contrive",
+      "definition": "to plan cleverly (often for mischief)",
+      "context": "Tom contrives tricks and schemes)"
+    },
+    {
+      "word": "shank",
+      "definition": "a narrow part (used figuratively for narrow escape)",
+      "context": "Tom’s narrow escapes from punishment)"
+    },
+    {
+      "word": "grange",
+      "definition": "farmhouse or rural place (alluded to in setting)",
+      "context": "Rural Mississippi-valley ambience and settings)"
+    },
+    {
+      "word": "mischief",
+      "definition": "playful troublemaking",
+      "context": "Central to Tom’s activities throughout chapter one and headings)"
+    },
+    {
+      "word": "larder",
+      "definition": "pantry or place for food (implied in household scenes)",
+      "context": "References to jam, sugar, and stolen food)"
+    },
+    {
+      "word": "sash",
+      "definition": "a band or strip of fabric (possibly in clothing descriptions)",
+      "context": "Boys’ and girls’ dress described in illustrations and chapter headings)"
+    },
+    {
+      "word": "droll",
+      "definition": "curious or amusing in an odd way",
+      "context": "Humorous episodes and the book’s comic tone)"
+    },
+    {
+      "word": "quaint",
+      "definition": "charmingly old-fashioned",
+      "context": "Descriptions of village customs and speech)"
+    },
+    {
+      "word": "gumption",
+      "definition": "initiative or resourcefulness (dialectal praise)",
+      "context": "Tom’s schemes demonstrate gumption)"
+    },
+    {
+      "word": "foible",
+      "definition": "a minor weakness or eccentricity",
+      "context": "Aunt Polly’s conflicting discipline and fondness constitute a foible)"
+    },
+    {
+      "word": "sere",
+      "definition": "withered or dry (evocative of some landscapes)",
+      "context": "Descriptions of town gardens and weeds)"
+    },
+    {
+      "word": "ardor",
+      "definition": "intense enthusiasm or passion",
+      "context": "Dampened Ardor (illustration caption referring to Tom’s feelings)"
+    },
+    {
+      "word": "prowess",
+      "definition": "skill or bravery (used in camp and pirate episodes)",
+      "context": "Tom as a general and leader of pirates)"
+    },
+    {
+      "word": "hullabaloo",
+      "definition": "commotion or fuss (colloquial)",
+      "context": "Town excitement and alarms in various scenes)"
+    },
+    {
+      "word": "notwithstanding",
+      "definition": "in spite of (formal/archaic register)",
+      "context": "Older-form narrative clauses in chapter exposition)"
+    },
+    {
+      "word": "threnody",
+      "definition": "a lament (implied in mourning scenes)",
+      "context": "The Mourner (illustration and chapter mood)"
+    },
+    {
+      "word": "sepulcher",
+      "definition": "tomb or grave (used in graveyard imagery)",
+      "context": "The Grave in the Woods (chapter evokes burial imagery)"
+    },
+    {
+      "word": "phantasm",
+      "definition": "an apparition or ghost (used in haunted-house chapters)",
+      "context": "Dead People and Ghosts (chapter themes)"
+    },
+    {
+      "word": "forbear",
+      "definition": "to refrain or be patient (old usage)",
+      "context": "Adult admonitions and Biblical echoes in Aunt Polly’s speech)"
+    },
+    {
+      "word": "weal",
+      "definition": "well-being or a mark left by a rod (double sense historically)",
+      "context": "Punishment talk and moral concerns; 'laying up sin and suffering'"
+    },
+    {
+      "word": "yonder",
+      "definition": "over there (dialect)",
+      "context": "Spatial expressions in rural dialogue and narration)"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/74"
+}
