@@ -1,0 +1,534 @@
+{
+  "gutenberg_id": 2814,
+  "title": "Dubliners",
+  "author": "Joyce, James",
+  "summary": "Dubliners is a collection of fifteen short stories by James Joyce portraying everyday life in Dublin through the experiences of ordinary characters across youth, adolescence, maturity, and public life. The stories—beginning with 'The Sisters' and ending with 'The Dead'—trace paralysis, religious influence, stalled aspirations, and social rituals. Joyce renders scenes of domestic interiors, social gatherings, and inner consciousness with precise realist detail and ironic distance. Recurring motifs include confinement, spiritual and emotional paralysis, failed communication, and yearning for escape. The book’s meticulous language and psychological acuity illuminate the moral and cultural stagnation of Dublin at the turn of the century.",
+  "characters": [
+    {
+      "name": "Narrator (the boy)",
+      "age": "adolescent (estimated 12-16)",
+      "personality": "introspective, curious, impressionable; observant of religious and domestic detail",
+      "lifespan": "survives the events of the story; remains in Dublin (story ends with him attending funeral and reflecting)"
+    },
+    {
+      "name": "Father Flynn (Rev. James Flynn)",
+      "age": "65 (card gives age)",
+      "personality": "eccentric, learned, religiously observant, physically paralysed and enigmatic",
+      "lifespan": "dies (coffined; funeral described)"
+    },
+    {
+      "name": "Old Cotter",
+      "age": "elderly (approx. senior)",
+      "personality": "gossipy, prudish, judgmental, blunt",
+      "lifespan": "alive during the story; social commentator who criticises clerical influence"
+    },
+    {
+      "name": "Aunt (the narrator's aunt)",
+      "age": "middle-aged",
+      "personality": "practical, conventionally pious, socially conscious",
+      "lifespan": "alive; attends the funeral and comforts family"
+    },
+    {
+      "name": "Uncle (addressed as Jack by Cotter)",
+      "age": "middle-aged",
+      "personality": "earthy, pragmatic, fond of health remedies and exercises, conversational",
+      "lifespan": "alive; present at dinner and discussion"
+    },
+    {
+      "name": "Nannie",
+      "age": "elderly domestic servant",
+      "personality": "dutiful, humble, steady in household tasks",
+      "lifespan": "alive; assists with funeral arrangements and serving"
+    },
+    {
+      "name": "Eliza (Miss Flynn)",
+      "age": "middle-aged",
+      "personality": "grieving, practical, loyal to her brother, plain-speaking",
+      "lifespan": "alive; presides over the household and the corpse"
+    },
+    {
+      "name": "Father O'Rourke",
+      "age": "adult priest (unspecified)",
+      "personality": "religious, helpful, officiant in last rites",
+      "lifespan": "alive; called to anoint Father Flynn and arrange ecclesiastical matters"
+    },
+    {
+      "name": "The woman who washed him (washer)",
+      "age": "adult (unspecified)",
+      "personality": "practical, competent (handled the washing and laying-out)",
+      "lifespan": "alive; cited for helping with the corpse"
+    },
+    {
+      "name": "Telegram boy",
+      "age": "young (teenager or boy)",
+      "personality": "briefly present, functional as messenger",
+      "lifespan": "alive; appears reading the funeral card"
+    },
+    {
+      "name": "Two poor women (onlookers)",
+      "age": "adults",
+      "personality": "curious, local onlookers",
+      "lifespan": "alive; seen reading the card on the door"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Great Britain Street (now Parnell Street), Dublin",
+      "latitude": 53.3537,
+      "longitude": -6.2615
+    },
+    {
+      "name": "S. Catherine's Church, Meath Street, Dublin",
+      "latitude": 53.3429,
+      "longitude": -6.275
+    },
+    {
+      "name": "Pontifical Irish College (Irish college in Rome) - referenced",
+      "latitude": 41.9019,
+      "longitude": 12.4663
+    },
+    {
+      "name": "Persia (referenced in narrator's dream)",
+      "latitude": 32.4279,
+      "longitude": 53.688
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "paralysis",
+      "definition": "loss of ability to move/sense or metaphorical stagnation",
+      "context": "repeatedly named by narrator as he contemplates Father Flynn's condition"
+    },
+    {
+      "word": "gnomon",
+      "definition": "part of a sundial; used metaphorically",
+      "context": "mentioned as a strange-sounding word like 'paralysis'"
+    },
+    {
+      "word": "simony",
+      "definition": "the buying or selling of ecclesiastical privileges",
+      "context": "listed with gnomon as another odd word in the narrator's ear"
+    },
+    {
+      "word": "maleficent",
+      "definition": "causing harm or evil",
+      "context": "used to describe the being implied by the word 'paralysis'"
+    },
+    {
+      "word": "paralytic",
+      "definition": "a person affected by paralysis; here describing the priest's face",
+      "context": "narrator recalls 'the heavy grey face of the paralytic'"
+    },
+    {
+      "word": "stupefied",
+      "definition": "astonished, stunned",
+      "context": "Father Flynn said his words; narrator felt stupefied thinking of him"
+    },
+    {
+      "word": "stirabout",
+      "definition": "a porridge or cereal used for children",
+      "context": "the aunt ladled out the narrator's stirabout at supper"
+    },
+    {
+      "word": "drapery",
+      "definition": "a shop or goods selling cloth/curtains; also fabrics",
+      "context": "the little shop was registered under the vague name 'Drapery'"
+    },
+    {
+      "word": "bootees",
+      "definition": "soft footwear for infants",
+      "context": "drapery consisted mainly of children’s bootees"
+    },
+    {
+      "word": "umbrellas",
+      "definition": "rain shields; here part of shop stock",
+      "context": "the shop advertised 'Umbrellas Re-covered'"
+    },
+    {
+      "word": "Re-covered",
+      "definition": "repaired or retopped (hyphenated in window notice)",
+      "context": "the shop-window notice read 'Umbrellas Re-covered'"
+    },
+    {
+      "word": "crape",
+      "definition": "a black crepe used for mourning",
+      "context": "a crape bouquet was tied to the door-knocker"
+    },
+    {
+      "word": "bouquet",
+      "definition": "an arrangement of flowers",
+      "context": "a crape bouquet was tied to the door-knocker with ribbon"
+    },
+    {
+      "word": "telegram",
+      "definition": "a transmitted short written message",
+      "context": "a telegram boy was reading the funeral card"
+    },
+    {
+      "word": "coffined",
+      "definition": "laid in a coffin",
+      "context": "the narrator saw that Father Flynn had been coffined"
+    },
+    {
+      "word": "arm-chair",
+      "definition": "a chair with side supports; often associated with the deceased's chair",
+      "context": "Father Flynn used to sit in his arm-chair behind the shop"
+    },
+    {
+      "word": "snuff-box",
+      "definition": "a container for powdered tobacco (snuff)",
+      "context": "narrator emptied snuff into Father Flynn's black snuff-box"
+    },
+    {
+      "word": "snuff-stains",
+      "definition": "marks from snuff use",
+      "context": "the red handkerchief was blackened with snuff-stains"
+    },
+    {
+      "word": "distillery",
+      "definition": "a place where spirits are made",
+      "context": "Old Cotter talked about the distillery in his stories"
+    },
+    {
+      "word": "faints",
+      "definition": "instances of losing consciousness; mentioned as a topic of storytelling",
+      "context": "Old Cotter used to talk of faints and worms"
+    },
+    {
+      "word": "worms",
+      "definition": "insects; referenced in Old Cotter's tales",
+      "context": "Old Cotter talked of 'faints and worms' when he was interesting"
+    },
+    {
+      "word": "Rosicrucian",
+      "definition": "member of a mystical or esoteric order (reference as epithet)",
+      "context": "the uncle jibes at the narrator calling him 'that Rosicrucian'"
+    },
+    {
+      "word": "nipper",
+      "definition": "a small child; colloquial term",
+      "context": "uncle recalls being a 'nipper' taking cold baths each morning"
+    },
+    {
+      "word": "velvet",
+      "definition": "a plush fabric, here in curtains",
+      "context": "narrator remembered long velvet curtains during his dream"
+    },
+    {
+      "word": "antique",
+      "definition": "old-fashioned; of past times",
+      "context": "a swinging lamp of antique fashion appeared in narrator's dream"
+    },
+    {
+      "word": "Persia",
+      "definition": "historic region (Iran), used as exotic dream location",
+      "context": "narrator thought he had been far away in Persia in the dream"
+    },
+    {
+      "word": "theatrical",
+      "definition": "relating to theatre or performance",
+      "context": "the narrator read theatrical advertisements in shop-windows"
+    },
+    {
+      "word": "tawny",
+      "definition": "a warm sandy-brown colour",
+      "context": "window-panes reflected the tawny gold of clouds at sunset"
+    },
+    {
+      "word": "suffused",
+      "definition": "gradually spread through or over",
+      "context": "the dead-room was suffused with dusky golden light"
+    },
+    {
+      "word": "dusky",
+      "definition": "dimly lit; shadowy",
+      "context": "the room was suffused with dusky golden light"
+    },
+    {
+      "word": "lace",
+      "definition": "delicate fabric used in curtains or blinds",
+      "context": "through the lace end of the blind the room was seen"
+    },
+    {
+      "word": "blind",
+      "definition": "window covering",
+      "context": "through the lace end of the blind the candles looked like pale thin flames"
+    },
+    {
+      "word": "lead",
+      "definition": "a guide or precedence (idiom 'gave the lead')",
+      "context": "Nannie 'gave the lead' and they knelt at the foot of the bed"
+    },
+    {
+      "word": "knelt",
+      "definition": "took a knee in prayer or respect",
+      "context": "they three knelt down at the foot of the bed"
+    },
+    {
+      "word": "mutterings",
+      "definition": "low or indistinct speech",
+      "context": "the old woman's mutterings distracted the narrator"
+    },
+    {
+      "word": "hooked",
+      "definition": "fastened with a hook; clumsily arranged clothing",
+      "context": "the old woman's skirt was hooked at the back"
+    },
+    {
+      "word": "trodden",
+      "definition": "worn down by stepping",
+      "context": "the heels of her cloth boots were trodden down all to one side"
+    },
+    {
+      "word": "resigned",
+      "definition": "calmly accepting of death",
+      "context": "Eliza and the aunt said Father Flynn looked quite resigned"
+    },
+    {
+      "word": "candlesticks",
+      "definition": "holders for candles",
+      "context": "Father O'Rourke brought two candlesticks out of the chapel"
+    },
+    {
+      "word": "Mass",
+      "definition": "the Catholic liturgical rite",
+      "context": "Father Flynn had put the narrator through the responses of the Mass"
+    },
+    {
+      "word": "chapel",
+      "definition": "a small place of worship",
+      "context": "the candlesticks were taken from the chapel"
+    },
+    {
+      "word": "cemetery",
+      "definition": "burial ground (arrangements were made)",
+      "context": "Father O'Rourke took charge of all the papers for the cemetery"
+    },
+    {
+      "word": "insurance",
+      "definition": "financial coverage; Father Flynn's insurance was arranged",
+      "context": "Father O'Rourke took charge of poor James's insurance"
+    },
+    {
+      "word": "decanter",
+      "definition": "a vessel for serving wine",
+      "context": "Nannie brought out a decanter of sherry and some wine-glasses"
+    },
+    {
+      "word": "sherry",
+      "definition": "a fortified wine",
+      "context": "a decanter of sherry was set on the table"
+    },
+    {
+      "word": "crackers",
+      "definition": "thin dry crisp biscuits ('cream crackers')",
+      "context": "Nannie pressed the narrator to take some cream crackers"
+    },
+    {
+      "word": "sofa",
+      "definition": "a couch; where family sat",
+      "context": "Eliza sat down behind her sister on the sofa"
+    },
+    {
+      "word": "stem",
+      "definition": "the slender support of a glass",
+      "context": "aunt fingered the stem of her wine-glass"
+    },
+    {
+      "word": "sigh",
+      "definition": "a long audible exhalation expressing emotion",
+      "context": "Eliza sighed and bowed her head in assent"
+    },
+    {
+      "word": "state",
+      "definition": "ceremonial or formal condition (sitting 'in state')",
+      "context": "Eliza was seated in his arm-chair in state"
+    },
+    {
+      "word": "piously",
+      "definition": "with religious devotion",
+      "context": "the aunt said 'God have mercy on his soul,' piously"
+    },
+    {
+      "word": "beady",
+      "definition": "having small, round, shiny eyes (often critical)",
+      "context": "Old Cotter's little beady black eyes were examining the narrator"
+    },
+    {
+      "word": "grate",
+      "definition": "hearth or fireplace grill",
+      "context": "Old Cotter spat rudely into the grate"
+    },
+    {
+      "word": "imbecile",
+      "definition": "an insulting term for a foolish person",
+      "context": "the narrator inwardly calls Old Cotter a 'tiresome old red-nosed imbecile'"
+    },
+    {
+      "word": "check",
+      "definition": "a pause or halt ('at check')",
+      "context": "the narrator was disturbed to find himself at check"
+    },
+    {
+      "word": "curtains",
+      "definition": "window hangings",
+      "context": "narrator remembered long velvet curtains in his dream"
+    },
+    {
+      "word": "swinging",
+      "definition": "moving back and forth (a swinging lamp)",
+      "context": "a swinging lamp of antique fashion in the dream"
+    },
+    {
+      "word": "reflection",
+      "definition": "image cast back by a surface; here of candles",
+      "context": "the narrator expected to see the reflection of candles on the blind"
+    },
+    {
+      "word": "smothered",
+      "definition": "covered or suffocated partially (almost hidden)",
+      "context": "he would find Father Flynn nearly smothered in his great-coat"
+    },
+    {
+      "word": "great-coat",
+      "definition": "large overcoat",
+      "context": "Father Flynn nearly smothered in his great-coat"
+    },
+    {
+      "word": "pinches",
+      "definition": "small handfuls (of snuff)",
+      "context": "he used to push huge pinches of snuff up each nostril alternately"
+    },
+    {
+      "word": "nostrils",
+      "definition": "the two external openings of the nose",
+      "context": "his black cavernous nostrils were noted"
+    },
+    {
+      "word": "cavernous",
+      "definition": "like a cavern; deep and hollow",
+      "context": "face described as with black cavernous nostrils"
+    },
+    {
+      "word": "circled",
+      "definition": "encircled or surrounded",
+      "context": "his face was circled by a scanty white fur"
+    },
+    {
+      "word": "scanty",
+      "definition": "meager or sparse",
+      "context": "circled by a scanty white fur"
+    },
+    {
+      "word": "fur",
+      "definition": "animal hair used as trim",
+      "context": "a scanty white fur circled his face"
+    },
+    {
+      "word": "odour",
+      "definition": "a smell, often strong",
+      "context": "There was a heavy odour in the room—the flowers"
+    },
+    {
+      "word": "flowers",
+      "definition": "blossoms; used for funeral decoration",
+      "context": "heavy odour in the room—the flowers"
+    },
+    {
+      "word": "blessed",
+      "definition": "to make holy or to express pious wish",
+      "context": "we blessed ourselves and came away"
+    },
+    {
+      "word": "groped",
+      "definition": "felt one's way blindly or with difficulty",
+      "context": "the narrator groped his way towards his usual chair"
+    },
+    {
+      "word": "corner",
+      "definition": "a small space set apart (to 'box his corner')",
+      "context": "the uncle advised 'let him learn to box his corner'"
+    },
+    {
+      "word": "catechism",
+      "definition": "summary of religious doctrine in Q&A form",
+      "context": "the narrator compared the word 'simony' to a word in the Catechism"
+    },
+    {
+      "word": "Eucharist",
+      "definition": "the Christian rite commemorating the Last Supper",
+      "context": "the duties of the priest towards the Eucharist were discussed"
+    },
+    {
+      "word": "confessional",
+      "definition": "the place where confessions are heard",
+      "context": "the secrecy of the confessional was mentioned"
+    },
+    {
+      "word": "vestments",
+      "definition": "ceremonial garments worn by clergy",
+      "context": "the narrator learned the meaning of different vestments"
+    },
+    {
+      "word": "catacombs",
+      "definition": "underground cemeteries; referenced in stories",
+      "context": "Father Flynn told stories about the catacombs"
+    },
+    {
+      "word": "responses",
+      "definition": "liturgical replies in the Mass",
+      "context": "he used to put the narrator through the responses of the Mass"
+    },
+    {
+      "word": "pattered",
+      "definition": "spoke rapidly or repeated quickly (as prayers)",
+      "context": "as I pattered, he used to smile pensively"
+    },
+    {
+      "word": "nodding",
+      "definition": "making a small up-and-down head movement",
+      "context": "he used to smile and nod his head twice or thrice"
+    },
+    {
+      "word": "uncover",
+      "definition": "to remove cover or reveal",
+      "context": "when he smiled he used to uncover his big discoloured teeth"
+    },
+    {
+      "word": "discoloured",
+      "definition": "altered from original color; stained",
+      "context": "his big discoloured teeth showed when he smiled"
+    },
+    {
+      "word": "lower",
+      "definition": "beneath in position (lower lip)",
+      "context": "he let his tongue lie upon his lower lip"
+    },
+    {
+      "word": "moist",
+      "definition": "slightly wet",
+      "context": "lips were so moist with spittle"
+    },
+    {
+      "word": "spittle",
+      "definition": "saliva; here moistness on lips",
+      "context": "the lips were so moist with spittle"
+    },
+    {
+      "word": "dribbled",
+      "definition": "flowed in small drops",
+      "context": "little clouds of smoke dribbled through his fingers"
+    },
+    {
+      "word": "smoke",
+      "definition": "visible vapor from snuff or tobacco",
+      "context": "little clouds of smoke dribbled through his fingers"
+    },
+    {
+      "word": "trembled",
+      "definition": "shook slightly from fragility or emotion",
+      "context": "his hands trembled too much to allow him to empty snuff without spilling"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/2814"
+}
