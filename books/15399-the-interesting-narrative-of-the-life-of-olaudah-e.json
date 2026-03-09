@@ -1,0 +1,593 @@
+{
+  "gutenberg_id": 15399,
+  "title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African: Written By Himself",
+  "author": "Equiano, Olaudah",
+  "summary": "Olaudah Equiano's autobiography recounts his capture in Africa, description of his native customs, and the brutality of the slave trade that tore him from family. He describes horrors aboard slave ships, transportation to Virginia, arrival in England, and bewilderment at snow. Subsequent chapters narrate naval engagements, varied cruelties, his business ventures starting with threepence, schemes for freedom, religious conversion to Christianity, shipwreck on the Bahama Bank, arrival at Martinico, and return to England. Equiano seeks to awaken compassion, support abolition, and petitions the Crown; the work mixes personal memoir, ethnography, and political appeal. It combines vivid detail and moral urgency.",
+  "characters": [
+    {
+      "name": "Olaudah Equiano (Gustavus Vassa)",
+      "age": "born 1745 (age varies across narrative); adult during events",
+      "personality": "observant, earnest, devout, persuasive, industrious",
+      "lifespan": "Narrates being kidnapped, enslaved, converted to Christianity, undertakes business ventures, seeks freedom, survives shipwrecks, returns to England and petitions the Crown."
+    },
+    {
+      "name": "Equiano's sister",
+      "age": "child / same generation as Equiano at time of kidnapping (unnamed)",
+      "personality": "presented as a tender family relation; briefly referenced",
+      "lifespan": "Kidnapped with Equiano; fate in narrative is noted as part of his early trauma."
+    },
+    {
+      "name": "Admiral Boscawen",
+      "age": "middle-aged naval commander (historical figure)",
+      "personality": "commanding, celebrated (appears in an engagement recounted)",
+      "lifespan": "Referenced in a chapter giving a particular account of his naval engagement with Monsieur Le Clue."
+    },
+    {
+      "name": "Monsieur Le Clue",
+      "age": "adult naval commander (historical figure)",
+      "personality": "opposing naval officer in engagement with Boscawen",
+      "lifespan": "Recounted as participant in the naval engagement described in the narrative."
+    },
+    {
+      "name": "Captain John Clarkson",
+      "age": "adult (naval/maritime figure)",
+      "personality": "noted as a subscriber and maritime personage",
+      "lifespan": "Listed among subscribers; associated with maritime reform circles in context."
+    },
+    {
+      "name": "The Reverend Thomas Clarkson",
+      "age": "adult clergyman and abolitionist",
+      "personality": "principled, reform-minded, supportive of abolition",
+      "lifespan": "Listed as subscriber; historically active in abolition advocacy referenced by the work."
+    },
+    {
+      "name": "Ottobah Cugoano (John Stewart)",
+      "age": "adult (contemporary African writer/activist)",
+      "personality": "respected, fellow African voice in Britain (listed)",
+      "lifespan": "Included among subscribers; recognized as a notable African and abolitionist contemporary."
+    },
+    {
+      "name": "Priests / magicians (native priests)",
+      "age": "various (adults)",
+      "personality": "ritual specialists; authoritative within native spiritual practices",
+      "lifespan": "Described in chapter on native superstition and funeral ceremonies, including roles in poison detection and funerals."
+    },
+    {
+      "name": "The Queen (monarch)",
+      "age": "adult sovereign of Britain",
+      "personality": "figure of authority before whom petitions may be presented",
+      "lifespan": "Referred to as the recipient of a petition by the author in concluding chapters."
+    },
+    {
+      "name": "William, son of Ignatius Sancho",
+      "age": "youth/young man (listed as subscriber)",
+      "personality": "notable as the son of Ignatius Sancho; a symbolically important name in subscriber list",
+      "lifespan": "Named in the subscribers; included in front matter but not as a narrative character."
+    }
+  ],
+  "locations": [
+    {
+      "name": "London, England",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "name": "Union Street, Marylebone (London)",
+      "latitude": 51.5185,
+      "longitude": -0.1543
+    },
+    {
+      "name": "St. Paul's Church-Yard (London)",
+      "latitude": 51.5138,
+      "longitude": -0.0984
+    },
+    {
+      "name": "Virginia (general reference)",
+      "latitude": 37.5407,
+      "longitude": -77.436
+    },
+    {
+      "name": "Bahama Bank (Great Bahama Bank, general area)",
+      "latitude": 24.5,
+      "longitude": -77.5
+    },
+    {
+      "name": "Martinico (Martinique; Fort-de-France)",
+      "latitude": 14.6415,
+      "longitude": -61.0242
+    }
+  ],
+  "unusual_words": [
+    {
+      "word": "deference",
+      "definition": "respectful submission or yielding to the judgment of another",
+      "context": "Prefatory address: 'Permit me, with the greatest deference and respect...'"
+    },
+    {
+      "word": "respect",
+      "definition": "esteem or regard",
+      "context": "Used alongside 'deference' in the author's opening address to Parliament."
+    },
+    {
+      "word": "genuine",
+      "definition": "truly what something is said to be; authentic",
+      "context": "Author calls his Narrative 'genuine' in the preface."
+    },
+    {
+      "word": "narrative",
+      "definition": "a spoken or written account of connected events; a story",
+      "context": "Title and preface repeatedly refer to the book as a 'Narrative.'"
+    },
+    {
+      "word": "excite",
+      "definition": "to arouse or stir up (feeling, interest)",
+      "context": "Author's aim 'is to excite in your august assemblies a sense of compassion...'"
+    },
+    {
+      "word": "august",
+      "definition": "respected and impressive; venerable",
+      "context": "Addressing Parliament as 'your august assemblies.'"
+    },
+    {
+      "word": "assemblies",
+      "definition": "gathered legislative bodies",
+      "context": "Refers to the Lords Spiritual and Temporal, and Commons."
+    },
+    {
+      "word": "compassion",
+      "definition": "sympathetic pity and concern for the sufferings of others",
+      "context": "Author appeals to Parliament's 'sense of compassion' for enslaved people."
+    },
+    {
+      "word": "miseries",
+      "definition": "sufferings; states of great distress",
+      "context": "Preface: 'the miseries which the Slave-Trade has entailed...'"
+    },
+    {
+      "word": "Slave-Trade",
+      "definition": "the buying, transporting, and selling of enslaved people",
+      "context": "Central subject in the author's appeal and narrative."
+    },
+    {
+      "word": "entailed",
+      "definition": "caused or involved as a consequence",
+      "context": "Preface: 'the miseries which the Slave-Trade has entailed on my unfortunate countrymen.'"
+    },
+    {
+      "word": "horrors",
+      "definition": "strong feelings of shock, fear, or disgust",
+      "context": "He attributes his being torn away by 'the horrors of that trade.'"
+    },
+    {
+      "word": "torn",
+      "definition": "separated violently or painfully",
+      "context": "Describes being 'torn away' from family by the slave trade."
+    },
+    {
+      "word": "tender",
+      "definition": "showing gentleness and concern; affectionate",
+      "context": "Refers to 'tender connexions that were naturally dear to my heart.'"
+    },
+    {
+      "word": "connexions",
+      "definition": "archaic spelling of 'connections' (relationships)",
+      "context": "Used to describe familial ties lost by the author."
+    },
+    {
+      "word": "Providence",
+      "definition": "divine guidance or care",
+      "context": "Author attributes later benefits to the 'mysterious ways of Providence.'"
+    },
+    {
+      "word": "infinitely",
+      "definition": "to an immeasurably great degree",
+      "context": "He says his losses were 'infinitely more than compensated' by later blessings."
+    },
+    {
+      "word": "compensated",
+      "definition": "made up for; counterbalanced",
+      "context": "Used in discussing how later experiences compensated for initial suffering."
+    },
+    {
+      "word": "introduction",
+      "definition": "the action of bringing something into use or operation; or introduction to people or ideas",
+      "context": "Refers to his 'introduction...to the knowledge of the Christian religion.'"
+    },
+    {
+      "word": "Christian",
+      "definition": "relating to Christianity or its followers",
+      "context": "Author credits his introduction to the Christian religion."
+    },
+    {
+      "word": "liberal",
+      "definition": "generous or open-minded (18th-century sense of enlightened)",
+      "context": "Describes the nation's 'liberal sentiments' in the preface."
+    },
+    {
+      "word": "humanity",
+      "definition": "kindness; the quality of being humane",
+      "context": "Praises the nation's 'humanity' in the preface."
+    },
+    {
+      "word": "glorious",
+      "definition": "magnificent; splendid",
+      "context": "Refers to 'the glorious freedom of its government.'"
+    },
+    {
+      "word": "freedom",
+      "definition": "the power to act, speak, or think without externally imposed constraints",
+      "context": "Praises 'glorious freedom' of the author's adopted country."
+    },
+    {
+      "word": "government",
+      "definition": "the governing body of a nation, state, or community",
+      "context": "Used in the preface to praise British government."
+    },
+    {
+      "word": "proficiency",
+      "definition": "a high degree of skill or expertise",
+      "context": "Refers to 'proficiency in arts and sciences.'"
+    },
+    {
+      "word": "arts",
+      "definition": "creative activities or disciplines",
+      "context": "Listed among achievements that 'exalt the dignity of human nature.'"
+    },
+    {
+      "word": "sciences",
+      "definition": "systematized bodies of knowledge; scientific learning",
+      "context": "Paired with arts as national accomplishments."
+    },
+    {
+      "word": "exalted",
+      "definition": "held in high regard; elevated",
+      "context": "Says national achievements have 'exalted the dignity of human nature.'"
+    },
+    {
+      "word": "dignity",
+      "definition": "the state of being worthy of honor or respect",
+      "context": "Used in moral argument about human nature."
+    },
+    {
+      "word": "sensible",
+      "definition": "having or showing good sense or reason",
+      "context": "Author says 'I am sensible I ought to entreat your pardon...'"
+    },
+    {
+      "word": "entreat",
+      "definition": "to ask someone earnestly or anxiously to do something",
+      "context": "He 'entreats' pardon for addressing Parliament."
+    },
+    {
+      "word": "pardon",
+      "definition": "forgiveness for an offense or mistake",
+      "context": "Asks pardon for perceived presumption in publishing."
+    },
+    {
+      "word": "devoid",
+      "definition": "entirely lacking or free from",
+      "context": "Describes his work as 'wholly devoid of literary merit.'"
+    },
+    {
+      "word": "literary",
+      "definition": "concerning the writing, study, or content of literature",
+      "context": "Author modestly labels his work 'devoid of literary merit.'"
+    },
+    {
+      "word": "merit",
+      "definition": "the quality of being particularly good or worthy",
+      "context": "Used in discussing the book's literary worth."
+    },
+    {
+      "word": "unlettered",
+      "definition": "illiterate; lacking formal education",
+      "context": "Author describes himself as 'an unlettered African.'"
+    },
+    {
+      "word": "actuated",
+      "definition": "moved to action; motivated",
+      "context": "Says he is 'actuated by the hope' of aiding countrymen."
+    },
+    {
+      "word": "instrument",
+      "definition": "a means whereby something is achieved",
+      "context": "Hopes to be 'an instrument towards the relief' of enslaved people."
+    },
+    {
+      "word": "relief",
+      "definition": "alleviation or aid given to suffering",
+      "context": "Refers to relief of 'his suffering countrymen.'"
+    },
+    {
+      "word": "countrymen",
+      "definition": "people of the same country or region",
+      "context": "Refers to fellow Africans harmed by the slave trade."
+    },
+    {
+      "word": "acquitted",
+      "definition": "freed from blame or fault; excused",
+      "context": "Argues that such a man will be 'acquitted of boldness and presumption.'"
+    },
+    {
+      "word": "presumption",
+      "definition": "behavior perceived as arrogant or overconfident",
+      "context": "He asks pardon for perceived 'boldness and presumption.'"
+    },
+    {
+      "word": "peculiar",
+      "definition": "distinctive or special",
+      "context": "Prays 'the God of heaven inspire your hearts with peculiar benevolence.'"
+    },
+    {
+      "word": "benevolence",
+      "definition": "kindness or goodwill",
+      "context": "Appeals for 'peculiar benevolence' when abolition is considered."
+    },
+    {
+      "word": "Abolition",
+      "definition": "the act of officially ending a system, practice, or institution (here, the slave trade)",
+      "context": "The preface references the 'question of Abolition.'"
+    },
+    {
+      "word": "Determination",
+      "definition": "the official decision or resolution",
+      "context": "Speaks of the Parliament's 'Determination' affecting thousands' happiness or misery."
+    },
+    {
+      "word": "Happiness",
+      "definition": "state of well-being and contentment",
+      "context": "Contrasts 'Happiness or Misery' depending on Parliamentary decision."
+    },
+    {
+      "word": "Misery",
+      "definition": "extreme suffering or unhappiness",
+      "context": "Parliament's decision could bring 'Happiness or Misery.'"
+    },
+    {
+      "word": "obedient",
+      "definition": "submissive or dutiful",
+      "context": "He signs off as 'Your most obedient...Servant.'"
+    },
+    {
+      "word": "devoted",
+      "definition": "very loving or loyal; committed",
+      "context": "Signs as 'devoted humble Servant.'"
+    },
+    {
+      "word": "subscribers",
+      "definition": "people who pledged to buy the book (or supporters)",
+      "context": "A long 'LIST of SUBSCRIBERS' follows the preface and title page."
+    },
+    {
+      "word": "Royal",
+      "definition": "relating to a monarch or monarchy",
+      "context": "Titles like 'His Royal Highness the Prince of Wales' appear in subscriber list."
+    },
+    {
+      "word": "Prince",
+      "definition": "a royal title",
+      "context": "The Prince of Wales is listed among subscribers."
+    },
+    {
+      "word": "Duke",
+      "definition": "a noble rank",
+      "context": "Multiple dukes appear in the subscriber list."
+    },
+    {
+      "word": "Earl",
+      "definition": "a noble rank in Britain",
+      "context": "Several Earls are named among subscribers."
+    },
+    {
+      "word": "Admiral",
+      "definition": "a senior naval officer rank",
+      "context": "Admiral Affleck is among the subscribers."
+    },
+    {
+      "word": "Reverend",
+      "definition": "a title for a member of the clergy",
+      "context": "Many clergymen appear in the subscriber list with 'Reverend' title."
+    },
+    {
+      "word": "Captain",
+      "definition": "a ship's commanding officer or military rank",
+      "context": "Captain John Clarkson appears in the subscribers."
+    },
+    {
+      "word": "Esq",
+      "definition": "abbreviation for Esquire, an honorific for gentlemen",
+      "context": "Many subscribers are listed with 'Esq.' after their names."
+    },
+    {
+      "word": "Bart",
+      "definition": "abbreviation for Baronet, a hereditary title",
+      "context": "Used in the subscriber list (e.g., 'Sir ... Bart.')."
+    },
+    {
+      "word": "M.D.",
+      "definition": "Doctor of Medicine",
+      "context": "Some subscribers are listed with medical degrees (M.D.)."
+    },
+    {
+      "word": "M.P.",
+      "definition": "Member of Parliament",
+      "context": "Several subscribers are identified as M.P.s."
+    },
+    {
+      "word": "Bishop",
+      "definition": "senior member of the Christian clergy",
+      "context": "Several 'Right Rev. the Lord Bishop' titles appear in the subscribers."
+    },
+    {
+      "word": "Contents",
+      "definition": "a list of chapters or topics in the book",
+      "context": "A 'CONTENTS' section lists the chapters and their subjects."
+    },
+    {
+      "word": "Administration",
+      "definition": "the process or activity of running something (e.g., justice)",
+      "context": "Chapter headings include 'Administration of justice.'"
+    },
+    {
+      "word": "justice",
+      "definition": "principle of fairness or legal system",
+      "context": "Part of CHAP. I topics: 'Administration of justice.'"
+    },
+    {
+      "word": "Embrenche",
+      "definition": "an unusual/archaic term as printed in the contents (context unclear); appears as printed",
+      "context": "Listed in CHAP. I as 'Embrenche' between topics on justice and marriage ceremony."
+    },
+    {
+      "word": "Marriage",
+      "definition": "the legally or formally recognized union of two people",
+      "context": "CHAP. I mentions 'Marriage ceremony' among native customs."
+    },
+    {
+      "word": "entertainments",
+      "definition": "events or activities designed to amuse and host guests",
+      "context": "CHAP. I: 'public entertainments' among descriptions of native customs."
+    },
+    {
+      "word": "Mode",
+      "definition": "a manner or way of doing something",
+      "context": "CHAP. I: 'Mode of living' among chapter topics."
+    },
+    {
+      "word": "Dress",
+      "definition": "clothing or style of attire",
+      "context": "CHAP. I topic 'Dress' describing native appearance."
+    },
+    {
+      "word": "Manufactures",
+      "definition": "goods produced by industry or handcraft",
+      "context": "CHAP. I includes 'Manufactures' among descriptions of the author's country."
+    },
+    {
+      "word": "Buildings",
+      "definition": "structures for habitation or use",
+      "context": "Listed as a subject in CHAP. I: 'Buildings.'"
+    },
+    {
+      "word": "Commerce",
+      "definition": "the activity of buying and selling, especially on a large scale",
+      "context": "CHAP. I: 'Commerce' listed among national features."
+    },
+    {
+      "word": "Agriculture",
+      "definition": "farming; cultivation of land",
+      "context": "Included in CHAP. I topics describing native economy."
+    },
+    {
+      "word": "War",
+      "definition": "armed conflict between groups or nations",
+      "context": "CHAP. I lists 'War and religion' as topics."
+    },
+    {
+      "word": "religion",
+      "definition": "organized system of beliefs and worship",
+      "context": "Included in CHAP. I headings discussing native spiritual life."
+    },
+    {
+      "word": "Superstition",
+      "definition": "beliefs or practices resulting from ignorance or fear of the unknown",
+      "context": "CHAP. I: 'Superstition of the natives.'"
+    },
+    {
+      "word": "natives",
+      "definition": "indigenous inhabitants of a place",
+      "context": "Discusses 'natives' of the author's homeland."
+    },
+    {
+      "word": "Funeral",
+      "definition": "a ceremony for honoring the dead",
+      "context": "CHAP. I: 'Funeral ceremonies of the priests or magicians.'"
+    },
+    {
+      "word": "ceremonies",
+      "definition": "formal events held on special occasions",
+      "context": "Used regarding native rituals and funeral practices."
+    },
+    {
+      "word": "priests",
+      "definition": "religious leaders conducting rituals",
+      "context": "Describes 'priests or magicians' in native religious practice."
+    },
+    {
+      "word": "magicians",
+      "definition": "persons believed to have magical or ritual powers",
+      "context": "Paired with priests in describing native ritual specialists."
+    },
+    {
+      "word": "poison",
+      "definition": "a substance that can cause illness or death if introduced into the body",
+      "context": "CHAP. I mentions a 'Curious mode of discovering poison.'"
+    },
+    {
+      "word": "origin",
+      "definition": "the beginning or cause of something",
+      "context": "CHAP. I: 'Some hints concerning the origin of the author's countrymen.'"
+    },
+    {
+      "word": "opinions",
+      "definition": "views or beliefs held about something",
+      "context": "CHAP. I: 'with the opinions of different writers on that subject.'"
+    },
+    {
+      "word": "memoirs",
+      "definition": "historical accounts or personal recollections",
+      "context": "The author reflects on publishing his own 'memoirs.'"
+    },
+    {
+      "word": "imputation",
+      "definition": "an attribution of fault or misconduct",
+      "context": "He warns of the 'imputation of vanity' in publishing memoirs."
+    },
+    {
+      "word": "vanity",
+      "definition": "excessive pride in or admiration of one's appearance or achievements",
+      "context": "Author acknowledges accusations of 'vanity' about autobiographers."
+    },
+    {
+      "word": "misfortune",
+      "definition": "bad luck or unfortunate condition",
+      "context": "Discusses the 'misfortune' under which memoirists labor."
+    },
+    {
+      "word": "uncommon",
+      "definition": "not ordinarily encountered; rare",
+      "context": "Says 'what is uncommon is rarely, if ever, believed.'"
+    },
+    {
+      "word": "consign",
+      "definition": "to deliver or commit decisively; to hand over to",
+      "context": "He says ordinary memoirs are 'consign[ed] to contempt and oblivion.'"
+    },
+    {
+      "word": "oblivion",
+      "definition": "the state of being disregarded or forgotten",
+      "context": "Used in the line about consigning ordinary memoirs to 'oblivion.'"
+    },
+    {
+      "word": "hazardous",
+      "definition": "risky or dangerous",
+      "context": "Calls it 'not a little hazardous' to solicit public attention."
+    },
+    {
+      "word": "obscure",
+      "definition": "not well known; hidden or uncertain",
+      "context": "Describes himself as a 'private and obscure individual.'"
+    },
+    {
+      "word": "solicit",
+      "definition": "to ask for or try to obtain (something) from someone",
+      "context": "He 'solicit[s] the indulgent attention of the public.'"
+    },
+    {
+      "word": "indulgent",
+      "definition": "lenient or forgiving; giving favorably",
+      "context": "Asks for 'the indulgent attention of the public.'"
+    }
+  ],
+  "gutenberg_url": "https://www.gutenberg.org/ebooks/15399"
+}
